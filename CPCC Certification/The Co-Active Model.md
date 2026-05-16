@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # The Co-Active Model
 
 > "Co-Active Coaching is a powerful alliance designed to forward and enhance the lifelong process of human learning, effectiveness and fulfillment."

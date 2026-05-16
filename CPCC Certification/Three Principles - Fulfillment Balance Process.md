@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Three Principles: Fulfillment, Balance, Process
 
 The three principles sit at the center of the [[The Co-Active Model|Co-Active Model]] and represent three distinct coaching approaches.

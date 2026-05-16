@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Co-Active Coaching Skills Glossary
 
 Comprehensive reference of coaching skills from the [[The Co-Active Model|Co-Active Model]]. See also [[Three Levels of Listening]].

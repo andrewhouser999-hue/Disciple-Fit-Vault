@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Freelance Automation & Kingdom Coaching Plan
 
 ---
@@ -32,16 +38,16 @@ Small businesses are drowning in manual repetitive tasks. Lead follow-up, invoic
 
 Master these and you can handle 80% of real freelance automation jobs:
 
-| Category | Tool |
-|---|---|
-| Workflow platform | Make.com (primary), n8n (secondary) |
-| LLM | Claude or OpenAI API — pick one, learn it deeply |
-| CRM/data | Airtable or Google Sheets |
-| Email | Gmail API or SMTP |
-| Forms/triggers | Typeform or Tally |
-| Docs | Google Docs API |
-| Payments | Stripe webhooks |
-| Comms | Slack or Telegram |
+| Category          | Tool                                             |
+| ----------------- | ------------------------------------------------ |
+| Workflow platform | Make.com (primary), n8n (secondary)              |
+| LLM               | Claude or OpenAI API — pick one, learn it deeply |
+| CRM/data          | Airtable or Google Sheets                        |
+| Email             | Gmail API or SMTP                                |
+| Forms/triggers    | Typeform or Tally                                |
+| Docs              | Google Docs API                                  |
+| Payments          | Stripe webhooks                                  |
+| Comms             | Slack or Telegram                                |
 
 Everything else is a variation on these patterns.
 

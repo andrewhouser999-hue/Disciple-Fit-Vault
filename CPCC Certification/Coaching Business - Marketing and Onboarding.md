@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Coaching Business - Marketing and Onboarding
 
 Business and practice-building notes from the [[CPCC Certification MOC|CPCC Certification]] journey.

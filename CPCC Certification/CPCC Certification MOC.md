@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # CPCC Certification - Map of Content
 
 CTI Co-Active Coaching Certification completed in 2016 as part of the **Fanning Pod** led by Leonid Frolov. 25-week program (Jan 20 - Jul 6, 2016) with 9 students from 5 countries.

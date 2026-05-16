@@ -2,6 +2,7 @@
 status: draft
 version: 1.0
 last-edited: 2026-03-04
+basis: TBD
 ---
 
 # A Letter to the People I Love

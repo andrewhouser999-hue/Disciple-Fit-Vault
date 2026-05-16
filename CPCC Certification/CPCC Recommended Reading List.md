@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # CPCC Recommended Reading List
 
 Reading list from the [[CPCC Certification MOC|CPCC Certification]] program.

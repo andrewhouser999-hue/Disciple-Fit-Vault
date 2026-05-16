@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Captain, Crew, and Saboteur
 
 Core frameworks in Co-Active Coaching for working with the client's inner landscape. Part of the [[The Co-Active Model|Co-Active Model]].

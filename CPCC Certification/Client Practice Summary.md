@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Client Practice Summary
 
 Summary of coaching clients during the [[CPCC Certification MOC|CPCC Certification]] program. 12+ clients with professional documentation maintained throughout.

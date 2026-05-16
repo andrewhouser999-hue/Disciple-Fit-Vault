@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Wheel of Life - Client Intake Template
 
 A coaching assessment tool used during Discovery sessions. Rate satisfaction 0-10 in each area. Part of the [[Coaching Business - Marketing and Onboarding|client onboarding]] process.

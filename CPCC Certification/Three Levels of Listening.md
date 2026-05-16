@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # Three Levels of Listening
 
 A foundational skill in the [[The Co-Active Model|Co-Active Model]]. The coach's ability to listen at deeper levels determines the quality of the coaching.

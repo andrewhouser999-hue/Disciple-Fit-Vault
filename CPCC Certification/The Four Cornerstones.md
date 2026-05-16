@@ -1,3 +1,9 @@
+---
+created: 
+basis: TBD
+tags:
+---
+
 # The Four Cornerstones of Co-Active Coaching
 
 The cornerstones form the philosophical foundation of the [[The Co-Active Model|Co-Active Model]]. Every coaching interaction rests on these beliefs.
