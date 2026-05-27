@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-dictionary-plugin",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc"
 ]
