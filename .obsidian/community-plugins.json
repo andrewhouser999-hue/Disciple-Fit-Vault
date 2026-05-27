@@ -3,5 +3,6 @@
   "obsidian-local-rest-api",
   "templater-obsidian",
   "obsidian-dictionary-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-git"
 ]
