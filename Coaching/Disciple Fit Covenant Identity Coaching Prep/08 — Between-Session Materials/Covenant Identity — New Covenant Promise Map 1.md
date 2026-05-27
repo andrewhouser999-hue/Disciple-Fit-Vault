@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "Scripture (ESV) — primary source; Gentry & Wellum (*Kingdom Through Covenant* — progressive covenantalism hermeneutical architecture); Christopher Wright (*Mission of God* — missional-covenantal methodology); [[Lie Eliminator - Personal]] and [[Identity Installer - Personal]] — category architecture"
+tags: [between-session, client-facing, practitioner-reference, covenant-promises]
 ---
 
 # Covenant Identity — New Covenant Promise Map
@@ -17,6 +17,22 @@ This map serves two purposes simultaneously.
 **For the client:** Read the lie class at the top of each category. If you recognize yourself, write your specific version of that lie in the field provided. Then read the promises in that category — they are addressed directly to you. Carry the ones that land hardest into your Deep Lie Work Worksheet as your *Who God Is*, *Who I Am*, *His Promise*, and *Scripture Arsenal* fields.
 
 **For the coach:** The Coach Reference at the bottom of each category identifies which phase of the session model this category primarily serves and what client language signals it should be surfaced.
+
+**Routing quick reference** — which category to enter first based on presenting diagnostic picture:
+
+| Wound Type / God-Rep | Primary Category | Secondary Category |
+|---|---|---|
+| Warrior (betrayal / weakness) | 4. Protection | 1. Identity |
+| Hermit (terror / too much) | 1. Identity | 2. Access |
+| False Noble (ambivalence / not enough) | 5. Purpose | 3. Provision |
+| Punitive God-rep | 2. Access | 4. Protection |
+| Absent/Distant God-rep | 2. Access | 6. Community |
+| Transactional God-rep | 3. Provision | 2. Access |
+| Capricious/Unsafe God-rep | 4. Protection | 7. Future |
+
+*This is a starting point, not a constraint. The client's own language (which lie class resonates) overrides the table. Assign from the category where the lie is most acutely active.*
+
+**Additional promise maps:** The [[New Covenant Promise Map — Generation Prompt]] is the tool for generating category-specific promise maps beyond this document. Use it when a client needs more promises in a specific category, or when a new category not represented here is identified.
 
 ---
 
@@ -161,7 +177,7 @@ People who struggle here believe that access to God must be earned — that they
 
 **— Coach Reference —** *(not client-facing)*
 
-**Session model fit:** Primarily (2) Address eternal foundation — establishing the unconditional nature of the client's access as the ground on which any other work can happen. Critical for clients whose God-representation is Punishing or Contingent/Transactional, where access is felt as conditional.
+**Session model fit:** Primarily (2) Address eternal foundation — establishing the unconditional nature of the client's access as the ground on which any other work can happen. Critical for clients whose God-representation is Punitive or Transactional, where access is felt as conditional.
 
 **Coach trigger:** Client language: *"I haven't been praying because...," "I feel like God and I are distant right now," "I need to get things right before...," "I know I should come to God but..."* Any deferred approach to God tied to a self-evaluation of unworthiness.
 
@@ -298,11 +314,11 @@ People who struggle here carry a fragile, performance-dependent security — the
 **Promise 4**
 **(a) Text:** Psalm 91:1–2 — *"He who dwells in the shelter of the Most High will abide in the shadow of the Almighty."* (New Covenant application)
 
-**(b) Covenant source:** Originally a Mosaic-era wisdom psalm. Applied under the New Covenant through Christ, who is the true fulfiller of Psalm 91 (Satan quotes it in the wilderness — Matthew 4:6 — but Jesus is the one who actually abides in the shelter of the Most High). Believers share in his protection through union with him.
+**(b) Covenant source:** Originally a Mosaic-era wisdom psalm. Applied under the New Covenant through Christ, who is the true fulfiller of Psalm 91 (Satan quotes it in the wilderness — Matthew 4:6 — but Jesus is the one who actually abides in the shelter of the Most High). Believers share in his protection through union with him. *Misuse alert: this psalm has been taken to promise physical invulnerability, financial protection, or immunity from illness for believers who "claim" it in faith (common in health-and-wealth and word-of-faith contexts). That reading requires removing the psalm from its framework of covenantal relationship — in which the sheltered one still faces "the pestilence" and "the arrow" but is not ultimately destroyed by them — and turning it into a conditional transaction. Paul, who prays three times for a thorn to be removed and is answered "my grace is sufficient," is a New Covenant corrective. The shelter is real; the invulnerability from suffering is not promised.*
 
 **(c) New Covenant mechanism:** Union with the One who truly abides. The protection described is not a formula for invulnerability — it is the description of life sheltered in the One who is invulnerable. Believers share Christ's protected position with the Father.
 
-**(d) What This Means for You:** The shelter described here is not a guarantee against all suffering. It is the guarantee that you are in the safest possible position — hidden in the One no force in creation can overwhelm. You are not exposed. You are sheltered.
+**(d) What This Means for You:** The shelter described here does not mean God protects you from all suffering — Paul suffered, the apostles were martyred, and the faithful in Hebrews 11 did not always receive the promised deliverance in this life. What it means is that you are in the safest possible position — hidden in the One no created force can ultimately overwhelm. You are not exposed. You are sheltered. And what you endure while sheltered is never without him.
 
 ---
 
@@ -388,7 +404,7 @@ People who struggle here have concluded that they don't have a real purpose — 
 **Promise 5**
 **(a) Text:** Jeremiah 29:11 — *"For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."* (New Covenant application)
 
-**(b) Covenant source:** Originally spoken to Israel in Babylonian exile — a Mosaic covenant promise of restoration. Applied under the New Covenant through Christ, who is the true Israel returning from exile. All who are in him inherit the promise of future and hope.
+**(b) Covenant source:** Originally spoken to Israel in Babylonian exile — a Mosaic covenant promise of restoration to a specific nation in a specific historical crisis. *The common exegetical objection is that lifting this promise for individual Christian application is irresponsible: it was addressed to exilic Israel, not to individuals in a different century and context, and applying it out of that setting flattens the covenantal meaning.* The response is not to ignore the original context but to trace the promise through its covenantal fulfillment: the promise to Israel finds its ultimate referent in Christ, the true Israel (see Hosea 11:1 / Matthew 2:15; Isaiah 49 / the servant), who is himself the one returning from exile and entering the inheritance. Those in Christ inherit what was promised to Israel — in Christ (Gal 3:16, 29). This is not an evasion of the exegetical concern; it is the New Testament's own approach to OT promise.
 
 **(c) New Covenant mechanism:** Union with Christ as the true Israel. The covenant promises to the nation are fulfilled in Christ and applied to all who are incorporated into him (Gal 3:16, 29).
 
@@ -561,6 +577,32 @@ People who struggle here have lost the weight of the future — or it has never 
 **Coach trigger:** Client language: *"I just don't see a way forward," "what's the point," "it's always going to be like this," "I can't imagine things being different."* Also: spiritual resignation, loss of motivation for growth, or a faith that is entirely present-tense with no reference to what is coming.
 
 ---
+
+---
+
+---
+
+## Document Provenance
+
+**What this document is:** A practitioner reference and client worksheet that maps New Covenant promises by lie class — seven categories, each with 4–5 promises traced to their covenantal source, a client-facing lie field, client-facing application language, and a coach reference section. Designed for direct client use between sessions and as a coach diagnostic tool in-session.
+
+**Hermeneutical methodology:**
+This document operates from a progressive covenantalist framework (Gentry & Wellum, *Kingdom Through Covenant*, 2012; Wright, *The Mission of God*, 2006). The governing assumption is that the Abrahamic, Mosaic, and Davidic covenants form a unified covenantal story that reaches its telos in the New Covenant inaugurated by Christ. Old Testament promises are not extracted from their original context and applied directly to individual believers. Instead, the covenantal trajectory is traced through its fulfillment in Christ, and participation in that fulfillment is located in union with him.
+
+The primary exegetical mechanism is union with Christ (Gal 3:16, 29): Christ is the singular seed in whom the covenant promises find their ultimate referent; believers are incorporated into him and therefore inherit what was promised to him. This is the apostolic hermeneutic — Paul's handling of Abrahamic promises in Galatians 3–4, his treatment of Mosaic covenant fulfillment in Romans and 2 Corinthians, and his application of inheritance promises in Romans 8 and Ephesians 1 all employ this logic. The document follows that exegetical pattern consistently: each (b) field names the covenant of origin, traces the trajectory, and locates the New Covenant application through union with Christ rather than through simple extraction.
+
+**Acknowledged hermeneutical position:**
+Progressive covenantalism is a specific position within evangelical hermeneutics, distinct from both classical dispensationalism and traditional covenant theology. Classical dispensationalism (and to a lesser degree progressive dispensationalism) objects to some OT-to-NC promise applications on the grounds that certain promises belong to national Israel in a future dispensation and are not transferable to the church through union with Christ. This document does not adjudicate that debate. It operates from the progressive covenantalist position as its working framework, names the contested points where they arise (see Jeremiah 29:11 and Psalm 91 entries), and provides the exegetical rationale for the position taken. Practitioners operating from a dispensationalist framework should flag those entries and substitute exegetically grounded alternatives.
+
+**Primary sources:**
+- Scripture (ESV) — primary source for all promise texts
+- Gentry & Wellum, *Kingdom Through Covenant* (2012) — governing hermeneutical architecture; progressive covenantalism as the interpretive framework for OT-to-NC promise continuity
+- Wright, *The Mission of God* (2006) — missional-covenantal methodology; the way OT covenant promises carry forward through the mission of God into Christ and the New Covenant community
+
+**What this document does not do:**
+- Does not provide exhaustive exegetical commentary on individual texts — each (b)/(c) entry is practitioner-level, not scholarly
+- Does not resolve dispensationalist objections — flags them and gives the working response; not a full theological defense
+- Does not generate additional promises beyond the mapped categories — use the [[New Covenant Promise Map — Generation Prompt]] for category-specific expansion
 
 ---
 

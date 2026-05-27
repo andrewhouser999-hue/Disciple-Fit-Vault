@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[A-Parable of the Soils — Kingdom Coaching Deep Framework]] — soil diagnostic framework (soil types, transitional instability zone, spiritual warfare specificity, secondary gain, Holy Spirit agency); [[Covenant Identity Coaching — Full Model Reference]] — covenant identity model architecture; Co-Active/CTI Designed Alliance methodology — document structure and relational contract format; [[Covenant Identity — Crisis & Referral Protocol]] — scope boundary and Red Lines section"
+tags: [ai-prompt, session-tool, designed-alliance, practitioner-reference]
 ---
 
 # AI Prompt — Designed Alliance
@@ -22,6 +22,21 @@ Run after:
 4. At least one or two Tier 1 diagnostic signals (Identity in Christ / Emotional Integration) are legible
 
 Do NOT run this prompt generically. It requires real client data. If Andrew has not provided the client's intake responses and initial soil assessment, ask for them before building anything.
+
+---
+
+> **Integration note — Two diagnostic languages in this document:**
+> This prompt draws on two diagnostic frameworks that operate at different levels and serve different functions. Understanding the relationship prevents conflation.
+>
+> **Soils framework** (Parable of the Soils) is the *readiness container* — it describes the client's current capacity to receive truth, their pressure-response pattern, and how the soil of their heart is currently configured for the work. It answers: *what kind of ground is this? how does truth land here? what happens under pressure?* The Designed Alliance uses Soils language throughout because it shapes the relational strategy, pacing, and counter-pressure anticipation for this engagement.
+>
+> **Covenant Identity framework** (Diagnostic Intake Profile, Doc 38) is the *content* — it describes what the coaching is working on: specific lie landscape, wound terrain, God-representation distortion, covenant identity layers in deficit. It answers: *what is actually broken? what false structure is operating? what truth needs to be installed?*
+>
+> The Designed Alliance is where these two frames meet. The coach's reference version maps the Covenant Identity content (lie nukes, wound terrain, eternal foundation gaps) organized by what the soil type reveals about access and resistance. The client-facing version uses soil language to name the relational and formational terrain without using clinical labels.
+>
+> These two frameworks are not alternatives — they describe different dimensions of the same person. A client can be thorny-soil (readiness container) while carrying an Absent/Distant God-rep and a False Noble character wound (Covenant Identity content). Both are true simultaneously; the Designed Alliance holds both.
+
+---
 
 ---
 
@@ -211,6 +226,8 @@ Run a rapid scrutiny pass against these four questions. Flag anything that fails
 If any section fails scrutiny, fix it before delivering. Do not note the failure and deliver anyway.
 
 ---
+
+> **Reading order note:** This prompt generates per-client files (`04 — Session Tools/Covenant Identity — Designed Alliance — [Client Name].md`). No static template file exists for Doc 39 in Block 6 of the reading order. When reading through the system, open this prompt alongside the Phase 1 Session Tools (Doc 33) to see where the Designed Alliance is introduced in the session flow.
 
 *Source of truth: `Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Designed Alliance.md`*
 *Add to Prompt Library when filed.*

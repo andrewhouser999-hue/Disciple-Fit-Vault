@@ -1,12 +1,16 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Source Library — Trusted Contributors & Frameworks]] — parent contributor reference for the broader coaching practice; practitioner literature survey — annotated reading guide specific to the Covenant Identity model"
+tags: [resource-library, reference, contributors]
 ---
 
-# Covenantal Identity — Author & Resource Reference
+# Covenant Identity — Author & Resource Reference
 
 *Books and learning material connecting biblical covenantal truths to personal identity for everyday living.*
+
+---
+
+> **Relationship to the Source Library:** The broader coaching practice's contributor reference is [[Source Library — Trusted Contributors & Frameworks]] (Coaching Preparation track, `Practitioner Reference/`). These two documents are maintained independently and serve different purposes. The Source Library covers all three contributing disciplines (Spiritual Formation, Biblical Counseling, Life Coaching) and is the evidential basis for the full practice. This document is Covenant Identity–specific — more narrowly focused on authors directly relevant to covenantal identity work. For Covenant Identity engagements, consult this document first; consult the Source Library when you need the broader evidence-base context, domain assignments, or evidence-level ratings for individual contributors.
 
 ---
 
@@ -31,7 +35,7 @@ Practical, widely used. Lists identity statements rooted in union with Christ. L
 *Priority: Tier 1*
 
 **Curt Thompson — *Anatomy of the Soul* and *The Soul of Shame***
-Neuroscience + interpersonal neurobiology + theology of shame/identity. Directly relevant to the CBC framework. Shame as a disruption of covenant belonging; healing through attunement and truth. Very strong fit for this work.
+Neuroscience + interpersonal neurobiology + theology of shame/identity. Directly relevant to this model's implicit memory mechanism (how shame is stored below conscious theology and why attunement and encounter shift it). Shame as a disruption of covenant belonging; healing through attunement and truth. Very strong fit for this work.
 *Priority: Tier 1*
 
 ---
@@ -65,6 +69,7 @@ Adoption as the central covenant identity — sonship/daughtership as the frame 
 **Paul David Tripp — *Instruments in the Redeemer's Hands* and *New Morning Mercies***
 Gospel-centered change. Connects how people think about themselves to what they believe about God's covenant faithfulness. Highly practical for coaching.
 *Priority: Tier 2*
+> **Practitioner flag:** Tripp has a perceived legalistic tendency in video and popular content — behavioral application can shade into striving framing. Prefer Powlison when available. Pair with grace-forward sources: Fitzpatrick (*Elyse Fitzpatrick*), Bridges (*The Discipline of Grace*), Keller, or Miller/Serge (*Gospel Transformation*) to balance the application layer.
 
 **Ed Welch — *When People Are Big and God is Small***
 Identity distortion rooted in fear of man vs. covenant fear of God. Useful for clients whose identity is other-defined.
@@ -132,11 +137,13 @@ Benner bridges depth psychology and Christian spiritual direction better than al
 Payne is the most rigorous practitioner on healing prayer and Spirit agency in identity and wound work. More charismatic than Willard, but not shallow — she's theologically careful and clinically experienced. Her work specifically addresses Spirit-led lie renunciation and identity installation. The most direct practitioner equivalent to what is being built here.
 *Priority: Tier 2*
 
-> [!important] **Key Decision Point — Leanne Payne**
-> Her tier depends on a practice decision you haven't made yet: **Is healing prayer a standard session element or an occasional one?**
-> - If occasional → Tier 2 is correct, read when ready
-> - If standard → move her to Tier 1 and read before you formalize your session structure
-> This decision shapes how you design the Declaration step in the Lie Eliminator and whether the Spirit Partnership layer has a distinct healing prayer protocol.
+> [!note] **Leanne Payne — Decision Resolved (2026-05-21)**
+> **Decision: Occasional + explicit criteria.** Healing prayer is a named tool with explicit deployment signals — not a required session element. Payne stays Tier 2.
+>
+> **Downstream effects applied:**
+> - [[Covenant Identity — Phase 3 Session Tools (Identity Installation)]]: Spirit Partnership note added with deployment criteria and form guidance
+> - [[Covenant Identity — Practitioner Competency Framework]] Domain 3: healing prayer added as advanced skill requiring Payne as practitioner preparation
+> - Tier 2 confirmed — read before deploying healing prayer in session, not before finalizing session structure
 
 **Andrew Murray — *Absolute Surrender*, *The Spirit of Christ*, *Abide in Christ***
 Murray's central contribution: surrender is the *mechanism* of Spirit fullness. The client who still controls their narrative, their lie, their wound, is not yet positioned for Spirit work. Murray makes this coachable. His abiding framework (John 15) is covenant participation in practice — vine-branch as daily operating posture.
@@ -158,14 +165,18 @@ Peterson's contribution is attentiveness — the Spirit-responsive life as count
 
 ## Intergenerational Transmission — Authors
 
+> **Organizational note:** The Intergenerational Transmission and Community Coaching sections use table format (contribution + priority) rather than the extended paragraph treatment the Holy Spirit section receives. The difference is intentional: the HS section receives extended treatment because it covers the primary formation mechanism of the model — Spirit-cooperative transformation is the governing telos of the whole coaching engagement. The intergenerational and community sections are important supporting domains, but they are not load-bearing to the same degree. Extended paragraph treatment for those sections would inflate the document without proportionate return.
+
 | Author | Contribution | Priority |
 |---|---|---|
 | **Daniel Siegel** — *The Developing Mind* | IPNB basis for attachment transmission; earned security as the hope narrative | Tier 2 |
 | **Dan Allender** — *The Wounded Heart* | Family-of-origin wound transmission; lies embedded in family story | Tier 1 |
-| **Jeffrey Young** — Schema Therapy literature | Schema transmission through parental vicarious learning — the academic mechanism | Reference Only |
+| **Jeffrey Young** — Schema Therapy literature | Schema transmission through parental vicarious learning — the academic mechanism | Reference Only* |
 | **Murray Bowen** — Family Systems Theory | Differentiation of self; emotional fusion as the transmission medium for generational patterns | Reference Only |
 | **Neil Anderson** — *The Bondage Breaker* | Generational spiritual strongholds; prayer-based renunciation | Reference Only |
 | **Rachel Yehuda** — epigenetic research papers | Biological transmission of trauma response (academic) | Reference Only |
+
+*\* Tier note on Jeffrey Young: Young's schema therapy framework is designated Reference Only for the practitioner's direct reading, but his schema transmission concepts and maintenance mode taxonomy (Surrender/Avoidance/Overcompensation) are actively deployed in the [[Covenant Identity — Deep Lie Work Worksheet]] and [[Covenant Identity — Deep Identity Installation Worksheet]] (Docs 52 and 53). Any practitioner assigning those worksheets to clients is using Young's framework whether or not they have read him. Practitioners who regularly assign the deep work worksheets should consider Young's framework a functional Tier 2 read even if the formal tier designation remains Reference Only.*
 
 ---
 

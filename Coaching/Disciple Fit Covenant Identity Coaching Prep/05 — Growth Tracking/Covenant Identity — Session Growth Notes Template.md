@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity — Intake Addendum (Coach)]] — verbatim baseline language for Language Evolution tracking; [[Covenant Identity — Growth Report Template]] — session notes are primary source material for Growth Report; growth-focused documentation methodology"
+tags: [growth-tracking, practitioner-reference, template]
 ---
 
 # Covenant Identity — Session Growth Notes Template
@@ -52,13 +52,16 @@ tags:
 -
 -
 
-*Covenant identity layer being expressed* *(reference the architecture — which layer was operative?):*
+*Covenant identity layer being expressed* *(which of the ten layers was operative?):*
+*(1) Image-bearer — worth not earned / (2) Seen and chosen anyway / (3) New creation — old is gone / (4) Adopted child — full inheritance rights / (5) Co-heir with Christ — full inheritance shared / (6) Indwelt — not alone / (7) Standing secure / (8) Loved as the Father loves the Son / (9) Sent — specific purpose / (10) In a divinely-overseen formation process*
 
 ---
 
 ### 4. Language Evolution
 
 *Verbatim phrases that show a shift in how the client describes themselves, God, or their situation. Even subtle language shifts are significant — capture them exactly. This field is the raw material for the Growth Report's most powerful section.*
+
+*Seeding the "Then" column from Session 1: Populate this column from Intake Addendum verbatim fields A1 (presenting situation, in client's own words), A5 (God description verbatim), A8 (failure meaning verbatim), A10 (shame content verbatim), and B2 (present-story statement). These fields are the most reliable source of the client's pre-engagement language — do not reconstruct from memory. Once seeded from intake, subsequent sessions add "then" entries from prior session notes.*
 
 | Then (intake or prior session — with date) | Now (this session) |
 |---|---|
@@ -127,7 +130,9 @@ tags:
 
 ### Coach's One-Sentence Summary of This Session
 
-*Written immediately. What was the most significant thing that happened — growth, resistance, revelation, or shift? One sentence. This becomes the headline of this session in the Growth Report.*
+*Write this first — before completing Sections 2–7. The summary written immediately after the session ends stays closer to what actually happened. Summaries written after full documentation drift toward narrative construction — toward what you assembled, not what occurred. Complete this field within five minutes of the session ending, then return to Sections 2–7.*
+
+*What was the most significant thing that happened — growth, resistance, revelation, or shift? One sentence. This becomes the headline of this session in the Growth Report.*
 
 ---
 

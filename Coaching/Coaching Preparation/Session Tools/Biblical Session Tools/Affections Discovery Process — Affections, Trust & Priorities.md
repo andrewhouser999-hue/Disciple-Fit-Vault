@@ -8,7 +8,7 @@ tags:
 *Coach-Facing Practitioner Guide and Client-Facing Reflection Tool*
 
 *Part of: Covenant Identity Coaching Model*
-*Integrates with: Diagnostic Intake (Tier 2), Discovery Call Guide, Diagnostic Lens Transition Logic*
+*Integrates with: Diagnostic Intake (Tier 2), Discovery Call Guide, Diagnostic Lens Transition Logic, [[Covenant Identity — God-Exclusion Map]]*
 *Status: In-session tool extension — flagged for future build*
 
 ---
@@ -82,6 +82,8 @@ The coach locates where the client's trust structure excludes or functionally di
 
 **Listen for:** Absence of God in explanations of what helps, provides relief, or gives meaning. Self-sufficiency language. God described functionally as distant, demanding, or irrelevant to the area of stuckness.
 
+> **Full Layer 4 reference:** For the eight-domain framework (security, significance, belonging, control, comfort, purpose, identity, future), complete in-session protocol, question bank, and diagnostic signals, see [[Covenant Identity — God-Exclusion Map]].
+
 ---
 
 ### Layer 5 — Identity Revelation
@@ -131,6 +133,8 @@ Select 2–3 questions per layer based on what the client has surfaced. These ar
 - "Where is God in this picture you're describing?"
 - "What would trusting God here look like — specifically, not in general?"
 - "Is there any part of this area of your life where you find yourself reaching for something other than God first? What is it?"
+
+*Full question bank by domain, naming moves, and diagnostic signals: [[Covenant Identity — God-Exclusion Map]]*
 
 ### Layer 5 — Identity Revelation
 - "What does this pattern say you believe about yourself?"

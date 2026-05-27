@@ -1,12 +1,14 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity — Author & Resource Reference]] — author list and tier assignments; [[Covenant Identity — Full Model Reference]] — framework components being mapped; [[Covenant Identity — Diagnostic Lens Transition Logic]] — diagnostic sequence framework"
+tags: [resource-library, reference, contributor-mapping]
 ---
 
-# Covenantal Identity — Author-Framework Mapping
+# Covenant Identity — Author-Framework Mapping, Transmission Mechanisms & Community Diagnostic
 
-*Maps the resource library to specific components of the Disciple Fit Covenant Identity framework.*
+*Maps the resource library to specific components of the Disciple Fit Covenant Identity framework. Also contains: a five-mechanism clinical framework for intergenerational lie transmission (with coaching protocols), and a six-limiter diagnostic and coachable sequence for community coaching.*
+
+> **Practitioner note — Tripp:** Paul David Tripp appears multiple times in the mapping tables below. He has a perceived legalistic tendency in video and popular content — behavioral application can shade into striving framing. Prefer Powlison when available. Pair with grace-forward sources (Fitzpatrick, Bridges, Keller, Miller/Serge) to balance the application layer wherever Tripp is cited.
 
 ---
 
@@ -79,6 +81,8 @@ tags:
 
 ## Soil Diagnostic Framework
 
+> **Integration note — When Soils enters the Covenant Identity sequence:** The Soils framework (Parable of the Soils — Kingdom Coaching Deep Framework) operates as the *readiness container* diagnostic at the Discovery Call and Session 1 stage. The coach provisionally identifies soil type during the Discovery Call and refines it via the Designed Alliance (Doc 39). Soil typing shapes: relational strategy and pacing, counter-pressure anticipation, which intervention approaches are accessible (truth-reception, pressure-response patterns), and what Phase 1 emphasis the client needs before wound work begins. The Covenant Identity framework (schema, wound, God-rep, lie landscape) is the *content* layer — it operates in parallel with Soils, not sequentially. See [[AI Prompt — Designed Alliance]] for the integration note explaining how both layers meet in the alliance document.
+
 | Soil Dimension | Best Author Mapping |
 |---|---|
 | **Truth Reception** | Thompson — IPNB explains why rocky soil intellectualizes (left-brain dominance, integration failure). Allender — soil shows in what the client does with their story, not what they say about it. |
@@ -145,15 +149,21 @@ This matters because it does two things:
 2. It **activates compassion** — understanding the parent's wound changes the emotional charge of the received lie. Forgiveness becomes more accessible when the client sees the transmission mechanism.
 
 **The Generational Agreement:**
-The Agreement Audit already asks clients to locate the moment of agreement. The generational extension: "Did you inherit this agreement, or did you make it yourself?" Some agreements were made by a grandparent and were simply operating as truth before the client was old enough to question them. Renouncing an inherited agreement is different from renouncing one you consciously made.
+The Agreement Audit asks clients to locate the moment of agreement. The generational extension: "Did you inherit this agreement, or did you make it yourself?" Some agreements were made by a grandparent and were simply operating as truth before the client was old enough to question them. Renouncing an inherited agreement is different from renouncing one you consciously made.
+
+> **Agreement Audit — status resolved (2026-05-21):** The Agreement Audit is embedded within the [[Lie Eliminator — Client Workbook]] as Question 5 ("Can you locate the moment of agreement?") plus the renunciation note that follows it. No standalone document exists or is needed. The generational extension referenced above ("Did you inherit this agreement, or did you make it yourself?") is a deepening probe the coach adds verbally in Phase 2 — it does not require a separate document.
 
 **The Spiritual Dimension:**
 Neil Anderson (*The Bondage Breaker*) and Charles Kraft (*Deep Wounds, Deep Healing*) both address generational spiritual strongholds — footholds established by ancestors that create vulnerability in descendants. This isn't fatalism — Ezekiel 18 is clear that covenant responsibility is individual. But the pattern-as-foothold is real and worth addressing in prayer.
+
+> **Contested framework:** The Anderson/Kraft generational strongholds model is contested by cessationists and many Reformed practitioners who object to the underlying spiritual warfare ontology (the mechanism by which ancestral sin creates spiritual footholds) and who question whether the prayer-based renunciation protocol assumes a charismatic theology of spiritual authority. This framework is included here as a clinical-pastoral option for practitioners who are operating within a tradition that affirms this kind of spiritual warfare practice — it is not a doctrinal commitment of the Covenant Identity model. Practitioners in cessationist or strictly Reformed contexts may omit the generational strongholds element entirely without disrupting the coaching sequence; the psychological mechanisms (Mechanisms 1–4) do not depend on it.
 
 The gospel's claim here is specific: Romans 5 argues that just as Adam's one act of sin transmitted condemnation to all, Christ's one act of righteousness transmits life to all who are in him. The covenant solution to generational transmission is covenantal solidarity with Christ — which is why union with Christ (Billings, Ferguson) is load-bearing for this work, not decorative.
 
 **Chain-Breaking:**
 Siegel's concept of "earned security" — adults who have *processed* their attachment history can interrupt the cycle even if they had insecure attachment. They don't pass it to their children at the same rate. This is directly hopeful for clients who are parents: the coaching work isn't just for them. The healing they do now changes what they transmit.
+
+> **Coaching-scope qualification:** Siegel's earned security is clinically established in the context of psychotherapy-level processing and narrative coherence work. The claim that coaching-level processing produces the same degree of transmission interruption is plausible and hopeful but not clinically established. Frame this to clients as a directionally grounded hope — the direction of the claim is true; the degree to which coaching-level work achieves the full clinical effect is not confirmed. Overclaiming here does clients a disservice.
 
 ---
 
@@ -214,3 +224,12 @@ Siegel's concept of "earned security" — adults who have *processed* their atta
 | **Bonhoeffer** | Community idealization as the coaching diagnostic; real vs. dreamed community |
 | **Hauerwas** | Community as covenant identity necessity — theological grounding |
 | **Cloud/Townsend** | Post-wound community re-entry — practical and client-accessible |
+
+**Supporting citations (referenced in body; not primary framework authors):**
+
+| Author | Where Referenced | Role |
+|---|---|---|
+| **Dan McAdams** — *The Redemptive Self* | Intergenerational, Mechanism 2 | Narrative identity frameworks as the transmission medium for family stories — supports the "Narrative Transmission" mechanism; not assigned a tier in Doc 55 but active in the clinical narrative |
+| **John Gottman** — family emotional cultures research | Intergenerational, Mechanism 3 | Implicit emotional rules and relational expectations transmitted without articulation — supports the "Relational Rules" mechanism |
+| **Charles Kraft** — *Deep Wounds, Deep Healing* | Intergenerational, Spiritual Dimension | Generational spiritual strongholds — clinical-pastoral option for practitioners in compatible traditions; contested by cessationists (see qualification above) |
+| **Brother Lawrence / Frank Laubach** | Holy Spirit Partnership table | Moment-by-moment HS awareness as the practical daily outworking — supporting citation for the "Today I Will" element; not assigned formal tier |

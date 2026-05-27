@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity Intake — Coach Annotation Reference]] — diagnostic framework for intake interpretation; [[Covenant Identity — Intake Addendum (Coach)]] — Part B verbal data structure; [[Covenant Identity — Coaching Agreement]] — scope boundary governing all AI-generated sections — primary-source"
+tags: [ai-prompt, intake, diagnostic, practitioner-reference]
 ---
 
 # AI Prompt — Diagnostic Intake Profile
@@ -30,7 +30,7 @@ Do NOT run this prompt on Tier 1 responses alone. The full diagnostic picture re
 
 Every schema-adjacent observation must be written as: *"patterns consistent with [X]"* — never *"client has [X]."* This is not a stylistic preference. It is a scope requirement. The working hypothesis is always provisional — it is revised as new evidence arrives.
 
-Any pattern that appears to indicate clinical-level material (active trauma destabilization, clinical-level depression or anxiety, psychosis, acute suicidality) must be flagged in Section 12 (Referral & Scope Flags) and must NOT generate a coaching intervention plan. The flag replaces the intervention plan for that item.
+Any pattern that appears to indicate clinical-level material (active trauma destabilization, clinical-level depression or anxiety, psychosis, acute suicidality) must be flagged in Section 13 (Referral & Scope Flags) and must NOT generate a coaching intervention plan. The flag replaces the intervention plan for that item.
 
 Andrew is not clinically trained. He can observe patterns, hold hypotheses, ask questions, and work with regulated clients. He cannot treat, diagnose, or safely hold clients in clinical-level distress. The profile must reflect this scope boundary throughout.
 
@@ -145,15 +145,15 @@ From Q9 (integration scale) and B3 (verbal layer assessment in session 1).
 
 | Layer | Status | Evidence |
 |---|---|---|
-| Image-bearer — worth not earned | Integrated / Cognitively held only / Disbelieved / Untested | [cite B3 or Q9] |
-| Seen and chosen anyway | Integrated / Cognitively held only / Disbelieved / Untested | |
-| New creation — the old is genuinely gone | Integrated / Cognitively held only / Disbelieved / Untested | |
-| Adopted child — full inheritance rights | Integrated / Cognitively held only / Disbelieved / Untested | |
-| Indwelt — not alone | Integrated / Cognitively held only / Disbelieved / Untested | |
-| Standing secure right now | Integrated / Cognitively held only / Disbelieved / Untested | |
-| Loved as the Father loves the Son | Integrated / Cognitively held only / Disbelieved / Untested | |
-| Sent — life carries specific purpose | Integrated / Cognitively held only / Disbelieved / Untested | |
-| In a divinely-overseen formation process | Integrated / Cognitively held only / Disbelieved / Untested | |
+| Image-bearer — worth not earned | Rejected / Blank / Cognitively held / Partially felt / Embodied | [cite B3 or Q9] |
+| Seen and chosen anyway | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
+| New creation — the old is genuinely gone | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
+| Adopted child — full inheritance rights | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
+| Indwelt — not alone | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
+| Standing secure right now | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
+| Loved as the Father loves the Son | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
+| Sent — life carries specific purpose | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
+| In a divinely-overseen formation process | Rejected / Blank / Cognitively held / Partially felt / Embodied | |
 
 **Primary coaching territory:** Which 1–2 layers show the widest gap and will be the primary installation targets in Phase 3?
 
@@ -320,7 +320,11 @@ Run these four questions. Fix any that fail before delivering.
 
 4. **Practical:** Can Andrew use this document to walk into Session 1 with a genuine orientation — not a script, but a well-calibrated ear? Is it usable, or is it so long it won't be read before the session?
 
+5. **Wound inference labeling:** In Section 12 (Wound Terrain) — has every wound-type inference been sourced to specific intake data, or has a wound type been projected from the coach's prior hypothesis about this client? The Section 8 behavioral pattern observations and the God-representation profile in Section 5 can suggest wound terrain; they cannot confirm it. Check that every "probable wound territory" statement is labeled as inference and that the specific intake evidence for the inference is cited. If no intake evidence exists for a wound inference, remove the inference or move it to the working hypothesis as an open question.
+
 ---
+
+> **Reading order note:** This prompt generates per-client files (`04 — Session Tools/Covenant Identity — Diagnostic Intake Profile — [Client Name].md`). No static template file exists for Doc 38 in Block 6 of the reading order. When reading through the system, open this prompt alongside the Coach Annotation Reference (Doc 27) to understand what the generated output looks like and how it relates to the annotation framework.
 
 *Source of truth: `Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Diagnostic Intake Profile.md`*
 *Add to Prompt Library when filed.*

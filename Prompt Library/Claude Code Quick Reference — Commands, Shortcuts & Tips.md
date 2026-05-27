@@ -81,3 +81,9 @@ tags:
   5. Confirm the save with the file path
 
   If the right destination file is ambiguous, I'll ask before touching anything.
+
+
+notes:
+Add to Queue - a quick note
+/process-note - process a note, Claude will ask a few questions
+

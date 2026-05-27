@@ -407,3 +407,67 @@ Once a type is identified or suspected, these affections probes are most likely 
 **Client summary:** Practitioner-only reference. Not shared with clients.
 
 **Contested ground:** The three wound types (Warrior, Hermit, False Noble) are derived from Allender's clinical-pastoral framework — they are not empirically validated diagnostic categories with psychometric validation or established inter-rater reliability. They are archetypes organized for coaching utility. The mapping between wound types and attachment classifications is a structural inference (Warrior ↔ dismissing-avoidant; Hermit ↔ fearful-avoidant; False Noble ↔ anxious-preoccupied) that is defensible and convergent with clinical observation but not formally tested as a validity claim. Any peer reviewing this tool from a clinical or research psychology background should understand these categories as working pastoral-clinical constructs, not as formal diagnostic criteria.
+
+---
+
+## Anticipated Critiques
+
+### Critique 1 — Validity: The three wound types are clinical-pastoral constructs without empirical validation
+
+**Steelmanned form:** The Warrior / Hermit / False Noble typology does not appear in peer-reviewed psychology literature. It has not been tested for inter-rater reliability (two coaches observing the same client may not arrive at the same type), exhaustiveness (the blended presentations section itself acknowledges types overlap and may not be mutually exclusive), or formal validity (the mapping to attachment classifications is described in this document as "defensible but not formally tested"). In a model that grounds its practice quality on integration criteria and evidence levels, deploying an unvalidated typology as a structural diagnostic layer is epistemologically inconsistent.
+
+**Response:** The critique accurately describes the epistemic status of the typology — this document states it explicitly in the Contested Ground section. The types are practitioner archetypes organized for coaching utility, not formal diagnostic criteria. The appropriate standard of evaluation is practical utility in coaching pattern recognition — not diagnostic precision in a clinical assessment context. The types are deployed as working hypotheses to be confirmed across sessions through multiple convergent signals (behavioral markers + story patterns + emotional signature + God-image data), not as single-session conclusions. The tool instructs the coach to "hold type identification lightly until multiple signals confirm it" precisely because the categories are provisional working frames, not diagnostic stamps.
+
+**Remaining exposure:** The typology may not be exhaustive — clients exist whose wound presentations do not map cleanly to any of the three types, or whose blended presentation is so evenly distributed that a dominant type cannot be identified. In those cases, forcing single-type identification produces the confirmation bias the tool explicitly warns against. Practitioners must hold the diagnostic frame lightly enough that the client's actual material overrides the type expectation when they diverge.
+
+---
+
+## Load-Bearing vs. Modifiable
+
+**Load-bearing** — changing these changes what the model is:
+
+- *The three-type architecture* — Warrior (betrayal/weakness), Hermit (terror/too much), False Noble (ambivalence/not enough). The architecture is organized around three wound experiences and the three core shame statements they produce. It can hold blended presentations without requiring a fourth type. Remove any one type and its full coaching implication set (relationship configuration, refined false self distinguishing marker, true self emergence signals, affections probes) is lost.
+- *Secondary diagnostic status — use after affections discovery, not before* — the sequencing constraint is structural, not preferential. Wound typing before affections work produces confirmation bias; the label forecloses the listening. This is the tool's most important usage constraint.
+- *The false self vs. refined false self distinguishing marker per type* — the refined false self is the practical formation problem with clients who have done prior self-awareness work. Without the distinguishing marker, a practitioner will mistake the Warrior's composed self-disclosure, the Hermit's spiritual humility, or the False Noble's growth orientation for formation progress. The marker is what makes the typology useful with sophisticated clients.
+
+**Modifiable** — can change without changing what the model is:
+
+- *Specific behavioral marker language* — the in-session markers, story patterns, and emotional signatures are practitioner-observed patterns that can be revised as session experience develops without changing the underlying type architecture.
+- *Clinical referral trigger thresholds* — the specific triggers listed are practitioner-calibrated recommendations, not clinical standards. They can be refined with additional experience or in consultation with clinical supervisors.
+- *The attachment mapping* — the Warrior ↔ dismissing-avoidant / Hermit ↔ fearful-avoidant / False Noble ↔ anxious-preoccupied correspondence is supplementary theoretical support, not structural. If attachment research produced a better mapping, the typology itself would not change.
+
+---
+
+## What Progress Is Not — Co-optation Patterns per Wound Type
+
+*The false self co-opts formation work in characteristic ways for each type. What looks like progress can be a more sophisticated expression of the wound pattern. The coach who cannot name co-optation will validate it.*
+
+---
+
+### Warrior — Performing Vulnerability
+
+What it looks like: The Warrior discloses struggle, grief, or need in session — competently. They have learned that vulnerability is valued here, and they produce it. The disclosure is real in content but managed in delivery: packaged, controlled, arrived at independently before being brought to the coach. What is absent is being caught off-guard by their own experience — the involuntary grief rather than the chosen disclosure, the moment when they cannot manage what surfaces.
+
+The tell: vulnerability that is always articulate, well-paced, and arrives with a landing. True vulnerability in the Warrior tends to be uncomfortable, partially formed, and harder to watch — for the client and the coach.
+
+The coaching move: When the disclosure is too well-organized, slow it down. *"You're telling me something significant and you're doing it very well. I want to stay here before the insight. What happened in you before you had the words for it?"*
+
+---
+
+### Hermit — Compliant Disappearance
+
+What it looks like: The Hermit engages the coaching process correctly — completes worksheets, reports on practices, gives thoughtful responses. What they have not done is risk being actually seen. Compliance has become the new invisibility: they are present in the room without being genuinely present in the room. The session feels productive because the Hermit is cooperating; the formation work is not penetrating because the Hermit has not yet shown up.
+
+The tell: progress reports that are accurate and organized but do not produce the felt sense of encountering this person. Low affect on important material. Answers that are correct but do not seem to cost anything.
+
+The coaching move: Name the absence without shaming it. *"I notice something. You're engaged — fully, properly engaged — but I feel like I haven't found you yet today. What's actually going on in there?"* The goal is to notice the presence-behind-the-presence, not to push the Hermit into performing more.
+
+---
+
+### False Noble — Striving as Formation
+
+What it looks like: The False Noble pursues formation work with the same energy and skill they bring to everything else — completing materials, applying frameworks, reporting growth insights fluently. The performance pattern has been redirected toward spiritual formation, which means the formation work itself is becoming a performance. They are becoming excellent at the process of formation rather than being formed.
+
+The tell: growth reporting is consistently enthusiastic and well-organized; sessions always produce movement; confusion or stuckness rarely surfaces, or arrives pre-packaged with lessons attached.
+
+The coaching move: Name the quality of the engagement rather than its content. *"Something in me wants to slow down. You're telling me about significant movement — and I notice we're producing it at a steady pace. I wonder what would happen if we just sat with where you are today without it going anywhere. Can we try that?"*

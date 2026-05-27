@@ -458,6 +458,26 @@ This document records every major contributor, researcher, theologian, and thoug
 
 ---
 
+#### Eugene Gendlin
+**Primary works:** *Focusing* (1978); *Experiencing and the Creation of Meaning* (1962)
+**Contribution:** The felt sense — a pre-verbal, bodily-felt knowing that carries meaning before it can be articulated. The six-step Focusing process as a structured method for accessing, staying with, and symbolizing a felt sense so that its implicit meaning can emerge. The felt shift as a somatic-cognitive marker of genuine internal change — the body registers something unlocking, not just the mind agreeing. Bio-Spiritual Focusing (McMahon & Campbell, 1994) is the Christian adaptation, framing the felt sense as the Spirit's address to the whole person. Most directly applicable as a client-teachable between-session activation practice that reaches the implicit level in preparation for covenant truth work.
+**Evidence level:** Supported (Focusing has solid empirical support for therapeutic outcomes; meta-analyses show moderate-to-strong effects; felt sense concept is theoretically well-developed within experiential psychotherapy)
+**Scope:** Accessing pre-verbal implicit experience; body-as-knowing; felt-shift as change marker. Does not address theological framework, clinical treatment, or spiritual formation directly.
+**Shortcomings:** Gendlin's framework is phenomenological — it describes the felt sense process without grounding it theologically. His account of why the body "knows" does not distinguish between the Spirit's promptings, emotional residue, or somatic habit patterns. The practice imports the method and the phenomenological description; the theological account of why body-held knowing matters is supplied by imago Dei anthropology (we are embodied creatures, not minds inhabiting bodies) and the Incarnation as validation of bodily experience as a site of meaning. Bio-Spiritual Focusing provides the most direct Christian bridge but should be evaluated on its own merits.
+**Informs:** Covenant Identity — Stage 4b Implicit Level Practitioner Reference; Covenant Identity — Integration Rationale; Tool 19 — Felt Sense Focusing; Covenant Identity — Parts & Burden Discovery — Session Worksheet; What the Part Carries — An Independent Formation Practice
+
+---
+
+#### Bruce Ecker, Robin Ticic, and Laurel Hulley
+**Primary works:** *Unlocking the Emotional Brain* (2012); *Coherence Therapy Practice Manual* (Ecker & Hulley, 2005)
+**Contribution:** Clinical translation of the memory reconsolidation discovery (Nader & LeDoux, 2000) into a practitioner framework. Core finding: when a memory is reactivated in the presence of a vivid mismatch experience, the synaptic trace is briefly made labile and can be permanently rewritten — not suppressed, but structurally altered. Three-step sequence: (1) reactivate the implicit belief in the present moment so it is emotionally live, not conceptually recalled; (2) generate a felt disconfirmation — a juxtaposed experience that the implicit belief predicts could not be true; (3) hold both simultaneously so the mismatch triggers reconsolidation. Distinguishes extinction (suppression through non-reinforcement — the old learning persists and can return) from reconsolidation (structural rewriting — the old learning is changed). Explains why declaration work delivered without activation fails: a truth offered to a belief that is not emotionally present cannot produce reconsolidation; it produces insight only.
+**Evidence level:** Supported (reconsolidation neuroscience is well-established; Ecker's clinical translation is coherent and growing in empirical support; full clinical validation of the specific three-step protocol is still developing)
+**Scope:** Mechanism of lasting implicit belief change; activation requirement; juxtaposition as the change event. Does not address theological framework or spiritual formation.
+**Shortcomings:** Ecker's framework is secular clinical. The "disconfirming experience" in his work is generated through in-session relational and imagistic techniques. This practice's theological claim is that Spirit-mediated encounter with covenant truth — received at the felt level, not the cognitive level — constitutes a genuine mismatch that satisfies the reconsolidation conditions. This translation (clinical mismatch → Spirit-mediated covenant truth encounter) is the key integration move and is not in Ecker. It is defensible but not empirically validated as such. Do not over-claim: the claim is that the conditions Ecker describes (activation + genuine disconfirmation at the felt level) are also met when the Spirit brings covenant truth to emotionally live implicit belief — not that the specific clinical protocol produces identical outcomes.
+**Informs:** Covenant Identity — Integration Rationale; Covenant Identity — Diagnostic Lens Transition Logic; Covenant Identity — Stage 4b Implicit Level Practitioner Reference; Covenant Identity — Parts & Burden Discovery — Session Worksheet; What the Part Carries — An Independent Formation Practice
+
+---
+
 ---
 
 ## Domain 6 — Forgiveness and Relational Repair
@@ -518,4 +538,5 @@ Coaching methodologies drawn upon in this practice — not attributed to a singl
 
 - [ ] Add Richard Beck — The Slavery of Death (2014) to Domain 5 (terror management / Rom 8:15 analysis; appears in Biblical Case source log but not yet in this library)
 - [ ] Add Schore, Porges, van der Kolk — somatic and nervous system layer (referenced in Secured in Father source log; entries not yet extracted)
+- [ ] Add Diana Fosha (AEDP) — primary Stage 4b contributor; *The Transforming Power of Affect* (2000), *Healing Change* (2021); appears in Stage 4b Implicit Level Practitioner Reference source log; transformance, four-state model, undoing aloneness, metatherapeutic processing
 - [ ] Audit all documents for remaining Collins references — removed from model 2026-05-14; confirm removal is complete across vault

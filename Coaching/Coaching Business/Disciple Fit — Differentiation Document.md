@@ -81,9 +81,9 @@ This is not therapy with Bible verses added. It is not a discipleship program wi
 
 **Whole-person renewal, not cognitive-only change.** Biblical renewal of the mind (Romans 12:2) is not a cognition event. It targets the entire person — belief, desire, and nervous system together. Polyvagal-informed tools address what purely cognitive approaches cannot reach: the subcortical patterns that hold the old self structurally in place even after the mind is convinced.
 
-**Whole-person equipping, not partial.** Existing tools equip in slices — beliefs here, behavior there, relationships somewhere else. This model works the complete person: affections, cognition, identity, body, and relational attachment to God.
+**Whole-person equipping, not partial.** Existing tools, bible study, sermons, scripture quoting, advice, correction, equip in slices — beliefs here, behavior there, relationships somewhere else. This model works the complete person: affections, cognition, identity, body, and relational attachment to God, with the Spirit, at the Polyvagal and the cognitive level. 
 
-**Sequencing integrity, not data-then-deployment.** Most discipleship models load clients with truth and expect application to follow. The result is informed clients who are not transformed ones. This model works the intrinsic level first — identity before knowledge, formation before service.
+**Sequencing integrity, not data-then-deployment.** Most discipleship models load clients with truth and expect application to follow. The result is informed clients who are not transformed ones. This model works the implicit level first — identity before knowledge, formation before service.
 
 **Root-level healing aligned with Jesus' mission.** Jesus did not come to reform the old man. He came to crucify him. Coaching aligned with that mission targets the false self at its root — the identity system that produces broken fruit, not the fruit itself. This is not symptom management. It is structural identity renovation.
 
@@ -95,7 +95,7 @@ The combined effect is the removal of what blocks genuine relational intimacy wi
 
 ## The Unique Value Claim
 
-For Christians who are stuck — who have tried therapy, self-help, or discipleship and found that the stuckness persists — Covenant Identity Coaching addresses the root the others miss: a broken understanding of who you are before God. Using a biblical framework as the governing lens, with professional coaching as the delivery vehicle and CBT-informed tools deployed as needed, it produces change that is psychologically sound, spiritually rooted, and personally sustainable.
+For Christians who are stuck — who have tried therapy, self-help, or discipleship and found that the stuckness persists — Covenant Identity Coaching addresses the root the others miss: a broken understanding of who you are before God. Using a biblical framework as the governing lens, with professional coaching as the delivery vehicle and CBT-informed tools deployed strategically, it produces change that is psychologically sound, spiritually rooted, and personally sustainable.
 
 ---
 

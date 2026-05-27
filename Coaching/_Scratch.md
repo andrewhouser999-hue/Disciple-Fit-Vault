@@ -15,3 +15,15 @@ TO DO: Define CBT deployment criteria for the coaching model. Working question: 
 
 ---
 
+**Note — 2026-05-22**
+
+### Key Concepts
+- **Solo Focusing practice** — structured six-step process, 20–30 minutes per session
+- Journaling is done from felt sense, not from analysis
+- The practice is self-teachable — Gendlin designed it for independent use
+
+### Notable Quotes or References
+- Gendlin (designer of Focusing) — solo self-use was an intentional design feature of the practice
+
+---
+

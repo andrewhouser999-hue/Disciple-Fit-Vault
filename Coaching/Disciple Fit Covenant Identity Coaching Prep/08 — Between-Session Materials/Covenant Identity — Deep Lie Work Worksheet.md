@@ -1,11 +1,13 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Lie Eliminator - Personal]] — worksheet format and declaration architecture; Young (Schema Therapy — schema identification and activation pattern); Kegan & Lahey (Immunity to Change — Big Assumption framework); Thompson (implicit memory and somatic anchoring mechanism for declaration practice)"
+tags: [between-session, client-facing, worksheet, phases-2-3]
 ---
 
 # Covenant Identity — Deep Lie Work Worksheet
 *Between-Session Practice | Phases 2–3*
+
+> **Companion document:** This worksheet is paired with the *Deep Identity Installation Worksheet* (Phases 3–4). Lie work in Phases 2–3 typically precedes or accompanies installation work in Phase 3–4. Both can run concurrently in Phase 3 — lie work surfaces what's blocking reception; installation work installs what's true instead. Assigning the Installation Worksheet without first completing lie/schema work risks the installation hitting an unaddressed blocking schema. Coaches new to the system: run this worksheet first.
 
 ---
 
@@ -17,7 +19,7 @@ This worksheet works a lie at three levels simultaneously. Most lie work address
 - **Layer 2 — Psychological:** The schema operating beneath the lie — the emotional infrastructure that makes the lie feel self-evidently true. Addressed by somatic awareness and interruption practice.
 - **Layer 3 — Behavioral:** The Big Assumption — the operational logic the lie produces. The if/then rule you live by without choosing it. Addressed by a structured experiment that generates real-world counter-evidence.
 
-These are three descriptions of the same thing. Working all three together is more effective than working any one alone: the declaration addresses the spiritual root; the experiment generates behavioral evidence; the somatic anchor makes truth retrievable under the pressure of schema activation — the only moment when it matters most.
+These are three descriptions of the same thing. The worksheet is structured to work all three layers together because each addresses a different dimension of the lie's hold: declaration addresses the spiritual root; the experiment generates behavioral evidence the schema must contend with; the somatic anchor makes truth retrievable under schema activation — the only moment it matters most. Which layer requires the most attention will vary; the structure ensures none is skipped.
 
 **How to work through this:**
 1. Complete Parts 1–3 in one sitting (30–45 minutes). Go slow. Don't fill in what sounds right — find what's true.
@@ -62,6 +64,7 @@ A **schema** is a deep emotional conviction — not a thought you choose, but a 
 
 ### Common Schema Reference
 *(Use this to find language for yours — or describe it in your own words)*
+*Schema categories adapted from Jeffrey Young's Schema Therapy framework (Young, Klosko & Weishaar, 2003).*
 
 | Schema | Core Wound |
 |---|---|
@@ -104,6 +107,8 @@ Surrender *(going along with it, accepting it as true)* ; Avoidance *(numbing, w
 
 ### Schema Origin *(Optional — go here if you're ready)*
 
+> **Scope note:** This section often surfaces memories and early experiences that carry significant weight. It is most safely completed in session with your coach present, not alone between sessions. If completing it on your own brings up significant distress, stop and bring what surfaced to your next session rather than sitting with it alone.
+
 *Schemas are conclusions drawn in context. Finding the context dismantles the internal logic that keeps the schema load-bearing.*
 
 **The earliest I can remember feeling this way:**
@@ -138,6 +143,7 @@ My anchor:
 ---
 
 ## Part 3 — The Big Assumption (Behavioral Layer)
+*Framework adapted from Kegan & Lahey, Immunity to Change (Harvard Business Review Press, 2009).*
 
 The **Big Assumption** is the operational version of the lie — the if/then logic that governs your behavior. It explains why the lie isn't just a belief you hold, but a system you live in. It runs as a behavioral rule: *"If X, then Y"* — and you protect against Y so reliably that X is never really tested.
 
@@ -256,8 +262,8 @@ Say it aloud &nbsp; / &nbsp; Write it &nbsp; / &nbsp; Pray it
 
 | Practice | When | What I'm Watching |
 |---|---|---|
-| Speak my declaration aloud | | Is it starting to land differently? |
-| Run my experiment | | What evidence do I collect? |
+| Speak my declaration aloud | Daily — morning is ideal; your coach may specify | Is it starting to land differently? |
+| Run my experiment | Once this week — specific timing set in session | What evidence do I collect? |
 | Use my pause phrase when the schema fires | Each time I notice it | Am I catching it earlier in the sequence? |
 | Return to my somatic anchor | When activated | Can I access the truth under pressure? |
 
@@ -273,7 +279,7 @@ Say it aloud &nbsp; / &nbsp; Write it &nbsp; / &nbsp; Pray it
 
 ---
 
-*This worksheet is for between-session work in Phases 2–3 of the Covenant Identity engagement. Introduce it after Wound Mapping has surfaced the operative schema. Assign a specific lie and schema to work — not all of them. The experiment debrief and any places where the lie is finding new traction are the primary material for the following session.*
+*This worksheet is for between-session work in Phases 2–3 of the Covenant Identity engagement. There is no Phase 1 version — the worksheet assumes wound mapping has already surfaced the specific lie and schema the client is working. The precise entry signal: Wound Mapping has named an operative schema, the coach has identified the specific lie running beneath it, and the client has enough affections-discovery and wound-type context to engage all three layers. Assigning this worksheet before the operative schema is named produces vague Part 2 work and undermines the experiment's specificity. Assign a specific lie and schema to work — not all of them. The experiment debrief and any places where the lie is finding new traction are the primary material for the following session.*
 
 ---
 
@@ -290,3 +296,7 @@ Opening questions:
 The gap between what the assumption predicted and what actually occurred is where the most significant movement tends to happen. A person can accept a declaration intellectually and still have the schema running unchanged. Lived behavioral evidence is harder for the schema to dismiss — the emotional system has to contend with something that actually happened, not something the coach said.
 
 The debrief also surfaces the session's natural agenda: where the lie is still finding traction, whether the declaration is landing at the felt level or staying cognitive, and what the schema did with the experiment result. That last point matters as much as the result itself. Watch for the client minimizing a disconfirming outcome ("I mean, she was nice, but she probably just felt sorry for me"), explaining it away, or struggling to let it count as evidence. That response pattern is the schema defending itself — and naming it in the moment is the coaching move.
+
+*If this worksheet surfaces elevated activation that does not settle between sessions — intrusive thoughts from the lie territory, unusual destabilization from an experiment outcome — see [[Covenant Identity — Between-Session Distress Protocol]].*
+
+**Declaration co-optation — what to watch for:** A Warrior or False Noble client can execute a declaration perfectly without it landing. The tell: correct execution (spoken aloud, appropriate frequency, externally compliant) but no felt-sense shift reported, or a shift reported but quickly qualified ("it felt true for a moment, but..."). This is not failure of practice — it is the schema co-opting the declaration as a performance task rather than receiving it. In the Warrior pattern, the declaration becomes another form of strength-display. In the False Noble, it becomes a demonstration of correct engagement with the worksheet. When this pattern appears, the coaching move is to slow down the declaration itself: have the client speak one phrase only, pause, and report what actually happens in the body — not what they think should happen. The co-optation collapses under that kind of slowing.

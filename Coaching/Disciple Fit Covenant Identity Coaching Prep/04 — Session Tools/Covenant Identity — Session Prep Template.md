@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity — Session Growth Notes Template]] — client thread retrieval and schema identity tracking; coaching presence and readiness standards; ICF pre-session preparation protocol — five-minute coach readiness framework"
+tags: [session-tools, practitioner-reference, template]
 ---
 
 # Covenant Identity — Session Prep Template
@@ -78,6 +78,9 @@ Curious and present / Distracted and managing / Flat and going through motions /
 **What happened with it?** *(if known in advance — client may have messaged, or this may be unknown until session opens)*
 
 
+**Primary schema most active last session:**
+*(Name the schema specifically — Defectiveness/Shame, Abandonment, Emotional Deprivation, Unrelenting Standards, Failure, Mistrust/Abuse, Subjugation, Self-Sacrifice, or other. This is distinct from wound type — a False Noble with Unrelenting Standards schema is not the same as one with Defectiveness/Shame, and the session's watch-for signals differ accordingly.)*
+
 **Schema activity last session:** High / Moderate / Low / Minimal / Absent
 **Trend from previous session:** Increasing / Same / Decreasing / Not activated
 
@@ -88,6 +91,10 @@ Curious and present / Distracted and managing / Flat and going through motions /
 
 **Anything unresolved from last session that needs to be held today:**
 
+
+**Designed Alliance check:** Have I reviewed the agreed-upon coaching approach and relational contract for this client?
+*(If the Designed Alliance has not been reviewed in the past 2–3 sessions, do so now before the session begins. The agreement may need to be adjusted if the client has moved phases, disclosed new material, or changed their stated goals. Don't assume the original agreement is current.)*
+Yes, current / Needs review / Not yet established — establish in this session
 
 ---
 
@@ -141,6 +148,7 @@ Which installation tool was used last session?
 Declaration Work / Schema Interruption / Narrative Re-authoring / Lament-to-Trust / Big Assumption Experiment
 
 Which covenant identity layer is currently being worked:
+*(Image-bearer — worth not earned / Seen and chosen anyway / New creation — old is gone / Adopted child — full inheritance rights / Co-heir with Christ — full inheritance shared / Indwelt — not alone / Standing secure / Loved as the Father loves the Son / Sent — specific purpose / In a divinely-overseen formation process)*
 
 What did the last session's landing reveal about today's priority:
 
@@ -204,6 +212,8 @@ The coach who skips Part 1 and goes straight to the client file is prioritizing 
 
 **Part 2 — The one-sentence summary and the commitment:**
 These two fields from the Session Growth Notes are the connective tissue between sessions. The one-sentence summary is the session's headline — it tells the coach what the most significant thing was. The commitment is the accountability thread — how the client carried the session's work into their week. Do not improvise these from memory. Look them up.
+
+*Timing clarification for this template:* Parts 1–5 are completed before the session. The One-Sentence Summary (Part 2's source field in Session Growth Notes) is completed immediately after the session ends — before the full Growth Notes documentation. This means the summary field in Part 2 of this template is populated from the *previous* session's post-session writing. If the One-Sentence Summary was not written immediately after the last session, write it now from memory before completing the rest of Part 2 — the prep sequence depends on it being accurate, not reconstructed.
 
 **Part 3 — Phase-specific review:**
 The review fields shift because what matters in each phase is different. Phase 1 preparation is about the client's baseline language — knowing what they said at intake so the session can go beneath the surface quickly. Phase 2 preparation is about the map — knowing the schema hypothesis and the Immunity to Change state so excavation is targeted, not exploratory. Phase 3 preparation is about the installation thread — knowing which tool, which layer, which identity vote so the session builds rather than restarts. Phase 4 preparation is about the close — knowing what remains so nothing is left unaddressed.

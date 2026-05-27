@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity — Phase 3 Session Tools (Identity Installation)]] — session arc continuation into Phase 4; [[Covenant Identity — Growth Report Template]] — Growth Report presentation drives Phase 4 structure; Willard VIM — formation sustainability framework; coaching engagement closure and consolidation methodology"
+tags: [session-tools, phase-4, practitioner-reference, integration, closure]
 ---
 
 # Covenant Identity — Phase 4 Session Tools
@@ -87,6 +87,8 @@ Three dimensions of forward structure:
 
 **1. Practice design** — What specific practices will the client maintain? These are not aspirational habits. They are small, named, sustainable practices directly connected to the formation work. Ask: *"What is the one practice — daily or weekly — that most directly keeps the schema from running on autopilot? Not the ideal practice — the one you'll actually do."*
 
+Cross-reference from Session 1 Forward Structure: the **Scripture Saturation & Meditation Guide** (Phase 4 section) includes an annual text return practice — a short list of 4–6 texts that significantly shifted something during the engagement, returned to once per year. Include this in the practice design conversation as a named, built-in rhythm for long-term engagement. The rule-of-life design in the **Spiritual Disciplines Guide** is the broader architecture for this conversation. The **Lament Practice Guide** (Phase 4 section) establishes a once-monthly lament rhythm (10–15 minutes using the four movements) as a formation maintenance practice — name this explicitly in the practice design conversation so it is a named commitment, not simply an optional suggestion.
+
 **2. Relational ecology** — Who in the client's life can witness and reinforce the new story? The covenant identity needs relationship to sustain it. The client is not wired to hold their own formation alone. Ask: *"Who in your life sees the person you're becoming? Who can you call when the old story comes back hard? Is there someone who needs to know what happened here — not as a testimonial, but because they are part of your forward?"*
 
 **3. Setback protocol** — Design this explicitly. The client will hit the old story again — not because the work failed, but because formation is a lifelong process and the schema is wired deeply. Phase 4's most neglected and most important contribution is a named protocol for when it happens. Ask: *"When the schema activates again — and it will — what is your plan? Name it step by step."*
@@ -145,9 +147,14 @@ This is not a discussion of the report's contents. It is the client receiving th
 
 **Letter to Beginning Self (10–15 minutes, if written)**
 
-If the client has written the letter, ask if they want to read it aloud. Do not require it — make space for it. If they read it, listen without comment. Receive it. When they finish: *"Thank you for letting me hear that."*
+**Branch 1 — Letter written and read aloud:**
+Ask: *"Did you write the letter? Would you be willing to read it?"* If yes — receive it without comment. Listen without moving. When they finish: *"Thank you for letting me hear that."* Sit in the silence. Do not immediately ask a follow-up question. The letter does its own work; the coach's primary role here is witness.
 
-If the letter was not written, offer: *"What would you say to that person — the one who filled out the intake form — if you could say one thing right now?"* Let the answer be whatever it is.
+**Branch 2 — Letter written but client chooses not to share:**
+If the client has the letter but does not want to read it aloud, honor that fully. Do not probe. *"You don't have to share it. It's yours."* Then: *"What was it like to write it — even if you keep it private?"* The act of writing the letter is itself formation — the reflection happened whether or not the coach hears it. A client choosing to keep it private may be protecting something still tender, or may simply be integrating in a different register. Both are valid. Note it in session growth notes for the Growth Report narrative layer.
+
+**Branch 3 — Letter not written:**
+*"What would you say to that person — the one who filled out the intake form — if you could say one thing right now?"* Let the answer be whatever it is. Do not invite the client to write it now in session — that extends the session past its natural close. This one spoken sentence, offered without preparation, often carries as much weight as a written letter. Receive it the same way.
 
 **Closing — The End of the Engagement (5–10 minutes)**
 
@@ -170,7 +177,7 @@ Give the client the printed Growth Report. Tell them: *"Keep this. Read it when 
   — Forces the client to name specific evidence rather than general impressions.
 - *"If someone who knew you well at intake met you today, what would they notice that is different?"*
   — External perspective. Often surfaces evidence the client has not named because they have adapted to the change and no longer sees it.
-- *"Which of the nine covenant identity layers has moved the most during this engagement? Describe what that movement feels like from the inside."*
+- *"Which of the ten covenant identity layers has moved the most during this engagement? Describe what that movement feels like from the inside."*
   — Connects the consolidation to the specific architecture of the model.
 - *"What do you know about yourself now that you didn't know when we started?"*
   — Captures formation knowledge — not just behavioral change but the client's deepened self-understanding.
@@ -302,6 +309,37 @@ When the coach spends the consolidation conversation affirming the client's grow
 
 **7. Leaving the relational ecology unaddressed.**
 The client is returning to a relational environment that formed them. If key relationships in that environment consistently activate the primary schema — a parent who reinforces the Defectiveness lie, a marriage that runs the Emotional Deprivation pattern, a church culture that inverts the indicative/imperative at every turn — the work built in the coaching engagement will be under sustained pressure. Phase 4 must name the relational ecology honestly. Not to condemn those relationships, but to ensure the client is not walking back into them without awareness.
+
+---
+
+## 5b. Termination and the Abandonment Wound — Hermit and Anxious-Attachment Presentations
+
+**The pattern:** For clients with a Hermit wound type or an anxious-attachment relational pattern, the approach of engagement close can activate the core wound rather than consolidate the work. The coaching relationship has become a primary safe attachment — often the first context in which the client felt genuinely seen and pursued. The approaching end is not experienced as completion; it is experienced as the loss of safety. In the weeks before close, these clients may:
+
+- Reintroduce old wound material that was apparently resolved — not as regression but as a bid to extend the relationship
+- Decrease emotional engagement or become more distant — a preemptive withdrawal to manage the anticipated loss
+- Express fear that the growth will not hold without the coaching container — often stated as a practical concern but functioning as a relational plea
+- Express direct or indirect ambivalence about the close: *"I don't feel ready"* / *"I don't think I've done enough work"* / *"There's still so much more to address"*
+
+**How to distinguish this from a legitimate clinical incomplete:** A genuine Phase 3 incomplete (warranting extension) is characterized by absence of specific behavioral evidence from the Session Growth Notes — no documented identity votes, no somatic shift in declarations, no movement in the present-story statement from intake baseline. Abandonment-wound activation is characterized by adequate or strong evidence in the Growth Notes *and* the client's felt unreadiness for the close. The evidence says complete; the affect says don't leave. That gap is the diagnostic.
+
+**Facilitation guidance:**
+
+1. *Name the pattern before it arrives.* Beginning in Phase 3 final sessions, introduce the close explicitly: *"We're moving toward the end of our engagement. I want to name that so we can hold it together, not be surprised by it. How is that landing for you?"* This converts the approaching loss from an ambient threat into a named topic the client can engage.
+
+2. *Distinguish the coaching relationship from the formation.* The formation the client has done does not end when the coaching ends. The growth is in them, not in the container. This must be named explicitly, not assumed: *"What was built in you doesn't leave with me. It goes with you."*
+
+3. *Name the grief as real, not as a problem to solve.* The Hermit client needs to hear that the coach will miss the relationship too — and that missing something real is different from losing something essential. *"This has been real. It makes sense that ending it brings something up. That is not a sign that you're not ready. It is a sign that something real happened here."*
+
+4. *Do not extend to avoid the abandonment experience.* Extending an engagement specifically to soften the client's attachment wound teaches the wound to use the coaching relationship as its management system — which deepens dependency rather than building capacity. If the formation work is genuinely complete, hold the close with care. The experience of a well-held ending is itself a formation event: perhaps the first experience the Hermit client has had of a relationship that ended well rather than disappearing.
+
+5. *Build the setback protocol with specific attention to this pattern.* The client who has abandonment dynamics will encounter the abandonment wound again after the engagement closes — in relationships, in losses, in transitions. Name this specifically in the setback protocol: *"When you feel that particular hollowness — the one that feels like being unseen or suddenly alone — that is your old wound activating. Here is what you do."*
+
+**A well-held ending vs. one that reactivates the wound:**
+
+A well-held ending is one in which the grief of separation is named rather than bypassed, the formation evidence is received rather than qualified, and the client departs feeling seen — not abandoned. The coach's non-anxious presence during the close (not rushing, not avoiding the emotion of it) is the most significant variable. The Hermit client needs to discover that the relationship can hold the ending without becoming the ending's casualty.
+
+A wound-activating ending is one in which the close is handled efficiently — the report is presented, next steps are noted, the engagement is declared complete — without naming the relational weight of what is ending. The Hermit client leaves carrying unprocessed grief that confirms the core wound: *things end without acknowledgment; I don't get to matter in endings.*
 
 ---
 

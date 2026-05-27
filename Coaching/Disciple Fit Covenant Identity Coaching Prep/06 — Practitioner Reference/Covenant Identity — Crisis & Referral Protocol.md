@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-20
+basis: "ICF scope of practice standards; C-SSRS (Columbia Suicide Severity Rating Scale) — crisis severity framework; coaching ethics and documentation literature; [[Covenant Identity — Coaching Agreement]] — scope of practice definition"
+tags: [practitioner-reference, crisis-protocol, scope-of-practice]
 ---
 
 # Covenant Identity — Crisis & Referral Protocol
@@ -335,3 +335,40 @@ Before your first client engagement:
 - [ ] Include scope of practice language in your coaching agreement — clients should know before session 1 that coaching is not therapy and that you may recommend referral to clinical care
 
 *QPR training is not optional. Complete it before your first engagement. One hour of training changes your capacity to respond to a suicidal client from anxious guessing to grounded competence.*
+
+---
+
+## Source Log
+
+| Source | Type | Contribution | Evidence level |
+|---|---|---|---|
+| ICF (International Coaching Federation) — Code of Ethics and Scope of Practice | Professional standards | Governing definition of what coaching is and is not; scope of practice language; ethical obligation to refer | Professional standards body |
+| C-SSRS (Columbia Suicide Severity Rating Scale) | Clinical assessment tool | Four-level severity framework for triaging suicidal ideation (passive ideation → active without plan → active with plan, no intent → active with plan and intent); informs the response table in Section 3 | Empirically validated clinical instrument (Columbia University Psychiatry) |
+| QPR (Question, Persuade, Refer) — qprinstitute.com | Suicide prevention training | Protocol for asking directly about suicidal ideation without increasing risk; preparation checklist item | Evidence-based gatekeeper training; research base confirms direct questioning does not increase risk |
+| 5-4-3-2-1 Grounding | Clinical technique | In-session grounding protocol for acute dissociation/trauma response; standard evidence-based technique in trauma-informed care | Widely used in trauma-informed practice; no single originating source |
+| [[Covenant Identity Coaching — Coaching Agreement]] | Internal document | Scope of practice definition given to client at onboarding; this protocol gives the coach the operational language and criteria behind that scope statement | Internal primary source |
+| National Domestic Violence Hotline (1-800-799-7233) | Crisis resource | Named referral resource in Section 3 and 4 | — |
+| 988 Suicide & Crisis Lifeline; Crisis Text Line (741741) | Crisis resource | Named referral resources in Sections 4 and 9 | — |
+
+---
+
+## Connection Map
+
+| Document | Direction | What flows | Category error to avoid |
+|---|---|---|---|
+| [[Covenant Identity Coaching — Coaching Agreement]] | → inbound | Scope of practice definition given to client at onboarding; this protocol operationalizes what that scope means in practice | Do not treat the Coaching Agreement as sufficient — clients know the scope from the Agreement; this protocol is the coach's operational reference for applying it |
+| [[Covenant Identity — Intake Addendum (Coach)]] | → inbound | Pre-engagement screening data (Q1, Q7, Q8, Q10 responses); intake is where the "coaching or clinical first?" question is most often decided | The intake screens for fit; this protocol governs what happens when a clinical presentation surfaces mid-engagement, not just at intake |
+| All Phase Session Tools (Docs 33–36) | → inbound | The session context in which referral triggers most commonly surface — particularly Phase 2 wound mapping, where wound material closest to the clinical boundary is approached | This protocol is not Phase 2 specific; it applies across all phases and pre-session engagement |
+| [[Covenant Identity — Session Growth Notes Template]] | → outbound | Documentation requirements in Sections 7 and 8 feed into the documentation practices established by the Growth Notes Template | Session Growth Notes ≠ crisis documentation; Section 7 specifies that crisis documentation is kept separately |
+
+---
+
+## Document Provenance
+
+**What this document is:** Protocol and reference guide for scope of practice definition, non-crisis referral triggers, in-session crisis severity assessment and response, referral conversation language, concurrent coaching/therapy framework, documentation requirements, and coach care after a crisis session. Designed to be read once thoroughly before the first engagement and returned to when any trigger is present. The in-session crisis section (Section 4) is written to be scannable under pressure.
+
+**What informed it:** ICF scope of practice and ethics standards (governing definition of what coaching is and is not); the Columbia Suicide Severity Rating Scale (triage framework for suicidal ideation severity); QPR suicide prevention protocol (direct questioning approach); standard trauma-informed grounding practices; the Covenant Identity Coaching Agreement (scope statement the client receives).
+
+**Where it sits:** Block 3 of the reading order (Diagnostic Architecture). This placement is intentional: scope of practice awareness belongs in the same block as the diagnostic tools, not deferred to engagement preparation. A coach who reads the diagnostic sequence without the crisis protocol does not have complete operational knowledge.
+
+**What this document does not do:** Does not constitute legal advice about mandated reporting, liability, or professional licensing — consult an attorney or your state's coaching ethics board for jurisdiction-specific guidance. Does not provide clinical supervision or case consultation — those are external resources named in Section 8. Does not adjudicate whether a specific client presentation crosses the referral threshold — that judgment belongs to the coach, informed by this document.

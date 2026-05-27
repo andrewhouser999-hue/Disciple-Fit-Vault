@@ -1,7 +1,10 @@
 ---
-created: 
-basis: TBD
+created: 2026-05-21
+basis: "[[Covenant Identity — Practitioner Reference Index]] — positioned within diagnostic sequence; Kegan & Lahey (*Immunity to Change*) — Big Assumption experiment structure; Brueggemann (*The Message of the Psalms*) — lament arc; Willard (*Renovation of the Heart*) — whole-person installation telos"
 tags:
+  - session-tools
+  - phase-3
+  - identity-installation
 ---
 
 # Covenant Identity — Phase 3 Session Tools
@@ -90,6 +93,26 @@ The five primary installation tools are described in detail in the sections belo
 
 **When the client pulls the session in a different direction:** Follow them, briefly, to understand what they are bringing. Then make a conscious choice: is this new material related to the Phase 2 map (in which case it may be the highest-yield thread in this session), or is it avoidance of the installation work (in which case name it gently and return)? *"What you're bringing sounds significant. I want to stay with it. And I also notice we've been moving away from [Phase 3 work] for a few sessions now. Are those things connected?"*
 
+**Spirit Partnership — In-Session Prayer (When Indicated)**
+
+Healing prayer is not a standard installation tool and is not a required session element. It is deployed occasionally when specific conditions are met.
+
+**Deployment criteria** — Spirit Partnership prayer is indicated when:
+- Covenant truth has been cognitively received across multiple sessions with no felt movement (Stage 4b entry: implicit barrier, not cognitive distortion)
+- Declaration work consistently produces affect — tears, long pauses, somatic response — but the movement arrests; the wound is touched but the truth is not received
+- Somatic shutdown is present: affect is accessible but arrested in the body; explicit tools are not reaching the implicit level
+- The client names a desire for prayer — not prompted by the coach, but spontaneously expressed
+
+**What it is not indicated for:**
+- As a routine close to declaration work or session
+- As a substitute for rigorous diagnostic and installation work in earlier stages
+- When the client has not yet demonstrated cognitive reception of covenant truth
+- At Stage 4a (cognitive distortion present) — CBT tools apply first; prayer does not shortcut the cognitive work
+
+**Form:** The declaration is addressed to God in the presence of the coach — not a self-affirmation spoken into the air. The prayer is brief, specific, and targeted: the client names the lie in God's presence and receives the specific covenant truth as a response to God, not as a performance of optimism. The coach holds the relational field; the coach does not lead a lengthy intercession.
+
+**Practitioner preparation:** Healing prayer at this level requires the practitioner's own formation in Spirit Partnership before deployment. See Leanne Payne (*The Healing Presence*, *Restoring the Christian Soul*) in [[Covenant Identity — Author & Resource Reference]] (Tier 2). This is an advanced skill — see also Domain 3 in [[Covenant Identity — Practitioner Competency Framework]].
+
 **Landing (12–15 minutes)**
 
 Phase 3 landings are longer than Phase 1 or Phase 2 because the installation work requires more integration time. Do not rush.
@@ -131,6 +154,8 @@ The responses cluster into four types:
 - **Resistance** — the client names a specific objection, a competing belief, or the wound belief directly. This is the most useful response. Stay here. *"Say more about that. What is the thing that fires when you hear that?"*
 - **Affect** — the client tears up, goes quiet, or shows grief. The declaration has found the wound. Do not fill the silence. Let it land. Then: *"What is happening right now?"*
 - **Partial reception** — the client says something like *"I know that's true, but..."* This is movement. The "but" is the wound belief. Follow it.
+
+**Prayer orientation:** When the client is ready to speak the declaration rather than only hear it, offer a relational orientation: *"Rather than saying it as a statement about yourself, try saying it to God — 'Father, I receive that I am loved the way you love your Son.' Watch what happens when you address it to a Person."* A declaration spoken as prayer — addressed to God in the presence of the coach — is a different act than a self-affirmation recited into the air. The resistance it surfaces, or the reception it finds, is often more diagnostic. This is the standard posture for declaration work; in-session healing prayer (see Spirit Partnership note in Section 2) is the escalated form when affect is present but movement is arrested.
 
 Over multiple sessions, the declaration will begin to land differently. Track this in the language evolution table in the Session Growth Notes — the client's response in session 4 vs. session 7 is some of the most powerful Growth Report material.
 

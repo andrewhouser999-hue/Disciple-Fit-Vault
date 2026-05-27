@@ -192,14 +192,14 @@ This humility is not rhetorical. It is structural — built into the model's the
 
 ## What Distinguishes This Model
 
-| Approach | What It Does Well | What's Missing |
-|---|---|---|
-| Secular coaching | Strong methodology, genuine client agency | No authoritative identity reference point beyond the client's own preferences and goals |
-| Generic Christian coaching | Faith worldview present, Scripture honored | Covenant as structural theological frame; identity-level (not behavior-level) work |
-| Nouthetic biblical counseling | Scripture taken seriously; directness | Client agency and self-authoring; psychological precision; lament; evocative rather than prescriptive practice |
-| Spiritual direction | Contemplative depth; Spirit-attentiveness | Forward-focus; behavioral accountability; specific commitments; measurable arc |
-| CBT-based Christian counseling | Cognitive precision; structured skill-building | Deep belief pattern work; covenant declarations as the content of cognitive replacement; embodiment |
-| Discipleship and accountability programs | Community; consistency; Scripture immersion | Works primarily at the explicit level; does not address implicit God-image, deep belief patterns, or competing commitments |
+| Approach                                 | What It Does Well                              | What's Missing                                                                                                             |
+| ---------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Secular coaching                         | Strong methodology, genuine client agency      | No authoritative identity reference point beyond the client's own preferences and goals                                    |
+| Generic Christian coaching               | Faith worldview present, Scripture honored     | Covenant as structural theological frame; identity-level (not behavior-level) work                                         |
+| Nouthetic biblical counseling            | Scripture taken seriously; directness          | Client agency and self-authoring; psychological precision; lament; evocative rather than prescriptive practice             |
+| Spiritual direction                      | Contemplative depth; Spirit-attentiveness      | Forward-focus; behavioral accountability; specific commitments; measurable arc                                             |
+| CBT-based Christian counseling           | Cognitive precision; structured skill-building | Deep belief pattern work; covenant declarations as the content of cognitive replacement; embodiment                        |
+| Discipleship and accountability programs | Community; consistency; Scripture immersion    | Works primarily at the explicit level; does not address implicit God-image, deep belief patterns, or competing commitments |
 
 The epistemological claim of this model is specific: the client is the authority on their own *experience*. God is the authority on the client's *identity*. Both are fully honored. The coach does not dismiss the client's experience by overriding it with theological correction — the most common failure of directive Christian approaches. And the coach does not reduce the client's identity to whatever they currently feel, treating felt experience as the final word — the most common failure of secular coaching.
 

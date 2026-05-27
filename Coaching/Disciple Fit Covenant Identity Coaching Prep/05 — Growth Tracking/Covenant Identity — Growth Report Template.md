@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity — Intake Addendum (Coach)]] — verbatim baseline language; [[Covenant Identity — Session Growth Notes Template]] — session-by-session evidence record; [[Covenant Identity — Mid-Engagement Snapshot Template]] — mid-point comparison layer; narrative testimony tradition — format and tone"
+tags: [growth-tracking, practitioner-reference, client-facing, template]
 ---
 
 # Covenant Identity — Growth Report Template
@@ -18,7 +18,7 @@ tags:
 - Intake Addendum: All of Part A (verbatim language), Part B (felt-sense, present-story statement, covenant identity self-assessment), Summary Baseline table
 - Session Growth Notes: Section 4 (all language evolution pairs across all sessions), Section 3 (identity votes), Section 2 (growth moments), Section 6 (spiritual formation markers), Section 7 (coach observations), all one-sentence summaries
 - Mid-Engagement Snapshot: Already summarized the first half — pull from it for the milestone section
-- Final session: Re-administer Q9 verbally, gather current felt-sense description, current present-story statement, and current covenant identity self-assessment (which layers now feel true)
+- Final self-assessment for the Layer Movement table (Section X): **This must be gathered before the Growth Report reading session begins — not during it, and not after.** The client fills in the "At Close" column before the report is read aloud, so the document is complete as a record before it becomes an experience. Send the self-assessment prompt (the nine-layer table with the five-category scale) as a brief between-session task the week before the final session, or administer it verbally at the opening of the final session before the report reading begins. If gathered *after* the reading, the closing scores will be shaped by the emotional impact of the document rather than the client's honest self-assessment.
 
 **On tone:** This document honors the client's work without flattering them. It is specific, not generic. Generic growth reports ("you've grown so much!") are dismissed. Specific ones ("at intake you said [exact words]. In session 7 you said [exact words]") cannot be argued with. Make it specific enough that the client could not mistake it for someone else's report.
 
@@ -109,6 +109,8 @@ tags:
 ## III. What Was Hard
 
 *An honest record is not only the highlights.*
+
+> **Coach Note — Section III vs. Section XI:** These are not the same question asked twice. Section III looks backward — the hard parts of the engagement that have already been worked: the resistance that was held, the place where progress stalled, the competing commitment that fought back. It is past tense. Section XI looks forward — what remains genuinely in motion now, after the engagement is complete. The distinction matters when reading aloud: the client needs to hear that the difficulty was real AND worked (Section III) before hearing that the work is not finished (Section XI). Conflating the two sections — treating what was hard as the same as what continues — flattens the arc and makes the report feel like a mixed review rather than an honest record of a completed chapter.
 
 [Name 2-3 genuinely difficult elements of the engagement — not the client's failures, but the hard work: the resistance that had to be held, the place where progress stalled, the competing commitment that didn't fully resolve, the session where something difficult surfaced. Be specific and non-shaming. This section gives the growth report credibility. Clients who receive only affirmation do not fully trust the document.]
 
@@ -223,6 +225,7 @@ tags:
 | God sees everything about me and chose me anyway | | |
 | I am a new creation — the old is genuinely gone | | |
 | I am an adopted child with full inheritance rights | | |
+| I am a co-heir with Christ — the full inheritance is shared with me | | |
 | God's presence lives in me — I am not alone | | |
 | My standing before God is secure right now | | |
 | I am loved the way the Father loves the Son | | |
@@ -237,7 +240,11 @@ tags:
 
 *An honest record acknowledges what is still in motion.*
 
-[Name 2-3 areas where the work is genuinely not finished — schema material still active, a competing commitment not fully resolved, a covenant identity layer still primarily cognitive rather than felt. Frame these within the sanctification arc: this coaching engagement is a chapter, not the whole story. The ongoing work is not evidence that the coaching failed — it is evidence that the client is in a real formation process, not a manufactured one.]
+[Name 2-3 areas where the work is genuinely not finished — schema material still active, a competing commitment not fully resolved, a covenant identity layer still primarily cognitive rather than felt. Reference Section X layer table for which specific layers remain at Cognitively held or Blank status. Frame these within the sanctification arc: this coaching engagement is a chapter, not the whole story. The ongoing work is not evidence that the coaching failed — it is evidence that the client is in a real formation process, not a manufactured one.]
+
+> **Coach Note — Rule of life:** If a rule of life was constructed in Phase 4 (Spiritual Disciplines Guide, Section VIII), include it here — either reproduced or summarized — as the named forward structure the client carries out of the engagement. The rule of life is the most concrete form of "what continues"; including it gives the Growth Report its forward-facing anchor.
+
+> **Coach Note — Monthly lament rhythm:** If a lament practice was established during Phase 4, name it here as part of what continues. The Lament Practice Guide (Phase 4 section) establishes a once-monthly lament rhythm as formation maintenance — this is not a therapeutic practice but a permanent feature of the ongoing life of faith. If it was designed in the Phase 4 forward structure conversation, include it in this section so the client carries it out of the engagement as a named commitment, not just a fading suggestion.
 
 *The work of becoming who you already are in Christ is the work of a lifetime. What you see in this report is not the ceiling. It is proof that the floor is real — and that you can stand on it.*
 
@@ -256,6 +263,12 @@ tags:
 ---
 
 *[Space for client to write — or prompt to write in journal/bring to session]*
+
+> **Coach Note — Three Scenarios (remove before giving to client):**
+> The Growth Report includes the letter prompt as Section XII. How the coach handles it in the final session depends on what the client brings:
+> - **Written and read aloud:** Receive without comment. Witness. Thank them for sharing it.
+> - **Written but held privately:** Do not require sharing. Ask: *"What was it like to write it?"* Note privately for Growth Report narrative.
+> - **Not written:** Offer the one-sentence oral version: *"What would you say to that person right now?"* Receive it as though it were the letter. See Phase 4 Session Tools for full facilitation guidance.
 
 ---
 

@@ -36,6 +36,7 @@ tags:
 | 11 | [[11 — Repentance Framework]] | Guilt, habitual sin, remorse without change | Biblical Theology |
 | 12 | [[12 — Forgiveness Process]] | Resentment, bitterness, unforgiveness | Forgiveness coaching |
 | 16 | [[16 — Examen Practice]] | Disconnection from God, discernment, interior awareness | Ignatian |
+| 19 | [[19 — Felt Sense Focusing]] | "I know it's true but can't feel it"; implicit-level stuckness; Stage 4b between-session work | Gendlin / Bio-Spiritual Focusing |
 
 ---
 
@@ -65,3 +66,5 @@ tags:
 | "I feel guilty / ashamed" | [[11 — Repentance Framework]] or [[01 — Thought Record]] |
 | "I'm angry / bitter" | [[10 — Lament Framework]] → [[12 — Forgiveness Process]] |
 | "I'm disillusioned / lost meaning" | [[10 — Lament Framework]] + [[18 — Legacy Vision Work]] |
+| "I know it's true but can't feel it" | [[19 — Felt Sense Focusing]] |
+| "Something is stuck but I can't name it" | [[19 — Felt Sense Focusing]] |

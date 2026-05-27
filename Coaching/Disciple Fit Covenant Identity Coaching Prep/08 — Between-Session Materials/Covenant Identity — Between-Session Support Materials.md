@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity — Diagnostic Lens Transition Logic]] — phase structure for practice assignment; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type calibration; [[Covenant Identity — God-Representation — Research Basis & Synthesis]] — God-rep type precondition framework; Willard VIM — spiritual formation mechanism underpinning between-session practice"
+tags: [between-session, practitioner-reference, client-facing]
 ---
 
 # Covenant Identity — Between-Session Support Materials
@@ -56,7 +56,11 @@ Frame the practices for the client in these terms: not "here are some exercises 
 
 Each session ends with a specific commitment tied to what surfaced in the session. This is not an assigned exercise — it is the client's own chosen next step. It is carried forward and debriefed at the opening of the next session.
 
-**Coach note:** The debrief question is not "did you do it?" It is "what happened?" Non-follow-through is Immunity to Change data. Follow-through without internal noticing is incomplete. What the client discovered about themselves in the act — what they expected, what actually happened, what they noticed in their body — is the formation. Track this in Session Growth Notes.
+**Coach framing at Phase 1 close:** Introduce the commitment as an invitation, not an assignment. Sample language: *"As we close today, I want to ask you to carry something into the week — not as homework, but as a way to hold the thread. What's one small thing that feels right to take from what we touched today?"* The client names it; the coach does not assign it. Phase 1 commitments should be small enough not to require significant vulnerability independent of the coaching relationship — the relational container is still forming.
+
+**Coach note — debrief:** The debrief question is not "did you do it?" It is "what happened?" Non-follow-through is Immunity to Change data. Follow-through without internal noticing is incomplete. What the client discovered about themselves in the act — what they expected, what actually happened, what they noticed in their body — is the formation. Track this in Session Growth Notes.
+
+**Watch for: compliance without engagement (False Noble pattern).** A client who consistently completes every practice and reports it smoothly may be performing the between-session work rather than inhabiting it. Tells: the debrief is well-organized and emotionally external; internal-column entries in the identity vote log read like observations about a third party; the client cannot name a moment of surprise or resistance. This pattern calls for a direct observation rather than continued encouragement: *"I notice your debrief is consistently clear and thorough. I'm wondering whether the practice is landing at the level of the work, or whether you're reporting on it from a slight distance. What would it look like to do the practice in a way you couldn't report smoothly?"*
 
 ---
 
@@ -144,6 +148,28 @@ The Universal Base Set runs for all clients. The practices below are selected an
 
 ---
 
+### Permissive/Safe God Type
+*Secure-appearing, low-demand attachment pattern / Entitlement/Grandiosity or Emotional Inhibition schema*
+
+**What this type needs between sessions:** Practices that introduce specificity and honest engagement — not distress, but curiosity-deepening. The client's prayer life is likely pleasant and untroubling. The between-session work is not to alarm the client but to surface whether anything real is happening in the formation: whether God is specifically engaged with this person, not merely generically present. The goal is a fuller, more real God — holy and tender held together — not a more threatening one.
+
+**Secondary presentation note:** If the Permissive/Safe image is defensive (sitting over a Punitive one), practices that press toward specificity in God's engagement may surface low-grade anxiety. If the client reports anything other than mild curiosity, slow down and bring the observation to session before continuing.
+
+**What works:**
+
+**Specificity probe journaling.** Once per week, the client writes one paragraph responding to: *"What was God's specific response to something in my life this week — not general approval, but a response to a particular thing?"* The absence of any specific response is itself data. Client instruction: *"You're not looking for condemnation. You're asking whether God is engaged with who you specifically are and where you're specifically going — not just generically present. Bring whatever you notice, including if nothing came."*
+
+**Gospel encounter: honest engagement texts.** Once per week, read Mark 10:17–22 or John 21:15–17 using the encounter method. One question only: *"What does it feel like that love and specificity came together in this scene?"* Client instruction: *"This is not a preparation for God to say something hard to you. It is an invitation to meet a God who loves you too well to be indifferent to the specific person you are."*
+
+**Holy love prayer.** Once per week, hold this prayer for five minutes: *"Lord, I want to know You as You actually are — not only as the God who approves, but as the God who loves me too well to leave me where I am. Show me."* Sit with it. Do not produce anything. The Spirit works with the request.
+
+**What to avoid or defer:**
+- Confrontational framing — the goal is not to produce alarm but to deepen encounter; "specific" and "real" are more accurate aims than "challenging"
+- Practices designed for Punitive clients — this type does not need more grace-softening; they need more specificity, not more reassurance
+- Pressing toward the Punitive image underneath (if suspected) without the session container supporting that movement
+
+---
+
 ### Contingent/Transactional God Type
 *Anxious/ambivalent attachment pattern / Unrelenting Standards schema*
 
@@ -185,6 +211,27 @@ The Universal Base Set runs for all clients. The practices below are selected an
 - Practices requiring significant emotional vulnerability before strong relational safety is established
 - Extended emotional exposure to God-encounter material without the coaching container established
 - Any practice that increases the emotional stakes significantly from what the client has already tolerated
+
+---
+
+### Overwhelming/Consuming God Type
+*Avoidant (threat-based) attachment pattern / Enmeshment-Undeveloped Self schema*
+
+**What this type needs between sessions:** Small, bounded encounters with clear endings. Unlike the Absent/Distant type (who needs more encounter), this type needs safer encounter — the same depth but held in a smaller container until capacity expands. The goal is not less intimacy with God but a gradually widened window of tolerance for receiving what has previously felt destabilizing. Regularity of practice matters; intensity does not.
+
+**What works:**
+
+**One verse only, five minutes maximum.** Assign a single verse — a promise or description of God that speaks to the client's specific false identity or wound. Time the practice. When five minutes pass, the practice ends — even if the client wants more. The explicit time boundary is structural: it gives the self a container within which encounter is safe. The message is: *"You are not going to lose yourself in this. There is an end. You remain you throughout."* Client instruction: *"I'm giving you one verse and five minutes. Set a timer. When it goes off, you're done. You don't have to stop feeling what you feel — but the formal practice closes. This boundary is not a limitation; it's a container."*
+
+**Short written address to God — three sentences maximum.** Name one thing that's true, one thing the client is asking for, and one thing they believe even if it's barely held. Close the practice after three sentences. No open-ended journaling that could pull the client deeper than the session container has prepared them for. Client instruction: *"Three sentences, then close. You're not writing a letter — you're placing something small. The practice is finished when the three sentences are done."*
+
+**Noticing practice — with a naming clause.** Similar to the Capricious/Unsafe noticing practice, but with an added layer: after noticing a possible moment of God's presence, the client adds: *"That was God, and I'm still here."* This clause builds the implicit knowledge that encounter does not dissolve the self. Client instruction: *"One notice per day. One sentence. Add at the end: 'That was God, and I'm still here.' That's the whole practice."*
+
+**What to avoid or defer:**
+- Ignatian Gospel imagination — full imaginative immersion is contraindicated until encounter safety is established
+- Extended contemplative prayer, extended silent retreat, extended worship formats
+- Group prayer settings where the client cannot easily self-regulate
+- Any framing that presents full surrender or complete self-abandonment as the immediate spiritual goal — this replicates the threat; reserve that language for Phase 4 when the safety foundation is built
 
 ---
 
@@ -281,10 +328,20 @@ I'm leaving this here.
 - *"I notice I want to earn the right to be in this conversation. I'm setting that down."*
 - *"What would it mean to just receive something from you today without giving anything back?"*
 
+**Permissive/Safe God:**
+- *"God, what is Your specific response — not Your general love, but Your response — to something particular about me right now?"*
+- *"I'm asking to know You as more than approval. Show me who You actually are toward me."*
+- *"You loved the rich young man and said something that cost him everything. What would You say to me that specifically?"*
+
 **Capricious/Unsafe God:**
 - *"God, I'm not sure I trust you today. That's honest."*
 - *"I'm here for two minutes. That's what I can offer."*
 - *"I noticed something today that might have been you. I'm not sure. But I'm noting it."*
+
+**Overwhelming/Consuming God:**
+- *"God, I'm here for [X minutes]. I trust You won't overwhelm me in that time."*
+- *"I want to come to You and still be myself when I leave. I believe that's possible."*
+- *"I noticed Your presence for a moment, and I'm still here."*
 
 ---
 
@@ -339,6 +396,7 @@ How the coach opens the following session determines what formation data is gath
 - **Session Growth Notes** — debrief of between-session practice generates language evolution data, identity vote records, and spiritual formation markers
 - **Growth Report** — accumulated identity vote log, prayer quality shifts, and lament movement are primary source material for Growth Report Sections IV–VII
 - **Mid-Engagement Snapshot** — between-session practice observations contribute to the milestone documentation
+- **[[Covenant Identity — Between-Session Distress Protocol]]** — when the practices in this document are not sufficient to settle what has surfaced (Tier 2 activation), the Distress Protocol is the next step; the Support Materials practices are also the primary coach recommendation for what the client does while waiting for the bridge call or next session
 
 ### Phase guidance
 

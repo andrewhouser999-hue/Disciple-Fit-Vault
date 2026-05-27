@@ -1,11 +1,13 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Identity Installer - Personal]] — 22-category identity framework and declaration architecture; Young (Schema Therapy — blocking schema identification); White & Epston (Narrative Therapy — evidence story and re-authoring methodology); Thompson (somatic anchoring mechanism for identity vote practice)"
+tags: [between-session, client-facing, worksheet, phases-3-4]
 ---
 
 # Covenant Identity — Deep Identity Installation Worksheet
 *Between-Session Practice | Phases 3–4*
+
+> **Companion document:** This worksheet is paired with the *Deep Lie Work Worksheet* (Phases 2–3). Assigning this worksheet before lie/schema work has surfaced what's blocking reception risks the identity installation encountering an unaddressed blocking schema — the installation runs but doesn't land. Typical sequence: Deep Lie Work Worksheet in Phase 2–3; this worksheet introduced in Phase 3 after the operative schema has been named. Both can run concurrently in Phase 3.
 
 ---
 
@@ -31,6 +33,8 @@ Three gaps the Installer doesn't address on its own:
 
 *One identity category at a time. Be specific — "I am loved" is a category. "I am chosen by God before I drew my first breath, and that choosing was not contingent on my performance" is a claim.*
 
+*Identity categories are drawn from the Identity Installer (22-category personal identity framework). Your coach will identify which category to work based on the Phase 2 wound map and current Phase 3 declaration work — do not attempt to select from all 22 yourself. Work one category per worksheet.*
+
 **Identity Statement:**
 >
 
@@ -53,6 +57,7 @@ Every identity category has a corresponding schema that resists it. The schema d
 
 ### Common Schema Reference
 *(Find the one most active against this identity category)*
+*Schema categories adapted from Jeffrey Young's Schema Therapy framework (Young, Klosko & Weishaar, 2003).*
 
 | Schema | What It Does to This Identity Work |
 |---|---|
@@ -63,6 +68,7 @@ Every identity category has a corresponding schema that resists it. The schema d
 | Failure | Processes evidence against a longer history of failures and dismisses it |
 | Mistrust / Abuse | Treats identity declarations as manipulation or wishful thinking |
 | Subjugation | Accepts the identity privately but can't live it out — others' needs erase it in practice |
+| Self-Sacrifice | Makes receiving-focused identity statements feel selfish — "I shouldn't be focusing on myself when others need me" |
 
 ---
 
@@ -100,6 +106,8 @@ Lists of evidence stay abstract. Identity consolidates when the evidence becomes
 **My response to that dismissal:**
 >
 
+> **Watch for:** A well-formed evidence story that you remain emotionally external to — you can narrate it accurately but it does not land, does not feel inhabitable, or immediately triggers "but that doesn't really count." This is most common in the False Noble pattern: the narrative is constructed correctly but the blocking schema has moved from dismissing the story to standing slightly outside it. If the story feels more like a report about yourself than something you can re-enter, name that and bring it to session. The coach Note at the bottom of this worksheet describes the follow-up protocol.
+
 ---
 
 ## Part 4 — The Identity Vote (Consolidation Layer)
@@ -107,6 +115,8 @@ Lists of evidence stay abstract. Identity consolidates when the evidence becomes
 Identity isn't only declared — it's enacted. Each time you act from your stated identity, especially when the blocking schema is pushing against it, you cast a vote for who you are. Those votes accumulate into lived conviction that no amount of declaration alone can produce.
 
 An **identity vote** is a specific action taken from the stated identity — not a performance, not proof, but an act of alignment. Small votes count. The schema loses ground through accumulation, not through dramatic breakthroughs.
+
+> **Grace note:** The vote does not produce your identity — it enacts it. God's declaration precedes and creates who you are; the behavioral vote is a response to what has already been declared true, not a producer of it. You are not voting yourself into identity. You are acting from an identity you already have. This distinction matters: if the vote feels like it is earning something, that is the schema reframing alignment as performance. Return to the identity statement before acting.
 
 ---
 
@@ -145,6 +155,10 @@ An **identity vote** is a specific action taken from the stated identity — not
 ---
 
 ## Part 5 — Relational Ecology *(Secondary — work this when ready)*
+
+> **Entry criteria:** Work this section after the identity statement, blocking schema, and evidence story have stabilized — meaning you can return to the evidence story, the schema interruption is becoming more consistent, and the identity vote has generated at least one week of behavioral data. Do not work this section in the same sitting as Parts 1–3 on first use. The relational layer adds complexity; it should be entered when the identity claim itself is relatively grounded. If your coach has not indicated you are ready, defer this section to session.
+
+> **Scope caution:** The final prompt ("What I may need to do differently in those relationships") is for awareness, not action. Do not make relational decisions or initiate significant conversations based solely on what you write here. Bring your conclusions to session before acting. Relational changes rooted in emerging identity work can be done well or poorly; the coaching relationship is the context for discerning which actions to take and when.
 
 Identity is partly maintained by the people around us. Some relationships reflect your true identity back accurately. Others distort it — actively or passively, intentionally or not. Knowing which is which is not optional information.
 
@@ -214,3 +228,11 @@ Opening questions:
 That last question matters as much as the result. Watch for the client minimizing a confirming outcome ("it worked out, but it was probably just luck"), dismissing evidence the schema couldn't predict, or struggling to let the vote count. That response pattern is the blocking schema defending the old identity — and naming it in the moment is the coaching move.
 
 The evidence story debrief is the secondary entry point: "Did you go back to the story you wrote? Did it feel any different?" Over time the story should become more inhabitable, less effortful to access. If it's still bouncing off, the blocking schema is still running — and that's where the work is.
+
+*If this worksheet surfaces elevated activation that does not settle between sessions — the blocking schema responding at unusual intensity, or identity work intersecting with a life trigger — see [[Covenant Identity — Between-Session Distress Protocol]].*
+
+**Co-optation patterns to watch for:**
+
+*Vote-as-performance:* A Warrior or False Noble client can execute the identity vote correctly — the specific action is taken, the report is thorough, the debrief fills in as instructed — but the vote was an achievement, not an act of alignment. The tell: the debrief answers are technically complete but the "what I know about this identity now that I didn't know before" prompt is thin, defended, or missing. The client performed the vote; they did not act from the identity. The coaching move: "What was happening in you while you were doing it — not what you did, but what you felt?" That question is harder to perform through.
+
+*Evidence story externality:* A False Noble client may narrate an accurate, well-organized evidence story that they remain emotionally outside of — the story is reportable but not inhabitable. They can describe what happened but cannot re-enter it. The tell: the story is coherent and correct, but repeated return does not deepen it. The coaching move: "If I asked you to close your eyes and go back to that moment — not narrate it, but actually be in it — what happens?" If the story becomes available differently under that kind of prompting, the schema was managing the narration. If it stays flat, the evidence story may need to be replaced with something smaller and more specific.

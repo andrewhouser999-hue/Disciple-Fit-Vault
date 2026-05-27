@@ -1,6 +1,6 @@
 ---
-created: 
-basis: TBD
+created: 2026-04-25
+basis: "Co-Active Coaching (Kimsey-House et al.), Wampold/Lambert/Bordin (therapeutic alliance research), Kegan & Lahey (Immunity to Change), Rogers (person-centered), Brueggemann (lament), Gollwitzer (implementation intentions) — coach development reference synthesizing research on exceptional coaching practice; applied to Covenant Identity Coaching context"
 tags:
 ---
 

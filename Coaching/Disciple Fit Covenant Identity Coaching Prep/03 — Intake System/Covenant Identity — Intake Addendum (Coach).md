@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-21
+basis: "[[Covenant Identity — Two-Tier Intake Protocol]] — two-tier structure timing; [[Covenant Identity Intake — Coach Annotation Reference]] — diagnostic guidance for interpreting responses; [[Covenant Identity — Session Growth Notes Template]] — B fields feed Language Evolution table; coaching documentation standards"
+tags: [intake, practitioner-reference, coach-documentation, template]
 ---
 
 # Covenant Identity — Intake Addendum (Coach)
@@ -167,15 +167,18 @@ tags:
 | God sees everything about me and chose me anyway | |
 | I am a new creation — the old is genuinely gone | |
 | I am an adopted child with full inheritance rights | |
+| I am a co-heir with Christ — the full inheritance is shared with me | |
 | God's presence lives in me — I am not alone | |
 | My standing before God is secure right now | |
 | I am loved the way the Father loves the Son | |
 | I am sent — my life carries specific purpose | |
 | I am in a divinely-overseen formation process | |
 
-**Layers with strongest affirmation:**
-**Layers with hesitation or qualified response:**
-**Layers with rejection, blankness, or fear:**
+**Layers at Embodied status** (deeply felt as true, integrated):
+**Layers at Partially felt status** (beginning to land emotionally, not yet consistent):
+**Layers at Cognitively held status** (believed theologically but not felt):
+**Layers at Blank status** (no resonance, not yet real):
+**Layers at Rejected status** (actively disbelieved, contested, or feared):
 
 ---
 

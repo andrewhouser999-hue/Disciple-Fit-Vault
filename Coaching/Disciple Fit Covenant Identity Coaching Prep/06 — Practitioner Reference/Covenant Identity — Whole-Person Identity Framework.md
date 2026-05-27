@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-11
+basis: "[[Covenant Identity Coaching — Practice Definition]] — three-discipline architecture and telos; Johnson (Foundations for Soul Care — Christian psychology framework, imago Dei, soul faculties architecture); Thompson (Anatomy of the Soul; Soul of Shame — implicit memory mechanism, relational formation, shame dynamics); Allender (To Be Told; Redeeming Heartache — character wound typology, false/true self, story as identity carrier); Powlison (Seeing with New Eyes — functional worship diagnostic, heart-ordering language)"
+tags: [practitioner-reference, anthropology, identity-framework, model-foundation]
 ---
 
 # Covenant Identity — Whole-Person Identity Framework
@@ -13,7 +13,7 @@ tags:
 
 ## Framing Note
 
-This framework draws on four contributors — Curt Thompson, Dan Allender, Eric L. Johnson, and Gary Collins — alongside Scripture as the governing plumbline. Psychological contributions are included only where they describe mechanisms Scripture assumes but does not explain, or where they independently confirm what Scripture says about human nature. They do not revise the biblical account — they make it more visible in the coaching room. See [[Covenant Identity — Integration Rationale]] for the full theoretical justification.
+This framework draws on four contributors — Curt Thompson, Dan Allender, Eric L. Johnson, and David Powlison — alongside Scripture as the governing plumbline. Psychological contributions are included only where they describe mechanisms Scripture assumes but does not explain, or where they independently confirm what Scripture says about human nature. They do not revise the biblical account — they make it more visible in the coaching room. See [[Covenant Identity — Integration Rationale]] for the full theoretical justification.
 
 ---
 
@@ -284,14 +284,64 @@ Referral is not a coaching failure — it is a scope decision that serves the cl
 
 ## Sources and Boundary Notes
 
-This document draws on four contributors: **Curt Thompson** (*Anatomy of the Soul*; *The Soul of Shame*), **Dan Allender** (*To Be Told*; *Redeeming Heartache* with Cathy Loerzel), **Eric L. Johnson** (*Foundations for Soul Care*), and **Gary Collins** (*Christian Coaching*).
+This document draws on four contributors: **Curt Thompson** (*Anatomy of the Soul*; *The Soul of Shame*), **Dan Allender** (*To Be Told*; *Redeeming Heartache* with Cathy Loerzel), **Eric L. Johnson** (*Foundations for Soul Care*), and **David Powlison** (*Seeing with New Eyes*; *How Does Sanctification Work?*).
 
 **Thompson** builds on Dan Siegel's interpersonal neurobiology (IPNB). Siegel's observational findings regarding relational formation, memory systems, and neural integration are used here as mechanism descriptions. Siegel's framework telos — psychological integration as the goal of human flourishing — is held subordinate to Scripture's account of human flourishing as conformity to Christ and life in right relation to God.
 
-**Collins** references Erikson's developmental stage theory and CBT schema research. The observational content of both is used: developmental history shapes identity patterns; core beliefs operate automatically below conscious awareness. Erikson's normative definition of healthy identity as autonomous self-construction and CBT's assumption that cognitive restructuring alone produces lasting change are not imported.
+**Powlison** (CCEF) provides the diagnostic lens for how the heart organizes around substitutes for God — what he frames as idolatry or functional worship. Every person's affections are organized around something; coaching must identify what is functionally occupying the place that belongs to God. This maps onto the affections faculty in the soul's anatomy above and provides the diagnostic vocabulary for the gap between stated and functional theology. Powlison's framework is imported for its observational precision about the heart's ordering, not its counseling methodology.
 
 All psychological contributions in this document operate under Scripture as the governing plumbline. For the full integration rationale — including the theoretical justification for this approach and its distinction from classic psychological integration — see [[Covenant Identity — Integration Rationale]].
 
-## Pending Tasks
+---
 
-- [ ] Update contributor list — Collins removed from model 2026-05-14 (replaced by Powlison). Confirm this document reflects the change and does not retain Collins references in body text.
+## Anticipated Critiques
+
+### Critique 1 — Reductionism: Mapping soul faculties onto psychological/neurological structures subordinates biblical anthropology to empirical categories
+
+**Steelmanned form:** The document maps soul faculties (intellect, will, affections, imagination, memory, body) onto psychological and neurological categories — implicit memory, somatic encoding, emotional patterns. This creates a category substitution risk: what begins as a biblical description of the soul ends up being explained and evaluated by empirical frameworks. If the intellect "is" the cognitive system, the will "is" the volitional-regulatory system, and the affections "are" the attachment system, psychology is doing the explanatory work and biblical language is decorative. The diagnostic tools in Part 4 are drawn from psychological observation — CBT thought patterns, Thompson's memory framework, Allender's typology — with Scripture providing framing rather than content. The reductionism is structural, not incidental.
+
+**Response:** The document's architecture intends the opposite direction. Soul faculties are not defined by their psychological correlates; the psychological correlates are mechanism descriptions of what the faculties do at a developmental and neurological level — a level Scripture assumes without providing. The governing claim is theological: intellect, will, affections, imagination, memory, and body are faculties of the soul, defined by their role in the human person's relationship to God and participation in imago Dei. That definition is not revised by the psychological descriptions — it is enriched by mechanism detail. The diagnostic tools in Part 4 describe what distortion of these faculties looks like in session, not what the faculties are. The governing authority runs theological → psychological, not the reverse.
+
+**Remaining exposure:** The reductionism risk becomes real in a practitioner who is more psychologically than theologically formed. In that practitioner's hands, psychological descriptions can become the governing framework with biblical language as a decorative overlay. The document's architecture cannot prevent this; it requires the practitioner formation described in [[Covenant Identity — Integration Rationale]].
+
+---
+
+### Critique 2 — Imago Dei Exegetical Grounding: The five dimensions are not derived from the imago Dei claim
+
+**Steelmanned form:** The document grounds its structure in imago Dei, but the five-dimension model (Physical / Emotional / Cognitive-Mental / Relational-Social / Spiritual) maps more closely onto common psychological whole-person frameworks than onto any specific exegesis of Genesis 1–2. Scholars debate whether imago Dei refers to rational capacity (Aquinas), relational-covenantal vocation (Barth, Middleton), functional representation (Walton), or creaturely dignity broadly. None of these debates produce these five dimensions. Claiming imago Dei as the theological ground while the framework's shape comes from psychological whole-person models introduces a mismatch between the stated basis and the actual source.
+
+**Response:** The imago Dei claim establishes the foundational identity category — every person is God's image-bearer, carrying the ontological dignity and formation telos that implies — not the five-dimension structure. The five dimensions describe how a whole human being functions; their source is the Christian tradition's description of the soul's faculties (Johnson drawing on Augustine, Aquinas, the Puritans) alongside mechanism descriptions from psychological research. They are not derived from imago Dei exegesis; they are coherent with the entity imago Dei describes. The governing claim is that identity is given by God, distorted by the fall, and renewed toward Christ-likeness; the five dimensions describe the anatomy of what is given, distorted, and renewed.
+
+**Remaining exposure:** The document's current framing could be sharpened to make this distinction explicit — the dimensions are coherent with imago Dei, not derived from it. As written, a careful reader could conclude the document is claiming more exegetical derivation than it intends. This is a framing precision issue, not a framework error.
+
+---
+
+## Load-Bearing vs. Modifiable
+
+**Load-bearing** — changing these changes what the model is:
+
+- *The Given → Distorted → Being Renewed frame* — the governing anthropological structure. Remove or relativize this and the coaching model loses its theological rationale; the telos (conformity to Christ, Romans 8:29) determines what counts as progress and why coaching is appropriate.
+- *Soul's faculties as the structural model* — intellect, will, affections, imagination, memory, body. This is the model's alternative to importing a secular personality or functional model. Replace it with a psychological framework and the coaching work loses its theological anthropological grounding.
+- *The somatic dimension* — body as a genuine faculty of the whole person encoding identity before the mind has language for it. If treated as optional or clinical-only, a primary channel of identity information closes.
+- *Implicit memory as the explanation for explicit/functional belief divergence* — this is the mechanism that explains why declarations often do not change behavior and why formation takes time. Remove it and the model has no account of why cognitive truth delivery is insufficient for identity change.
+
+**Modifiable** — can change without changing what the model is:
+
+- *Specific contributor mapping to Thompson and Allender* — their mechanism descriptions are the best currently available. If a contributor with greater empirical grounding emerged for any of the mechanisms, the contributor could be updated while the anthropological structure remains.
+- *Dimension labels* — Physical / Emotional / Cognitive-Mental / Relational-Social / Spiritual are working labels, not doctrinally significant categories. They could be relabeled for different audiences without changing the underlying claim.
+- *The diagnostic questions in Part 4* — the diagnostic categories (false self / true self, core beliefs, the gap) are load-bearing; the specific question language is not.
+
+---
+
+## Source Log / Evidence Levels
+
+*For each contributor: what is established in clinical or empirical contexts, and what is theoretical in coaching deployment. "Theoretical" means the observation is applied to coaching by reasoning from clinical findings, not directly tested in coaching contexts.*
+
+| Contributor | Clinical / Empirical Evidence Level | Coaching Deployment |
+|---|---|---|
+| **Curt Thompson** (implicit memory gap, relational formation, shame as attack on being) | Mixed. The underlying neuroscience (Siegel's IPNB, attachment theory, implicit/explicit memory research) is empirically well-established. Thompson's integration of this with shame and spiritual formation is his own synthesis; it is not independently validated. | Theoretical — mechanism descriptions applied to coaching by conceptual transfer from developmental and clinical research. Not tested in coaching contexts specifically. |
+| **Dan Allender** (Warrior/Hermit/False Noble typology; false self/true self; story as identity carrier) | Practitioner-validated through decades of clinical narrative work. The typology is a practitioner-developed construct; it has not been tested for interrater reliability, exhaustiveness, or mutual exclusivity in empirical research. Evidence type: practitioner-expert. | Theoretical — applied to coaching through practitioner reasoning. Evidence for coaching-specific utility is inferential, not empirical. |
+| **Eric L. Johnson** (imago Dei, soul faculties structure, virtue as middle-term) | Architectural and philosophical. *Foundations for Soul Care* is a theoretical framework document. Its internal coherence is evaluable philosophically; it makes no direct empirical claims and does not function as an intervention protocol. | N/A — Johnson governs the framework's anthropological structure; he is not a deployable mechanism. |
+| **David Powlison** (functional worship diagnostic; heart-ordering language) | Practitioner-validated within CCEF's counseling tradition. The diagnostic lens is exegetically grounded and clinically observed across decades of biblical counseling. Not peer-reviewed in the empirical sense; the vocabulary is Scripture-based and pastorally developed. | Theoretical in coaching deployment — the observational framework transfers from counseling to coaching by conceptual coherence, not by coaching-specific validation. Presenting population and helping structure differ. |
+
+*Implication for practice: the anthropological and diagnostic scaffolding of this framework is theoretically robust. Empirical validation in coaching-specific contexts is limited. Hold as practitioner-grade tools informed by clinical observation and theological reasoning, not as empirically validated protocols.*

@@ -1,7 +1,7 @@
 ---
-created: 
-basis: TBD
-tags:
+created: 2026-05-20
+basis: "[[Covenant Identity — God-Representation — Research Basis & Synthesis]] — Rizzuto, Hall, Benner, Kirkpatrick synthesized into practitioner tool; six God-representation types with coaching approaches, question library, and transformation markers; Permissive/Safe added 2026-05-21 per taxonomy decision (six canonical types confirmed)"
+tags: [practitioner-reference, god-representation, diagnostic, intervention, phase-1, phase-2, phase-3, phase-4]
 ---
 
 # Covenant Identity — God-Representation Deepening Tool
@@ -17,7 +17,7 @@ Phase 1 identifies the Gap between the client's declared covenant identity and t
 
 This tool addresses:
 - The theoretical frame explaining why the living God and the theological God can coexist in conflict
-- The four primary God-representation types: how they form, how they present, and which schemas they correlate with
+- The six primary God-representation types: how they form, how they present, and which schemas they correlate with
 - The three practitioner errors that undermine the work
 - How to work with the surfaced representation over time across all four phases
 - Type-specific coaching approaches and a full question library
@@ -61,7 +61,7 @@ Under stress, the attachment system activates, and the implicit God-image govern
 
 ---
 
-## The Four Primary God-Representation Types
+## The Six Primary God-Representation Types
 
 Most clients present a primary type with secondary features from one other type. The types are not diagnostic labels — they are formation patterns worth tracking and naming.
 
@@ -91,7 +91,21 @@ Most clients present a primary type with secondary features from one other type.
 
 ---
 
-### 3. The Contingent/Transactional God
+### 3. The Permissive/Safe God
+
+**Relational origin:** Primary caregivers who were consistently affirming but unable to offer honest, boundaried love — who could not say no, could not name problems, or required the child to be fine. Religious environments emphasizing God's unconditional acceptance without the corresponding reality of God's holiness, His invitation to transformation, or His honest engagement with the person's actual condition. In a significant number of cases, this image is *secondary and defensive*: a constructed Permissive God that sits over a more threatening primary image (most often Punitive), functioning as a buffer against having to contend with the demanding one. Moving the permissive image too quickly in these clients can surface the image underneath.
+
+**Presentation in coaching:** The client's spiritual life is pleasant, comfortable, and shallow. Scripture's harder texts are consistently softened or bypassed. There is no experience of God as particularly responsive to who the client actually is — no felt weight of holy invitation, no sense that God is actively engaged with the specific condition of this person's soul. God's love is experienced as broad, warm, and undirected: unconditional approval rather than transforming covenant love. The client typically does not experience anything as wrong. This makes the Permissive/Safe type the most difficult to surface — the presenting issue is not suffering but the absence of real encounter.
+
+**Secondary presentation:** In clients where the Permissive image is defensive, pressing toward specificity in God's engagement will produce low-grade anxiety rather than curiosity or relief. If this pattern appears, ease off — the session note should record the secondary-layer hypothesis. Do not attempt to move the image without first acknowledging what it is protecting.
+
+**Attachment pattern (Kirkpatrick):** Secure-appearing but relationally low-demand. God is expected to be present and benign, and that expectation is typically met — but the relationship does not activate deeply in either direction. This differs from earned security, which reflects genuine encounter, disruption, and repair. Here there is no vivid history of being specifically known, pursued, or challenged.
+
+**Schema correlation (Young):** Entitlement/Grandiosity (in presentations where the permissive image validates self-sufficiency and low-demand spiritual life); Emotional Inhibition (in presentations where God's blanket approval reinforces surface-level relating); Subjugation (in presentations where the permissive image conceals the more threatening one underneath and the client has learned not to make demands of God).
+
+---
+
+### 4. The Contingent/Transactional God
 
 **Relational origin:** Primary caregivers whose love, attention, or approval was conditional — available when the child performed, achieved, or complied; withdrawn when the child failed or disappointed. The relational template formed: relationship is earned, not given. Religious environments that emphasized right behavior, spiritual performance, or "if you do X, God will do Y" frameworks.
 
@@ -103,7 +117,7 @@ Most clients present a primary type with secondary features from one other type.
 
 ---
 
-### 4. The Capricious/Unsafe God
+### 5. The Capricious/Unsafe God
 
 **Relational origin:** Primary caregivers who were unpredictable, volatile, or frightening — alternating between warmth and hostility without discernible pattern. Environments marked by chaos, instability, abuse, or sudden loss. The relational template formed: relationships are fundamentally unpredictable and potentially dangerous; trust is risk that invites harm.
 
@@ -112,6 +126,18 @@ Most clients present a primary type with secondary features from one other type.
 **Attachment pattern (Kirkpatrick):** Disorganized — no consistent strategy for the attachment relationship; approach-avoidance conflict in the God-relationship.
 
 **Schema correlation (Young):** Abandonment/Instability — most commonly co-present.
+
+---
+
+### 6. The Overwhelming/Consuming God
+
+**Relational origin:** Primary caregivers whose presence was intrusive, enmeshing, or who could not tolerate the child's separateness or developing autonomy. Caregivers who needed to be close in a way that swallowed rather than held. Religious environments with intense experiential or charismatic dynamics where "the presence of God" was overwhelming and the self was expected to dissolve into it. Histories of spiritual overwhelm, loss of self in intense devotional settings, or coercive spiritual environments.
+
+**Presentation in coaching:** The client genuinely desires intimacy with God — unlike the Absent/Distant type, this is not low expectation. But full encounter feels dangerous. Something is held back; access is carefully metered. Extended worship, intense prayer, or certain types of spiritual community feel destabilizing — not because God is absent, but because His presence feels like something that could consume the self. The client may describe vivid past encounters followed immediately by protective withdrawal. They can articulate a desire for more and simultaneously be relieved when the encounter ends. Faith is real; its container is small by necessity. May verbalize fear of "losing myself in God" or express that full surrender feels threatening rather than restful.
+
+**Attachment pattern (Kirkpatrick):** Avoidant under conditions of perceived threat from the attachment figure — distinct from the Absent/Distant avoidant pattern (which reflects low proximity-seeking due to low expectation of return). Here the threat is not absence but presence itself, which is experienced as dangerous to the self's integrity.
+
+**Schema correlation (Young):** Enmeshment/Undeveloped Self — most commonly co-present. Sometimes co-present with Defectiveness/Shame when the underlying fear is that full exposure to God would confirm unworthiness.
 
 ---
 
@@ -252,6 +278,21 @@ Transformation of the God-representation often becomes visible before the client
 
 ---
 
+### Working with the Permissive/Safe God
+
+**Core task:** Name the comfort and name the cost — without creating fear as the corrective. The client is not suffering around this representation; the entry is curiosity rather than alarm. The goal is not to replace the permissive image with a threatening one but to introduce the fuller, more real God: holy and tender held together, whose love is pursuing and transforming, not merely affirming.
+
+**Approaches:**
+- Begin with the distinction between broad approval and specific engagement: *"Is there a difference between knowing God loves everyone and knowing God is responding to you in particular?"* This is an opening question, not a challenge. Let the client sit with it.
+- Invite God's honest engagement without framing it as confrontation: *"What would it mean for God to have a specific response to something in your life — not good or bad, just specific to you?"*
+- Ask what God seems to have no opinion about: *"Is there something you'd actually want God to weigh in on — where it matters to you whether He responds?"* This surfaces longing underneath the comfortable surface.
+- Use Gospel encounter texts that show Jesus loving specifically and saying something that cost the person something (Mark 10:17–22; John 21:15–17). Frame these not as "God will confront you" but as "God is specifically engaged with who you are and where you're headed."
+- If the permissive image is defensive, the coaching will feel unusually stable and flat until the underlying layer surfaces. Watch for low-grade anxiety when pressing toward specificity in God's engagement. If it appears, name it lightly — *"Something shifted when I asked that. What was that?"* — and slow down. Note the secondary-layer hypothesis in session notes.
+
+**Avoid:** Manufacturing distress the client doesn't have. Exchanging the permissive image for a punitive one as the corrective — that is not transformation, it is substituting one distortion for another. Dismissing the client's comfort as denial — the work is to deepen and enrich, not displace.
+
+---
+
 ### Working with the Contingent/Transactional God
 
 **Core task:** Disrupt the transaction. The client relates to God through performance and expects God to reciprocate through blessing or protection. Grace — unconditional, non-earned, non-transactional — is cognitively known but experientially foreign. The work is to make grace felt, not just believed.
@@ -277,6 +318,21 @@ Transformation of the God-representation often becomes visible before the client
 - When the client reports a moment of connection followed by withdrawal or something difficult, take it seriously. "So when you got close, something happened that made it feel risky again. Let's stay there." Do not explain it away.
 
 **Avoid:** Pushing for declarations requiring trust the client doesn't yet have, framing spiritual progress as contingent on emotional vulnerability, dismissing the client's self-protection as lack of faith.
+
+---
+
+### Working with the Overwhelming/Consuming God
+
+**Core task:** Establish encounter safety before encounter depth. The client's goal is not to avoid God — it is to gradually expand the container in which they can receive God without self-dissolution. Progress looks like small encounters that hold, not large encounters that overwhelm.
+
+**Approaches:**
+- Assign short, bounded practices with explicit endings. One verse, five minutes of prayer, a brief meditation with a clear stop. The client needs to know the encounter has a container — and that they retain agency over when it closes.
+- Frame the theology of encounter explicitly: *"Full union with God does not dissolve you. Covenantal union makes you more fully yourself, not less. He is not coming to consume what He made — He is coming to complete it."* (Jer 31:33; John 17:22–23)
+- Do not interpret approach-avoidance as avoidance of God per se. Name it as the old protection pattern doing what it learned to do — protect the self from being swallowed. It is not faithlessness; it is a relational survival strategy applied to the wrong relationship.
+- In session: offer regulated, predictable presence rather than intense personal attention. Keep proximity consistent; do not shift toward sudden warmth or intensity when the client seems to open. Predictability is the therapeutic data.
+- Phase-specific questions: *"When you feel like you're getting close to God — what do you expect comes next?"* (Phase 1) | *"What did you learn about closeness in your family — what happened when you were too visible, too present?"* (Phase 2) | *"What would it mean for you — not in theory — if being fully seen by God was safe?"* (Phase 3)
+
+**Avoid:** Ignatian Gospel imagination until encounter safety is established (full imaginative immersion is contraindicated early). Extended group prayer or worship formats where the client cannot self-regulate. Framing full spiritual surrender as the goal before the safety condition is met — doing so replicates the threat rather than interrupting it.
 
 ---
 
@@ -339,8 +395,10 @@ Transformation of the God-representation often becomes visible before the client
 |---|---|
 | Punishing | Defectiveness/Shame |
 | Absent/Distant | Emotional Deprivation |
+| Permissive/Safe | Entitlement/Grandiosity; Emotional Inhibition; or Subjugation (when defensive over Punitive) |
 | Contingent/Transactional | Unrelenting Standards |
 | Capricious/Unsafe | Abandonment/Instability |
+| Overwhelming/Consuming | Enmeshment/Undeveloped Self |
 
 ---
 

@@ -19,16 +19,17 @@ You are building a practitioner session tool document for Andrew Houser's Covena
 
 The model's organizing principle: **the indicative precedes the imperative.** Who the client is in Christ is already declared. The coaching engagement works in the Gap — the distance between what is declared true about the client and what they actually experience as true in their body, relationships, and daily functioning.
 
-The **covenant identity architecture** has 9 layers:
+The **covenant identity architecture** has 10 layers:
 1. I bear the image of God — my worth is not earned
 2. God sees everything about me and chose me anyway
 3. I am a new creation — the old is genuinely gone
 4. I am an adopted child with full inheritance rights
-5. God's presence lives in me — I am not alone
-6. My standing before God is secure right now
-7. I am loved the way the Father loves the Son
-8. I am sent — my life carries specific purpose
-9. I am in a divinely-overseen formation process
+5. I am a co-heir with Christ — the full inheritance is shared with me
+6. God's presence lives in me — I am not alone
+7. My standing before God is secure right now
+8. I am loved the way the Father loves the Son
+9. I am sent — my life carries specific purpose
+10. I am in a divinely-overseen formation process
 
 **The engagement phases:**
 - Phase 1 (Covenant Orientation, sessions 1-2): Establishes the theological frame, surfaces the God-representation, names the Gap, gathers the intake baseline

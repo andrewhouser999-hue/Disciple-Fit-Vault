@@ -1,6 +1,6 @@
 ---
-created: 
-basis: TBD
+created: 2026-04-30
+basis: "Rizzuto — The Birth of the Living God (1979); Hall (implicit vs. explicit God-image); Benner (believed-in vs. experienced God); Kirkpatrick (God as attachment figure, compensation vs. correspondence hypotheses) — theoretical research synthesis underlying the God-Representation Deepening Tool"
 tags:
 ---
 
@@ -164,6 +164,29 @@ The four frameworks converge on a single actionable sequence:
 2. Trace the relational origins of the implicit God-image without shame (Rizzuto/Kirkpatrick)
 3. Create conditions for new relational experience that contradicts the implicit template (Hall/Benner)
 4. Allow the lived experience to gradually reshape the representation — not through information but through encounter (all four)
+
+---
+
+## Applied Taxonomy: Five God-Representation Types in Covenant Identity Coaching
+
+*This taxonomy is derived from the research synthesis above and the clinical patterns observed across the four contributor frameworks. Used in [[Covenant Identity — God-Representation Deepening Tool]] and [[Covenant Identity — God-Representation Between-Session Practices]].*
+
+The four-contributor synthesis produces four primary God-rep types observable in coaching contexts, with a fifth added 2026-05-19 to address a presentation not cleanly captured by the original four.
+
+**1. Punitive**
+God as a demanding judge who monitors for failure. Love is conditional on performance. Prayer feels like confession-or-else; silence feels like disapproval; mistakes trigger shame spirals connected to God. Research basis: Kirkpatrick's anxious attachment pattern at the implicit level; Rizzuto's God-representation as organized around conditional parental presence; Hall's explicit/implicit divergence (client states God is gracious; nervous system braces for accusation).
+
+**2. Absent/Distant**
+God as real in theology but experientially uninvolved — indifferent, unresponsive to this particular person. Prayer feels one-directional; significant events feel unwitnessed. Research basis: Kirkpatrick's avoidant attachment pattern (God experienced as impersonal and unresponsive); Hall's correspondence hypothesis at the implicit level; Benner's believed-in vs. experienced God gap (the gap is widest here — no functional experience of encounter).
+
+**3. Permissive/Safe**
+God as entirely affirming, never confrontational, no demands and no edges. Spiritually comfortable and therefore spiritually static. Research basis: Kirkpatrick's compensation hypothesis — God functions as an idealized object rather than a real relational Person; Rizzuto's "created God" that serves psychological function without requiring transformation.
+
+**4. Transactional**
+God as ledger-keeper — gives when you perform, withholds when you don't. The relationship is contractual rather than covenantal. Research basis: Kirkpatrick's anxious attachment behavioral pattern (constantly seeking to secure God's responsiveness through sufficient religious behavior); Hall's implicit relational template organized around conditional provision.
+
+**5. Overwhelming/Consuming** *(added 2026-05-19)*
+God's presence is too much — consuming, intense, unsafe to approach fully. Full encounter feels like annihilation or being swallowed. The client may genuinely desire God but approaches only partially, holding something back. Not fully captured by the original four types. Research basis: Kirkpatrick's avoidant attachment under conditions of perceived threat from the attachment figure (rather than mere absence); Benner's acknowledgment that the experienced God can feel dangerous rather than absent or punishing — a distinct phenomenological presentation requiring its own coaching approach. Strongly correlates with the Hermit character wound type. Clinically distinct from Punitive (God watches and judges) — here God's holiness and presence itself is experienced as overwhelming, not God's disapproval specifically.
 
 ---
 

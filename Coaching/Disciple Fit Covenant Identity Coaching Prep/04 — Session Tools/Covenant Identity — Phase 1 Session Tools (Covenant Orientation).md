@@ -70,9 +70,9 @@ Clients who cannot answer the felt-sense question are disconnected from their so
 
 **Covenant Identity Self-Assessment (15 minutes)**
 
-Frame it carefully before administering: *"I'm going to read nine statements slowly. After each one, I want to know — not what you believe theologically, but what actually lands in your gut as true. Some of these will land. Some won't. Some will feel dangerous. That's all useful information. There are no right answers here."*
+Frame it carefully before administering: *"I'm going to read ten statements slowly. After each one, I want to know — not what you believe theologically, but what actually lands in your gut as true. Some of these will land. Some won't. Some will feel dangerous. That's all useful information. There are no right answers here."*
 
-Read each of the nine layers slowly. Pause after each. Watch the body as much as you listen to the response. A client who says "yes" while their shoulders drop and their gaze averts has given you more information than the yes. A client who goes blank at "I am loved the way the Father loves the Son" is showing you the primary work.
+Read each of the ten layers slowly. Pause after each. Watch the body as much as you listen to the response. A client who says "yes" while their shoulders drop and their gaze averts has given you more information than the yes. A client who goes blank at "I am loved the way the Father loves the Son" is showing you the primary work.
 
 Note: affirmed, hesitant, or rejected/blank for each layer. Do not process the results yet. Simply receive them and move on. The self-assessment will be returned to in session 2.
 
@@ -111,7 +111,7 @@ Name it directly. Do not assume the client has already understood it from sessio
 
 *"There is a Gap between what is declared true about you in Christ and what feels true in your lived experience. That Gap is real. It is not small. And it is not evidence of weak faith or insufficient effort. It is the terrain we're working in together. The work is not to try harder to believe. The work is to understand what is maintaining the Gap — and to let those things yield, one by one."*
 
-Then ask: *"Which of the nine layers we talked about last session — if it became fully operational, if it actually felt true in your gut — would change the most in your daily life?"*
+Then ask: *"Which of the ten layers we talked about last session — if it became fully operational, if it actually felt true in your gut — would change the most in your daily life?"*
 
 This question identifies the primary covenant identity layer gap for the engagement. It is also the first moment the client begins orienting toward what is possible rather than cataloguing what is wrong.
 

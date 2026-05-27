@@ -19,7 +19,7 @@ tags:
 
 Most growth efforts — sermon series, Bible studies, accountability groups, self-help books — address what you know or what you do. They work at the level of information or behavior. This coaching works at a different level: identity.
 
-The organizing principle of this engagement is that who you are in Christ is already declared. The covenant identity — the nine layers of what Scripture says is true about you right now, not after you improve — is already in place. The coaching works in the Gap between that declaration and your lived experience of it. The Gap is real. It is maintained by specific formation material: early messages you received and believed, vows you made to protect yourself, competing commitments that make change feel dangerous even when you genuinely want it.
+The organizing principle of this engagement is that who you are in Christ is already declared. The covenant identity — the ten layers of what Scripture says is true about you right now, not after you improve — is already in place. The coaching works in the Gap between that declaration and your lived experience of it. The Gap is real. It is maintained by specific formation material: early messages you received and believed, vows you made to protect yourself, competing commitments that make change feel dangerous even when you genuinely want it.
 
 Closing the Gap is not a performance project. It is a formation process. That distinction is the whole thing.
 

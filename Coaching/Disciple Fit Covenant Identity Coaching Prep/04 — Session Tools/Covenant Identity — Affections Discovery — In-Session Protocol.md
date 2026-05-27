@@ -13,7 +13,7 @@ tags:
 # Covenant Identity — Affections Discovery — In-Session Protocol
 *Coach-Facing | In-Session Tool | Stage 1 of the Diagnostic Sequence*
 
-*Related: [[Affections Discovery Process — Affections, Trust & Priorities]]; [[Covenant Identity — Diagnostic Lens Transition Logic]]; [[Covenant Identity — Whole-Person Identity Framework]]*
+*Related: [[Affections Discovery Process — Affections, Trust & Priorities]]; [[Covenant Identity — Diagnostic Lens Transition Logic]]; [[Covenant Identity — Whole-Person Identity Framework]]; [[Covenant Identity — God-Exclusion Map]]*
 
 ---
 
@@ -151,6 +151,8 @@ Work through the layers in sequence. The client's responses — not the sequence
 
 **Stay or move:** This layer often runs parallel to Layer 3 rather than strictly after it. When you have located the God-exclusion zone specifically — hold it. Move to Layer 5 when both the trust object and the God-exclusion are clear enough to inform the naming.
 
+> **Full Layer 4 reference:** For the eight-domain framework (security, significance, belonging, control, comfort, purpose, identity, future), complete question bank, diagnostic signals, and transition logic to Layer 5, see [[Covenant Identity — God-Exclusion Map]].
+
 ---
 
 ### Layer 5 — Identity Revelation
@@ -258,7 +260,7 @@ Affections work surfaces distortion across all five dimensions of the whole-pers
 
 - *Transition to Stage 2 requires three explicit conditions, not a timing judgment:* "Move when all three are true: trust object is specific, God-exclusion is locatable, false identity statement is forming." Reason: without explicit conditions, practitioners move prematurely because they have a general sense of dysfunction and feel pressure to advance. The three conditions prevent premature transition that produces a generic false identity statement rather than a specific one.
 
-**Scope boundary:** This document covers Stage 1 of the diagnostic sequence only — in-session execution of affections discovery through to the point where the false identity can be named. It does not cover the theological foundation of affections work (see [[Affections Discovery Process — Affections, Trust & Priorities]]), the continuation of the diagnostic sequence (see [[Covenant Identity — Diagnostic Lens Transition Logic]]), or the whole-person framework that contextualizes the five-dimension summary table (see [[Covenant Identity — Whole-Person Identity Framework]]). This is the execution layer; the other documents provide the surrounding architecture.
+**Scope boundary:** This document covers Stage 1 of the diagnostic sequence only — in-session execution of affections discovery through to the point where the false identity can be named. It does not cover the theological foundation of affections work (see [[Affections Discovery Process — Affections, Trust & Priorities]]), the continuation of the diagnostic sequence (see [[Covenant Identity — Diagnostic Lens Transition Logic]]), or the whole-person framework that contextualizes the five-dimension summary table (see [[Covenant Identity — Whole-Person Identity Framework]]). Layer 4 (God-Exclusion Map) is summarized here as a coach-internal frame; the full eight-domain framework, question bank, and diagnostic signals are in [[Covenant Identity — God-Exclusion Map]]. This is the execution layer; the other documents provide the surrounding architecture.
 
 **Client summary:** Practitioner-only reference. Not shared with clients.
 

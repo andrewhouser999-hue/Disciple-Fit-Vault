@@ -3,10 +3,81 @@ created:
 basis: TBD
 tags:
 ---
+**What This Practice Is**
 
-# If you wanted to name your full system
+  A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and
+  the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ,
+  and be formed by the Spirit toward faithful image-bearing. Three disciplines, unified. None sufficient alone. Each contributing what the others
+  cannot:
+
+  - Spiritual formation provides the governing telos, the process frame, and the account of the practitioner's role — cooperating with what the Spirit is already doing.
+  - Biblical counseling provides diagnostic precision — idolatry and disordered worship as the root of false identity, the heart as the center of human functioning, specific tools for surfacing affections, false identity structures, and character wounds.
+  - Christian life coaching provides the relational container — forward-oriented partnership, client agency, structured arc, powerful questions, accountability.
+
+  Covenant Identity provides the specific content of what the person is being formed toward: restored image-bearing as God's covenant person in
+  Christ.
+
+
+**Model**
+Educate & Train the Client on: 
+1. parts work- so they know the human design of the mind in two systems and to listen to the one system and how to recognize, engage and train the implicit system
+2. this becomes a type of co-therapy - self directed with the Holy Spirit and a trusted person. (as far as one can do). Jesus once told me, "I want to be your therapist."  
+
+
+*Disciple Fit Covenant Identity Coaching | Andrew Houser*
+*Faith-integrated coaching built on the covenant identity declared in Christ, evidence-based psychology, and the conviction that formation is God's work — and that humans can proactively cooperate with it.*
+
+
+**This is the LINCHPIN!**  
+  The Neuroscience Foundation
+
+  Standard learning theory produces extinction — a new association suppresses the old one, but the original encoding remains latent. It can be
+  reinstated by stress, context shift, or time. This is why CBT gains erode.
+
+  Reconsolidation is structurally different. When a memory is reactivated, it briefly becomes labile — physically unstable, protein synthesis dependent — and can be rewritten at the synaptic level (LeDoux; Nader et al., 2000). The original encoding is not suppressed. It is replaced. There is no reinstatement because the original trace is gone.
+
+  The window is approximately 5 hours post-reactivation. Within that window, introducing a disconfirming experience can update the encoding itself.
+
+**The Sequence (Coherence Therapy)**
+
+  1. Discovery — uncover the emotional truth beneath the symptom. Not "why is this wrong?" but "what does this protect or mean? What would happen if it weren't true?"
+  2. Consolidation — help the client fully inhabit the emotional truth so it is clearly felt (not just named)
+  3. Juxtaposition — hold both the implicit belief and the disconfirming experience in working memory simultaneously
+  4. Verification — check whether the old emotional response still fires. If not, reconsolidation occurred.
+
+This is in contrast to Insight-Based Approaches
+Insight operates at the explicit level. The implicit belief is not accessible to propositional logic — it was formed pre-verbally, somatically, relationally. Telling the belief it is wrong does not reach the encoding. The belief continues to organize experience because its emotional logic remains untouched.
+
+  This is Ecker's "pro-symptom position" — the implicit belief is not irrational. It is coherent given the original learning context. It only looks
+  like a problem from outside. Until its internal logic is surfaced and felt, it cannot be disconfirmed.
+
+ **Model Fit: BELONGS — Mechanism Theory Layer**
+
+  This is the strongest addition to the model not yet present. It provides the theoretical mechanism for why the existing tools (Lie Eliminator,
+  Declaration, Covenant Truth installation, Stage 4b relational work) work when they work. It does not require a new protocol — it reframes the existing protocol with precision. It also explains the failure mode: most "declaration" and "reframing" attempts operate at the explicit level and produce extinction at best, not reconsolidation. Add to Integration Rationale and/or as a standalone practitioner theory document. Does not require clinical training to understand and apply.
+
+  **What This Explains in Andrew's Model**
+
+  This is the mechanism by which Declaration, Lie Eliminator, and Covenant Truth installation actually work on implicit beliefs — when they work. The juxtaposition is Scripture-as-living-truth meeting the activated lie, not Scripture as propositional correction. When they fail, it is almost always because the implicit belief was never activated (cognitive substitution, not reconsolidation) or the juxtaposition was not emotionally live.
+
+  The "moment of meeting" (BCPSG / Fosha) is also a reconsolidation event — the relational disconfirmation ("I am not alone / I am not too much")
+  meets the activated implicit belief in a live felt experience.
+
+---
+
+How Focusing Differs from Mindfulness
+
+  Mindfulness observes experience without judgment. Focusing attends to experience with the intent of listening — the felt sense is invited to speak, not merely observed. Focusing assumes the organism holds wisdom that can be accessed through careful, patient attention. It is dialogical, not purely witnessing.
+
+  Focusing in Spiritual Direction and Formation
+
+  **Gendlin's framework has been significantly developed within Christian spiritual direction (notably by Edwin McMahon and Peter Campbell — Bio-Spiritual Focusing). The felt sense becomes a listening posture toward what the Spirit is doing in the pre-verbal interior. This maps onto formation language like "discernment," "consolation/desolation," and "attending to what is stirring."**
+
+---
 
 Covenant Identity Cognitive-Behavioral Discipleship Life Coaching & Training 
+
+The covenant identity declarations in Section V are structurally opposed to each schema. This is not *proof-texting* (using Bible verses in isolation to score points) — it is theological schema replacement: displacing the operational belief with the covenant reality, practiced through repetition and embodiment until it becomes the new default.
 
 I stand for clearing what clutters the inner man — the distortions, wounds, and false filters — so you are free to nurture your affections toward Heaven First, because when that one thing is rightly ordered, everything else follows.
 
@@ -57,6 +128,32 @@ Whole-Person Discipleship Development
 This maps onto what you're calling "resolving distortions gradually and deeply." Mezirow would say gradual exposure without disorienting dilemmas and critical reflection produces informational learning — additive, surface — not transformational learning.
 
 James K.A. Smith (Desiring the Kingdom, 2009) presses harder: humans are primarily desiring, embodied, habitual creatures — not primarily rational processors of propositions. Formation happens through liturgy, practice, and repetition that shape loves, not primarily through correct information. You can restructure a schema cognitively and still have deeply ingrained embodied habits pulling in the opposite direction. This is a significant gap in most theological education — and possibly in your framing as well.
+
+**The Integration Principle**
+
+  None of these tools transform. They create access — to what is below explicit cognition, to what the false self has defended against, to what the Spirit is already pressing on. The coach's role is not to deploy them as transformation mechanisms but to use them to lower the barriers to where the Spirit is working.
+
+  The most practically useful of these for your framework, in my assessment: Immunity to Change (fills a structural gap in explaining why insight fails), ACT defusion (complements Lie Eliminator work), and basic somatic awareness (supports Thompson's relational attunement layer). These three add formation-layer precision without clinical risk.
+
+**The psychographic of the Christian learner**
+These clients have vocabulary without framework — they can produce a definition of sanctification because they've heard it repeated, but they cannot organize the biblical picture: who does what, in what order, by what mechanism, and why.
+
+The pieces exist in their minds as disconnected facts, not as an integrated account. That's not a knowledge deficit in the traditional sense — it's a coherence deficit produced by decades of fragmented, fill-in-the-blank teaching that handed them answers without the connective tissue.
+
+  The implication for the module: don't define the vocabulary, but do build the framework from the vocabulary they already have. The relief comes not from new information but from seeing how the pieces they already possess fit together into something that finally makes sense — and then understanding why the gap between that truth and their experience is not evidence that God is withholding or that they are defective.
+
+  One question:
+
+  When you say "the order of the players from a biblical perspective" — are you pointing specifically to the God / Spirit / believer agency structure? Meaning: they know God sanctifies and they know they are supposed to do something, but nobody has ever shown them how those two claims fit together without contradiction — which is exactly where the shame lives. "If God does it, why isn't it happening? If I'm supposed to do it, why can't I?"
+
+
+  One observation:
+
+  The "fragmented education" dynamic is itself a diagnostic tool for the Teacher's Manual. When a client says "I know what sanctification is," the coach's instinct should be to follow up: "Walk me through how you understand it to work — who does what?" The gap between their definition and their ability to organize the picture tells the coach exactly where the Client Study needs to
+  do its work. I'll build that into the Coach Diagnostic.
+
+**Practitioner Theory becomes a collection of tools that a client can work with the HS independently and/or with the Coach to create a welcomed preparation for the HS to do the work.**
+
 
 **What Western Christianity Actually Misses** 
 
