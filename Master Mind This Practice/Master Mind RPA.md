@@ -14,6 +14,11 @@ Analogy of Marriage and Divorce due to nervous system alignment followed by dysr
 4. Increasingly dysregulated parents
 5. Lowering window of tolerance 
 
+**Society is Complicit in Effectively De-Humanized Itself**
+- Explicit engagement only missing the whole person
+- INPUT People become units of needing input 
+- OUTPUT has requirements for output, such as productivity, entertainment value, informative, status enhancing, ego inflating, etc. 
+- Therefore treated as though there is no inherent human value and it is known and now accepted as norm. Being treated as a highly valued whole person is often responded to as ridiculously unexpected and untrustworthy even deviant . 
 
 
 

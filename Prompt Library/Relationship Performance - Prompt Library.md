@@ -22,6 +22,7 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 | ------- | ----------- | ---------- | ------- |
 | Workplace Dysregulation Research | — | — | Produce sourced empirical brief on dysregulating environments; basis for engagement rationale, sponsor comms, framework dev |
 | SDT — Theory, Workplace Application & Limits | — | — | Establish what SDT is, how it applies at work, and where it fails to resolve psychological safety on its own |
+| Psychological Safety — Essential Practices Research | — | — | Identify the complete evidence-backed set of practices essential for creating and sustaining psychological safety in a chronically dysregulated workplace; includes complementarity chain mapping where each practice falls short and which resolves its gap |
 
 ---
 
@@ -364,3 +365,439 @@ FORMATTING REQUIREMENTS:
 | Porges (2011) — *The Polyvagal Theory* | Threat-state neurobiology | Neurophysiological framework |
 | Siegel (1999) — *The Developing Mind* | Window of tolerance | Theoretical/clinical |
 | van der Kolk (2014) — *The Body Keeps the Score* | Chronic dysregulation and function | Clinical research + neuroimaging |
+
+---
+
+## Psychological Safety — Essential Practices Research Prompt
+
+**When to use:**
+- Building the actionable manager/leader practice list for an RPA engagement
+- Identifying what is non-negotiable vs. supplementary for psychological safety
+- Developing training architecture and supervisory accountability structures
+- Grounding A001 engagement design in the full evidence base beyond the base case brief
+
+**Related documents:**
+- [[Workplace Dysregulation — Empirical Base Case & Solution Framework]] — base case research this prompt builds on
+- [[SDT — Theory, Workplace Application & Psychological Safety Gap]] — SDT gap analysis this prompt extends
+- [[Relational Performance Advisory — Workplace Dysregulation Research Prompt]] — prior prompt; this one supersedes it for practice-level work
+
+```
+You are a research synthesizer with expertise in organizational psychology,
+neuroscience, trauma-informed systems, and applied behavioral practice.
+Produce a structured research brief with one governing purpose: identify
+the complete set of evidence-backed practices that are essential for
+creating and sustaining psychological safety in a chronically dysregulated
+workplace — with enough specificity to produce an actionable list.
+
+The question is not "what helps?" The question is "what is non-negotiable?"
+Only include what the evidence identifies as essential — practices whose
+absence demonstrably prevents psychological safety from forming or holding.
+
+Context: a multi-property hospitality operation, ~400 employees, high
+turnover (~70-80% annually), Midwest. Frontline service workforce carrying
+chronic emotional labor load (Hochschild). Two mid-level operations managers
+between the owner and the floor. The workforce exhibits entitlement, conflict,
+and absenteeism consistent with systemic needs frustration — not character
+defects. The organization has not previously operated from a safety framework.
+
+Existing research covers: SDT need definitions, autonomy-supportive management
+behavior clusters, and where SDT falls short (relatedness/safety conflation,
+autonomy/candor conflation, hierarchy problem, threat-state sequencing);
+neurobiological base case (Porges, Siegel, van der Kolk); psychological safety
+(Edmondson, Frazier meta-analysis); burnout (Maslach, JD-R); SAMHSA six
+principles and Sanctuary Model commitments at the principles level;
+organizational identity and socialization (Schein, Van Maanen, Ashforth & Mael,
+Kusluvan, Hochschild, Tracey & Hinkin). Do not re-cover these at length.
+Reference them where they connect. Fill what is missing.
+
+---
+
+SECTION 1: LEADER INCLUSIVENESS — THE #1 ANTECEDENT, OPERATIONALIZED
+
+Frazier et al. (2017, Personnel Psychology, 70(1), 113-165) identified leader
+inclusiveness as the single strongest and most consistent antecedent of
+psychological safety across 136 studies, N > 22,000 — above trust, above
+cohesion, above job satisfaction. The existing research names this finding
+but does not develop what leader inclusiveness means as a behavioral model.
+
+1. What specific behaviors constitute leader inclusiveness in the research
+   literature? Cite the primary sources that operationalize this construct
+   — not just Frazier et al., but Nembhard & Edmondson (2006), Carmeli et al.
+   (2010), and any subsequent refinements.
+
+2. Is leader inclusiveness a trainable behavioral cluster? What does the
+   training evidence show — what behaviors change, over what timeframe,
+   with what effect sizes?
+
+3. How does leader inclusiveness interact with the SDT autonomy-supportive
+   management model? Where do they overlap, where are they distinct?
+
+4. What does leader inclusiveness look like specifically in a hospitality
+   supervisory context — i.e., an OM or shift supervisor with frontline
+   service workers? What behaviors matter most in that power-differential,
+   high-paced context?
+
+---
+
+SECTION 2: THE MANAGER AS CO-REGULATOR
+
+The existing research establishes that managers trigger or reduce threat
+responses (Porges' neuroception, Siegel's window of tolerance, van der
+Kolk's sensitization). But this is framed as a stimulus-response model.
+The co-regulation literature treats it differently: a regulated manager
+neurobiologically regulates the people around them through the same social
+engagement system channels.
+
+1. What does Porges' co-regulation concept specifically mean for the
+   manager-employee relationship? What are the neural and behavioral
+   mechanisms of co-regulation in adult, non-clinical contexts?
+
+2. Deb Dana's operationalization of Polyvagal Theory for non-clinical
+   settings (The Polyvagal Theory in Therapy, 2018; Polyvagal Exercises
+   for Safety and Connection, 2020) — what specific practices does she
+   identify for building and maintaining ventral vagal regulation? Which
+   translate directly to a management context?
+
+3. If an unregulated manager co-dysregulates their team, what does the
+   evidence say about manager regulation capacity as a prerequisite for
+   any behavioral training? Is behavior-level training sufficient if the
+   manager's own regulatory system is chronically activated?
+
+4. What specific practices build manager regulation capacity — not
+   employee-facing behaviors but the manager's own nervous system
+   regulation? What is the evidence base for each?
+
+5. Rock's SCARF model establishes that managers' own SCARF threat responses
+   (status, certainty, autonomy) produce controlling behavior that
+   dysregulates their teams. What does the research say about addressing
+   manager SCARF activation as a structural prerequisite to behavior change?
+
+---
+
+SECTION 3: TRAUMA-INFORMED ORGANIZATIONAL MECHANICS
+
+The existing research covers SAMHSA's six principles and Sanctuary Model's
+seven commitments as principles. What is missing is the operational
+mechanics — what these look like as daily and weekly management practices
+in a non-clinical organizational context.
+
+1. Perry's Neurosequential Model of Therapeutics (NMT) — the
+   regulate → relate → reason sequence.
+   - Explain the neurobiological basis and the precise sequence logic.
+   - How has this sequence been applied outside clinical settings?
+     Specifically: in schools (Perry's own work with educational
+     applications), in HHS organizations, and in any organizational
+     development context.
+   - What does regulate → relate → reason mean as an operational model
+     for manager-employee interaction sequences — particularly performance
+     conversations, conflict resolution, and onboarding?
+
+2. Sanctuary Model — specific operational practices (not commitments).
+   - What is the S.E.L.F. framework (Safety, Emotions, Loss, Future)
+     and how is it used as a communication and meeting protocol?
+   - What are Community Meetings in the Sanctuary Model — structure,
+     frequency, purpose, facilitation? What organizational outcomes
+     did they produce in evaluated settings?
+   - What are Safety Plans and how are they used as a proactive
+     (not just reactive) organizational tool?
+   - Which of these mechanics translate directly to a non-clinical
+     organizational context without clinical infrastructure?
+
+3. Trauma-informed communication protocols — what distinguishes them
+   from standard active listening or HR communication training?
+   - What specific language patterns, interaction structures, and
+     response protocols are evidence-backed in trauma-informed
+     organizational settings?
+   - What does non-coercive language look like in a management
+     direction-giving context (not a therapeutic context)?
+   - Cite SAMHSA, Bloom, and any peer-reviewed organizational studies
+     that have tested trauma-informed communication protocols in
+     non-clinical workplaces.
+
+4. Secondary traumatic stress and emotional labor — the hospitality
+   translation.
+   - What specific organizational practices have reduced STS and
+     emotional labor strain in HHS settings and which are viable in
+     hospitality without clinical infrastructure?
+   - What does the evidence say about psychological recovery periods,
+     decompression structures, and pre/post-shift rituals as
+     organizational practices?
+
+---
+
+SECTION 4: ERROR MANAGEMENT CULTURE
+
+This is largely absent from the existing research and represents a
+distinct, empirically supported construct.
+
+1. Frese, M. & Keith, N. (2015). "Action errors, error management,
+   and learning in organizations." Annual Review of Psychology, 66,
+   661-687. Summarize the error management culture framework:
+   - What distinguishes error management culture from (a) error
+     prevention culture and (b) psychological safety?
+   - What specific organizational practices constitute an error
+     management culture?
+   - What outcomes does error management culture predict, and at
+     what effect sizes?
+
+2. Van Dyck et al. (2005). "Organizational error management culture
+   and its impact on performance." Journal of Applied Psychology,
+   90(6), 1228-1240. Report the findings of this study.
+
+3. How does error management culture interact with psychological
+   safety — are they additive, redundant, or addressing different
+   mechanisms?
+
+4. What are the specific managerial behaviors that build vs. destroy
+   error management culture? Distinguish what the manager does when
+   an error occurs from the structural norms the manager establishes
+   before errors occur.
+
+5. In a hospitality context where guest experience errors have visible
+   immediate consequences, how does error management culture function
+   differently than in knowledge-work settings?
+
+---
+
+SECTION 5: IMPLICIT VOICE THEORIES — CHANGING THEM
+
+Detert & Edmondson (2011, Academy of Management Journal, 54(3),
+461-488) established that employees' implicit voice theories —
+ingrained beliefs about when speaking up is safe or dangerous —
+operate largely independently of formal organizational structures
+and autonomy-supportive management behaviors.
+
+1. What does the research say about where implicit voice theories
+   come from — organizational history, prior employment, cultural
+   background, or interpersonal experience?
+
+2. What interventions have been shown to change implicit voice
+   theories? Distinguish between:
+   (a) leader behaviors that gradually revise the belief through
+       accumulated disconfirming evidence
+   (b) structural interventions (formal channels, protection from
+       retaliation) that create safe conditions for testing the belief
+   (c) explicit cognitive/dialogic interventions that surface and
+       examine the belief directly
+
+3. How long does it take to shift implicit voice theories in a
+   chronically unsafe environment? What does the research say about
+   the number of consistent disconfirming experiences required?
+
+4. What role does peer behavior play — specifically, does watching
+   a colleague speak up without punishment change implicit voice
+   theories faster than personal experience of safety?
+
+---
+
+SECTION 6: SERVANT LEADERSHIP AS AN INTEGRATING MODEL
+
+The existing research covers SDT-based management practices and
+Edmondson's psychological safety leadership behaviors, but lacks an
+integrating leadership model. Servant leadership has the largest
+empirical base of any leadership model for wellbeing, safety, and
+psychological need satisfaction outcomes.
+
+1. Greenleaf's servant leadership construct and its empirical
+   operationalization — cite van Dierendonck & Nuijten (2011) and
+   Liden et al. (2008).
+
+2. What does the servant leadership meta-analytic evidence show for:
+   (a) employee wellbeing and psychological safety outcomes
+   (b) SDT need satisfaction
+   (c) team performance
+   Cite Eva et al. (2019, Leadership Quarterly) or comparable
+   meta-analysis. Report effect sizes.
+
+3. What is the non-redundant contribution of servant leadership
+   relative to SDT-aligned management and leader inclusiveness —
+   what does it add that neither covers?
+
+4. Is servant leadership viable in a hospitality supervisory context?
+   What does the research say about service-industry applications?
+
+5. What specific behaviors from the servant leadership model are
+   highest-leverage for psychological safety — not the full model,
+   the essential core?
+
+---
+
+SECTION 7: INTERACTION AND MEETING DESIGN AS SAFETY INFRASTRUCTURE
+
+Psychological safety is produced or destroyed in specific interactions
+and structural contexts that occur daily — not only through leadership
+style. The design of these interactions is a distinct intervention layer.
+
+1. What does the research say about the 1-on-1 meeting as a safety
+   infrastructure tool? Frequency, structure, content norms — what
+   does evidence show about 1-on-1 design and psychological safety
+   or need satisfaction outcomes?
+
+2. Team briefing and debriefing protocols — what does the research
+   show about structured pre/post-shift briefings as psychological
+   safety mechanisms? Cite Edmondson's after-action review research
+   and any healthcare or military applications translated to other
+   contexts.
+
+3. How do meeting norms (speaking order, silence tolerance, challenge
+   protocols) affect psychological safety? What specific norms are
+   evidence-backed as safety-producing vs. safety-destroying?
+
+4. In a hospitality context with shift-based, high-turnover frontline
+   workers — what interaction structures are operationally feasible
+   and evidence-backed?
+
+---
+
+SECTION 8: SUPERVISORY ACCOUNTABILITY STRUCTURES
+
+Tracey & Hinkin (2008) establish that culture dies at the unit manager
+level in hospitality. What sustains manager behavior change after initial
+training is not addressed in the existing research.
+
+1. What does the research say about the conditions under which manager
+   behavior training produces durable behavior change vs. rapid
+   reversion to baseline?
+
+2. What specific accountability structures sustain manager safety
+   behaviors — peer observation and feedback, coaching relationships,
+   manager-of-managers behavior modeling, measurement and feedback?
+
+3. Is there evidence for upward feedback mechanisms (employee ratings
+   of manager safety behaviors) as a sustained accountability tool?
+   What are the conditions under which this works vs. backfires?
+
+4. What does research on behavioral skills maintenance show about
+   necessary follow-up dose, format, and timing?
+
+---
+
+SECTION 9: FEEDBACK SCIENCE
+
+Feedback is the primary mechanism of competence support (SDT) and a
+core component of psychological safety — yet the conditions under which
+feedback builds vs. destroys safety are not developed in the existing
+research.
+
+1. Kluger & DeNisi (1996). Feedback Intervention Theory. Psychological
+   Bulletin, 119(2), 254-284.
+   - What are the conditions under which feedback improves performance
+     vs. undermines it?
+   - What is the "feedback sign effect" and why does it matter for
+     psychological safety?
+   - What does FIT say about behavioral feedback vs. self-level
+     feedback — and which is safer?
+
+2. What specific feedback delivery practices are evidence-backed for
+   simultaneously supporting competence (SDT) and maintaining
+   psychological safety?
+
+3. What does the research say about feedback frequency, timing, and
+   format in high-turnover, service-industry contexts?
+
+4. How does the evaluative vs. informational feedback distinction (SDT)
+   map onto the Kluger/DeNisi findings?
+
+---
+
+SECTION 9B: COMPLEMENTARITY CHAIN — WHERE EACH PRACTICE FALLS SHORT
+
+For each practice identified across Sections 1-9, document two things:
+(1) the specific gap that remains even when this practice is correctly
+and fully implemented — what it structurally cannot accomplish on its
+own; and (2) which other practice in this research directly addresses
+that remaining gap. The goal is a complementarity chain that reveals
+why the practices are interdependent, not interchangeable, and why
+adopting any one in isolation produces predictable failure.
+
+Format each entry as:
+
+PRACTICE: [name]
+WHAT IT ACCOMPLISHES: [brief statement of its primary function]
+WHERE IT FALLS SHORT: [the specific structural gap — what it cannot
+  do even when done correctly — with citation]
+WHICH PRACTICE RESOLVES THIS GAP: [the specific practice that picks
+  up where this one ends, and why]
+
+Cover at minimum:
+- Autonomy-supportive management (SDT)
+- Psychological safety interventions (Edmondson)
+- Regulation-first / co-regulation approaches (Porges/Perry)
+- Trauma-informed organizational mechanics (SAMHSA/Bloom)
+- Error management culture (Frese & Keith)
+- Leader inclusiveness (Frazier et al.)
+- Servant leadership
+- Feedback science (Kluger & DeNisi)
+- Implicit voice theory interventions (Detert & Edmondson)
+- Supervisory accountability structures
+
+Where the chain loops — where Practice A's gap is resolved by Practice B,
+and Practice B's gap is resolved by Practice A or a third practice — make
+the loop explicit. These loops reveal where the integration logic lives.
+
+---
+
+SECTION 10: SYNTHESIS — WHAT IS ESSENTIAL
+
+Do not produce a list earlier than this section.
+
+1. Based on all research above plus the existing base: what is the
+   minimum essential set of practices that the evidence identifies as
+   non-negotiable for psychological safety to form and hold in a
+   chronically dysregulated workplace?
+
+2. Organize by level:
+   (a) Owner/senior leadership — what must be true at the top
+   (b) Manager/supervisor daily behaviors — the operational mechanism
+   (c) Structural/operational design — what must be built into how
+       the organization runs
+   (d) Prerequisites — what must be in place before the above can
+       take hold
+
+3. For each practice identified:
+   - Name the source framework
+   - State the evidence level (meta-analysis / RCT / observational /
+     theoretical)
+   - Identify whether it is trainable, structural, or cultural
+   - Flag if absent from the existing four research documents
+
+4. Hospitality-specific weighting: given emotional labor load,
+   shift-based structure, high turnover, multi-property dispersion,
+   and unit-manager-as-transmission-mechanism dynamics — which
+   practices move to the top, and which require adaptation?
+
+5. What does the research identify as the single most common failure
+   mode when organizations attempt to build psychological safety —
+   and what practice directly addresses that failure mode?
+
+---
+
+FORMATTING REQUIREMENTS:
+- Cite author, title, journal/publisher, and year for every claim.
+- Distinguish evidence levels: meta-analysis, RCT, longitudinal,
+  cross-sectional, theoretical/clinical framework.
+- For every practice named, identify: (a) trainable, (b) structural,
+  or (c) cultural.
+- Flag any claim that lacks independent replication.
+- Do not produce a list until Section 10.
+- Do not repeat existing base research at length — reference and build.
+```
+
+**Evidence anchors (new — extends existing base):**
+
+| Source | Domain | Evidence Level |
+|---|---|---|
+| Nembhard & Edmondson (2006) — *J. Organizational Behavior* | Leader inclusiveness operationalized | Empirical study |
+| Carmeli et al. (2010) | Leader inclusiveness and learning | Empirical study |
+| Frazier et al. (2017) — *Personnel Psychology* | Leader inclusiveness as #1 antecedent | Meta-analysis, N > 22,000 |
+| Dana, D. (2018) — *The Polyvagal Theory in Therapy* | Co-regulation for non-clinical practice | Clinical/applied framework |
+| Perry, B. (NMT) — Child Trauma Academy | Regulate → relate → reason sequence | Neurobiological/applied framework |
+| Bloom (2013) — S.E.L.F. / Community Meetings | Sanctuary Model operational mechanics | Program evaluation |
+| Frese & Keith (2015) — *Annual Review of Psychology* | Error management culture | Review + empirical synthesis |
+| Van Dyck et al. (2005) — *J. Applied Psychology* | Error management culture → performance | Empirical study |
+| Detert & Edmondson (2011) — *Academy of Management J.* | Implicit voice theories | Qualitative + survey |
+| Eva et al. (2019) — *Leadership Quarterly* | Servant leadership meta-analysis | Meta-analysis |
+| van Dierendonck & Nuijten (2011) | Servant leadership instrument | Scale development + validation |
+| Liden et al. (2008) | Servant leadership behaviors | Empirical operationalization |
+| Kluger & DeNisi (1996) — *Psychological Bulletin* | Feedback Intervention Theory | Meta-analysis + theory |
+| Tracey & Hinkin (2008) | Supervisory accountability in hospitality | Empirical (hospitality-specific) |
