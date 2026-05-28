@@ -23,6 +23,7 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 | Workplace Dysregulation Research | — | — | Produce sourced empirical brief on dysregulating environments; basis for engagement rationale, sponsor comms, framework dev |
 | SDT — Theory, Workplace Application & Limits | — | — | Establish what SDT is, how it applies at work, and where it fails to resolve psychological safety on its own |
 | Psychological Safety — Essential Practices Research | — | — | Identify the complete evidence-backed set of practices essential for creating and sustaining psychological safety in a chronically dysregulated workplace; includes complementarity chain mapping where each practice falls short and which resolves its gap |
+| Consulting Initial Meeting — Warm Entry Research | — | — | Best practices for initial consulting meetings entering on pre-existing conceptual alignment and relational warmth; covers entry theory, warm vs. cold entry, meeting structure, informal-to-formal transition, and two-meeting owner→OM sequence |
 
 ---
 
@@ -800,4 +801,126 @@ FORMATTING REQUIREMENTS:
 | van Dierendonck & Nuijten (2011) | Servant leadership instrument | Scale development + validation |
 | Liden et al. (2008) | Servant leadership behaviors | Empirical operationalization |
 | Kluger & DeNisi (1996) — *Psychological Bulletin* | Feedback Intervention Theory | Meta-analysis + theory |
+
+---
+
+## Consulting Initial Meeting — Warm Entry Research Prompt
+
+**When to use:**
+- Designing or refining an initial meeting with a client who already shares your conceptual frame
+- Preparing for a first formal engagement conversation after an informal helping interaction has established rapport
+- Designing the two-meeting entry sequence (sponsor/owner first, then managers)
+- Any engagement where relational warmth exists before the formal work begins
+
+**Generated output:** [[Consulting Initial Meeting — Warm Entry Research Brief]]
+
+**Evidence anchors:**
+
+| Source | Contribution | Type |
+|---|---|---|
+| Schein, E.H. (1999/2009) — *Process Consultation Revisited* | Entry phase principles; collaborative stance; helping relationship | Practitioner primary source |
+| Schein, E.H. (2013) — *Humble Inquiry* | Asking over telling; genuine curiosity as influence mechanism | Practitioner primary source |
+| Block, P. (2011) — *Flawless Consulting* | Contracting conversation; exploring wants; role establishment | Practitioner primary source |
+| Maister, Green & Galford (2000) — *The Trusted Advisor* | Trust Equation (C+R+I/S); intimacy as load-bearing in entry | Practitioner primary source |
+| Cannon-Bowers & Salas — shared mental models | Shared mental models accelerate collaborative readiness | Empirical research |
+| Value congruence research — professional services | Alignment on "what the problem is" predicts follow-through | Empirical research |
+
+```
+You are researching best practices in consulting for initial client meetings that enter on a
+foundation of pre-existing conceptual alignment and warm relational capital. The research
+will be used to design a specific initial meeting with a hotel chain owner (~400 employees,
+Midwest multi-property operation) who already shares a core conceptual frame with the
+consultant. Context: the owner and consultant had an informal coffee shop exchange in which
+the owner experienced a visible insight shift — from attributing employee entitlement and
+conflict to character defects, to understanding them as rooted in environmental and structural
+causes. The owner was visibly grateful and surprised. An introductory letter has since been
+sent. The first formal meeting is being scheduled. A second meeting with two operations
+managers will follow. The consultant's role is Advisory and Implementation Orchestration —
+not operational management. The owner has a likely secure to mildly anxious attachment
+profile and an operational, results-focused orientation.
+
+Produce a research brief covering the following areas:
+
+SECTION 1 — CONSULTING ENTRY THEORY: WHAT THE LITERATURE ESTABLISHES
+Research the foundational frameworks for initial client meetings in organizational consulting.
+Cover: Schein's process consultation entry principles — the collaborative stance, the
+"helping relationship," and why prescription before diagnosis destroys trust; Block's
+(Flawless Consulting) contracting conversation model — the structure of exploring wants,
+offering yourself, and clarifying roles; Maister, Green & Galford (The Trusted Advisor) —
+the Trust Equation components (Credibility, Reliability, Intimacy, Self-Orientation) and
+which of these is most load-bearing in an initial meeting; Schein's Humble Inquiry — the
+distinction between asking and telling, and why genuine curiosity in the entry meeting
+produces more influence than expertise display. For each framework, identify: the core
+behavioral insight, the specific meeting behaviors it implies, and what failure looks like
+when the principle is violated.
+
+SECTION 2 — WARM ENTRY: HOW PRIOR CONCEPTUAL ALIGNMENT CHANGES THE APPROACH
+Research what changes about initial meeting design when the client already shares the
+consultant's core conceptual frame and there is pre-existing relational warmth. Cover:
+how shared mental models (Cannon-Bowers & Salas; team cognition research) accelerate
+trust and collaborative readiness; value congruence research in professional services
+relationships — how perceived alignment on "what the problem really is" affects client
+receptivity and follow-through; the specific risks of warm entry — overselling into existing
+warmth, assuming more alignment than actually exists, failing to establish formal professional
+architecture within the relational context; the "relational anchor" — research on using
+a prior informal interaction as a bridge to a formal engagement without making it feel
+manipulative or transactional. Distinguish warm entry from cold entry at the behavioral
+level: what is the same, what is different, and what warm entry specifically enables that
+cold entry cannot.
+
+SECTION 3 — MEETING STRUCTURE FOR WARM-ENTRY INITIAL CONSULTING MEETINGS
+Based on the evidence in Sections 1 and 2, document what a well-designed initial meeting
+looks like when entering on a foundation of prior rapport and conceptual alignment. Cover:
+the opening — how to reference and honor the prior interaction without reducing it to a
+sales tactic; the diagnostic deepening move — how to expand the client's picture of the
+problem scope without invalidating the insight they already have; the role establishment
+move — how and when to clarify the consultant's professional architecture (what Andrew
+does, what he doesn't do, and why that matters) without making the meeting feel like a
+scope-setting negotiation; the transition from "shared insight" to "here's what we could
+do together" — research on when and how this transition should happen in a warm-entry
+meeting; what the meeting should NOT try to accomplish (common errors in first meetings
+that undermine longer-term trust).
+
+SECTION 4 — THE INFORMAL-TO-FORMAL TRANSITION
+Research what happens relationally and psychologically when a consultant moves from an
+informal helping interaction to a formal engagement conversation with the same person.
+Cover: the risks of the transition — how it can feel like the prior interaction was a
+"setup"; how to preserve the authenticity and trust established informally as the formal
+structure is introduced; what clients with an operational/results orientation (vs.
+relationship-primary orientation) specifically need from this transition; how to introduce
+pricing and scope in a warm-entry context without the conversation becoming transactional
+abruptly.
+
+SECTION 5 — THE TWO-MEETING SEQUENCE: OWNER FIRST, THEN OPERATIONS MANAGERS
+Research best practices for sequencing a multi-stakeholder consulting entry where the
+owner/sponsor is met first and the managers who will be subjects of the engagement are
+met second. Cover: what the owner meeting needs to establish that the OM meeting can then
+build on; how to design the first meeting so the owner is prepared to introduce and
+contextualize the consultant to the OMs in a way that sets the right frame; what OMs
+typically need from a first meeting with a consultant that the owner does not need; how
+attachment and threat-detection dynamics (SCARF) are likely to differ between the owner
+meeting (collaborative context, prior rapport) and the OM meeting (evaluation context,
+potential status threat); how to design the OM meeting to reduce threat and establish
+collaborative rather than evaluative framing from the outset.
+
+SECTION 6 — BEHAVIORAL PRACTICE LIST FOR INITIAL MEETING DESIGN
+Drawing from all five sections above, produce a consolidated list of specific, observable
+behavioral practices for each phase of an initial consulting meeting with a warm-entry
+profile. Organize by meeting phase: before the meeting (preparation), opening, diagnostic
+deepening, role/scope establishment, transition to engagement, close. For each practice:
+what it is, what it accomplishes, and what failure to use it risks. Flag which practices
+are especially high-leverage in a hospitality owner context with an operational mindset.
+
+EVIDENCE STANDARDS:
+- Prioritize peer-reviewed research and primary-source practitioner literature (Schein,
+  Block, Maister are acceptable primary practitioner sources — cite them as such)
+- Flag [NR] for claims without independent replication
+- Flag [CF] for clinical/theoretical frameworks with applied translation
+- Note when findings come from non-consulting professional services research (law,
+  medicine) that may not transfer directly
+
+OUTPUT: Full research brief with section headers matching above. Section 6 should be
+scannable as a standalone practitioner reference. Use behavioral and operational language
+throughout — no academic hedging in Section 6.
+```
 | Tracey & Hinkin (2008) | Supervisory accountability in hospitality | Empirical (hospitality-specific) |
