@@ -4,24 +4,24 @@ basis: "[[Relational Performance Advisory — Delivery Infrastructure]] — obse
 tags:
   - rpa
   - advisory
-  - assessment
+  - intervention
   - facilitated-observation
   - facilitation-guide
 ---
 
 # Relational Performance Advisory — Facilitated Observation Session Guide
 
-**What this is:** Practitioner guide for designing and running the facilitated observation session — the third and final assessment method. Covers pre-session preparation, positioning, session design phase by phase, the three activation sequences, observation protocol during the session, and post-session documentation.
+**What this is:** Practitioner guide for designing and running the facilitated observation session — Stage 4 of the individual leader development sequence. Covers pre-session preparation, positioning, session design phase by phase, the three activation sequences, observation protocol during the session, post-session documentation, and individual leader debrief.
 
-**The dual function:** Andrew is simultaneously facilitating a leadership session and conducting structured behavioral observation. These two roles require different skills and they create a genuine tension. This guide is designed around that tension — how to create the activation conditions that generate diagnostic data while maintaining the facilitator's credibility and the group's trust.
+**The dual function:** Andrew is simultaneously facilitating a leadership session and conducting structured behavioral observation. These two roles require different skills and they create a genuine tension. This guide is designed around that tension — how to create the activation conditions that generate developmental data while maintaining the facilitator's credibility and the group's trust.
 
 **Session duration:** Half-day — 3 to 3.5 hours including breaks.
 
-**Position to leaders as:** *"A leadership team alignment workshop — working through a real challenge together and building some shared language for how this team operates."*
+**Position to leaders as:** *"A leadership team alignment workshop — working through a real challenge together and applying the language we've been building."*
 
 **Do not position it as:** An assessment, an evaluation, or part of the diagnostic process. The observation function is not hidden — it simply isn't the frame leaders hold while participating.
 
-**Timing in the engagement:** Phase 2, weeks 9–10. All narrative interviews complete. 360 data collection underway (not yet closed). This is the last data-collection event before interpretation begins.
+**Timing in the engagement:** Phase 5 — after leaders have completed Stages 1–3 of individual leader development (psychoeducation, retrospective review, anticipatory coaching). The Behavioral Pattern Profile is already built and delivered before this session occurs. Leaders enter with language and self-awareness. Without that foundation, this session is surveillance. With it, it becomes confirmation and refinement.
 
 ---
 
@@ -41,7 +41,7 @@ For each leader attending, pull their narrative interview checklist and 360 data
 
 The specific observation question focuses your attention during the session. You cannot track everything about everyone simultaneously — the pre-loaded questions direct observation to the highest-yield moments per leader.
 
-**Flag any leader where narrative interview and 360 data diverge significantly.** The facilitated observation is particularly valuable for these cases — it provides a third data point for the discrepancy.
+**Flag any leader where narrative interview and 360 data diverged significantly in the profile.** The facilitated observation is particularly valuable for these cases — it either confirms the profile reading or surfaces something the earlier methods missed, and either outcome sharpens the individual debrief.
 
 ### Scenario Customization
 
@@ -99,12 +99,10 @@ Allow 10–15 minutes of open discussion. Do not direct heavily. Observe:
 - Who builds on others vs. redirects to their own content
 - Initial regulation level across the group
 
-**Introduce the four behavioral language terms as a shared frame:**
-> "What I hear in what you're describing maps onto something I see consistently in high-performing teams. There tend to be four modes that show up under pressure — and most of us have a default. [Briefly describe withdrawal, escalation, disorganization, collaborative capacity in plain language — 2 minutes, not a lecture.]
->
-> We're going to see all four of those show up in the scenario we're about to work through. I want you to notice them — in each other and in yourselves."
+**Reference the shared language leaders already have:**
+> "You've been working with the four behavioral modes for a few sessions now — withdrawal, escalation, disorganization, collaborative capacity. Today you're going to see them show up live — in each other and in yourselves. I want you to notice them as they happen. That noticing is the work."
 
-*This primes leaders to be self-observing, which serves the coaching arc and paradoxically generates better observational data — self-consciousness produces more visible behavior, not less.*
+*Leaders enter this session with the language already built from Stage 1. Do not re-teach. Reference and activate. Self-observation is now a practiced skill, not a new ask — which produces more reliable behavioral data and a richer individual debrief afterward.*
 
 **→ Observation:** Note initial SCARF domain signals per leader. Note who the group naturally defers to before any authority structure has been formally established.
 
@@ -217,7 +215,7 @@ Who remains guarded or withdrawn after the activation — still holds the elevat
 Who leads the synthesis — is this the same person who dominated Phase 2, or does a different leader emerge when the task shifts from debate to integration?
 
 **Close the session:**
-> "This was exactly what I hoped for — you didn't agree on everything, and you said so. That's what makes this useful. What I'll take from today feeds into the individual work and into a team picture I'll share with [owner name] in aggregate. Any questions about the process?"
+> "This was exactly what I hoped for — you didn't agree on everything, and you said so. That's what makes this useful. I'll be meeting with each of you individually over the next week — we'll debrief what you noticed in yourself today against what I observed. Any questions about the process?"
 
 ---
 
@@ -285,17 +283,47 @@ Specific observation: __________________________________________________________
 
 ---
 
-## Integration into Behavioral Pattern Profile
+## Individual Leader Debrief
 
-Facilitated observation data feeds Section 1 and Section 4 of the Behavioral Pattern Profile:
+*Scheduled within one week of the session. One-on-one. 45–60 minutes per leader.*
 
-**Section 1 — Behavioral Pattern Summary**
-FO data confirms or complicates what NI and 360 showed. If all three methods converge: high-confidence finding. If FO diverges: note the divergence and report the more conservative of the two readings in the leader's copy.
+The debrief is the developmental payoff of the session. The leader's self-observation during the session is compared against what you observed — convergences confirm self-awareness; divergences reveal blind spots. Both are useful.
 
-**Section 4 — Source Notes (internal)**
-Full observation notes per leader. Flag any prediction-observation divergences. Note verbatim language.
+**Opening:**
+> "I want to start with what you noticed in yourself. Walk me through the session — what were you aware of as it was happening?"
 
-**Key integration question:** Did this leader behave the same way they described themselves in the narrative interview? A leader who described themselves as calm under pressure and showed significant activation in the facilitated session has a self-awareness gap — this becomes a coaching entry point.
+Let the leader go first. Do not prime with your observations. Their account tells you how accurately they read themselves in real time.
+
+**Debrief sequence:**
+
+*Step 1 — Leader's self-account:* What did they notice? Where did they feel activated? What did they do? What did they wish they'd done differently?
+
+*Step 2 — Convergence:* Where your observation matches theirs, name it directly: *"What you noticed matches what I saw — when [Leader B] pushed back, you held your position and stayed regulated. That's a change from what you described in earlier sessions."* Confirmation builds confidence and anchors the behavioral shift.
+
+*Step 3 — Divergence:* Where your observation diverges, introduce it carefully: *"I want to offer something I noticed that you didn't mention — not to contradict you, but because it matters for what we're working on."* Present the specific observation. Ask what they were experiencing in that moment. A divergence between self-account and observed behavior is often the highest-yield data in the entire engagement.
+
+*Step 4 — Connection to the pattern:* Connect what was observed to what was named in the profile and worked in retrospective review. *"This is the same pattern we traced through the [specific past episode]. You can see it now in real time."*
+
+*Step 5 — Forward application:* What does this mean for what's coming? Identify one behavioral experiment for the next coaching session based on what the debrief surfaced.
+
+**What the debrief is not:** A re-scoring of the profile. The profile stands. The debrief adds nuance and advances the coaching arc — it does not revise the foundational assessment.
+
+---
+
+## Integration into Ongoing Coaching
+
+The profile is already built and delivered before this session occurs. Facilitated observation does not rebuild it — it refines it and advances the coaching work.
+
+**What observation data adds:**
+- Confirms or complicates profile readings with live behavioral evidence
+- Surfaces self-awareness gaps that self-report and retrospective review cannot reach
+- Provides specific verbatim language and behavioral moments to work from in subsequent sessions
+- Marks measurable movement from baseline if the leader's observed behavior differs from what the profile predicted at assessment
+
+**Internal documentation:**
+Full observation notes per leader (from the Post-Session Observation Notes Template) are retained in the practitioner file. Flag any profile-observation divergences. These feed into the Month 12 checkpoint narrative.
+
+**Key developmental question:** Did this leader behave differently than they did in retrospective review — or differently than the pattern the profile named? Movement here is the clearest evidence of change. A leader whose profile showed withdrawal under authority challenge and who produced regulated disagreement in the session has demonstrated measurable development.
 
 ---
 

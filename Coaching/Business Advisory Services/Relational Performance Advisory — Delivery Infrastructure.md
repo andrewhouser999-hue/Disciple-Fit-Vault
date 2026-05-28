@@ -32,16 +32,17 @@ Three sequential layers:
 
 ```
 Layer 1: OBSERVATION
-Narrative Interview + Multi-Rater Behavioral Assessment + Live Facilitated Observation
+Narrative Interview + Multi-Rater Behavioral Assessment
 ↓
 Layer 2: INTERPRETATION
 Behavioral Pattern Profile — four dimensions, behavioral language, no clinical labels
 ↓
 Layer 3: INTERVENTION
+Psychoeducation → Retrospective Review → Anticipatory Coaching → Facilitated Observation
 Individual leader development + Team facilitation + Structural practice recommendations
 ```
 
-No single method is sufficient. Triangulation across all three observation methods is what distinguishes this from a self-report survey process.
+No single method is sufficient. Facilitated observation is an intervention-phase tool — it becomes productive only after leaders have language and self-awareness to debrief against what they experienced.
 
 ---
 
@@ -86,22 +87,6 @@ A structured 360 built around observable relational behaviors under pressure —
 **Logistics:** Administered after narrative interviews are complete. 15–20 minutes per rater. 4–6 week data collection window.
 
 ---
-
-### Live Facilitated Observation
-
-A designed session — structured as a leadership development workshop but functioning as an observation context. Relational patterns become visible under activation; this session creates the activation conditions.
-
-**Design principles:**
-- Introduce genuine relational tension: a case scenario with no clean answer, requiring negotiation among leaders
-- Introduce authority challenge: facilitator challenges assumptions, disagrees with consensus, redirects dominant voices
-- Track who withdraws, who escalates, who disorganizes, who regulates and collaborates
-
-**Observation targets:**
-- Response to peer challenge: deflection (withdrawal pattern), over-explanation/personalization (escalation pattern), regulated engagement (collaborative capacity)
-- Response to authority challenge: submission/defiance cycling (disorganization) vs. regulated disagreement
-- Repair behavior: does the person move toward resolution when tension peaks, or exit the relational field?
-
-**Logistics:** Half-day session. Positioned to client as a leadership team alignment workshop. Observation notes taken in real time; synthesized during interpretation phase.
 
 ---
 
@@ -148,12 +133,32 @@ Coaching engagement targeting the specific pattern dimensions identified in the 
 
 **Format:** Bi-weekly 60-minute sessions. Duration: 3–6 months depending on pattern severity and leader readiness.
 
+**Four-stage sequence:**
+
+**Stage 1 — Psychoeducation (build language)**
+Introduce the behavioral framework in plain language. The goal is not insight — it is vocabulary. A leader who can name what is happening in themselves can begin to track it. Learning that patterns are formed, predictable, and changeable (not character defects) reduces shame and increases engagement. This stage functions like bibliotherapy: language and concepts that clarify what the leader has already been experiencing.
+
+**Stage 2 — Retrospective Review (surface pattern)**
+Work through specific past episodes — situations the leader identifies as difficult, unresolved, or out of character. The goal is to map the pattern in their own story. Retrospective review yields richer diagnostic data than observation alone because the leader narrates how they interpreted the event — which reveals blind spots, self-other balance, and activation triggers that real-time observation would miss.
+
+**Stage 3 — Anticipatory Coaching (apply forward)**
+Identify upcoming situations — a difficult conversation, a performance issue, a team conflict on the horizon — and work through them in advance. What is likely to activate? What does the pattern predict they will do? What would a different response look like? This stage converts self-awareness into a behavioral experiment before the situation occurs.
+
+**Stage 4 — Facilitated Observation (debrief against experience)**
+Once the leader has language and pattern awareness, structured observation becomes productive. A designed session — positioned as a leadership team alignment workshop — creates activation conditions. Relational patterns become visible under genuine tension. After the session, the leader debriefs what was observed against what they experienced. Without the foundation of Stages 1–3, observation is surveillance. With it, observation becomes confirmation and refinement.
+
+**Observation design:**
+- Introduce genuine relational tension: a case scenario with no clean answer, requiring negotiation among leaders
+- Introduce authority challenge: facilitator challenges assumptions, disagrees with consensus, redirects dominant voices
+- Track who withdraws, who escalates, who disorganizes, who regulates and collaborates
+- Observation targets: response to peer challenge, response to authority challenge, repair behavior at tension peak
+
+**Logistics:** Half-day session. Observation notes taken in real time; synthesized in post-session debrief with each leader individually.
+
 **Focus areas per pattern:**
 - *Withdrawal:* building accountability delivery skills; increasing regulatory capacity during conflict; staying relationally present under stress
 - *Escalation:* regulating relational anxiety; building tolerance for non-response; direct communication without pursuit
 - *Disorganization:* clarifying role identity; building consistent authority posture; supervisor relationship repair
-
-*Note: This track may draw from Covenant Identity coaching truths where relevant — particularly identity security as the foundation for regulated leadership. Framing remains secular and behavioral in all client-facing contexts.*
 
 ---
 
@@ -191,10 +196,9 @@ HR and management practice changes that reduce unnecessary activation and build 
 - Identify key leaders for assessment (typically GMs and OMs — 4–8 leaders for Anant)
 - Establish data confidentiality agreements
 
-### Phase 2 — Assessment (Weeks 3–10)
+### Phase 2 — Assessment (Weeks 3–8)
 - Narrative interviews conducted (weeks 3–5)
 - Multi-rater 360 administered and collected (weeks 4–8)
-- Facilitated observation session (weeks 9–10)
 
 ### Phase 3 — Interpretation (Weeks 11–12)
 - Behavioral Pattern Profiles built per leader
@@ -206,7 +210,8 @@ HR and management practice changes that reduce unnecessary activation and build 
 - Sponsor debrief (aggregate team pattern map + structural recommendations; individual profiles not shared without leader consent)
 
 ### Phase 5 — Intervention (Months 4–9)
-- Individual leader development coaching (bi-weekly)
+- Individual leader development coaching (bi-weekly): psychoeducation → retrospective review → anticipatory coaching → facilitated observation
+- Facilitated observation session conducted after leaders have established language and self-awareness (typically mid-phase)
 - Team facilitation sequence (monthly)
 - Structural recommendations implementation support (as needed)
 
@@ -235,7 +240,7 @@ HR and management practice changes that reduce unnecessary activation and build 
 > "Most performance problems in hospitality — retention, service inconsistency, management breakdowns — trace back to how people relate under pressure. When things get hard, people fall into predictable patterns. Some withdraw. Some escalate. Some become inconsistent in ways that confuse their teams. Standard training doesn't reach that level. What we do is identify those patterns specifically, so the development work is targeted — not generic."
 
 **Describing the assessment:**
-> "We use three methods together: a structured conversation with each leader, behavioral data from the people around them, and a facilitated session where we can observe how the team actually functions under pressure. The combination gives us a reliable read on what's actually happening — not just what people say about themselves."
+> "We use two methods together: a structured conversation with each leader, and behavioral data from the people around them. The combination gives us a reliable read on what's actually happening — not just what people say about themselves."
 
 **Describing the output:**
 > "Each leader gets a behavioral profile — specific patterns, specific impact, specific development targets. You get an aggregate picture of your management team and a set of structural recommendations for how to build systems that support better relational functioning across properties."

@@ -241,7 +241,7 @@ Use the redirect script from [[Anant Operations — Processes & Procedures]]. Do
 Wait. Do not fill the silence. This question often produces the most significant disclosure of the interview — either a moment of genuine self-awareness that confirms or complicates what you observed, or a notable absence of it.
 
 **Reorientation — after the final question:**
-> "Here's what happens next. I'll put together a behavioral profile based on this conversation and two other assessment processes. I'll share that with you privately — before anyone else sees anything. The timeline is [X weeks]. Any questions about the process?"
+> "Here's what happens next. I'll put together a behavioral profile based on this conversation and one other assessment process. I'll share that with you privately — before anyone else sees anything. The timeline is [X weeks]. Any questions about the process?"
 
 **Specific acknowledgment:**
 Name something concrete they said — not a generic "thank you for your time." 
