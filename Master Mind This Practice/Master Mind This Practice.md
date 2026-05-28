@@ -5,10 +5,8 @@ tags:
 ---
 **What This Practice Is**
 
-  A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and
-  the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ,
-  and be formed by the Spirit toward faithful image-bearing. Three disciplines, unified. None sufficient alone. Each contributing what the others
-  cannot:
+  A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ,
+  and be formed by the Spirit toward faithful image-bearing. Three disciplines, unified. None sufficient alone. Each contributing what the others cannot:
 
   - Spiritual formation provides the governing telos, the process frame, and the account of the practitioner's role — cooperating with what the Spirit is already doing.
   - Biblical counseling provides diagnostic precision — idolatry and disordered worship as the root of false identity, the heart as the center of human functioning, specific tools for surfacing affections, false identity structures, and character wounds.
@@ -31,8 +29,7 @@ Educate & Train the Client on:
 **This is the LINCHPIN!**  
   The Neuroscience Foundation
 
-  Standard learning theory produces extinction — a new association suppresses the old one, but the original encoding remains latent. It can be
-  reinstated by stress, context shift, or time. This is why CBT gains erode.
+  Standard learning theory produces extinction — a new association suppresses the old one, but the original encoding remains latent. It can be fffffffffreinstated by stress, context shift, or time. This is why CBT gains erode.
 
   Reconsolidation is structurally different. When a memory is reactivated, it briefly becomes labile — physically unstable, protein synthesis dependent — and can be rewritten at the synaptic level (LeDoux; Nader et al., 2000). The original encoding is not suppressed. It is replaced. There is no reinstatement because the original trace is gone.
 
