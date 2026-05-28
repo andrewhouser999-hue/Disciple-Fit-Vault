@@ -30,7 +30,7 @@ tags:
 
 - [ ] `A001 — Service Offer & Pricing.md`
 - [ ] `A001 — Initial Correspondence.md`
-- [ ] `A001 — Conversation Readiness Guide.md`
+- [x] `A001 — Conversation Readiness Guide.md`
 - [ ] `A001 — First Meeting Question Guide.md`
 - [ ] `A001 — Consultant Qualifications.md`
 - [ ] `A001 — Presentation Deck.md`
