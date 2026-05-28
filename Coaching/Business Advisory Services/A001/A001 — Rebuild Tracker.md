@@ -28,10 +28,10 @@ tags:
 
 ## Remaining — Pre-Meeting Priority
 
-- [ ] `A001 — Service Offer & Pricing.md`
+- [x] `A001 — Service Offer & Pricing.md`
 - [ ] `A001 — Initial Correspondence.md`
 - [x] `A001 — Conversation Readiness Guide.md`
-- [ ] `A001 — First Meeting Question Guide.md`
+- [x] `A001 — First Meeting Question Guide.md`
 - [ ] `A001 — Consultant Qualifications.md`
 - [ ] `A001 — Presentation Deck.md`
 - [ ] `A001 — Presentation Deck 2.md`
