@@ -12,6 +12,34 @@ tags:
 
 # SDT — Theory, Workplace Application & Psychological Safety Gap
 
+## Contents
+
+- [[#Part 1: What SDT Is|Part 1 — What SDT Is]]
+  - [[#Core Theory — Deci & Ryan|Core Theory — Deci & Ryan]]
+  - [[#The Motivation Continuum|The Motivation Continuum]]
+  - [[#Need Satisfaction vs. Need Frustration|Need Satisfaction vs. Need Frustration]]
+  - [[#Empirical Scope|Empirical Scope]]
+- [[#Part 2: SDT Applied to the Workplace|Part 2 — SDT Applied to the Workplace]]
+  - [[#Gagné & Deci (2005) — The Landmark Translation|Gagné & Deci (2005) — The Landmark Translation]]
+  - [[#Autonomy-Supportive Management — Deci, Connell & Ryan (1989)|Autonomy-Supportive Management — Deci, Connell & Ryan (1989)]]
+  - [[#Meta-Analytic Evidence|Meta-Analytic Evidence]]
+  - [[#Organizational Intervention Studies|Organizational Intervention Studies]]
+- [[#Part 3: Where SDT Falls Short on Psychological Safety|Part 3 — Where SDT Falls Short on Psychological Safety]]
+  - [[#Defining Psychological Safety as a Distinct Construct|Defining Psychological Safety as a Distinct Construct]]
+  - [[#What SDT Does Not Explain or Predict|What SDT Does Not Explain or Predict]]
+    - [[#1. The Relatedness / Safety Conflation|1. The Relatedness / Safety Conflation]]
+    - [[#2. The Autonomy / Candor Conflation|2. The Autonomy / Candor Conflation]]
+    - [[#3. The Power and Hierarchy Problem|3. The Power and Hierarchy Problem]]
+    - [[#4. The Threat-State Sequencing Problem|4. The Threat-State Sequencing Problem]]
+  - [[#Empirical Evidence of the Gap|Empirical Evidence of the Gap]]
+- [[#Part 4: Synthesis|Part 4 — Synthesis]]
+  - [[#What Each Framework Contributes|What Each Framework Contributes]]
+  - [[#Sequence of Intervention — What the Evidence Suggests|Sequence of Intervention — What the Evidence Suggests]]
+  - [[#Most Important Practical Implication|Most Important Practical Implication]]
+- [[#Source Index|Source Index]]
+
+---
+
 **Purpose:** Establish what Self-Determination Theory is, how it applies at work, and where it demonstrably falls short as a standalone framework for resolving psychological safety. Basis for RPA engagement rationale and sponsor communication.
 
 ---

@@ -13,6 +13,32 @@ tags:
 
 # Workplace Dysregulation — Empirical Base Case & Solution Framework
 
+## Contents
+
+- [[#PART 1: THE BASE CASE|Part 1 — The Base Case]]
+  - [[#1. Neurobiological Mechanism of Workplace Threat Response|1. Neurobiological Mechanism of Workplace Threat Response]]
+  - [[#2. Psychological Safety — The Empirical Case|2. Psychological Safety — The Empirical Case]]
+  - [[#3. Basic Psychological Needs — The SDT Evidence Base|3. Basic Psychological Needs — The SDT Evidence Base]]
+  - [[#4. Social Pain as Real Pain|4. Social Pain as Real Pain]]
+  - [[#5. SCARF Model — Threat/Reward in Organizations|5. SCARF Model — Threat/Reward in Organizations]]
+  - [[#6. Burnout as Systemic Dysregulation|6. Burnout as Systemic Dysregulation]]
+- [[#PART 2: THE SOLUTION FRAMEWORK|Part 2 — The Solution Framework]]
+  - [[#1. Psychological Safety Interventions — Edmondson|1. Psychological Safety Interventions — Edmondson]]
+  - [[#2. Autonomy-Supportive Management (SDT-Aligned)|2. Autonomy-Supportive Management (SDT-Aligned)]]
+  - [[#3. Trauma-Informed Organizational Frameworks|3. Trauma-Informed Organizational Frameworks]]
+  - [[#4. Somatic and Regulation-Based Approaches|4. Somatic and Regulation-Based Approaches]]
+  - [[#5. MBSR and Mindfulness-Based Interventions|5. MBSR and Mindfulness-Based Interventions]]
+  - [[#6. Motivational Interviewing in Organizational Contexts|6. Motivational Interviewing in Organizational Contexts]]
+  - [[#7. Kegan & Lahey — Immunity to Change|7. Kegan & Lahey — Immunity to Change]]
+- [[#PART 3: SYNTHESIS|Part 3 — Synthesis]]
+  - [[#1. Non-Negotiable Conditions — Where All Frameworks Converge|1. Non-Negotiable Conditions — Where All Frameworks Converge]]
+  - [[#2. Where the Frameworks Diverge — Unresolved Tensions|2. Where the Frameworks Diverge — Unresolved Tensions]]
+  - [[#3. Sequence of Interventions — What Must Come First|3. Sequence of Interventions — What Must Come First]]
+  - [[#4. Three Most Empirically Robust Claims|4. Three Most Empirically Robust Claims]]
+- [[#Evidence Quality Summary|Evidence Quality Summary]]
+
+---
+
 A source-grounded research brief on dysregulating work environments: the neurobiological and organizational evidence for the problem, and the evidence base for interventions.
 
 **Research prompt:** [[Relational Performance Advisory — Workplace Dysregulation Research Prompt]]

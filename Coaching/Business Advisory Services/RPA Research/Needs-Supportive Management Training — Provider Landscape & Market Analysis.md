@@ -10,6 +10,20 @@ tags:
 
 # Needs-Supportive Management Training — Provider Landscape & Market Analysis
 
+## Contents
+
+- [[#Purpose|Purpose]]
+- [[#Research Foundation: Does It Work?|Research Foundation: Does It Work?]]
+- [[#What Needs-Supportive Behavior Looks Like (Trainable Behaviors)|What Needs-Supportive Behavior Looks Like (Trainable Behaviors)]]
+- [[#Provider Landscape|Provider Landscape]]
+  - [[#Tier 1 — Directly SDT-Targeting (Theory Named in Marketing)|Tier 1 — Directly SDT-Targeting (Theory Named in Marketing)]]
+  - [[#Tier 2 — SDT-Informed but Adjacent (Marketing Around Outcomes, Not Theory)|Tier 2 — SDT-Informed but Adjacent (Marketing Around Outcomes, Not Theory)]]
+- [[#Market Prevalence Assessment|Market Prevalence Assessment]]
+- [[#Implications for Advisory Practice|Implications for Advisory Practice]]
+- [[#Source Index|Source Index]]
+
+---
+
 ## Purpose
 
 This document maps the current provider landscape for management training grounded in Self-Determination Theory (SDT) — specifically training that targets needs-supportive or autonomy-supportive manager behavior. Relevant to advisory engagements where manager development is a core lever (e.g., Anant Operations).

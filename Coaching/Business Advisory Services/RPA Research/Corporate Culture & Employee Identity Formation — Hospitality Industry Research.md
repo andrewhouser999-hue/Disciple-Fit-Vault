@@ -12,6 +12,18 @@ tags:
 
 # Corporate Culture & Employee Identity Formation — Hospitality Industry Research
 
+## Contents
+
+- [[#Foundational Theory (Organizational Level)|Foundational Theory (Organizational Level)]]
+- [[#Socialization as the Mechanism|Socialization as the Mechanism]]
+- [[#Hospitality-Specific Research|Hospitality-Specific Research]]
+- [[#Ritz-Carlton — Primary Industry Case Study|Ritz-Carlton — Primary Industry Case Study]]
+- [[#The Critical Failure Mode|The Critical Failure Mode]]
+- [[#Research Consensus — Implications for Multi-Property Operators|Research Consensus — Implications for Multi-Property Operators]]
+- [[#Source Index|Source Index]]
+
+---
+
 ## Foundational Theory (Organizational Level)
 
 **Albert & Whetten (1985)** — Coined "organizational identity" as the central, distinctive, and enduring characteristics of an organization. The key insight: members *internalize* organizational identity as part of personal identity — not as compliance, but as belonging.
