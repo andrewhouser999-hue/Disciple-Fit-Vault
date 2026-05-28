@@ -20,10 +20,21 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 
 | Command | Claude Code | AutoHotkey | Purpose |
 | ------- | ----------- | ---------- | ------- |
-| Workplace Dysregulation Research | — | — | Produce sourced empirical brief on dysregulating environments; basis for engagement rationale, sponsor comms, framework dev |
-| SDT — Theory, Workplace Application & Limits | — | — | Establish what SDT is, how it applies at work, and where it fails to resolve psychological safety on its own |
-| Psychological Safety — Essential Practices Research | — | — | Identify the complete evidence-backed set of practices essential for creating and sustaining psychological safety in a chronically dysregulated workplace; includes complementarity chain mapping where each practice falls short and which resolves its gap |
-| Consulting Initial Meeting — Warm Entry Research | — | — | Best practices for initial consulting meetings entering on pre-existing conceptual alignment and relational warmth; covers entry theory, warm vs. cold entry, meeting structure, informal-to-formal transition, and two-meeting owner→OM sequence |
+| [[#Workplace Dysregulation Research Prompt\|Workplace Dysregulation Research]] | — | — | Produce sourced empirical brief on dysregulating environments; basis for engagement rationale, sponsor comms, framework dev |
+| [[#SDT — Theory, Workplace Application & Limits\|SDT — Theory, Workplace Application & Limits]] | — | — | Establish what SDT is, how it applies at work, and where it fails to resolve psychological safety on its own |
+| [[#Psychological Safety — Essential Practices Research Prompt\|Psychological Safety — Essential Practices Research]] | — | — | Identify the complete evidence-backed set of practices essential for creating and sustaining psychological safety in a chronically dysregulated workplace; includes complementarity chain mapping where each practice falls short and which resolves its gap |
+| [[#Consulting Initial Meeting — Warm Entry Research Prompt\|Consulting Initial Meeting — Warm Entry Research]] | — | — | Best practices for initial consulting meetings entering on pre-existing conceptual alignment and relational warmth; covers entry theory, warm vs. cold entry, meeting structure, informal-to-formal transition, and two-meeting owner→OM sequence |
+| [[#Credibility Communication — Consulting Entry Prompt\|Credibility Communication — Consulting Entry]] | — | — | Generate short, pithy, internalizable credibility talking points calibrated to practitioner background and audience profile; governs claim type, specificity, sequencing (competence before vulnerability), and self-orientation management |
+
+---
+
+## Navigation
+
+- [[#Workplace Dysregulation Research Prompt]]
+- [[#SDT — Theory, Workplace Application & Limits]]
+- [[#Psychological Safety — Essential Practices Research Prompt]]
+- [[#Consulting Initial Meeting — Warm Entry Research Prompt]]
+- [[#Credibility Communication — Consulting Entry Prompt]]
 
 ---
 
@@ -922,5 +933,98 @@ EVIDENCE STANDARDS:
 OUTPUT: Full research brief with section headers matching above. Section 6 should be
 scannable as a standalone practitioner reference. Use behavioral and operational language
 throughout — no academic hedging in Section 6.
+```
+
+---
+
+## Credibility Communication — Consulting Entry Prompt
+
+**When to use:**
+- Before any initial meeting where you need to establish standing as a practitioner
+- When preparing for a conversation where your credibility may be challenged or untested
+- When building the A001 or any engagement's pre-meeting preparation
+- When calibrating how much to say vs. hold back about your background
+
+**Generated output:** [[A001 — Credibility Talking Points]]
+
+**Governing principles embedded in this prompt:**
+| Principle | Implication |
+|---|---|
+| Specificity is credibility | Outcomes and named experiences land; vague claims don't |
+| Pratfall sequence | Competence before vulnerability — establish foundation, then disclose edge |
+| Lived experience > credentials | In relational/behavioral work, personal transformation has different standing than certification |
+| Translate the credential | Every credential needs a bridge to the owner's frame — not titles, what it means in practice |
+| Self-orientation management | Credibility as service to the client ("what you're getting") not self-promotion ("what I've done") |
+| Coherent narrative | Disparate experience must be threaded into one story — what has everything pointed toward? |
+
+```
+You are helping a non-clinical organizational consultant prepare credibility talking points
+for an initial consulting meeting. The consultant's role is behavioral and operational —
+working with organizational leaders on relational patterns, psychological safety, and
+management behavior. Not therapy. Not training programs. Advisory and implementation
+orchestration.
+
+Apply the following credibility communication principles:
+
+1. LEAD WITH MECHANISM, NOT CREDENTIAL
+   The audience (a business owner with an operational mindset) does not respond to
+   certifications or degrees. They respond to demonstrated understanding of the specific
+   problem they're sitting with. Frame credibility around what the consultant understands
+   about the mechanism — not what they're certified in.
+
+2. SPECIFICITY IS CREDIBILITY
+   Vague claims ("I have experience with trauma") are dismissed. Specific claims with
+   outcomes ("I built a training program across 75 new hires that produced 30% more
+   top-rated performance than anything prior — the module ran four cohorts after I left")
+   are believed. Pull every claim to the most specific, outcome-grounded version possible.
+
+3. THE PRATFALL SEQUENCE — COMPETENCE BEFORE VULNERABILITY
+   Establish the credibility foundation first. Then disclose the edge or limitation.
+   Never lead with what you don't have. A practitioner who leads with humility signals
+   low confidence. A practitioner who establishes real standing and then says "here's
+   where I'm new to this" signals self-awareness — which increases trust, not decreases it.
+
+4. LIVED EXPERIENCE OVER CREDENTIALS IN RELATIONAL WORK
+   For work that involves behavioral reorganization and relational change, personal
+   lived experience of that process has different standing than academic knowledge.
+   Lean into any personal transformation the consultant has undergone. Frame it simply
+   and specifically — not therapeutically.
+
+5. TRANSLATE EVERY CREDENTIAL TO THE CLIENT'S FRAME
+   Certifications, acronyms, and academic language mean nothing to an operational
+   business owner. For each credential: state what it means in practice, what it
+   equipped the practitioner to do, and why that matters for this engagement.
+
+6. SELF-ORIENTATION MANAGEMENT (Maister)
+   Frame all credibility claims as helping the owner understand what he's actually
+   getting — not as self-promotion. The question the owner is asking is: "Can this
+   person actually help me?" Every statement should answer that question, not perform
+   for it.
+
+7. BUILD THE COHERENT NARRATIVE
+   The practitioner's background is only as credible as it tells one story. Connect
+   the disparate experience into a through-line: what has everything the consultant
+   has done been in service of understanding? That through-line is what makes the
+   credentials feel purposeful rather than random.
+
+PRACTITIONER BACKGROUND TO DRAW FROM:
+[Describe the consultant's actual background — credentials, lived experience, training
+history, organizational experience, personal transformation, research depth, and any
+specific measurable outcomes from prior work.]
+
+AUDIENCE PROFILE:
+[Describe the owner/client — operational vs. relational orientation, attachment profile,
+prior conceptual alignment, what they are skeptical about, what they respond to.]
+
+OUTPUT FORMAT:
+Produce short, pithy, internalizable talking points organized by credibility domain.
+For each domain: a short version (one or two sentences the practitioner can say naturally)
+and an expanded version (two to four sentences for when the point needs development).
+Add a note where the point has unusual leverage with this specific audience.
+End with one coherent-narrative paragraph the practitioner can use if asked directly:
+"What makes you qualified for this?"
+
+Use the pratfall sequence to order the domains: strongest credibility claims first,
+honest disclosure of edge or newness last.
 ```
 | Tracey & Hinkin (2008) | Supervisory accountability in hospitality | Empirical (hospitality-specific) |
