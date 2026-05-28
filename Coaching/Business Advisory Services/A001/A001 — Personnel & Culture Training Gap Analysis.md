@@ -21,11 +21,12 @@ Ranked by leverage for a multi-property owner-operated group:
 
 1. **GM as culture carrier** — highest leverage; culture lives or dies at the property level
 2. **Accidental manager / supervisory skill gap** — most widespread; directly drives turnover
-3. **Feedback and documentation** — legal and operational risk
-4. **Psychological safety** — trust deficit compounds every gap below it
-5. **Onboarding depth** — highest dropout occurs in the first 90 days
-6. **Retention-focused management** — replaces the shift-filling mentality; usually missing entirely
-7. **Turnover normalization** — converting turnover from assumed cost to measurable problem opens the advisory door
+3. **Needs-supportive supervision skill gap** — specific, trainable behaviors that directly satisfy employee psychological needs; measurable impact on trust and retention within weeks
+4. **Feedback and documentation** — legal and operational risk
+5. **Psychological safety** — trust deficit compounds every gap below it
+6. **Onboarding depth** — highest dropout occurs in the first 90 days
+7. **Retention-focused management** — replaces the shift-filling mentality; usually missing entirely
+8. **Turnover normalization** — converting turnover from assumed cost to measurable problem opens the advisory door
 
 ---
 
@@ -116,9 +117,32 @@ Ranked by leverage for a multi-property owner-operated group:
 
 ---
 
+### 7. Needs-Supportive Supervision
+
+**What it is:** Managers have not been trained in the specific behaviors that satisfy employees' basic psychological needs for autonomy, competence, and relatedness (Deci & Ryan, Self-Determination Theory). They manage task completion but do not structure the relational experience of their team in ways that build engagement and retention. The behaviors are specific and teachable; the gap is that most managers have never encountered them.
+
+Three clusters of trainable behavior are involved:
+- **Autonomy support** — providing meaningful rationale for directives; offering choices within constraints; using non-controlling language; acknowledging employee perspective before redirecting
+- **Competence support** — delivering informational (not evaluative) feedback; setting achievable goals with structured support; building on strengths before correcting deficits
+- **Relatedness support** — regular one-on-one contact; supporting team cohesion; sharing information and personal experience appropriately
+
+**Why it matters here:** SDT research (Su & Reeve, 2011 meta-analysis; Jungert et al., 2022) shows that managers trained in these behaviors produce measurable improvements in employee trust, need satisfaction, and retention within weeks. In a high-turnover operation, this is the behavioral lever closest to the root cause. These are not personality traits — they are observable practices that can be trained, coached, and measured.
+
+**Diagnostic signals:**
+- Managers who give directives without rationale ("because that's the standard")
+- Feedback that evaluates the person rather than informing the behavior ("you're doing great" vs. "here's what worked and why")
+- One-on-ones that are operational, not relational — schedule and tasks only, no inquiry into the employee's experience
+- Managers who set goals but don't structure support or acknowledge incremental progress
+
+**Discovery questions:**
+- When a manager assigns a task, how often do they explain why it matters to the employee?
+- What does a manager do when an employee is struggling — not in violation, but not performing?
+
+---
+
 ## Culture Management Gaps
 
-### 7. Culture Is Assumed, Not Designed
+### 8. Culture Is Assumed, Not Designed
 
 **What it is:** The owner has clear personal values. Those values have not been operationalized — defined behaviorally, trained explicitly, or held accountable at the property level. Culture travels by imitation and osmosis, not by design.
 
