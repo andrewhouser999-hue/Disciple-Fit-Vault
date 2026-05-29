@@ -159,7 +159,7 @@ Three clusters of trainable behavior are involved:
 
 ---
 
-### 8. GM as Culture Bottleneck
+### 9. GM as Culture Bottleneck
 
 **What it is:** The General Manager is the primary culture carrier at each property. If GMs are not developed, aligned, and held accountable to cultural standards, the owner's values do not reach the front desk or housekeeping floor. Every gap above is mediated through the GM.
 
@@ -172,7 +172,7 @@ Three clusters of trainable behavior are involved:
 
 ---
 
-### 9. No Psychological Safety Infrastructure
+### 10. No Psychological Safety Infrastructure
 
 **What it is:** Employees have no reliable, trusted channel to surface problems. Issues emerge through turnover, absenteeism, or guest complaints — not proactively. The silence looks like contentment until it doesn't.
 
@@ -185,7 +185,7 @@ Three clusters of trainable behavior are involved:
 
 ---
 
-### 10. Recognition Is Generic, Not Behavioral
+### 11. Recognition Is Generic, Not Behavioral
 
 **What it is:** Recognition programs — employee of the month, tenure awards, brand-mandated shout-outs — exist but are disconnected from the specific behaviors the operation wants to reinforce. Recognition becomes a rotation or a popularity vote rather than a culture tool.
 
@@ -198,7 +198,7 @@ Three clusters of trainable behavior are involved:
 
 ---
 
-### 11. Turnover Normalized
+### 12. Turnover Normalized
 
 **What it is:** High turnover is accepted as an inevitable feature of the hospitality industry rather than diagnosed as a culture and management symptom. This framing prevents owners from quantifying it as a cost problem or investing in structural solutions.
 
