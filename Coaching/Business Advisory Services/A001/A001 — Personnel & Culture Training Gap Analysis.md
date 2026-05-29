@@ -142,7 +142,7 @@ Three clusters of trainable behavior are involved:
 
 ## Culture Management Gaps
 
-### 8. Culture Is Assumed, Not Designed
+### 8. Culture Is Assumed, Not Designed  
 
 **What it is:** The owner has clear personal values. Those values have not been operationalized — defined behaviorally, trained explicitly, or held accountable at the property level. Culture travels by imitation and osmosis, not by design.
 
