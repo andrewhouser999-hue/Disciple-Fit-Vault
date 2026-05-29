@@ -1,8 +1,22 @@
 ---
-created: 
+created:
 basis: TBD
 tags:
 ---
+**These are the categories that describe what can be practiced.**
+Technique — the most common and accurate term at this level. A specific conversational move with a defined purpose.
+  Neuro mechanism framing is a technique.
+
+  Intervention — used more in clinical and counseling literature. Implies deliberate therapeutic action. Fits in Biblical
+  Counseling or trauma-informed contexts but carries clinical weight.
+
+  Framing strategy — descriptive, non-clinical. Works well in RPA or organizational consulting contexts where
+  "intervention" sounds therapeutic.
+
+  Conversational move — practical, behavioral language. Low pretension. Works in practitioner guides where you want the
+  reader focused on what to do.
+
+  Tool — common in coaching literature (you already use this in your vault). Broad but accessible.
 
 *katoptrizomenoi* (2 Cor 3:18 — "beholding the glory of the Lord") From katoptron (mirror). Present active participle — ongoing, not completed. "**As we are continuously beholding, we are continuously being transformed.**" The transformation is not a separate event. It is the byproduct of sustained beholding. You don't behold and then get transformed.  The beholding is the mechanism. This is the most important mechanical word in the New Testament for this topic.
 
