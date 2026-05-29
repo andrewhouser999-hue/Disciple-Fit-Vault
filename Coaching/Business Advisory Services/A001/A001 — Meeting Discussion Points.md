@@ -123,3 +123,157 @@ The leading indicator is candor. The first sign the climate has shifted is that 
 
 **The Conversational Bridge**
 *"What would it mean for you personally if you didn't have to hold this thing together alone?"*
+
+---
+
+# RPA Teaser Sequence — 7-Day Outreach
+
+*One per day. Each message is self-contained — no need to reference prior messages. Day 7 carries the ask. Send same time each day.*
+
+---
+
+## Day 1
+
+**Subject:** What owners usually notice first
+
+---
+
+Most business owners I talk with describe a version of the same thing before they can fully name it:
+
+The team looks fine on the surface. People are showing up, doing the job. But something has shifted — in how much they offer, how candidly they talk, how much initiative they bring. The gap between what the team *could* give and what they're actually giving has quietly widened.
+
+They don't know if it's a people problem, a culture problem, or something they did. They just know it didn't used to feel like this.
+
+Research on organizational performance has a name for what they're describing — and a documented sequence for how it develops and where it leads.
+
+More soon.
+
+— Andrew
+
+---
+
+## Day 2
+
+**Subject:** What your team can't access right now
+
+---
+
+Something the neuroscience of workplace performance shows — that most leaders don't discover until they see it in their own team:
+
+Social threat activates the same response as physical danger. Relational uncertainty, fear of being evaluated, unclear standing — these don't just affect morale. They measurably narrow thinking, reduce initiative, and shut down the kind of judgment that drives performance.
+
+Your team may not be underperforming because they lack skill or motivation. They may be underperforming because they can't fully access either one.
+
+What creates that condition — and what resolves it — is specific. It's not what most organizations address first.
+
+— Andrew
+
+---
+
+## Day 3
+
+**Subject:** Why it keeps drifting back
+
+---
+
+Research on organizational change has documented something most business owners recognize immediately when they hear it:
+
+People have competing commitments. Not stated ones — hidden ones. Running underneath every meeting, every review, every performance conversation. They're not resistant to change. They're committed to something that makes change feel risky.
+
+This is why clarity and accountability — the two most common leadership moves — produce short-term compliance and long-term drift. They reach the behavior. They don't reach what's producing it.
+
+What reaches it is a different kind of conversation. And it's a learnable one.
+
+— Andrew
+
+---
+
+## Day 4
+
+**Subject:** What happens before the conversation starts
+
+---
+
+Before your team member walks into a difficult conversation with you, research on interpersonal neurobiology shows they've already run an unconscious threat assessment.
+
+It covers five domains — status, certainty, autonomy, belonging, fairness — that function like basic safety needs. The outcome of that assessment determines whether they bring you their best thinking or their safest answer.
+
+Most leaders are responding to the output of that assessment without knowing the assessment happened.
+
+The leaders who shift team dynamics fastest learn to work upstream of it. What that looks like in practice is specific — and different from what most training programs teach.
+
+— Andrew
+
+---
+
+## Day 5
+
+**Subject:** The sequence nobody shows you
+
+---
+
+Research on service culture in high-turnover environments has documented a sequence that plays out in almost every underperforming team:
+
+First, discretionary effort disappears — people do the job, not one ounce more. Then service quality gets inconsistent — not bad enough to act on, not good enough to trust. Then your best people start quietly looking.
+
+The sequence is predictable enough that researchers can plot it. What triggers the first step isn't workload or pay. It's whether people feel safe to bring full engagement without social risk.
+
+That condition isn't fixed by perks, retreats, or team meetings. It's addressed at a different layer.
+
+— Andrew
+
+---
+
+## Day 6
+
+**Subject:** What actually moves it
+
+---
+
+The research on what restores relational trust in teams is counterintuitive in one specific way:
+
+It's not more transparency, more accountability structures, or more feedback training. All three of those are downstream of the actual problem.
+
+What the evidence points toward is something that happens in the quality of specific relational moments — not their frequency or formality. Organizations that shift fastest are the ones where leaders learn a particular kind of responsiveness that research on adult development identifies as the condition for psychological safety.
+
+It's a learnable set of behaviors. Most leaders are closer to it than they think. What they're missing is a map.
+
+— Andrew
+
+---
+
+## Day 7
+
+**Subject:** What relief looks like
+
+---
+
+When the relational layer of a team is addressed at the right level, a few things happen — and they're observable:
+
+Candor returns first. People start naming what's actually true instead of what's safe to say. Then initiative — problems come to you before they're crises. Then retention — your best people stop quietly hedging.
+
+The leaders I work with don't experience this as a culture transformation. They experience it as relief. Like something that was grinding finally stopped.
+
+I've been building a framework specifically for owners in your position — relational performance advisory work that addresses the layer most consultants don't reach. I'd like to walk you through it.
+
+Would a 45-minute conversation be worth your time?
+
+— Andrew
+
+---
+
+# Meeting Transition Statement
+
+*Deliver at the moment the meeting shifts from connection to substance. Own it — don't read it.*
+
+---
+
+"Our time together will be successful if you leave with a clearer picture of what's driving what you're already seeing — not my interpretation of it, yours. My job today is to ask the right questions. Yours is to tell me what's actually true, not what sounds good. If we do that, we'll both know by the end of this conversation whether what I do is the right fit for your situation."
+
+---
+
+**The four moves:**
+- **Success is his clarity, not your pitch** — reframes the meeting as diagnostic, not evaluative
+- **Roles assigned explicitly** — you ask, he tells; this owner responds to structure
+- **Permission to be honest** — "not what sounds good" gives him cover to name things he'd otherwise manage around
+- **Mutual stakes** — "we'll both know" signals you're also deciding, which raises your credibility
