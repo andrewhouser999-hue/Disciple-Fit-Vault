@@ -1,6 +1,6 @@
 ---
 created: 2026-05-28
-basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Engagement Intake]]"
+basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Engagement Intake]] · [[A001 — Presentation Deck 3]]"
 tags:
   - rpa
   - a001
@@ -32,7 +32,9 @@ tags:
 | Night before — 1st read | [[A001 — First Meeting Question Guide]] | Study the diagnostic logic behind each question; what to listen for |
 | Night before — 2nd read | [[A001 — Conversation Readiness Guide]] | Know the 7 pivots cold before you walk in |
 | Night before — internalize | [[A001 — Credibility Talking Points]] | Who you are — feel it, don't recite it |
+| Night before — review | [[A001 — Presentation Deck 3]] | Know all 6 slides + deploy triggers; practice jumping to each slide in under 5 seconds |
 | In the meeting | [[A001 — Initial Meeting Field Form]] | Checkoffs, hospitality-specific questions, brief inline notes |
+| In the meeting (backup) | [[A001 — Presentation Deck 3]] | Open on device — deploy only when verbal needs an anchor; conversation first |
 | Immediately after | [[A001 — Engagement Intake]] | Full debrief from memory while it's fresh |
 
 ---
@@ -49,6 +51,7 @@ tags:
 - [ ] Know what you will NOT try to accomplish today
 - [ ] Next-step offer ready — specific ask, specific day
 - [ ] Field form printed or open on device
+- [ ] Deck 3 open on device — know the 6 slide numbers and which owner statement triggers each
 - [ ] Engagement Intake open and ready for after the meeting
 
 ---

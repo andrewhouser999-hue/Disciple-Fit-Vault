@@ -25,6 +25,7 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 | [[#Psychological Safety — Essential Practices Research Prompt\|Psychological Safety — Essential Practices Research]] | — | — | Identify the complete evidence-backed set of practices essential for creating and sustaining psychological safety in a chronically dysregulated workplace; includes complementarity chain mapping where each practice falls short and which resolves its gap |
 | [[#Consulting Initial Meeting — Warm Entry Research Prompt\|Consulting Initial Meeting — Warm Entry Research]] | — | — | Best practices for initial consulting meetings entering on pre-existing conceptual alignment and relational warmth; covers entry theory, warm vs. cold entry, meeting structure, informal-to-formal transition, and two-meeting owner→OM sequence |
 | [[#Credibility Communication — Consulting Entry Prompt\|Credibility Communication — Consulting Entry]] | — | — | Generate short, pithy, internalizable credibility talking points calibrated to practitioner background and audience profile; governs claim type, specificity, sequencing (competence before vulnerability), and self-orientation management |
+| [[#1-1 Backup Presentation — Best Practices Prompt\|1-1 Backup Presentation — Best Practices]] | — | — | Governing framework for designing and deploying slides as conversational backup in a 1-1 consulting meeting; covers slide selection criteria, deploy-speak-put-away protocol, non-linear design, content rules, and what to avoid |
 
 ---
 
@@ -1028,3 +1029,184 @@ Use the pratfall sequence to order the domains: strongest credibility claims fir
 honest disclosure of edge or newness last.
 ```
 | Tracey & Hinkin (2008) | Supervisory accountability in hospitality | Empirical (hospitality-specific) |
+
+---
+
+## 1-1 Backup Presentation — Best Practices Prompt
+
+**When to use:**
+- Designing any slide deck intended to support (not replace) conversation in a 1-1 consulting meeting
+- When the practitioner needs visual anchors for mechanism explanations, ROI math, or deliverable descriptions
+- When preparing for an initial meeting where articulation depth is still developing on new content
+- Building Presentation Deck 3 or any future engagement-specific backup deck
+
+**Generated output:** [[A001 — Presentation Deck 3]]
+
+**Governing principles embedded in this prompt:**
+
+| Principle | Source |
+|---|---|
+| Slides follow conversation — never lead | Schein process consultation; Block contracting model; warm entry research |
+| One idea per slide; 3-second comprehension test | Mayer (2001) multimedia learning theory; Sweller (1988) cognitive load theory |
+| Deploy-speak-put-away (60-90 seconds max on screen) | Presentation cognition research; attention and working memory constraints |
+| Non-linear design — conversation drives structure | Consulting entry theory; 1-1 vs. group presentation dynamics |
+| Content selection: visual must genuinely clarify what verbal cannot | Dual coding theory (Paivio); practical consulting entry standards |
+| Never read the slide | Basic presentation competence; slides as anchor not script |
+| Operational language only — no methodology, no clinical framing | RPA production protocol; self-orientation management (Maister) |
+
+```
+You are helping a non-clinical organizational consultant design a slide deck for use
+as conversational backup in a 1-1 initial client meeting. The context is a warm-entry
+consulting engagement with a hospitality business owner who has an operational mindset.
+The deck is NOT a presentation — it is a set of visual anchors the consultant reaches
+for at specific moments when verbal explanation needs support.
+
+Apply the following governing framework:
+
+---
+
+SECTION 1 — THE ROLE OF SLIDES IN A 1-1 CONSULTING MEETING
+
+The primary risk of slides in a 1-1 is register collapse: the moment slides lead, the
+meeting shifts from conversation to presentation, the consultant becomes a presenter,
+and the client becomes an audience. In a warm-entry engagement built on relational trust,
+this shift is almost impossible to recover from within the same meeting.
+
+Slides belong in this context only when:
+1. A concept is genuinely clearer with a visual than without one
+2. The verbal explanation has attempted and not fully landed
+3. The visual resolves a specific articulation challenge — mechanism, math, or deliverable scope
+4. The slide can be shown for 60-90 seconds and then closed, with the conversation continuing
+
+Slides do NOT belong:
+- At the opening of the meeting (sets presentation register)
+- As an agenda or roadmap ("today we'll cover...")
+- As a closing slide or call to action
+- To compensate for insufficient conversational depth on a topic
+- To fill silence or manage pacing
+
+---
+
+SECTION 2 — SLIDE DESIGN RULES
+
+Apply these to every slide in the deck:
+
+ONE IDEA PER SLIDE
+Each slide communicates exactly one thing. If you can summarize what the slide says in
+more than one sentence, it has more than one idea. Split it.
+
+3-SECOND TEST
+A client should understand what the slide is about within 3 seconds of seeing it.
+If interpretation requires more than 3 seconds, the slide is too complex.
+
+MINIMAL TEXT
+The slide is a visual anchor, not a script. Maximum 6 words per idea element.
+Use visual structure (boxes, arrows, columns, diagrams) instead of text where possible.
+No bullet lists — bullets signal lecture mode. Visual hierarchy only.
+
+LARGE FORMAT
+Assume the slide will be viewed on a laptop at a 1-1 distance.
+Heading: 36pt or larger. Body/visual elements: 24pt or larger.
+If it requires squinting, it's not a backup tool — it's a distraction.
+
+OPERATIONAL LANGUAGE ONLY
+No clinical language. No framework names. No researcher citations.
+No methodology terminology (don't say "narrative interview," "360," "facilitated observation").
+Everything in the language of business outcomes: cost, behavior, environment, performance.
+
+---
+
+SECTION 3 — DEPLOY-SPEAK-PUT-AWAY PROTOCOL
+
+For each slide, define three things:
+
+DEPLOY WHEN: the specific moment or trigger in the conversation that warrants showing it.
+This should be a specific client statement or pivot — not "when I feel like it."
+
+SPEAK: what the consultant says while the slide is on screen.
+The consultant speaks to the slide, not from it. The slide anchors the verbal explanation —
+the verbal explanation is the content.
+
+PUT AWAY WHEN: the specific signal that the slide has done its job and should be closed.
+Typically: client has acknowledged understanding, a question has been answered, or the
+conversation has moved to a next topic. Never leave a slide on screen past its moment.
+
+---
+
+SECTION 4 — CONTENT SELECTION CRITERIA
+
+A slide earns its place by resolving one of these specific use cases:
+
+MECHANISM EXPLANATION
+The causal chain the client needs to understand: what produces the behavior they're seeing.
+Visual diagrams clarify causal chains better than verbal description alone.
+Select: one mechanism diagram, showing the chain from structural conditions to operational cost.
+
+MATHEMATICS / COST PICTURE
+Numbers are harder to hold verbally than visually, especially when the client needs to
+react to them emotionally before analyzing them intellectually.
+Select: one cost/ROI slide with the client's operation's specific numbers.
+
+DELIVERABLE SCOPE
+"What do I actually get?" is a question that benefits from a clean visual list.
+Clients with operational mindsets respond well to concrete, bounded deliverables.
+Select: one deliverables slide for Phase 1 output only.
+
+TIMELINE
+"How long does this take?" benefits from a visual timeline.
+Select: one timeline slide showing leading indicators through cultural embedding.
+
+THREAT REDUCTION FRAMING
+For warm-entry meetings where OM framing will matter:
+A simple two-column visual (what this is NOT vs. what this IS) resolves the most common
+OM-related fear before it becomes an objection.
+Select: one framing slide for OM introduction context.
+
+---
+
+SECTION 5 — WHAT THE DECK DOES NOT INCLUDE
+
+These content categories do not belong in a 1-1 backup deck:
+
+- Assessment methodology detail (narrative interview, 360, facilitated observation)
+  → Too much too soon; gives away the process before trust is established
+- Full coaching methodology (session count, arc design, MI framework)
+  → Not yet the client's decision context; belongs in Phase 1 contracting
+- Pricing on slides
+  → Handled in conversation; on a slide it becomes a line item, not a value discussion
+- Clinical or psychological framework names
+  → Activates "therapy" or "academic lecture" associations; stay operational
+- Researcher citations or evidence base
+  → On a slide, citations read as lecture mode; translate findings to plain language
+- Anything the client hasn't surfaced as a question
+  → Introducing unrequested information signals the consultant has somewhere to get to
+
+---
+
+SECTION 6 — NON-LINEAR DESIGN
+
+The deck is not a presentation — it does not have a beginning, middle, and end.
+It has a set of slides that can be accessed in any order based on where the conversation goes.
+
+Design implications:
+- No title slide, no agenda slide, no closing slide
+- Each slide functions as a standalone visual — no slide should require the previous one to make sense
+- Slides should be indexed by use case so the consultant can navigate to any slide in under 5 seconds
+- The deck should feel like opening a reference, not launching a presentation
+
+---
+
+OUTPUT FORMAT:
+For each slide, produce:
+- Slide number and title (internal reference name)
+- Visual description: what the slide looks like (layout, elements, structure)
+- Exact text content: every word that appears on the slide, formatted as it should appear
+- Speaker notes: what the consultant says while the slide is on screen (2-5 sentences)
+- Deploy when: the specific trigger in the conversation
+- Duration: approximate time on screen
+- Put away when: the signal that the slide is done
+
+Apply all design rules throughout. Use operational language. No clinical or academic framing.
+Flag any slide that risks revealing methodology prematurely or shifting the register from
+conversation to presentation.
+```
