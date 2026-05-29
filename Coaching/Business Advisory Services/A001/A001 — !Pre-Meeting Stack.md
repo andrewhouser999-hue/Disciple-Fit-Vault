@@ -35,6 +35,9 @@ tags:
 | Night before — internalize | [[A001 — Meeting Discussion Points]] | Seven research-backed depth points: finding → leadership translation → behavioral signature → bridge question; deploy when conversation goes deeper |
 | Night before — orient to owner state | [[Relational Performance Advisory — Manager Regulatory State Library]] | Review the state categories; know what you're watching for in the owner during the meeting — what his likely activation looks like and what it will do to the conversation |
 | Night before — run on owner profile | [[Relational Performance Advisory — Manager State Identification Prompt]] | Paste the owner profile into the prompt; use the output to sharpen your read before walking in |
+| Night before — know your framework | [[A001 — Advisory Framework]] | Eight-section practitioner reference: core premise, mechanism (Perry/Siegel/Rock), evidence base, program architecture, change sequence, failure modes — know this cold before any framework question comes up |
+| Night before — know your program | [[A001 — Management Development Program Architecture]] | Core curriculum architecture: three tracks (individual coaching, team facilitation, structural recommendations), 12-session arc, design principles — know what you're offering |
+| Night before — know your practices | [[A001 — Psychological Safety — Essential Practices List]] | Four-level PS architecture: prerequisites, owner behaviors, manager daily behaviors, structural design — know what the intervention actually produces |
 | Night before — review | [[A001 — Presentation Deck 3]] | Know all 6 slides + deploy triggers; practice jumping to each slide in under 5 seconds |
 | In the meeting | [[A001 — Initial Meeting Field Form]] | Checkoffs, hospitality-specific questions, brief inline notes |
 | In the meeting (backup) | [[A001 — Presentation Deck 3]] | Open on device — deploy only when verbal needs an anchor; conversation first |
@@ -46,7 +49,7 @@ tags:
 
 *Run this the morning of the meeting.*
 
-- [ ] Meeting confirmed — time, location, who's attending
+- [x] Meeting confirmed — time, location, who's attending
 - [ ] Outreach sequence complete — no open follow-ups needed
 - [ ] Reviewed all 11 questions + meta — know what each one surfaces
 - [ ] All 7 conversation pivots reviewed — can answer cost, timeline, prior failure, role confusion, manager threat without hesitation
