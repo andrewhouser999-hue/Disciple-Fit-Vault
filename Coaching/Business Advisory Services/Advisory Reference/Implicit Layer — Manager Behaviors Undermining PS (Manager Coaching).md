@@ -278,3 +278,91 @@ This is developed in [[Implicit Layer — Belief Change Intervention Prompt]] (n
 | Ely, Ibarra & Kolb (2011) — *Harvard Business Review* | Behavioral coaching without belief change: limits | Applied research |
 | Stober & Grant (2006) — *Evidence-Based Coaching Handbook* (Wiley) | Coaching relationship quality as primary outcome predictor | Review |
 | Siegel (2010) — *Mindsight* (Bantam) | Reflective function; observing own mental states | Theoretical/clinical |
+
+---
+
+## Appendix: Manager Behaviors Undermining Psychological Safety — Research Taxonomy
+
+*Retained from pre-prompt research synthesis. Covers the explicit/behavioral layer of undermining — the foundation from which the implicit layer work above was derived. Useful for coaching when naming patterns in plain terms before going to the implicit belief layer underneath them.*
+
+### Tier 1 — Empirical Anchor Studies
+
+**Edmondson & Detert — Implicit Voice Theories (2011)**
+*Academy of Management Journal*, 54(3), 461–488. Identifies manager behaviors that *confirm* employees' ingrained beliefs that speaking up is dangerous: visible frustration when challenged, status-based dismissal (idea evaluated by who said it, not what it says), performance of certainty (projecting infallibility), and failing to follow through when input is given. These behaviors don't create the fear — they validate pre-existing learned beliefs that the environment is unsafe.
+
+**Nembhard & Edmondson — Leader Inclusiveness (2006)**
+*Administrative Science Quarterly*, 51(4), 941–971. Defines "leader inclusiveness" (invitation + appreciation for voice) as the protective factor — the reverse behaviors are the undermining factors: not asking, not following up, not acknowledging contributions, allowing status hierarchies to govern who speaks.
+
+**Edmondson — Learning vs. Performance Orientation (1999, 2002)**
+Manager framing of outcomes as performance-only (results, not process; success, not learning) directly suppresses candor. Managers who treat errors as evidence of incompetence rather than data create environments where concealment is rational. Cannon & Edmondson (2001, *Journal of Organizational Behavior*) specifically isolated how manager emotional reactions to mistakes shape team reporting behavior.
+
+**Tepper — Abusive Supervision (2000)**
+*Academy of Management Journal*, 43(2), 178–190. Landmark study on the continuum from undermining to active harm. Documents downstream costs (turnover, health outcomes, performance) of hostile verbal/nonverbal behavior. Establishes that "subtle" undermining (sarcasm, public embarrassment, withholding credit) sits on the same behavioral continuum as overt abuse — not a separate category.
+
+**Manzoni & Barsoux — The Set-Up-to-Fail Syndrome (2002)**
+Harvard Business School Press. How managers, through differential treatment of lower-trust employees (over-supervision, reduced task complexity, diminished communication), create self-fulfilling prophecies that systematically exclude certain employees from the conditions psychological safety requires. The mechanism is often unconscious — managers believe they are managing performance, not undermining safety.
+
+**Kahn — Psychological Safety — Original Concept (1990)**
+*Academy of Management Journal*, 33(4), 692–724. Identified three manager behaviors that threaten safety conditions: interpersonal threat (punishment, ridicule), unpredictability (emotional volatility, inconsistent application of rules), and demonstrating that candor has no upside (input not used, feedback not acknowledged).
+
+---
+
+### Tier 2 — Applied Taxonomies with Research Backing
+
+**Liz Wiseman — Multipliers vs. Diminishers (2010)**
+Research across 150 leaders in 35 organizations. Five "Diminisher" archetypes with specific behavioral signatures that shut down voice, thinking, and contribution:
+- *The Know-It-All* — broadcasts expertise, crowds out others' ideas
+- *The Micromanager* — controls decisions, signals distrust
+- *The Tyrant* — creates anxiety that suppresses experimentation
+- *The Decision Maker* — makes unilateral calls without genuine input
+- *The Rescuer* — solves problems before others can engage, eliminating contribution opportunity
+
+What makes this useful for coaching: it's not about intent. Diminishers often believe they're being helpful. The undermining is structural in how they position themselves relative to others.
+
+**Timothy Clark — 4 Stages of Psychological Safety (2020)**
+Field research across multiple organizations. Organizes undermining behaviors by the stage they damage:
+- *Inclusion safety* — exclusion from information, communication, or decisions signals the person doesn't belong
+- *Learner safety* — punishment or ridicule of mistakes, questions, or uncertainty eliminates conditions for growth
+- *Contributor safety* — micromanagement, idea dismissal, and credit theft suppress active contribution
+- *Challenger safety* — status defense, retaliation for dissent, and rewarding compliance over candor shut down the highest-stakes voice
+
+The stage model shows the sequence of erosion — managers often preserve inclusion while actively destroying contributor and challenger safety.
+
+**Rock — SCARF Threat Triggers in Management (2008, 2009)**
+*NeuroLeadership Journal*. Maps specific manager behaviors to five threat domains:
+- *Status:* public correction, withholding credit, comparative evaluation, unsolicited feedback
+- *Certainty:* sudden changes without rationale, vague expectations, inconsistent feedback
+- *Autonomy:* micromanagement, removing decision rights without explanation
+- *Relatedness:* exclusion from meetings or communications, visible favoritism, cold or dismissive tone
+- *Fairness:* inconsistent rule application, opaque criteria for advancement or recognition
+
+---
+
+### Tier 3 — Practitioner Research (High Credibility, Lower Study Rigor)
+
+**Brené Brown — Armored Leadership (2018)**
+*Dare to Lead*. Based on 20 years of qualitative research. Armored leadership behaviors that undermine safety: perfectionism modeled from the top, cynicism as a default response to new ideas, using power-over rather than power-with, avoiding vulnerability in ways that make it unsafe for others to be vulnerable.
+
+**Kim Scott — Radical Candor (2017)**
+Research-informed framework. Relevant undermining behaviors: *ruinous empathy* (withholding honest feedback to avoid discomfort — signals the relationship can't handle truth), *obnoxious aggression* (directness without care — produces compliance and concealment), and *manipulative insincerity* (vague, uncommitted feedback that communicates disregard).
+
+---
+
+### Eight Behavior Categories — Cross-Source Synthesis
+
+Across all of the above, the undermining behaviors cluster into eight categories:
+
+1. **Mistake punishment** — overt or implicit; emotional reaction to error signals concealment is safer than disclosure
+2. **Certainty performance** — projecting infallibility; never admitting mistakes or uncertainty
+3. **Status-based dismissal** — evaluating ideas by source rather than substance
+4. **Emotional volatility** — unpredictable reactions create chronic threat states (Kahn's "unpredictability" condition)
+5. **Voice theater** — soliciting input with no intention to use it; performative participation
+6. **Differential supervision** — over-managing lower-trust employees (Manzoni/Barsoux set-up-to-fail)
+7. **Meeting domination** — interrupting, not soliciting input, allowing hierarchy to govern who speaks
+8. **Brilliant jerk tolerance** — allowing high-performing individuals to undermine others' safety without consequence (Sutton, *The No Asshole Rule*, 2007)
+
+---
+
+### Literature Gap — Note for RPA Design
+
+The empirical literature is thinner on subtle and unconscious undermining — the sigh, the slight eye roll, the question that isn't asked. The qualitative work (Detert & Edmondson; Brown) captures this, but the experimental/quantitative literature is less developed here than on overt behavior. This is the territory the implicit layer research above addresses directly: the mechanism by which implicit beliefs produce involuntary micro-behaviors that are discernible — and why the thinness of the explicit-behavior literature does not mean these signals are hard to read. It means they have not yet been the primary target of the quantitative research program.
