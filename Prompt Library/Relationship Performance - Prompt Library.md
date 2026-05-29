@@ -26,6 +26,7 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 | [[#Consulting Initial Meeting — Warm Entry Research Prompt\|Consulting Initial Meeting — Warm Entry Research]] | — | — | Best practices for initial consulting meetings entering on pre-existing conceptual alignment and relational warmth; covers entry theory, warm vs. cold entry, meeting structure, informal-to-formal transition, and two-meeting owner→OM sequence |
 | [[#Credibility Communication — Consulting Entry Prompt\|Credibility Communication — Consulting Entry]] | — | — | Generate short, pithy, internalizable credibility talking points calibrated to practitioner background and audience profile; governs claim type, specificity, sequencing (competence before vulnerability), and self-orientation management |
 | [[#1-1 Backup Presentation — Best Practices Prompt\|1-1 Backup Presentation — Best Practices]] | — | — | Governing framework for designing and deploying slides as conversational backup in a 1-1 consulting meeting; covers slide selection criteria, deploy-speak-put-away protocol, non-linear design, content rules, and what to avoid |
+| [[#Implicit Layer — Manager Behaviors Undermining Psychological Safety Prompt\|Implicit Layer — Manager Behaviors Undermining PS]] | — | — | Research the implicit belief → automatic micro-behavior → employee neuroception pathway; centers discernibility of heart intent through micromovements and nonverbals; Levels 1 (mechanism) and 2 (diagnostic/observable); adapted for three uses: observer, manager coaching, sponsor communication |
 
 ---
 
@@ -1209,4 +1210,327 @@ For each slide, produce:
 Apply all design rules throughout. Use operational language. No clinical or academic framing.
 Flag any slide that risks revealing methodology prematurely or shifting the register from
 conversation to presentation.
+
+---
+
+## Implicit Layer — Manager Behaviors Undermining Psychological Safety Prompt
+
+**When to use:**
+- Preparing for observation sessions — grounding what to look for and why it's readable
+- Entering a manager coaching conversation — understanding the belief architecture under the behavior
+- Building sponsor/owner rationale — explaining why training surface behaviors without addressing the implicit layer will not hold
+
+**Three distinct use cases — same prompt, specify at run time:**
+- *Observer/diagnostician:* Focus output on Level 2 (what to observe and what it means); Level 1 as grounding rationale
+- *Manager coaching:* Focus output on Level 1 (depersonalizing mechanism) and Level 2 (the manager's mirror); flag Level 3 without developing it
+- *Sponsor/owner communication:* Focus output on Level 1 (why policy can't fix this) and Level 2 (making behavior concrete); flag Level 3 as the RPA value proposition
+
+**Note:** Level 3 (what actually changes implicit beliefs) is a separate prompt — see [[Implicit Layer — Belief Change Intervention Prompt]] (not yet built).
+
+```
+You are a research synthesizer with expertise in organizational psychology,
+social neuroscience, and implicit cognition. Produce a precise, source-grounded
+research brief on the following:
+
+RESEARCH BRIEF: The Implicit Layer — How Manager Beliefs Produce Discernible
+Micro-Behaviors That Undermine Psychological Safety
+
+The central claim to investigate and substantiate: implicit beliefs and heart
+intent are not hidden — they are discernible. They show up in micromovements,
+nonverbals, and automatic behavioral signals that the people in the room can
+read, often before the manager registers what they have transmitted. This brief
+establishes the mechanism (why), the observable signatures (what), and the
+research on employee accuracy in reading them (how reliable).
+
+This is NOT a brief on intentional or overt undermining behaviors. The focus
+is specifically on the implicit layer: beliefs and evaluations that operate
+below the manager's conscious awareness and produce automatic behavioral
+output. The target audience for this research will use it in three contexts:
+field observation, manager coaching, and sponsor/owner communication.
+
+---
+
+PART 1: THE IMPLICIT LAYER — Origin, Mechanism, and Why It Produces
+Involuntary Behavior
+
+1. What "implicit" means at the belief level
+   - Define implicit beliefs/attitudes as they appear in the social cognition
+     literature (Greenwald & Banaji, 1995; Bargh, 1994). Distinguish from
+     explicit attitudes. What makes a belief implicit rather than espoused?
+   - Explain Argyris & Schön's distinction between espoused theory and
+     theory-in-use. How does this apply to a manager who genuinely believes
+     they want psychological safety but whose operating beliefs produce
+     behaviors that undermine it? What does the research say about the gap
+     between these two?
+   - Explain Kegan & Lahey's hidden competing commitments as the architecture
+     of implicit belief in organizational leaders. What belief structures
+     most commonly compete with a stated commitment to psychological safety?
+     (Examples: commitment to appearing competent; commitment to certainty;
+     commitment to maintaining authority.) How do these show up behaviorally?
+
+2. The neurobiological mechanism: why implicit beliefs produce involuntary
+   behavior
+   - Explain Bargh's automaticity research (1994, 1997): how implicit
+     attitudes activate behavioral schemas automatically, without conscious
+     mediation. What is the evidence that social behavior is predominantly
+     automatic rather than deliberate?
+   - Explain Damasio's somatic marker hypothesis: how implicit evaluations
+     are stored as bodily states that produce automatic physiological
+     responses — postural changes, facial configuration, vocal tone shifts —
+     before conscious processing begins. What does this mean for the
+     involuntary nature of the micro-behaviors the manager produces?
+   - Explain Porges' neuroception concept and co-regulation: the manager
+     functions as a nervous system co-regulator. How does the manager's own
+     implicit state (evaluation, threat response, contempt, dismissal)
+     broadcast through the co-regulation pathway to direct reports —
+     specifically, what does the research say about how quickly and reliably
+     this transmission occurs?
+   - Why does this involuntary quality matter for discernibility? Establish
+     the research basis for the claim that involuntary behaviors are MORE
+     readable than deliberate ones — because they cannot be strategically
+     managed.
+
+3. The asymmetry: manager transmission vs. employee reception
+   - What does the research say about the accuracy with which subordinates
+     read upward? Cite evidence that employees attend to manager implicit
+     signals with high accuracy — and why evolutionary/status dynamics
+     predict this (Keltner; Fiske).
+   - What does the research say about the manager's awareness of what they
+     are transmitting? Establish the gap: managers typically do not register
+     the implicit signals they are producing; employees almost always do.
+   - What are the specific conditions that heighten employee sensitivity to
+     these signals — and what does that mean for when the implicit layer
+     is most active as an undermining force?
+
+---
+
+PART 2: DETERT & EDMONDSON — IMPLICIT VOICE THEORIES (EXPANDED)
+
+Treat this section as a deep expansion, not a summary citation.
+
+1. What implicit voice theories are and where they come from
+   - Define implicit voice theories (IVTs) as Detert & Edmondson (2011,
+     Academy of Management Journal, 54(3), 461-488) define them: learned,
+     largely unconscious beliefs about the personal risks and benefits of
+     speaking up at work. How are these formed? What maintains them?
+   - Distinguish the employee side (IVTs about whether speaking is safe)
+     from the manager side (implicit beliefs about authority, hierarchy,
+     and correctness that produce the signals employees are reading). This
+     brief is focused on the manager side — what implicit beliefs do
+     managers hold that produce the behaviors that confirm employees' IVTs?
+
+2. The manager's implicit belief architecture — what the research reveals
+   - What implicit beliefs about their own authority, expertise, and role
+     do managers commonly hold that produce IVT-confirming behaviors?
+     Cite the specific beliefs Detert & Edmondson identify or imply on
+     the manager side.
+   - What is the research evidence for these beliefs operating implicitly
+     rather than as deliberate policy? How do managers respond when these
+     beliefs are surfaced?
+   - How do these implicit beliefs interact with organizational hierarchy —
+     does status increase or decrease the strength of these implicit
+     belief patterns? (Keltner's power research is relevant here.)
+
+3. The observable behavioral signatures — what IVT-confirming behavior
+   looks like at the micro level
+   - Identify the specific micro-behavioral expressions of IVT-confirming
+     manager beliefs. What does Detert & Edmondson's research identify —
+     explicitly or implicitly — as the observable signals? Cover:
+     * Verbal micro-dismissals (tone, word choice, question framing)
+     * Nonverbal response patterns (body orientation, eye contact, facial
+       response in the moment of receiving input)
+     * Temporal signals (response latency, interruption timing,
+       acknowledgment delay or absence)
+     * Status-marking behaviors (who is addressed, whose ideas are
+       attributed, who is consulted)
+   - What is the employee experience of these signals? What does the
+     research say about how employees interpret and respond to them?
+
+---
+
+PART 3: BROWN — ARMORED LEADERSHIP (EXPANDED)
+
+Treat this section as a deep expansion, not a summary citation.
+
+1. What "armor" means at the implicit belief level
+   - Define armored leadership as Brown uses it — and trace it to the
+     underlying implicit beliefs about vulnerability, strength, worthiness,
+     and control that armor is designed to protect. What specific implicit
+     beliefs produce armored behavior?
+   - What is the research basis for Brown's claim that armor is largely
+     automatic — that leaders do not choose to armor up in the moment
+     but are driven by implicit protective responses?
+   - How do Brown's findings connect to the neurobiological mechanism?
+     Specifically: is armoring a threat response — sympathetic activation,
+     self-protective automatic behavior — and what does that mean for its
+     involuntary character?
+
+2. The armored leader's micro-behavioral signature
+   - Identify the specific micro-behaviors Brown's research associates
+     with each armor pattern. Focus on the involuntary, moment-to-moment
+     signals rather than the broad behavioral categories. What does the
+     armored leader do in the room — facially, posturally, vocally,
+     temporally — when their implicit beliefs are activated?
+   - Which armor patterns are most relevant to the psychological safety
+     context? Specifically: which produce the most reliable employee
+     neuroception of threat?
+   - What is the internal experience Brown describes in armored leaders
+     in these moments — and how does that internal state produce the
+     external signal?
+
+3. What employees read and how they respond
+   - What does Brown's research say — directly or through the clinical
+     literature she draws on — about employee accuracy in reading armored
+     leadership signals?
+   - What are the specific employee responses to armored leadership that
+     undermine psychological safety? How quickly do these responses
+     become conditioned — i.e., how long does it take for a team to
+     learn that the armor means danger?
+
+---
+
+PART 4: ADDITIONAL SOURCES — THE IMPLICIT → MICRO-BEHAVIOR PATHWAY
+
+For each source below, provide: (a) the implicit state or belief pattern,
+(b) the specific observable micro-behavioral signature, (c) the evidence
+for employee detection/accuracy, and (d) relevance to psychological safety.
+
+1. Paul Ekman — Microexpressions and implicit relational evaluation
+   - Explain microexpressions as defined in Ekman's research: involuntary
+     facial expressions lasting 1/25 to 1/5 of a second that reveal
+     implicit emotional states before conscious management.
+   - Which microexpression patterns are most relevant to the psychological
+     safety context? Focus especially on contempt, disgust, disbelief,
+     and dismissal — what are their specific facial configurations (FACS
+     codes if available)?
+   - What is the evidence for observer detection of microexpressions?
+     Under what conditions do people read them accurately?
+
+2. John Gottman — Contempt as implicit state with observable markers
+   - Define contempt as Gottman's research identifies it: an implicit
+     relational evaluation of superiority combined with disgust toward
+     another. What are the specific observable markers — facial, vocal,
+     postural — that Gottman's research associates with contempt?
+   - Why does Gottman's research identify contempt as uniquely corrosive
+     compared to other negative relational states? What is the mechanism?
+   - Translate Gottman's findings from the marriage context to the
+     manager-employee context. What does managerial contempt look like
+     in an organizational setting, and what does it produce in the
+     person receiving it?
+
+3. Dacher Keltner — Power acquisition and automatic empathy erosion
+   - Explain Keltner's research on how power acquisition changes implicit
+     processing: reduced perspective-taking, reduced attention to others'
+     emotional signals, increased automatic self-focus. What is the
+     neurological basis for these changes?
+   - What do the micro-behavioral expressions of power-eroded empathy
+     look like? What does the less-empathic manager do differently in
+     the room — automatically, not deliberately?
+   - What does Keltner's research say about the manager's awareness of
+     these changes? Does power affect the ability to self-monitor?
+
+4. Christine Porath — Incivility as unintentional implicit signal
+   - Summarize Porath's research on workplace incivility (with Pearce
+     and Erez; and Mastering Civility, 2016). What is the evidence that
+     most incivility is unintentional — an implicit evaluation expressing
+     itself as behavior without the manager registering it as harmful?
+   - What are the specific micro-incivility behaviors Porath's research
+     identifies? Focus on the smallest-unit behaviors — the glance, the
+     tone, the non-acknowledgment.
+   - What does Porath's research show about the downstream effects of
+     low-level incivility on cognitive performance, voice behavior, and
+     psychological safety? Include the bystander effect — what happens
+     to people who witness incivility directed at others?
+
+5. John Bargh — Automaticity of social behavior
+   - Summarize Bargh's evidence that most social behavior is driven by
+     automatic processes — activated by environmental or social cues
+     without conscious deliberation. What is the most compelling
+     experimental evidence for this claim?
+   - What does this mean for the manager who genuinely does not intend
+     to undermine? How does Bargh's research explain the gap between
+     intent and impact in implicit-layer undermining?
+
+---
+
+PART 5: DISCERNIBILITY AS THE CENTRAL FINDING
+
+This section establishes and defends the core claim: implicit beliefs and
+heart intent are not hidden — they are discernible.
+
+1. The involuntary nature of implicit-layer signals as the source of
+   their reliability
+   - Make the case, grounded in research, that the involuntary character
+     of implicit-layer signals makes them MORE readable, not less. A
+     deliberate behavior can be managed and masked; an automatic behavior
+     cannot. What is the research basis for this claim?
+   - What specific research demonstrates that people in the room detect
+     these signals accurately — even when they cannot consciously name
+     what they detected? Include any work on subliminal emotional
+     processing, social intuition, or automatic threat detection.
+
+2. The status asymmetry in signal detection
+   - Explain the evolutionary and social-structural basis for subordinates'
+     heightened sensitivity to dominant/authority signals (Fiske; Keltner).
+     Why do people in lower-status positions read upward with particularly
+     high accuracy?
+   - What does this mean for the manager who believes their implicit
+     state is not visible? What is the research basis for the claim
+     that the manager is the last to know what they are broadcasting?
+
+3. The gap between manager self-perception and employee reception
+   - What research documents the gap between how managers perceive their
+     own behavior and how employees experience it?
+   - What does this mean for self-report as a diagnostic tool in the
+     implicit layer? What are the more reliable sources of data?
+
+4. Implications for observation and coaching — flagged, not developed
+   - Note (without full development) that the discernibility finding has
+     implications for: (a) what a skilled observer can reliably detect
+     in the room; (b) what a manager coaching process must access to
+     produce lasting change; (c) why behavioral compliance training
+     without implicit belief change produces short-term behavior that
+     erodes under pressure. Full development of (b) and (c) requires
+     the Level 3 intervention research.
+
+---
+
+FORMATTING REQUIREMENTS:
+- Cite author, title, journal/publisher, and year for every empirical claim.
+- Distinguish between: (a) meta-analyses and systematic reviews,
+  (b) RCTs, (c) longitudinal observational studies, (d) cross-sectional
+  studies, and (e) theoretical/clinical frameworks.
+- Flag any claim resting primarily on a single study or non-replicated finding.
+- Maintain the implicit/explicit distinction consistently: do not describe
+  an implicit belief as "hidden" or "invisible." The correct framing is
+  that it operates below conscious awareness in the manager but produces
+  OBSERVABLE, DISCERNIBLE signals in behavior.
+- Do not conflate the implicit layer with intentional undermining. These
+  are different phenomena with different mechanisms and different
+  intervention implications.
+- Do not develop the Level 3 intervention layer (what changes implicit
+  beliefs). Flag it where relevant — "this is where the intervention
+  research lives" — but do not build it out. That is a separate prompt.
+```
+
+**Evidence anchors:**
+
+| Source | Domain | Level |
+|---|---|---|
+| Greenwald & Banaji (1995) — *Psychological Review*, 102(1), 4–27 | Implicit cognition — definition and architecture | Theoretical |
+| Bargh (1994) — "The Four Horsemen of Automaticity" in *Handbook of Social Cognition* | Automaticity of social behavior | Theoretical + experimental |
+| Bargh & Chartrand (1999) — *American Psychologist*, 54(7), 462–479 | Unbearable automaticity of being | Review |
+| Damasio (1994) — *Descartes' Error* | Somatic marker hypothesis | Theoretical/clinical |
+| Porges (2011) — *The Polyvagal Theory* (Norton) | Co-regulation; neuroception | Neurophysiological framework |
+| Argyris & Schön (1974) — *Theory in Practice* | Espoused theory vs. theory-in-use | Theoretical/organizational |
+| Kegan & Lahey (2009) — *Immunity to Change* (Harvard Business Review Press) | Hidden competing commitments | Theoretical/program evaluation |
+| Detert & Edmondson (2011) — *AMJ*, 54(3), 461–488 | Implicit voice theories | Qualitative + survey |
+| Brown (2018) — *Dare to Lead* (Random House) | Armored leadership | Qualitative research (20-year program) |
+| Ekman (2003) — *Emotions Revealed* (Times Books) | Microexpressions; FACS | Observational/experimental |
+| Gottman & Silver (1999) — *The Seven Principles for Making Marriage Work* | Contempt as implicit state | Longitudinal observational |
+| Keltner (2016) — *The Power Paradox* (Penguin) | Power and empathy erosion | Experimental + longitudinal |
+| Keltner, Gruenfeld & Anderson (2003) — *Psychological Review*, 110(2), 265–284 | Power and automatic social processing | Theoretical + experimental |
+| Porath & Erez (2007) — *Journal of Applied Psychology*, 92(5), 1307–1316 | Incivility and cognitive performance | Experimental |
+| Porath (2016) — *Mastering Civility* (Grand Central Publishing) | Unintentional incivility | Applied research synthesis |
+| Fiske et al. (2002) — *Psychological Science*, 13(4) | Warmth × Competence; status-based attention | Experimental |
 ```
