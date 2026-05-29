@@ -28,6 +28,8 @@ tags:
 
 ## Remaining — Pre-Meeting Priority
 
+- [x] `Relational Performance Advisory — Manager Regulatory State Library.md` — state reference for identifying regulatory/attachment states in the owner before the meeting
+- [x] `Relational Performance Advisory — Manager State Identification Prompt.md` — runnable Claude prompt; paste owner profile night before to sharpen pre-meeting read
 - [x] `A001 — Service Offer & Pricing.md`
 - [x] `A001 — Initial Correspondence.md`
 - [x] `A001 — Conversation Readiness Guide.md`

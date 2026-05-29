@@ -1,3 +1,22 @@
+Edmondson & Detert — **Implicit Voice Theories** (2011)
+  Academy of Management Journal, 54(3), 461–488. The most directly useful study for your purpose. Identifies the manager behaviors that confirm employees' ingrained beliefs that speaking up is dangerous: visible frustration when challenged, status-based dismissal (idea evaluated by who said it, not what it says), performance of certainty (projecting infallibility), and failing to follow through when input is given. These behaviors don't create the fear — they validate pre-existing learned beliefs that the environment is unsafe.
+
+Qualitative work (Detert & Edmondson; Brown) captures is sourced from the implicit or the implicit impacts the subtle and unconscious undermining. The heart intent can be seen, beliefs showing up in micromovements or non verbals easy to spot. focus on this, expand onf Detert & Edmondson; Brown and others that contribute. add to the prompt this discernable effort. ask any questions for clarity.
+
+Implicit belief → automatic physiological/somatic response → observable micro-behavior → employee neuroception of threat
+
+  That's a more precise and more useful research target than "subtle undermining" — because it's actually discernible, it has a mechanism, and it changes what the intervention looks like (you're not changing behavior directly; you're surfacing the belief that's driving it).
+
+  The research that sits at this intersection goes beyond Detert & Edmondson and Brown:
+
+  - Argyris & Schön — theory-in-use vs. espoused theory; the operating belief shows up in behavior regardless of stated intent
+  - Kegan & Lahey — hidden competing commitments; the manager who says they want candor has an unconscious competing commitment (to certainty, to status) that produces the undermining behavior
+  - Paul Ekman — microexpressions; implicit relational evaluations (contempt, dismissal, disbelief) produce facial configurations that last 1/25 to 1/5 of a second — involuntary, unconscious, readable
+  - John Gottman — contempt as a specific implicit state (superiority/disgust) with highly specific observable markers; most corrosive single relational behavior identified in his research
+  - Dacher Keltner — power acquisition erodes empathy and perspective-taking at the implicit level, producing automatic dismissive signals the manager doesn't register
+  - Christine Porath — incivility is usually unintentional; the implicit belief about another's relevance produces micro-incivility signals that observers register even when the actor doesn't
+
+ 
 **Communication Points -Evolving Story**
 Study done in the late 80's on % of population suffering from adversity as adults from trauma = 90%
 

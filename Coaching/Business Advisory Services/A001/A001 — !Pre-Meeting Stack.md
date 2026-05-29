@@ -1,6 +1,6 @@
 ---
 created: 2026-05-28
-basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Meeting Discussion Points]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Engagement Intake]] · [[A001 — Presentation Deck 3]]"
+basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Meeting Discussion Points]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Engagement Intake]] · [[A001 — Presentation Deck 3]] · [[Relational Performance Advisory — Manager Regulatory State Library]]"
 tags:
   - rpa
   - a001
@@ -33,6 +33,8 @@ tags:
 | Night before — 2nd read | [[A001 — Conversation Readiness Guide]] | Know the 7 pivots cold before you walk in |
 | Night before — internalize | [[A001 — Credibility Talking Points]] | Who you are — feel it, don't recite it |
 | Night before — internalize | [[A001 — Meeting Discussion Points]] | Seven research-backed depth points: finding → leadership translation → behavioral signature → bridge question; deploy when conversation goes deeper |
+| Night before — orient to owner state | [[Relational Performance Advisory — Manager Regulatory State Library]] | Review the state categories; know what you're watching for in the owner during the meeting — what his likely activation looks like and what it will do to the conversation |
+| Night before — run on owner profile | [[Relational Performance Advisory — Manager State Identification Prompt]] | Paste the owner profile into the prompt; use the output to sharpen your read before walking in |
 | Night before — review | [[A001 — Presentation Deck 3]] | Know all 6 slides + deploy triggers; practice jumping to each slide in under 5 seconds |
 | In the meeting | [[A001 — Initial Meeting Field Form]] | Checkoffs, hospitality-specific questions, brief inline notes |
 | In the meeting (backup) | [[A001 — Presentation Deck 3]] | Open on device — deploy only when verbal needs an anchor; conversation first |
@@ -50,6 +52,7 @@ tags:
 - [ ] All 7 conversation pivots reviewed — can answer cost, timeline, prior failure, role confusion, manager threat without hesitation
 - [ ] Credibility domains internalized — mechanism, lived experience, training outcomes, team movement, honest pull-back
 - [ ] Seven discussion points internalized — know the behavioral signature and bridge question for each; don't recite, deploy when conversation requires depth
+- [ ] Owner state prompt run — know the likely regulatory and attachment states active in the owner; know what activation looks like in this person before it happens
 - [ ] Know what you will NOT try to accomplish today
 - [ ] Next-step offer ready — specific ask, specific day
 - [ ] Field form printed or open on device
