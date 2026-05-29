@@ -27,6 +27,7 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 | [[#Credibility Communication — Consulting Entry Prompt\|Credibility Communication — Consulting Entry]] | — | — | Generate short, pithy, internalizable credibility talking points calibrated to practitioner background and audience profile; governs claim type, specificity, sequencing (competence before vulnerability), and self-orientation management |
 | [[#1-1 Backup Presentation — Best Practices Prompt\|1-1 Backup Presentation — Best Practices]] | — | — | Governing framework for designing and deploying slides as conversational backup in a 1-1 consulting meeting; covers slide selection criteria, deploy-speak-put-away protocol, non-linear design, content rules, and what to avoid |
 | [[#Implicit Layer — Manager Behaviors Undermining Psychological Safety Prompt\|Implicit Layer — Manager Behaviors Undermining PS]] | — | — | Research the implicit belief → automatic micro-behavior → employee neuroception pathway; centers discernibility of heart intent through micromovements and nonverbals; Levels 1 (mechanism) and 2 (diagnostic/observable); adapted for three uses: observer, manager coaching, sponsor communication |
+| [[#Big Assumption Experiment Design Framework Prompt\|Big Assumption Experiment Design Framework]] | — | — | Produce a practitioner tool for designing, calibrating, observing, and interpreting Big Assumption behavioral experiments with managers; structured for three use-case levels: observer (what to watch), manager coaching (how to design and debrief), sponsor (how to translate results into operational evidence) |
 
 ---
 
@@ -1534,3 +1535,370 @@ FORMATTING REQUIREMENTS:
 | Porath (2016) — *Mastering Civility* (Grand Central Publishing) | Unintentional incivility | Applied research synthesis |
 | Fiske et al. (2002) — *Psychological Science*, 13(4) | Warmth × Competence; status-based attention | Experimental |
 ```
+
+---
+
+## Big Assumption Experiment Design Framework Prompt
+
+**Output type:** Practitioner tool — not a research brief. Research is cited where it governs design decisions, but the deliverable is a usable framework Andrew can work through with a manager in a session or apply during observation.
+
+**When to use:**
+- Entering Stage 3 of the belief change sequence with a manager (Stage 2 access is complete — the competing commitment and Big Assumption have been named and felt, not just understood)
+- Preparing for an observation session where an experiment is already underway
+- Debriefing an experiment with a manager in a coaching session
+- Translating experiment results into sponsor-facing evidence
+
+**Prerequisites the prompt assumes:**
+- The manager has completed the ITC four-column map (Column 4 Big Assumption is named)
+- The Big Assumption has been accessed as a felt reality, not just an intellectual conclusion
+- The coaching relationship has sufficient trust for the manager to attempt genuine behavioral risk
+
+**Source documents:** [[Implicit Layer — Belief Change Intervention Research]] (Level 3 brief), [[Implicit Layer — Manager Behaviors Undermining PS (Manager Coaching)]], [[Implicit Layer — Manager Behaviors Undermining PS (Observer)]], [[Implicit Layer — Manager Behaviors Undermining PS (Sponsor)]]
+
+```
+You are a practitioner framework designer with expertise in organizational
+coaching, implicit cognition, and the Kegan & Lahey Immunity to Change
+methodology. Produce a complete, session-ready practitioner tool for
+designing, calibrating, observing, and interpreting Big Assumption behavioral
+experiments with managers working on psychological safety.
+
+The audience is Andrew — a non-clinical organizational consultant using the
+RPA (Relational Performance Advisory) methodology with hospitality industry
+clients. The output must be immediately usable in a coaching session or
+observation debrief. Research is cited where it governs a design decision;
+the tool itself is written in practitioner language throughout.
+
+The experiment is the primary change vehicle in the belief revision process.
+The implicit system updates through accumulated disconfirming experiential
+evidence — not through insight, knowledge, or intention. Three to five
+disconfirming experiments across varied conditions are typically needed before
+the implicit system updates at Stage 4. This tool is how Andrew designs
+experiments that produce that evidence.
+
+---
+
+SECTION 1: WHAT THE EXPERIMENT IS DOING — THE MECHANISM IN PRACTITIONER TERMS
+
+1. Explain in plain, non-clinical language what a Big Assumption behavioral
+   experiment is doing neurologically and psychologically. Why does the
+   implicit system change through experience but not through insight alone?
+   What is happening in the manager's belief system when a disconfirming
+   experiment succeeds? (Ground in Nosek et al., 2011; Kegan & Lahey, 2009 —
+   but write it as a practitioner's understanding, not a literature review.)
+
+2. Explain what "disconfirmation" means precisely. The experiment is not
+   testing whether the new behavior works better — it is testing whether the
+   Big Assumption's specific prediction is accurate. Distinguish:
+   (a) a disconfirming result — what the assumption predicted did NOT happen
+   (b) a neutral result — the prediction neither confirmed nor disconfirmed
+   (c) a confirming result — the prediction appeared to come true
+   Why does only (a) produce belief revision, and what do (b) and (c) require?
+
+3. Explain why the experiment must involve genuine behavioral risk for the
+   manager — why a fully "safe" experiment produces no useful data, and why
+   an overly risky one typically produces activation that prevents learning.
+   The "just enough risk" principle: what level of activation is optimal
+   for producing disconfirming evidence without triggering the assumption
+   at full intensity?
+
+---
+
+SECTION 2: FORMULATING THE BIG ASSUMPTION AS A TESTABLE PREDICTION
+
+Produce a step-by-step formulation protocol — a tool Andrew uses in session
+to move from a named Big Assumption to a specific, testable prediction.
+
+1. The formulation move: from assumption to prediction
+   - The Big Assumption is stated as a belief: "If I don't have the answer,
+     people will lose confidence in me."
+   - The testable prediction is stated as an if-then: "If I say 'I don't
+     know — what do others think?' in [specific context], then [specific
+     negative outcome the assumption predicts] will happen."
+   - Provide a step-by-step protocol Andrew can walk through in session
+     to produce this formulation with the manager.
+   - What makes a prediction well-formed vs. vague? List the criteria.
+
+2. Common formulation errors and their consequences
+   - Over-broad prediction: the assumption can always be confirmed or
+     denied by selecting which part of the outcome to attend to
+   - Under-specific context: "in a meeting" vs. "in the Tuesday ops
+     briefing with my direct reports" — why specificity matters for
+     producing clean data
+   - Prediction stated as behavior rather than outcome: "I will ask
+     more questions" is a behavioral intention, not a testable prediction
+     about what will happen
+   - For each error type: what happens to the experiment if it is not caught?
+
+3. The "assumption reveal" — checking that the prediction is actually
+   connected to the Big Assumption being tested. How does Andrew verify
+   that the experiment is testing Column 4 and not Column 2?
+
+---
+
+SECTION 3: EXPERIMENT DESIGN CRITERIA — THE FIVE-FACTOR FRAMEWORK
+
+Produce a five-factor design framework Andrew applies to every experiment
+before it is conducted. For each factor: definition, why it matters for
+producing clean disconfirming data, and how to assess whether the
+experiment meets it.
+
+Factor 1 — Stakes Calibration
+   - What is the right level of stakes for this manager's current
+     activation level? (Reference the activation level tiers in the
+     Level 3 brief: low/cognitive, moderate, high/somatic.)
+   - How does Andrew assess the manager's activation level for this
+     specific assumption before calibrating stakes?
+   - What does "too low" produce and what does "too high" produce?
+   - Practical calibration: provide a stakes-scaling tool — a way to
+     move the same experiment from lower stakes to higher stakes so
+     Andrew can find the right level for each manager and progress
+     the stakes as the assumption weakens.
+
+Factor 2 — Specificity of Conditions
+   - What needs to be specified before the experiment is conducted:
+     context, people present, trigger condition, the exact behavior
+     the manager will perform, and the observation window.
+   - Why vague experiments produce vague data — and vague data is
+     easy to rationalize.
+   - The specificity test: can Andrew and the manager describe exactly
+     what will happen, when, with whom, and what they will observe?
+     If not, the experiment is not ready.
+
+Factor 3 — Observability of Outcome
+   - The outcome must be something the manager can observe in the room,
+     not something they will only know about later.
+   - Immediate observables: what happens in the room during the experiment
+     (employee responses, team engagement, the manager's own internal
+     experience).
+   - What is NOT an observable for experiment purposes: survey results,
+     performance metrics, or outcomes that take weeks to materialize.
+     Why the experiment must produce same-session data.
+
+Factor 4 — Manageability of Activation
+   - The experiment must be conducted when the manager is within the
+     window of tolerance — neither so activated that the assumption
+     runs at full intensity, nor so calm that there is no real test.
+   - What Andrew does if the manager's activation before the experiment
+     suggests they are outside the window.
+   - The preparation practice: brief grounding or mindfulness before
+     the experiment to reduce activation to the manageable range.
+     (Keep within RPA scope — no clinical somatic work.)
+
+Factor 5 — Genuine Behavioral Risk
+   - The experiment must require the manager to do something they
+     would not normally do — something the competing commitment would
+     prevent. If the behavior is already comfortable, it is not testing
+     the assumption.
+   - How to assess whether the behavior represents genuine risk for
+     this manager: does naming it produce activation? Does the manager
+     want to add qualifications or conditions before agreeing to try it?
+   - The "if it feels fine" test: if the manager reports no discomfort
+     at the prospect of the experiment, the stakes are too low or the
+     behavior is not connected to the assumption.
+
+---
+
+SECTION 4: OBSERVATION STRUCTURE — BEFORE, DURING, AND AFTER
+
+Produce a structured observation protocol for each of the three use-case
+levels. These are not the same observation task — distinguish them clearly.
+
+LEVEL A — Observer Use (Andrew watching the manager in the field)
+
+   Before the experiment:
+   - What does Andrew establish with the manager in the pre-observation
+     session? What does the manager know about what Andrew is watching for?
+   - What baseline behaviors does Andrew note before the experiment moment?
+
+   During the experiment:
+   - What is Andrew specifically watching in the manager's behavior
+     at the moment of the experimental action?
+   - What is Andrew watching in the employees' responses?
+   - What temporal and nonverbal signals indicate the assumption is
+     activating vs. the manager is operating with reduced activation?
+
+   After the experiment:
+   - What somatic/nonverbal signals in the manager indicate the
+     experiment registered — the manager noticed what happened?
+   - What signals indicate the experiment was conducted but not
+     registered — the manager is already moving on without taking in
+     the outcome?
+   - What does Andrew do if the experiment produced a confirming rather
+     than disconfirming result?
+
+LEVEL B — Manager Coaching Use (Andrew designing and debriefing with
+the manager)
+
+   The pre-experiment coaching session:
+   - How does Andrew walk the manager through the experiment design?
+     What does the manager need to understand and agree to before
+     the experiment is conducted?
+   - The observation record: what does Andrew give the manager to
+     complete immediately after the experiment? (Design a simple
+     observation record template: what did I do? what did I expect
+     to happen? what actually happened? what do I notice about
+     the difference?)
+   - The instruction not to interpret: the manager is asked to observe
+     and record before interpreting. Why, and how does Andrew explain it?
+
+   The debrief coaching session:
+   - The sequence: manager reports what happened → Andrew reflects
+     without interpretation → Andrew asks "what do you make of that?"
+     → the manager's own interpretation is the data.
+   - What does Andrew watch for in how the manager reports? What are
+     the signals of genuine reception vs. rationalization?
+   - The questions that help the manager stay with disconfirming data
+     rather than explain it away.
+
+LEVEL C — Sponsor Use (Andrew translating experiment results into
+operational evidence)
+
+   What the sponsor receives:
+   - The experiment result is not reported in psychological or coaching
+     language. It is reported as operational data: "In the Tuesday
+     briefing, [manager] said 'I'm not sure how to handle this —
+     what do you think?' Here is what happened next in the room.
+     Here is how it differed from the usual pattern."
+   - Design a translation template: how Andrew takes the manager's
+     observation record and converts it into sponsor-facing operational
+     language.
+   - What the sponsor is being shown: evidence that the manager's
+     behavior is changing in ways that produce different team responses —
+     not evidence that the coaching process is working well.
+
+---
+
+SECTION 5: INTERPRETATION GUIDE — DISCONFIRMATION VS. RATIONALIZATION
+
+1. What genuine disconfirmation looks and feels like in the manager
+   - The phenomenology of genuine disconfirmation: what the manager
+     typically reports ("that was not what I expected"), what their
+     internal experience is, what happens to the Big Assumption's
+     felt quality after genuine disconfirmation.
+   - The behavioral indicator at Stage 4: the new behavior begins to
+     appear in conditions Andrew did not design — transfer to other
+     contexts is the clearest evidence of genuine belief revision.
+
+2. The rationalization patterns — how managers explain away
+   disconfirming evidence
+   - Exception attribution: "That worked because this team is different"
+     / "That person was in a good mood" / "The situation was unusual."
+   - Condition limitation: "That would work in low-stakes situations
+     but not when it really matters."
+   - Partial credit: "I did the experiment but I didn't fully commit
+     to it — so the result doesn't really count."
+   - Reframe to confirmation: "People did respond differently, but I
+     think they were just being polite" — converting a disconfirming
+     result into a confirming one through interpretation.
+   - For each pattern: what it signals about where the manager is in
+     the process, and how Andrew responds without triggering defensive
+     routines.
+
+3. How Andrew responds to rationalization without confrontation
+   - The reflection move: "So what you're saying is [rationalization].
+     What would it take for an experiment to produce evidence you
+     couldn't explain away?"
+   - The accumulation move: after three or four experiments, returning
+     to the pattern rather than the individual instance — "I've noticed
+     that we've now had five situations where the prediction didn't
+     hold. What do you make of the pattern?"
+   - When rationalization is persistent: what it indicates about the
+     stage of access, and when to return to Stage 2 before continuing
+     the experiments.
+
+4. When to redesign the experiment vs. when to move to the next one
+   - Redesign indicators: the experiment produced a confirming result
+     (the prediction appeared to come true); the manager conducted the
+     experiment but it did not engage the assumption (wrong context or
+     wrong behavior); the stakes were too high and the assumption
+     activated fully, preventing observation.
+   - Move to next experiment indicators: the experiment produced
+     disconfirming data, whether or not the manager fully received it;
+     genuine disconfirmation was produced and received; the assumption
+     is weakening and the experiment needs to move to higher stakes or
+     a varied condition to continue the work.
+
+---
+
+SECTION 6: CALIBRATION BY ACTIVATION LEVEL
+
+Produce three calibration profiles — one for each activation level.
+For each: what the manager presents like, how to assess the level,
+experiment design adjustments, and the ceiling effect and how to respond.
+
+Profile 1 — Low Activation (Cognitive Encoding, Mild Somatic Response)
+Profile 2 — Moderate Activation (Cognitive + Somatic, Manageable Range)
+Profile 3 — High Activation (Strong Somatic Response, Window of Tolerance Risk)
+
+For Profile 3: identify the indicators that somatic access beyond the
+RPA scope is indicated, and provide Andrew with language for how to
+introduce the idea of a referral or adjunct practitioner.
+
+---
+
+SECTION 7: THE MULTI-EXPERIMENT ARC — SEQUENCING ACROSS THREE TO FIVE EXPERIMENTS
+
+1. The arc structure: how experiments build on each other
+   - Experiment 1: lowest stakes, most controlled context — establishing
+     that the experiment can be conducted at all
+   - Experiments 2–3: increasing stakes or varied conditions — the
+     assumption is tested in contexts where it is more active
+   - Experiments 4–5: conditions closer to the high-stakes operational
+     contexts where the behavior most needs to change
+   - What "varied conditions" means in practice: different people
+     present, different subjects, different levels of operational
+     pressure, public vs. private contexts.
+
+2. What constitutes sufficient accumulated evidence
+   - Three to five experiments is the typical range before Stage 4
+     revision indicators appear (Kegan & Lahey program evaluation data).
+   - What makes an experiment count toward the accumulation: it must
+     have tested the assumption at genuine risk and produced a result
+     the manager cannot easily explain away.
+   - The distinction between "completed experiments" and "accumulation
+     of disconfirming evidence" — a manager can complete five
+     experiments and rationalize all five; that is not accumulation.
+
+3. Stage 4 revision indicators — what to watch for
+   - The new behavior appearing in conditions Andrew did not design
+   - The manager describing the Big Assumption in the past tense
+     or with distance ("I used to think...") rather than as current
+   - Reduced activation at the thought of the experiment (the thing
+     that once produced urgency or tightening no longer does)
+   - The manager catching themselves mid-pattern and adjusting
+     without prompting — self-correction that occurs faster than
+     before and without external data
+
+---
+
+FORMATTING REQUIREMENTS:
+
+- Produce each section as a usable practitioner tool, not a research
+  summary. Headers should be action-oriented (e.g., "How to Walk the
+  Manager Through Formulation" not "Formulation Theory").
+- Include at least one worked example in each section — a real-sounding
+  manager situation with a named Big Assumption, a designed experiment,
+  and example outcomes — to show Andrew how the tool is applied.
+- Where a template or record format is requested, produce it in a format
+  Andrew can copy directly into a session document or coaching note.
+- Where research is cited, cite it in a single line following the claim.
+  Do not build literature review paragraphs. The research supports the
+  tool; it does not structure it.
+- Operational language throughout. Non-clinical. No academic framing.
+  If a clinical concept must be introduced, translate it before using it.
+- Flag anywhere the framework reaches the boundary of RPA scope (clinical
+  somatic work, trauma processing) and provide Andrew with the referral
+  language rather than the clinical protocol.
+```
+
+**Evidence anchors:**
+
+| Source | Role in framework |
+|---|---|
+| Kegan & Lahey (2009) — *Immunity to Change* | ITC process; Big Assumption formulation; experiment as primary change vehicle; three to five experiments |
+| Nosek, Hawkins & Frazier (2011) — *Trends in Cognitive Sciences*, 15(4) | Why implicit system updates through experience, not insight — governs Sections 1 and 5 |
+| Gollwitzer (1999) — *American Psychologist*, 54(7) | Implementation intentions as bridging strategy — governs stakes calibration |
+| Siegel (1999, 2010) — *The Developing Mind*; *Mindsight* | Window of tolerance — governs Section 6 activation profiles; manager preparation practice |
+| Argyris (1991) — *Harvard Business Review*, 69(3) | Defensive routines and rationalization patterns — governs Section 5 |
+| Damasio (1994) — *Descartes' Error* | Somatic marker — governs why genuine behavioral risk is required; high-activation profile |
+| Brown (2018) — *Dare to Lead* | Armor in the coaching container — governs debrief session design |
