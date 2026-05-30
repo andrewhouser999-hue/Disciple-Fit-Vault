@@ -18,6 +18,20 @@ tags:
 
 ---
 
+## 1-Minute Pitch
+
+*For rehearsal or transition into the role/scope phase. ~150 words at a conversational pace — approximately 60 seconds.*
+
+When we talked at the coffee shop, I helped you see what your operations team had been trying to solve for hours — by looking at root cause instead of behavior. That's what I do at scale.
+
+I come in and assess your management team: structured interviews, behavioral observation, a multi-rater 360. Each leader gets an individual profile — specific to their pattern, not a generic report. What you get is a clear picture of *why* accountability breaks down, why turnover runs at the rate it does, and what your managers actually need to shift — not just perform differently in a training room.
+
+From there, I run a coaching arc with each manager and a team facilitation process that moves the whole group. You get structural recommendations at the close — the systems adjustments that make the behavior changes hold.
+
+Starting point is $28K for the full assessment phase. Most operations recover that in the first quarter through retention alone.
+
+---
+
 ## Navigation
 
 - [[#Layer 1 — Pain Picture]]
