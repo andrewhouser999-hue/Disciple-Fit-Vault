@@ -188,6 +188,11 @@ The assessment is built to produce information you can act on — not a document
 - Don't present all three options unless he asks; keep the focus on Phase 1 output
 
 ---
+- It is common to find relatively high interpersonal trust alongside lower institutional trust. Where does the trust land in A001?
+- In _Bowling Alone_, Robert Putnam argued that many traditional forms of community weakened across American society. Workplaces were not immune. - Workplace friendships, Informal mentoring, Shared social rituals, Long-term coworker relationships. Have you seen this?
+- When a person who seeks community, shared purpose, friendship belonging (vs income, career advancement, skill dev) enters a highly transactional environment, the experience can feel emotionally barren. Researchers studying belonging frequently find that people who value connection are more sensitive to relational deficits in organizations. The workplace may appear functional but feel socially empty.  Hospitality is functional in its structure and hires relational tendencies who tend to by anxiously attached.  
+
+---
 
 ## Credibility Reference Block
 
