@@ -64,8 +64,10 @@ tags:
 | Night before — know your framework | [[A001 — Advisory Framework]] | Eight-section practitioner reference: core premise, mechanism (Perry/Siegel/Rock), evidence base, program architecture, change sequence, failure modes — know this cold before any framework question comes up |
 | Night before — know your program | [[A001 — Management Development Program Architecture]] | Core curriculum architecture: three tracks (individual coaching, team facilitation, structural recommendations), 12-session arc, design principles — know what you're offering |
 | Night before — know your practices | [[A001 — Psychological Safety — Essential Practices List]] | Four-level PS architecture: prerequisites, owner behaviors, manager daily behaviors, structural design — know what the intervention actually produces |
+| Night before — internalize | [[A001 — Method Component Explainer]] | Seven process components broken down as conversation-ready answers — for when he asks "what exactly does that mean?" Know the short answer and developed answer for each component cold |
 | Night before — review | [[A001 — Presentation Deck 3]] | Know all 6 slides + deploy triggers; practice jumping to each slide in under 5 seconds |
 | In the meeting | [[A001 — Initial Meeting Field Form]] | Checkoffs, hospitality-specific questions, brief inline notes |
+| In the meeting (anchor) | [[A001 — Method Component Explainer.pptx]] | 11-slide visual aid — open on device; jump to specific component slides when verbal explanation needs a visual anchor; never walk through sequentially |
 | In the meeting (backup) | [[A001 — Presentation Deck 3]] | Open on device — deploy only when verbal needs an anchor; conversation first |
 | Immediately after | [[A001 — Engagement Intake]] | Full debrief from memory while it's fresh |
 
@@ -81,6 +83,7 @@ tags:
 - [ ] All 7 conversation pivots reviewed — can answer cost, timeline, prior failure, role confusion, manager threat without hesitation
 - [ ] Credibility domains internalized — mechanism, lived experience, training outcomes, team movement, honest pull-back
 - [ ] Seven discussion points internalized — know the behavioral signature and bridge question for each; don't recite, deploy when conversation requires depth
+- [ ] Component explainer internalized — short answer and developed answer for all 7 components; know what training couldn't reach for each; have the closing question ready
 - [ ] Owner state prompt run — know the likely regulatory and attachment states active in the owner; know what activation looks like in this person before it happens
 - [ ] Know what you will NOT try to accomplish today
 - [ ] Next-step offer ready — specific ask, specific day
