@@ -1555,3 +1555,4 @@ B9 — EXAMINATION: Personal attack tests everything built above.
 *Companion document: Beatitudes — Framework Integration (Soils, Lie Eliminator, Identity Installer)*
 *See also: A-Parable of the Soils — Kingdom Coaching Deep Framework*
 *See also: Lie Eliminator.md | Identity Installer.md*
+*See also: [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] — OT prophetic root of B1; Matthew 5:3 (*ptōchoi tō pneumati*) draws directly on the Isaiah *anāwîm* vocabulary (*ʿānî* / *nəkēh-rûaḥ* / *ḥārēd*). Full exegesis and Covenant Identity model integration notes there.*

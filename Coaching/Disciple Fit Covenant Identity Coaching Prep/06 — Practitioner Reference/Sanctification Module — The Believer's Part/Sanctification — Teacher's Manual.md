@@ -310,6 +310,7 @@ The abiding component (John 15) connects directly to attachment formation. For c
 
 ## XIII. CROSS-REFERENCES — DO NOT RE-EXPLAIN HERE
 
+- [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] — Biblical anchor for the receptivity precondition this module assumes. The three Hebrew terms (*ʿānî* / *nəkēh-rûaḥ* / *ḥārēd*) describe the cooperating posture on the human side of the asymmetric agency framework (Section III.B). Also: *ḥārēd* ("trembles") is in the same semantic field as Phil 2:12's "fear and trembling" (see footnote ¹) — the posture is not terror but the weight of knowing who you are cooperating with.
 - [[Covenant Identity — Affections Discovery — In-Session Protocol]]
 - [[Covenant Identity — Character Wound Diagnostic Tool]]
 - [[Covenant Identity — Diagnostic Lens Transition Logic]]
