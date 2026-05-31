@@ -26,6 +26,59 @@ tags:
 
 ---
 
+## How to Use Before the Meeting
+
+**Read in category order, not alphabetically.** The eight sections form a logical argument — each one builds on the last. Neurobiological Foundations explains why behavior under pressure isn't a character problem. Threat & Safety maps what conditions produce the behaviors the owner is seeing. Motivation & Needs explains what the workforce actually requires to function. Change Science explains why training doesn't hold and what does. Organizational Culture explains how culture forms and who transmits it. Behavioral Patterns is what you're measuring. Assessment Methods is how you see it. Coaching & Intervention is how you change it. Read in that sequence and the framework becomes a single coherent argument, not a list of concepts.
+
+**For each entry: read, cover, translate.** Read the full entry — including the mechanism. Then cover it and say the "Say it like this" line out loud in your own words. If you can't, read again. The goal isn't memorization — it's fluency. You need to be able to land the concept in one sentence, conversationally, without losing the credibility underneath it.
+
+**Don't try to own all 84 terms before the meeting.** Own the 10 critical terms deeply (see below). Recognize the others well enough that if one surfaces, you're not scrambling. The alphabetical index at the back is your quick-check — run through it the morning of the meeting and note which terms feel shaky. Spend time on those, not on the ones you already know.
+
+**Client-Ready vs. Practitioner Only is your in-meeting filter.** If a term is Practitioner Only, translate before you speak. The "Say it like this" lines on Client-Ready entries are pre-built translations — internalize those exact frames and deploy them, because they've been designed to land with a sophisticated operational owner without triggering clinical defensiveness.
+
+---
+
+## The 10 Terms to Own Cold
+
+These are the terms most likely to be in play during any first meeting with the AOI owner — either because they'll surface in his language, or because Andrew needs them to answer the question behind the question.
+
+**1. Window of Tolerance** — *the foundation.* Every other concept in the framework is built on this. If the owner asks why training doesn't hold, this is the answer. If he asks why his managers behave differently under pressure than in normal conditions, this is the answer. Own it completely.
+
+**2. Dysregulation** — *the mechanism behind the pattern.* The non-clinical translation of "traumatized." It explains why character-based assessment of employees is wrong and why training fails at the critical moment. The word itself is usable with this owner — pair it with the Window of Tolerance and it lands immediately.
+
+**3. Co-Regulation** — *the manager IS the environment.* The mechanism by which one person's nervous system state influences those around them — before anyone says a word. This is the single most powerful reframe for an owner who has tried training: it's not what managers say, it's what they carry into the room. Own the "calm is contagious" frame.
+
+**4. Psychological Safety** — *the outcome language he may already know.* Edmondson's research is widely cited; a sophisticated owner may have encountered it. If he has, this is common ground. If he hasn't, it's the cleanest way to name what RPA builds. Either way, own the operational definition: "the shared belief that the team is safe for interpersonal risk-taking."
+
+**5. Competing Commitment** — *why individual change is hard.* The single most important concept for explaining why a manager who genuinely wants to change doesn't. If the owner has watched a manager go through training, do better for a month, and revert — this is the explanation. Avoid using the term itself with the client; use the translation: "a hidden priority that overrides the stated goal when pressure hits."
+
+**6. Stages of Change** — *why the same program doesn't work for everyone.* Directly addresses the owner's prior training investment. A manager who doesn't see their pattern yet needs completely different work than one who sees it and doesn't know how to change it. Stage-mismatching is why programs fail. Own this concept and you have a credible, non-disparaging answer for why his training didn't hold.
+
+**7. Emotional Labor** — *the hospitality-specific retention lever.* Hochschild's concept explains why genuine service requires genuine culture. High-retention properties produce authentic warmth; low-retention ones demand the performance. This is the vocabulary for connecting management culture directly to the guest experience — which is the owner's primary commercial concern.
+
+**8. Culture Carrier** — *why management IS the culture.* The most important structural reframe for a multi-property owner. Not the brand, not the owner, not the training program — the unit manager is what the employee experiences as "how things work here." This concept makes the case for investing in management development rather than operational systems alone.
+
+**9. Withdrawal Pattern** — *the most common pattern in hospitality management.* Know this one at a clinical and operational level. If the owner describes a supervisor who avoids conflict, escalates upward, or goes quiet when accountability is required — this is what he's seeing. Being able to name it specifically and explain what it costs is a credibility signal.
+
+**10. Activation Threshold** — *what makes the pattern operationally specific.* The difference between "this manager has a pattern" and "this pattern activates under these specific conditions." Threshold language moves the conversation from character judgment to predictive diagnosis. It answers the owner's implicit question: "So what do I do with this information?"
+
+---
+
+## The Structure — What Each Section Is For
+
+| Section | What It Answers |
+|---|---|
+| 1 — Neurobiological Foundations | Why behavior under pressure isn't a character problem |
+| 2 — Threat, Safety & Psychological Safety | What conditions are producing the behaviors the owner sees |
+| 3 — Motivation & Psychological Needs | What the workforce actually needs to function; what happens when they don't get it |
+| 4 — Change Science & Learning | Why training doesn't hold; what produces lasting behavioral change |
+| 5 — Organizational Culture & Identity | How culture actually forms; who transmits it; what holds people in a property |
+| 6 — Behavioral Patterns | What you're measuring; the four-dimension diagnostic language |
+| 7 — Assessment Methods & Tools | How the pattern becomes visible; three sources, one picture |
+| 8 — Coaching & Intervention Stages | How the pattern changes; the arc from assessment to lasting change |
+
+---
+
 ## Navigation
 
 - [[#Section 1 — Neurobiological Foundations]]
