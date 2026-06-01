@@ -7,6 +7,7 @@ tags:
   - initial-meeting
   - field-form
 ---
+"Our time together will be successful if you leave with a clearer picture of what's driving what you're already seeing — not my interpretation of it, yours. My job today is to ask the right questions. Yours is to tell me what's actually true, not what sounds good. If we do that, we'll both know by the end of this conversation whether what I do is the right fit for your situation."
 
 # A001 — Initial Meeting Field Form
 
