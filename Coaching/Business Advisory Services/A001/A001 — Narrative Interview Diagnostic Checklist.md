@@ -184,14 +184,14 @@ This checklist does not replace the Facilitation Guide — it runs alongside it.
 
 ### 4D — Collaborative Capacity Signals
 
-| Signal | Observed | Confidence |
-|---|---|---|
-| Specific language remembered from difficult conversations — can quote what they said | [ ] | Low / Moderate / High |
-| Others appear in accounts with interior lives — what they were feeling, what they needed | [ ] | Low / Moderate / High |
-| Account includes repair moves without prompting — after conflict, something was done | [ ] | Low / Moderate / High |
-| Proportional affect across all three domains — no significant above or below window activation | [ ] | Low / Moderate / High |
-| Takes accountability without collapsing into self-blame — can hold own role without over-responsibility | [ ] | Low / Moderate / High |
-| Can represent the supervisor's perspective in D3 with genuine reflection | [ ] | Low / Moderate / High |
+| Signal                                                                                                  | Observed | Confidence            |
+| ------------------------------------------------------------------------------------------------------- | -------- | --------------------- |
+| Specific language remembered from difficult conversations — can quote what they said                    | [ ]      | Low / Moderate / High |
+| Others appear in accounts with interior lives — what they were feeling, what they needed                | [ ]      | Low / Moderate / High |
+| Account includes repair moves without prompting — after conflict, something was done                    | [ ]      | Low / Moderate / High |
+| Proportional affect across all three domains — no significant above or below window activation          | [ ]      | Low / Moderate / High |
+| Takes accountability without collapsing into self-blame — can hold own role without over-responsibility | [ ]      | Low / Moderate / High |
+| Can represent the supervisor's perspective in D3 with genuine reflection                                | [ ]      | Low / Moderate / High |
 
 **Collaborative capacity present?** [ ] Yes [ ] No [ ] Possible — insufficient data
 **Confidence:** Low / Moderate / High
