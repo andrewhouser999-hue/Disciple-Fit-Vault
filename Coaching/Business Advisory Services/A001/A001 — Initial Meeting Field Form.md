@@ -267,3 +267,5 @@ tags:
 - [ ] **If he asks the price immediately:**
 
   > "That phase is $28,000. And based on what you've described — even at conservative turnover numbers — it pays for itself if it moves the needle by a fraction of a percent. I'll put that math in what I send you."
+  > 
+  > *"Before we wrap up — how are you thinking about bringing your operations managers into this conversation? I want to make sure they hear it in a way that sets things up well."*

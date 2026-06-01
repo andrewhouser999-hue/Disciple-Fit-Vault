@@ -53,7 +53,7 @@ tags:
 
 **What is known pre-engagement:**
 - Two OMs manage the portfolio day-to-day
-- Owner is the primary contact and decision-maker; OMs likely did not choose this engagement
+- Owner is the primary contact and decision-maker; OMs did not choose this engagement
 - OMs will be subjects of Phase 1 assessment — their threat profile at first introduction is HIGH on Status, Certainty, Autonomy, and Fairness (see [[A001 — Conversation Readiness Guide]] Section 5.4 for full SCARF analysis)
 
 **Correspondence implication:**
