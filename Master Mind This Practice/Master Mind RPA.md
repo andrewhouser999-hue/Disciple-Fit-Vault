@@ -1,3 +1,8 @@
+ **Correct Framework**
+ Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
+
+
+
 Edmondson & Detert — **Implicit Voice Theories** (2011)
   Academy of Management Journal, 54(3), 461–488. The most directly useful study for your purpose. Identifies the manager behaviors that confirm employees' ingrained beliefs that speaking up is dangerous: visible frustration when challenged, status-based dismissal (idea evaluated by who said it, not what it says), performance of certainty (projecting infallibility), and failing to follow through when input is given. These behaviors don't create the fear — they validate pre-existing learned beliefs that the environment is unsafe.
 

@@ -192,6 +192,28 @@ Written report to sponsor; implementation support as needed
 - Separation and exit practices (how people leave communicates safety to those who remain)
 - Hiring filter design (ASA framework — hiring for pattern fit, not just competency)
 
+**Psychological Safety Essential Practices**
+Structural recommendations are anchored to the 11 evidence-based essential practices. Each addresses a mechanism no other practice can reach. Sequencing is causal — prerequisites must hold before practices above them can take effect.
+
+*Prerequisites — must be in place before other practices can hold:*
+1. Owner behavior change
+2. Manager regulation capacity baseline
+3. Elimination of active voice punishment
+
+*Manager behaviors:*
+4. Leader inclusiveness (openness, accessibility, availability)
+5. EMC inquiry-first error response
+6. Task-level, informational feedback delivery
+7. Servant leadership orientation
+
+*Structural mechanisms:*
+8. Daily pre-shift Community Meeting (3-question check-in)
+9. Bi-weekly 1-on-1s as safety infrastructure
+10. Supervisory accountability (upward feedback + required discussion)
+11. Psychological safety measurement and feedback loop
+
+Full evidence documentation, complementarity chain, and hospitality weighting: [[Psychological Safety — Essential Practices Research Brief]]
+
 ---
 
 ## Section 5 — Differentiated OM Development

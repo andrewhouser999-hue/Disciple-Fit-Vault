@@ -72,6 +72,8 @@ The diagnostic value is in *how* the person speaks about these events — not th
 
 A structured 360 built around observable relational behaviors under pressure — not personality traits or generic leadership competencies. Raters: supervisor, peers, direct reports (minimum 3 raters per category).
 
+ "360 reviews" is too broad a term. What the framework specifies is directional upward feedback — employees evaluating manager behaviors — combined with a required discussion of those results. A traditional 360 (peers, superiors, subordinates simultaneously) is a different instrument with different dynamics. The measurement tool referenced is Edmondson's validated 7-item psychological safety scale at the team level, not a manager competency 360.
+
 **Behavior clusters:**
 
 | Cluster | Sample Item |
@@ -186,6 +188,28 @@ HR and management practice changes that reduce unnecessary activation and build 
 - *Onboarding relational design:* how new employees are received shapes early pattern activation
 - *OM accountability structure:* how OMs are held accountable models the accountability culture they create downstream
 - *Separation and exit practices:* how people leave communicates relational safety to those who remain
+
+**Psychological Safety Essential Practices**
+Structural recommendations are anchored to the 11 evidence-based essential practices. Each addresses a mechanism no other practice can reach. Sequencing is causal — prerequisites must hold before practices above them can take effect.
+
+*Prerequisites — must be in place before other practices can hold:*
+1. Owner behavior change
+2. Manager regulation capacity baseline
+3. Elimination of active voice punishment
+
+*Manager behaviors:*
+4. Leader inclusiveness (openness, accessibility, availability)
+5. EMC inquiry-first error response
+6. Task-level, informational feedback delivery
+7. Servant leadership orientation
+
+*Structural mechanisms:*
+8. Daily pre-shift Community Meeting (3-question check-in)
+9. Bi-weekly 1-on-1s as safety infrastructure
+10. Supervisory accountability (upward feedback + required discussion)
+11. Psychological safety measurement and feedback loop
+
+Full evidence documentation, complementarity chain, and hospitality weighting: [[Psychological Safety — Essential Practices Research Brief]]
 
 ---
 
