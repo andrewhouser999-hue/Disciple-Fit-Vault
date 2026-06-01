@@ -85,6 +85,7 @@ tags:
 - [ ] Seven discussion points internalized — know the behavioral signature and bridge question for each; don't recite, deploy when conversation requires depth
 - [ ] Component explainer internalized — short answer and developed answer for all 7 components; know what training couldn't reach for each; have the closing question ready
 - [ ] Owner state prompt run — know the likely regulatory and attachment states active in the owner; know what activation looks like in this person before it happens
+- [ ] **Structural vs. behavioral triage complete** — for each SCARF domain active in this operation, you can say which threats are structural (built into the hotel model — variable scheduling, guest power differential, brand standards) vs. behavioral (owner/manager-driven and changeable). Know which levers you can actually promise to move before you walk in.
 - [ ] Know what you will NOT try to accomplish today
 - [ ] Next-step offer ready — specific ask, specific day
 - [ ] Field form printed or open on device

@@ -358,3 +358,98 @@ These 11 questions were selected from a larger candidate set using three filters
 
 *After the meeting: complete [[A001 — Engagement Intake]] from memory.*
 *Rebuild tracker: mark [[A001 — Rebuild Tracker]] First Meeting Question Guide as complete.*
+
+---
+
+## Staffing & Manager Development Question Set
+
+*Supplementary diagnostic set. Organized as pre-meeting prep + in-meeting deployment. Use after the core 11-question arc has established the diagnostic frame — this set goes deeper on employee behavior patterns, structural contributors, and what the owner has invested in his management team.*
+
+---
+
+### Pre-Meeting
+
+**Know cold before deploying this set:**
+
+- **The behavioral/structural distinction.** Behavioral problems = what employees do. Structural problems = what the operation does that produces or sustains those behaviors. Know which layer you're in at any given moment — he will move between them freely.
+- **Most owners conflate the two.** He may answer a structural question with a behavioral frame or vice versa. Don't correct him — follow the answer and re-route from there.
+- **Development investment is almost always thinner than the owner believes.** He may cite a training from two years ago. Hold space for the gap between what was attempted and what actually changed behavior.
+- **Section C lands after Sections A and B.** The manager development questions earn their credibility only after he's named the problem himself. Don't use Section C cold.
+
+**What you're trying to learn:**
+- Whether behavior problems concentrate somewhere — role, property, shift, tenure — or are system-wide
+- Whether his structural practices are generating the behaviors he's complaining about
+- How much real development investment his managers have received and whether it changed anything
+- Whether he can distinguish between a people problem and a system problem
+
+---
+
+### In-Meeting
+
+*Navigate by what opens. A → B → C is the natural arc, but follow his language. Section C is the most credibility-generating set — use it if you get there.*
+
+---
+
+#### Section A — Behavioral Problems
+
+*Goal: Identify what the behaviors actually are, where they concentrate, and what patterns exist.*
+
+**A1.** Walk me through a bad week. What behaviors are you seeing that you shouldn't have to deal with?
+
+**A2.** Which ones cost you the most — financially, operationally, or just managerially?
+
+**A3.** Are these spread evenly, or do they concentrate somewhere — specific properties, departments, shifts, tenure brackets?
+
+**A4.** Do problem employees show up that way from day one, or does something change? When does it usually start?
+
+**A5.** When a behavior blows up, is there usually a story behind it — or does it come out of nowhere?
+
+**A6.** Are your best employees and your worst behaving differently from each other, or are you seeing the same patterns across the board?
+
+**A7.** Are guests seeing it? What's showing up in reviews or complaints that traces back to staff behavior?
+
+---
+
+#### Section B — Structural Problems
+
+*Goal: Identify the systems, practices, or gaps that are generating or sustaining the behaviors.*
+
+**B1.** What does someone experience in their first 30 days? Walk me through what actually happens — not the policy, what actually happens.
+
+**B2.** When a supervisor handles a behavior problem, what does that look like? Is there a consistent approach, or does it depend on who's managing that day?
+
+**B3.** How consistent are your managers across properties? Same problem, same response — or is it all over the map?
+
+**B4.** Do your employees know what's expected of them beyond the job tasks? Not the handbook — do they actually know?
+
+**B5.** When someone crosses a line, what's the real response? Walk me through what happens from the moment you find out.
+
+**B6.** Is there a visible path forward for someone who wants to grow with you — or does advancement feel random to them?
+
+**B7.** How do you find out when something's going wrong — does it come to you, or are you hunting for it?
+
+**Bridge (A → B or B → C if needed):** *"When you see the same behavior repeated across multiple people in the same role — do you read that as a people problem, a system problem, or something else?"* This tells you how he's currently framing causation and sets up Section C.
+
+---
+
+#### Section C — Manager Development & Investment
+
+*Goal: Identify what he's actually built into his managers — formal and informal — and whether it landed.*
+
+**C1.** When you promote someone to a management role, what prepares them for it? Is there a defined process, or do they mostly learn on the job?
+
+**C2.** Have you ever brought in outside training for your managers — leadership, communication, conflict, anything? What have you tried?
+
+**C3.** Is there a management style or philosophy you've tried to instill — something you'd say: *"This is how we lead here?"*
+
+**C4.** What does a good manager look like in your operation? If you picture your best one — what are they doing that the others aren't?
+
+**C5.** When a manager struggles, what do you do with that? Is there a development path, or does it usually end in a personnel decision?
+
+**C6.** Do your managers know what to do when an employee's personal life is bleeding into their work? Not policy — do they have any actual tools for that conversation?
+
+**C7.** Have you invested differently in managers at different properties, or has development been consistent across the chain?
+
+**C8.** After any training you've done — did behavior change, or did people go back to their defaults within a few weeks?
+
+**Bridge (if training didn't stick):** *"When it didn't hold, where did it break down — the managers not applying it, or the environment not supporting it?"* This names the structural vs. skill gap and frames exactly where your work sits.

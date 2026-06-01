@@ -40,6 +40,8 @@ Meetings where people agree too fast. No one pushes back. Errors surface late an
 
 ## 2. What Stress Is Doing to Your Team's Thinking
 
+> **Practitioner anchor — before deploying this point:** Can you distinguish which SCARF threats in this operation are structural (baked into the hotel model: variable scheduling, guest power differential, brand standard constraints) vs. behavioral (owner/manager-driven and changeable)? That distinction is what makes your read credible and your offer honest. Know it before the conversation goes here.
+
 **The Research Finding**
 David Rock's SCARF model identifies five domains the brain monitors as social threat or reward: Status, Certainty, Autonomy, Relatedness, Fairness. When any of these registers as threatened, the brain's threat-response system activates — and executive function narrows. Bruce Perry's neurosequential research confirms that under chronic relational stress, people operate from lower brain states: reactive, self-protective, cognitively narrow. This is measurable — not a metaphor.
 
