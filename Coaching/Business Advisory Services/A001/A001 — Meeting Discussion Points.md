@@ -7,7 +7,15 @@ tags:
   - pre-meeting
   - discussion
 ---
-
+Near Future Preparation
+See C:\Users\Andre\Documents\Obsidian Vault\Andy's Life\Coaching\Business Advisory Services\Hospitality Industry
+Exponentially more important: Supervisory Modeling, Self Regulation transference, Implicit development, right hire, etc.
+Supervisory Modeling, In practice it means:
+  - What a supervisor does carries more normative weight than what they say
+  - Cultural norms often originate from supervisory behavior, not policy
+  - Inconsistency between a supervisor's espoused standards and their own conduct produces confusion and erodes trust faster than most other leadership failures
+It draws from Bandura's social learning theory: people learn by watching others, and those with authority receive disproportionate observational attention. A supervisor who models a behavior — accountability, how to handle conflict, response to pressure — tends to propagate that behavior through the team, whether or not they're explicitly teaching it.
+  
 # A001 — Meeting Discussion Points
 
 *Internalize before the meeting. Not a script — a depth map. Each point has four layers: what the research says, how it shows up in his operation, what behavioral signature to name back, and a bridge question to go deeper. Deploy when the conversation requires it. Don't lead with the research — lead with the reality and let the research land behind it.*

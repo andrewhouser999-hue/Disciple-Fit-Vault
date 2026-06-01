@@ -27,7 +27,7 @@ Greek: *ptōchoi tō pneumati.* Two Greek words for poor exist: *penēs* (the wo
 
 *Pneumati* means "in spirit" — not materially poor (that is Luke's version). This is poverty at the center of the self: no reserves of righteousness, no stockpile of spiritual accomplishment to draw on. Nothing to offer and nowhere else to go.
 
-The OT background is the *anawim* — the "poor ones of God" in the Psalms and prophets. Zephaniah 3:12: "I will leave in your midst a people humble and lowly, and they will take refuge in the name of the LORD." Isaiah 57:15: "I dwell in a high and holy place, and also with him who is of a contrite and lowly spirit, to revive the spirit of the lowly." The *anawim* were those who had stripped away all human resources and learned to live from God's provision alone. They were the margins of society who became the carrier class of the kingdom.
+The OT background is the *anawim* — the "poor ones of God" in the Psalms and prophets. Zephaniah 3:12: "I will leave in your midst a people humble and lowly, and they will take refuge in the name of the LORD." Isaiah 57:15: "I dwell in a high and holy place, and also with him who is of a contrite and lowly spirit, to revive the spirit of the lowly." Isaiah 66:2b names the same cluster in its fullest prophetic form: *"But this is the one to whom I will look: he who is humble (*ʿānî*) and contrite in spirit (*nəkēh-rûaḥ*) and trembles at my word (*ḥārēd*)."* God's gaze — covenantal attention, not mere notice — falls specifically on the three-fold posture the *anawim* embody. See [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] for full exegesis. The *anawim* were those who had stripped away all human resources and learned to live from God's provision alone. They were the margins of society who became the carrier class of the kingdom.
 
 ### The Theology
 The first Beatitude is the door. Everything else requires it. Dallas Willard's key insight: Jesus is not saying "it would be better to be spiritually poor" or "these people will eventually be rewarded." He is saying they *already* possess the kingdom — present tense, not future. The kingdom belongs to the poor in spirit now, in their poverty, because their poverty has removed the one obstacle to receiving it: self-sufficiency.
@@ -473,3 +473,12 @@ You cannot manufacture Beatitude 8 formation. It arrives. But you can prepare:
 | 6 | Pure in Heart | Divided → Integrated | Undistorted perception | Peacemaking (agenda enters conflict) |
 | 7 | Peacemaker | Avoidance → Shalom-creation | Reconciling presence | Persecution (no ground to hold under fire) |
 | 8 | Persecuted | Confirmation → Endurance | Prophet lineage identity | (Reveals which prior stage hasn't held) |
+
+---
+
+## See Also
+
+- *Companion to: Disciple Fit Session Prep Template — Augustine Beatitude Diagnostic*
+- [[B-Beatitudes — Complete Tool Integration]] — full theological analysis, tool mapping, and session sequences per Beatitude
+- [[C-Beatitudes — Framework Integration (Soils, Lie Eliminator, Identity Installer)]] — diagnostic mapping to core tools
+- [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] — OT prophetic root for B1; the three Hebrew terms (*ʿānî* / *nəkēh-rûaḥ* / *ḥārēd*) are the Isaiah foundation Matthew 5:3 draws from; full exegesis and Covenant Identity model integration
