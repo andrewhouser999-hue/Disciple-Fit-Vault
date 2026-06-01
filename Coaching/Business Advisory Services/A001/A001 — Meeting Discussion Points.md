@@ -47,7 +47,22 @@ It draws from Bandura's social learning theory: people learn by watching others,
 - [[#Meeting Transition Statement]]
 
 ---
+# Meeting Transition Statement
 
+*Deliver at the moment the meeting shifts from connection to substance. Own it — don't read it.*
+
+---
+
+"Our time together will be successful if you leave with a clearer picture of what's driving what you're already seeing — not my interpretation of it, yours. My job today is to ask the right questions. Yours is to tell me what's actually true, not what sounds good. If we do that, we'll both know by the end of this conversation whether what I do is the right fit for your situation."
+
+---
+
+**The four moves:**
+- **Success is his clarity, not your pitch** — reframes the meeting as diagnostic, not evaluative
+- **Roles assigned explicitly** — you ask, he tells; this owner responds to structure
+- **Permission to be honest** — "not what sounds good" gives him cover to name things he'd otherwise manage around
+- **Mutual stakes** — "we'll both know" signals you're also deciding, which raises your credibility
+- 
 ## 1. The Signal Arrives Before the Problem
 
 **The Research Finding**
@@ -303,18 +318,4 @@ Would a 45-minute conversation be worth your time?
 
 ---
 
-# Meeting Transition Statement
 
-*Deliver at the moment the meeting shifts from connection to substance. Own it — don't read it.*
-
----
-
-"Our time together will be successful if you leave with a clearer picture of what's driving what you're already seeing — not my interpretation of it, yours. My job today is to ask the right questions. Yours is to tell me what's actually true, not what sounds good. If we do that, we'll both know by the end of this conversation whether what I do is the right fit for your situation."
-
----
-
-**The four moves:**
-- **Success is his clarity, not your pitch** — reframes the meeting as diagnostic, not evaluative
-- **Roles assigned explicitly** — you ask, he tells; this owner responds to structure
-- **Permission to be honest** — "not what sounds good" gives him cover to name things he'd otherwise manage around
-- **Mutual stakes** — "we'll both know" signals you're also deciding, which raises your credibility
