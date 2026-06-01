@@ -20,8 +20,6 @@ tags:
 1. "Do you know what turnover is actually costing you — across all your properties, annually?"
 2. "If I walked into three of your properties unannounced and asked employees what it's like to work here — would I hear the same answer at all three?"
 
-Do you have a clear model for how you distinguish structural threats (SCARF) from behavioral ones (SCARF) in a client's specific operation?
-
 **Layer 2 — Management Behavior Gap**
 3. "Walk me through the last time a supervisor had to address a recurring performance problem. How did that play out?"
 4. "When someone gets promoted into a supervisory role — what does their first 90 days look like?"
