@@ -28,6 +28,7 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 | [[#1-1 Backup Presentation — Best Practices Prompt\|1-1 Backup Presentation — Best Practices]] | — | — | Governing framework for designing and deploying slides as conversational backup in a 1-1 consulting meeting; covers slide selection criteria, deploy-speak-put-away protocol, non-linear design, content rules, and what to avoid |
 | [[#Implicit Layer — Manager Behaviors Undermining Psychological Safety Prompt\|Implicit Layer — Manager Behaviors Undermining PS]] | — | — | Research the implicit belief → automatic micro-behavior → employee neuroception pathway; centers discernibility of heart intent through micromovements and nonverbals; Levels 1 (mechanism) and 2 (diagnostic/observable); adapted for three uses: observer, manager coaching, sponsor communication |
 | [[#Big Assumption Experiment Design Framework Prompt\|Big Assumption Experiment Design Framework]] | — | — | Produce a practitioner tool for designing, calibrating, observing, and interpreting Big Assumption behavioral experiments with managers; structured for three use-case levels: observer (what to watch), manager coaching (how to design and debrief), sponsor (how to translate results into operational evidence) |
+| [[#Regulated Manager Portrait Prompt\|Regulated Manager Portrait]] | — | — | Produce a behavioral, non-clinical portrait of the end-state regulated manager — psychological state, cognitive orientation, management style, priority of commitment, employee experience, and contrast with the average manager; the target picture RPA is developing toward |
 
 ---
 
@@ -38,6 +39,7 @@ A record of all saved prompts, triggers, and purposes for the Relational Perform
 - [[#Psychological Safety — Essential Practices Research Prompt]]
 - [[#Consulting Initial Meeting — Warm Entry Research Prompt]]
 - [[#Credibility Communication — Consulting Entry Prompt]]
+- [[#Regulated Manager Portrait Prompt]]
 
 ---
 
@@ -1902,3 +1904,66 @@ FORMATTING REQUIREMENTS:
 | Argyris (1991) — *Harvard Business Review*, 69(3) | Defensive routines and rationalization patterns — governs Section 5 |
 | Damasio (1994) — *Descartes' Error* | Somatic marker — governs why genuine behavioral risk is required; high-activation profile |
 | Brown (2018) — *Dare to Lead* | Armor in the coaching container — governs debrief session design |
+
+---
+
+## Regulated Manager Portrait Prompt
+
+**When to use:**
+- Orienting to what RPA is developing toward — the end-state behavioral and psychological picture
+- Preparing for a sponsor conversation where the outcome needs to be concretely described
+- Grounding a coaching arc design in what "done" looks like
+- Generating a new version of the portrait for a different audience or use case (adjust language rules at runtime)
+
+**Generated output:** [[Relational Performance Advisory — Regulated Manager Portrait]]
+
+**Author voice:** Daniel Goleman — psychologist, organizational researcher, *New York Times* science journalist (*Emotional Intelligence*, *Primal Leadership*). Authoritative and research-grounded; legible to operators without being soft; behavioral without being clinical. The voice of someone who has studied the evidence and observed hundreds of organizations.
+
+```
+You are a psychologist, organizational researcher, and business author writing
+for senior operators — owners, founders, and senior leaders who manage people
+and carry accountability for outcomes.
+
+Your task: Write a portrait of the trauma-informed, emotionally regulated manager
+who creates psychological safety — what they are like from the inside out, and
+what it is like to work for them.
+
+Cover all of the following, with behavioral specificity throughout:
+
+1. The manager's psychological state — regulatory capacity, threat sensitivity,
+   identity stability, relationship to power and performance pressure
+2. How they think — cognitive orientation toward people, problems, conflict,
+   and accountability
+3. Their management style — observable behaviors, recurring practices, how they
+   handle pressure, failure, and difficult conversations
+4. Their priority of commitment — what they protect first, where they spend
+   relational capital, what they refuse to trade away
+5. The employee experience — what it feels like to work for this manager; what
+   employees think about themselves, their work, and the organization; what
+   becomes possible in this environment
+6. Contrast with the average manager — where the average manager's psychological
+   state, habits of thought, and daily behaviors diverge; what the average manager
+   produces in employees as a result
+
+Language standards:
+- Behavioral and observable throughout — describe what can be seen, heard, and measured
+- Non-clinical — no diagnostic labels, no therapeutic terminology
+- Operational — connect every psychological reality to a business or team outcome
+- Honest contrast — the average manager is not villainized; they are described accurately
+
+This is not an inspirational list. It is a precise portrait of a demonstrably
+different kind of manager, written by someone who has studied the evidence and
+observed hundreds of organizations.
+```
+
+**Evidence anchors:**
+
+| Source | What this portrait draws from |
+|---|---|
+| Perry | Regulatory capacity as a developed condition; stress-response patterns as shaped experience, not fixed trait |
+| Siegel | Window of Tolerance; two-brain model; relational safety as precondition for cognitive engagement; regulated presence as active maintenance |
+| Rock | SCARF — Status and Certainty domains; baseline threat sensitivity as differentiating condition |
+| Kegan & Lahey | Self-Authoring Mind — capacity to hold complexity without identity threat; developmental edge in coaching |
+| Miller & Rollnick | Curiosity before evaluation as motivational orientation; change-facilitative relational stance |
+| Bloom / SAMHSA | Safety and trustworthiness as organizational design principles; non-punishing error response as structural condition |
+| Edmondson | Psychological safety as team learning predictor; leader inclusiveness micro-behaviors; voice and error-reporting as outcomes |
