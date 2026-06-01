@@ -22,6 +22,32 @@ It draws from Bandura's social learning theory: people learn by watching others,
 
 ---
 
+## Contents
+
+**Discussion Points**
+- [[#1. The Signal Arrives Before the Problem]]
+- [[#2. What Stress Is Doing to Your Team's Thinking]]
+- [[#3. Why What You've Tried Hasn't Held]]
+- [[#4. What People Are Managing Before They Say a Word]]
+- [[#5. The Cost Is Behavioral Before It's Financial]]
+- [[#6. What Actually Changes It]]
+- [[#7. What It Looks Like When It Works]]
+
+**Outreach**
+- [[#RPA Teaser Sequence — 7-Day Outreach]]
+	- [[#Day 1]]
+	- [[#Day 2]]
+	- [[#Day 3]]
+	- [[#Day 4]]
+	- [[#Day 5]]
+	- [[#Day 6]]
+	- [[#Day 7]]
+
+**Meeting**
+- [[#Meeting Transition Statement]]
+
+---
+
 ## 1. The Signal Arrives Before the Problem
 
 **The Research Finding**
@@ -170,7 +196,7 @@ More soon.
 
 Something the neuroscience of workplace performance shows — that most leaders don't discover until they see it in their own team:
 
-Social threat activates the same response as physical danger. Relational uncertainty, fear of being evaluated, unclear standing — these don't just affect morale. They measurably narrow thinking, reduce initiative, and shut down the kind of judgment that drives performance.
+**Social threat activates the same response as physical danger.** Relational uncertainty, fear of being evaluated, unclear standing — these don't just affect morale. They measurably narrow thinking, reduce initiative, and shut down the kind of judgment that drives performance.
 
 Your team may not be underperforming because they lack skill or motivation. They may be underperforming because they can't fully access either one.
 
@@ -188,7 +214,7 @@ What creates that condition — and what resolves it — is specific. It's not w
 
 Research on organizational change has documented something most business owners recognize immediately when they hear it:
 
-People have competing commitments. Not stated ones — hidden ones. Running underneath every meeting, every review, every performance conversation. They're not resistant to change. They're committed to something that makes change feel risky.
+People have competing commitments. Not stated ones — hidden ones. Running underneath every meeting, every review, every performance conversation. **They're not resistant to change. They're committed to something that makes change feel risky.**
 
 This is why clarity and accountability — the two most common leadership moves — produce short-term compliance and long-term drift. They reach the behavior. They don't reach what's producing it.
 
@@ -204,7 +230,7 @@ What reaches it is a different kind of conversation. And it's a learnable one.
 
 ---
 
-Before your team member walks into a difficult conversation with you, research on interpersonal neurobiology shows they've already run an unconscious threat assessment.
+Before your team member walks into a difficult conversation with you, research on interpersonal neurobiology shows they've already run an **unconscious threat assessment.**
 
 It covers five domains — status, certainty, autonomy, belonging, fairness — that function like basic safety needs. The outcome of that assessment determines whether they bring you their best thinking or their safest answer.
 
@@ -236,17 +262,22 @@ That condition isn't fixed by perks, retreats, or team meetings. It's addressed 
 
 ## Day 6
 
-**Subject:** What actually moves it
+**Subject:** The map
 
 ---
 
-The research on what restores relational trust in teams is counterintuitive in one specific way:
+Most relational performance interventions fall short for the same reason: they reach the visible behavior and stop. Here's what actually has to be addressed — three layers, each one closer to the driver.
 
-It's not more transparency, more accountability structures, or more feedback training. All three of those are downstream of the actual problem.
+**Layer 1 — Locate the signal.**
+Before anything can shift, the source has to be identified precisely. Which relational domains are generating a threat signal (status, certainty, autonomy, belonging, fairness), where it's originating, and whether it's structural to your model or driven by leadership behavior. You can't address what you haven't located.
 
-What the evidence points toward is something that happens in the quality of specific relational moments — not their frequency or formality. Organizations that shift fastest are the ones where leaders learn a particular kind of responsiveness that research on adult development identifies as the condition for psychological safety.
+**Layer 2 — Reach the right level.**
+Clarity, accountability, and training all operate on visible behavior. Underneath it, people carry competing commitments — unconscious protection systems that neutralize change. Until those are addressed, behavior corrects in the room and drifts afterward. This is the layer most organizations never reach.
 
-It's a learnable set of behaviors. Most leaders are closer to it than they think. What they're missing is a map.
+**Layer 3 — The specific moves that shift the climate.**
+Not for your team — for how you show up in the relational moments that set the climate. The research is precise about which moments matter most and what the right response looks like in each one. These are learnable skills. Most leaders are closer than they think. What they've been missing is a model for where to apply them.
+
+This is what the work addresses. More tomorrow.
 
 — Andrew
 
@@ -258,11 +289,11 @@ It's a learnable set of behaviors. Most leaders are closer to it than they think
 
 ---
 
-When the relational layer of a team is addressed at the right level, a few things happen — and they're observable:
+**When the relational layer of a team is addressed at the right level, a few things happen** — and they're observable:
 
 Candor returns first. People start naming what's actually true instead of what's safe to say. Then initiative — problems come to you before they're crises. Then retention — your best people stop quietly hedging.
 
-The leaders I work with don't experience this as a culture transformation. They experience it as relief. Like something that was grinding finally stopped.
+The leaders I work with don't experience this as a culture transformation. They experience it as relief. Like something that was **grinding finally stopped.**
 
 I've been building a framework specifically for owners in your position — relational performance advisory work that addresses the layer most consultants don't reach. I'd like to walk you through it.
 
