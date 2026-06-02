@@ -7,7 +7,7 @@ tags: [system-reference, master-list, practitioner-reference]
 # Covenant Identity Coaching — System Document Master List
 *A complete inventory of all documents in the Covenant Identity Coaching system, organized by category and roughly chronological order of use within an engagement. Status: Done or Suggested.*
 
-*Last updated: 2026-05-25 — 72 done + 5 suggested across 13 sections*
+*Last updated: 2026-06-02 — 73 done + 5 suggested across 13 sections*
 
 ---
 
@@ -209,6 +209,9 @@ Survey-depth practitioner anthropology reference. Governing framework: imago Dei
 **✅ Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts.md**
 Practitioner reference presenting 20 paired contrasts between functional belief (operationally evident from behavior, patterns, and affect) and confessional belief (stated theology). The gap between functional and confessional is the diagnostic target of the model — what a client affirms theologically but has not yet internalized relationally. Supports precise lie identification and prevents coaching from stopping at theological restatement of truths the client already acknowledges.
 
+**✅ Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic.md**
+Meta-diagnostic reference: eight reasons the heart does not experience healing (self-deception, wrong source, idol attachment, treatment at wrong level, progressive hardening, will not engaged, refusing suffering, not receiving the gift). Governing frame: God sanctifies / man participates via three concrete acts — choose honesty, choose openness to covenant with God, choose to find value in trusting God. Each barrier includes observable session signals, 2–3 practitioner questions, and the specific participation move that opens the door. Diagnostic routing table maps presenting patterns to the most likely barrier. Use at session prep when movement has stalled. Built 2026-06-02.
+
 **✅ Covenant Identity — Diagnostic Lens Transition Logic.md**
 The spine of the entire diagnostic sequence. Stage-by-stage entry criteria, transition signals, and return signals governing movement between Affections Discovery, False Identity Named, Covenant Truth Work, Stage 4a CBT-informed tools, and Stage 4b Relational/Attentive Response. Includes the two-branch Stage 4 split: cognitive distortion barrier → Stage 4a; implicit memory barrier → Stage 4b. Read before all individual diagnostic tools — this document governs the "when" that the individual tools address the "how."
 
@@ -396,13 +399,13 @@ Eight-criterion evaluation prompt for vetting any proposed between-session tool 
 | Phase 3 — Identity Installation | 1 | 0 | 0 |
 | Phase 4 — Integration & Close | 1 | 0 | 0 |
 | Growth Tracking | 3 | 0 | 0 |
-| Practitioner Reference & Tools | 24 | 0 | 0 |
+| Practitioner Reference & Tools | 25 | 0 | 0 |
 | Between-Session Library | 13 | 0 | 0 |
 | Resource Library | 2 | 1 | 0 |
 | AI Generation Prompts | 8 | 0 | 0 |
-| **Total** | **72** | **5** | **0** |
+| **Total** | **73** | **5** | **0** |
 
-*Count note: The 72 Done total includes the original 63, plus Self-Supervision Template (built 2026-05-22), Parts & Burden Discovery — Session Worksheet (built 2026-05-22), What the Part Carries — An Independent Formation Practice (built 2026-05-22), and the Sanctification Module — The Believer's Part (6 documents built 2026-05-25: Teacher's Manual, Coach Diagnostic, Session Facilitation Guide, Client Study, Practice Reference Card, ITC Practitioner Reference). The 5 Suggested remain: Biblical Foundation Reference 9 Layers, Pricing & Engagement Structure, Schema-Specific Intervention Guides, Lament Protocol, and New Covenant Promises Comprehensive Reference.*
+*Count note: The 73 Done total includes the original 63, plus Self-Supervision Template (built 2026-05-22), Parts & Burden Discovery — Session Worksheet (built 2026-05-22), What the Part Carries — An Independent Formation Practice (built 2026-05-22), the Sanctification Module — The Believer's Part (6 documents built 2026-05-25: Teacher's Manual, Coach Diagnostic, Session Facilitation Guide, Client Study, Practice Reference Card, ITC Practitioner Reference), and Why the Heart Does Not Heal — Practitioner Diagnostic (built 2026-06-02). The 5 Suggested remain: Biblical Foundation Reference 9 Layers, Pricing & Engagement Structure, Schema-Specific Intervention Guides, Lament Protocol, and New Covenant Promises Comprehensive Reference.*
 
 ---
 
