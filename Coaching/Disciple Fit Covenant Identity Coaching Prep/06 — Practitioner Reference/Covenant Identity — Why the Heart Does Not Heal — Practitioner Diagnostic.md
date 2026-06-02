@@ -10,6 +10,8 @@ tags:
 
 # Why the Heart Does Not Heal — Practitioner Diagnostic
 
+*For full exegesis, Hebrew/Greek terms, intertextual connections, and coaching translation basis: [[Covenant Identity — Why the Heart Does Not Heal — Biblical Research]]*
+
 ## Governing Frame
 
 God sanctifies. Man participates. Transformation is not self-generated — only God can do the deep surgery of the heart (Ezek 36:26). But man's participation is real and consequential. God does not heal a heart that refuses the healing.
