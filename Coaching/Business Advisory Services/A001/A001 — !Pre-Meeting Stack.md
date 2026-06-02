@@ -1,6 +1,6 @@
 ---
 created: 2026-05-28
-basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Meeting Discussion Points]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Engagement Intake]] · [[A001 — Presentation Deck 3]] · [[Relational Performance Advisory — Manager Regulatory State Library]]"
+basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Meeting Discussion Points]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Engagement Intake]] · [[Relational Performance Advisory — Manager Regulatory State Library]]"
 tags:
   - rpa
   - a001
@@ -66,10 +66,8 @@ tags:
 | Night before — know your practices   | [[A001 — Psychological Safety — Essential Practices List]]                | Four-level PS architecture: prerequisites, owner behaviors, manager daily behaviors, structural design — know what the intervention actually produces                                                          |
 | Night before / in meeting            | [[A001 — Psychological Safety Review — Discussion Reference]]             | Expert review of what RPA produces (PS) when fully adopted — deploy if conversation goes deep on mechanism, outcomes, or how this differs from training; Edmondson-voiced, evidence-grounded                   |
 | Night before — internalize           | [[A001 — Method Component Explainer]]                                     | Seven process components broken down as conversation-ready answers — for when he asks "what exactly does that mean?" Know the short answer and developed answer for each component cold                        |
-| Night before — review                | [[A001 — Presentation Deck 3.pptx]]                                       | Know all 6 slides + deploy triggers; practice jumping to each slide in under 5 seconds                                                                                                                         |
 | In the meeting                       | [[A001 — Initial Meeting Field Form]]                                     | Checkoffs, hospitality-specific questions, brief inline notes                                                                                                                                                  |
 | In the meeting (anchor)              | [[A001 — Method Component Explainer.pptx]]                                | 11-slide visual aid — open on device; jump to specific component slides when verbal explanation needs a visual anchor; never walk through sequentially                                                         |
-| In the meeting (backup)              | [[A001 — Presentation Deck 3.pptx]]                                       | Open on device — deploy only when verbal needs an anchor; conversation first                                                                                                                                   |
 | Immediately after                    | [[A001 — Engagement Intake]]                                              | Full debrief from memory while it's fresh                                                                                                                                                                      |
 
 ---
@@ -90,7 +88,6 @@ tags:
 - [ ] Know what you will NOT try to accomplish today
 - [ ] Next-step offer ready — specific ask, specific day
 - [ ] Field form printed or open on device
-- [ ] Deck 3 open on device — know the 6 slide numbers and which owner statement triggers each
 - [ ] Engagement Intake open and ready for after the meeting
 
 ---
