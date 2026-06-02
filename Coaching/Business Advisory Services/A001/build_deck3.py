@@ -6,6 +6,10 @@ Output: A001 — Presentation Deck 3.pptx  (same folder)
 Run: python build_deck3.py
 """
 
+import os
+import zipfile
+from lxml import etree
+
 from pptx import Presentation
 from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
@@ -191,10 +195,11 @@ tb(s1, MAR, Inches(6.65), USE_W, Inches(0.6),
 
 notes(s1,
     '"You\'ve already named this — you identified at [coffee shop] that the behavior is coming from the '
-    'environment, not the character of your people. This is why training doesn\'t stick. It changes what '
-    'people know. It doesn\'t change the conditions that activated the pattern in the first place. '
-    'When the manager walks back into the same environment, the same conditions produce the same behavior. '
-    'What\'s different here is that we work at the level where the pattern is actually produced."\n\n'
+    'environment, not the character of your people. That\'s exactly right, and it\'s also why what '
+    'you\'ve tried hasn\'t held. Standard training changes what people know. It doesn\'t touch the '
+    'conditions that produced the behavior in the first place. When your manager walks back into the '
+    'same environment, the same conditions produce the same result. What\'s different here is the '
+    'level of the intervention. We work where the pattern is actually made."\n\n'
     'Deploy when: Owner mentions prior training that failed, OR asks "why does this keep happening?"\n'
     'Duration: 60–75 seconds\n'
     'Put away when: Owner acknowledges the distinction — any verbal signal that it landed')
@@ -260,13 +265,13 @@ tb(s2, MAR, Inches(6.65), USE_W, Inches(0.6),
    size=18, italic=True, align=PP_ALIGN.CENTER)
 
 notes(s2,
-    '"This is the chain. Structural conditions in the operation — how authority works, how mistakes '
-    'get handled, how much certainty people have about what\'s expected — shape how managers experience '
-    'their environment day to day. That shapes how managers show up with their teams. That shapes how '
-    'employees experience their environment. And what you see is in the fourth box: the conflict, the '
-    'avoidance, the turnover. The fifth box is what it costs you. You\'re watching the last two boxes. '
-    'The work is in the first three."\n\n'
-    'Deploy when: Owner asks HOW environment produces behavior; OR after a specific incident\n'
+    '"This is why the same situations keep producing the same results. Structural conditions in the '
+    'operation — how authority flows, how mistakes get handled, how much clarity people have — shape '
+    'how your managers experience the environment every day. That shapes how your managers show up '
+    'with their teams. That shapes what your employees experience. And what you\'re watching is in '
+    'the fourth box. What it\'s costing you is the fifth. You\'ve been focused on boxes four and '
+    'five. The work is in the first three."\n\n'
+    'Deploy when: Owner asks HOW environment produces behavior; OR after describing a specific incident\n'
     'Duration: 75–90 seconds\n'
     'Put away when: Owner can place what he described in the chain')
 
@@ -300,11 +305,12 @@ tb(s3, MAR, Inches(4.85), USE_W, Inches(0.6),
    size=22, align=PP_ALIGN.CENTER)
 
 notes(s3,
-    '"At your scale, you\'re replacing roughly 300 people a year. At $3,000 to $5,000 per replacement '
-    '— and those are conservative numbers for hospitality — that\'s $1.2 million annually, just in '
-    'replacement cost. That doesn\'t count what it costs while the position is vacant, what it costs '
-    'to ramp a new hire, or what it costs to your guest experience when your team is in constant '
-    'turnover. The Phase 1 investment is $28,000. That pays for itself before you\'d notice the savings."\n\n'
+    '"At your scale, roughly 300 replacements a year. At $3,000 to $5,000 per replacement — that\'s '
+    'the conservative range for hospitality — you\'re at $1.2 million annually, before you factor in '
+    'the productivity gap while a position is vacant, the ramp time on a new hire, or what constant '
+    'turnover does to the guest experience. The Phase 1 investment is $28,000. If turnover drops even '
+    'two or three percent, it\'s paid for before you\'d feel it. The question isn\'t whether you can '
+    'afford to do this. You\'ve already been paying for not doing it."\n\n'
     'Deploy when: Owner raises cost or asks about pricing; OR making the investment case before Phase 1\n'
     'Duration: 60 seconds\n'
     'Put away when: Owner has reacted to the numbers')
@@ -352,15 +358,16 @@ tb(s4, MAR, Inches(6.65), USE_W, Inches(0.6),
    size=18, italic=True, align=PP_ALIGN.CENTER)
 
 notes(s4,
-    '"Three things come out of Phase 1. First, a behavioral profile for each leader — what their '
-    'patterns are, what activates them, and what their specific development path looks like. Second, '
-    'a team map — how the management team functions collectively, and what in the structure is '
-    'contributing to the patterns. Third, structural recommendations — specific things in how '
-    'you\'re running the environment that are driving what you\'re seeing. Each one connects to a '
-    'specific decision. At the end of Phase 1 you decide whether you want to move to implementation."\n\n'
+    '"Three deliverables at the end of Phase 1. A behavioral profile for each leader — what their '
+    'patterns are, what activates them, what development would actually move them. A team map — how '
+    'this management group functions collectively, and what structural conditions are contributing to '
+    'what you\'re seeing. And specific structural recommendations — not general improvements, but '
+    'changes connected to what the assessment actually found. Phase 1 gives you the picture. At the '
+    'end of it, you decide whether you want to move to implementation. That\'s a deliberate structure '
+    '— you\'re not committing to a full engagement on trust. You\'re committing to clarity first."\n\n'
     'Deploy when: Owner asks "what do I actually get?" or "what are the deliverables?"\n'
     'Duration: 75 seconds\n'
-    'Put away when: Owner has processed all three boxes')
+    'Put away when: Owner has processed all three boxes — "clarity first" signals the frame landed')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -423,15 +430,15 @@ tb(s5, MAR, Inches(6.65), USE_W, Inches(0.6),
    size=18, italic=True, align=PP_ALIGN.CENTER)
 
 notes(s5,
-    '"Phase 1 is 13 weeks — assessment, interpretation, debrief. The first things you\'ll notice if '
-    'we proceed to implementation are behavioral — your managers showing up differently in difficult '
-    'situations. That typically happens within 60 to 90 days of well-implemented development work. '
-    'The turnover shift follows, at 6 to 12 months. A culture that holds without you having to '
-    'maintain it manually — that\'s 18 months or more. I\'m not going to tell you this is fast. '
-    'What I will tell you is that you\'ve already seen what not doing it costs."\n\n'
+    '"Phase 1 is 13 weeks — assessment, interpretation, structural recommendations delivered. If you '
+    'proceed to implementation, the first behavioral signals typically show up within 60 to 90 days '
+    '— your managers functioning differently under pressure. Turnover shift follows at 6 to 12 months. '
+    'A culture that sustains itself without you manually maintaining it — 18 months or more. I\'m not '
+    'going to tell you this is fast. What I will say is that you\'ve already seen what fast gets you. '
+    'Every training program that lasted 30 days was fast. This is different in kind, not just in content."\n\n'
     'Deploy when: Owner asks "how long before I see a difference?" or expresses timeline pressure\n'
     'Duration: 75 seconds\n'
-    'Put away when: Owner acknowledges the timeline')
+    'Put away when: Owner acknowledges the timeline — "so Phase 1 is essentially this year..." signals it landed')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -476,15 +483,17 @@ tb(s6, MAR, Inches(6.65), USE_W, Inches(0.6),
    size=18, italic=True, align=PP_ALIGN.CENTER)
 
 notes(s6,
-    '"Before you meet with your managers about this — here\'s the frame that will set things up well '
-    'for you. The thing your OMs will want to know first is what this means for them — whether they\'re '
-    'being evaluated, whether you\'ll have access to what they share, whether this is being done to them '
-    'or with them. The confidentiality structure means their individual data stays with them — what you '
-    'receive is the aggregate picture. That protection is what makes honest assessment possible. '
-    'Your managers are not the problem here. They\'re the lever."\n\n'
+    '"When you bring this to your OMs, the first thing they\'ll want to know is what it means for '
+    'them — whether they\'re being assessed, whether you\'ll have access to what they share. Here\'s '
+    'the answer: their individual data stays with them. What you receive is the aggregate picture — '
+    'how the team functions collectively and what the structure is contributing. That confidentiality '
+    'isn\'t a courtesy — it\'s what makes honest assessment possible. An OM who\'s guarding what he '
+    'says won\'t give you usable data. The protection is structural, not just a promise. Your managers '
+    'are the lever here. They\'re not the problem — and how you introduce this will either confirm '
+    'that or undo it."\n\n'
     'Deploy when: Close of meeting — owner surfaces OM question; OR Pivot 2 is raised\n'
     'Duration: 75–90 seconds\n'
-    'Put away when: Owner has language for how to introduce Andrew to OMs')
+    'Put away when: Owner has language for how to introduce Andrew to OMs — "so I\'d say something like..." signals the frame landed')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -492,3 +501,42 @@ notes(s6,
 # ══════════════════════════════════════════════════════════════════════════════
 prs.save(OUTPUT)
 print(f"Saved: {OUTPUT}")
+
+
+def expand_notes_panel(filepath, slide_pct=62):
+    """Patch presProps.xml so the notes panel opens expanded in Normal view.
+    slide_pct: percentage of the view height given to the slide area (rest = notes).
+    """
+    P_NS = "http://schemas.openxmlformats.org/presentationml/2006/main"
+    sz = str(slide_pct * 1000)   # OOXML unit: thousandths of a percent
+    tmp = filepath + ".tmp"
+
+    with zipfile.ZipFile(filepath, "r") as zin, \
+         zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zout:
+        for item in zin.infolist():
+            data = zin.read(item.filename)
+            if item.filename == "ppt/presProps.xml":
+                root = etree.fromstring(data)
+                nv = root.find(f"{{{P_NS}}}normalViewPr")
+                if nv is None:
+                    nv = etree.SubElement(root, f"{{{P_NS}}}normalViewPr")
+                # restoredLeft must come before restoredTop per schema
+                rl = nv.find(f"{{{P_NS}}}restoredLeft")
+                if rl is None:
+                    rl = etree.SubElement(nv, f"{{{P_NS}}}restoredLeft")
+                rl.set("sz", "15620")
+                rl.set("autoAdjust", "0")
+                rt = nv.find(f"{{{P_NS}}}restoredTop")
+                if rt is None:
+                    rt = etree.SubElement(nv, f"{{{P_NS}}}restoredTop")
+                rt.set("sz", sz)
+                rt.set("autoAdjust", "0")
+                data = etree.tostring(root, xml_declaration=True,
+                                      encoding="UTF-8", standalone=True)
+            zout.writestr(item, data)
+
+    os.replace(tmp, filepath)
+    print("Notes panel expanded.")
+
+
+expand_notes_panel(OUTPUT)
