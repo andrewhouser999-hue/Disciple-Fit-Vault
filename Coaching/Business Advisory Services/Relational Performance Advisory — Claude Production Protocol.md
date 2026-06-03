@@ -41,6 +41,16 @@ That resolves most ambiguity. Do not open with a list of clarifying questions.
 
 ## Part 2 — Design Standards by Document Type
 
+**Universal requirement — Purpose statement**
+Every document opens with a brief purpose block stating:
+1. What this document is
+2. When it is used (the specific moment or phase in the engagement)
+3. Who uses it (Andrew only / Andrew + leader / sponsor-facing / etc.)
+
+This is derived from the inquiry or request that prompted the document — not invented after the fact. It is not a title or a section header. It is a functional statement that makes the document's role in the engagement immediately legible without reading the full document. One to three lines is the target. Every document type below must satisfy this requirement in addition to its type-specific standards.
+
+---
+
 **Practitioner Reference** *(Andrew reads before or between sessions — not during)*
 - Evidence-grounded; every significant design choice traces to the evidence base
 - Theory deployed at the depth required for good in-session decisions — not academic treatment

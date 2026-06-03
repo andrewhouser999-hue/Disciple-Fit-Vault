@@ -255,12 +255,26 @@ Reach for:
 
 ---
 
+## Cross-Cutting — When Movement Has Stalled
+
+*When the client is not progressing and the stage-specific tools are not producing movement:*
+
+- [[Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic]] — eight barriers to heart healing with session signals, practitioner questions, and the participation move per barrier; diagnostic routing table maps presenting patterns to the most likely barrier; use at session prep before reaching for a new technique
+
+> **How to use it:** Identify the presenting pattern (insight without change, "I've tried everything," ambivalence, progress then regression, etc.) → routing table → named barrier → read the participation move for that barrier. The question is not "what technique should I try?" but "where is the person blocked in participating with what God is doing?"
+
+**Notes:**
+*(e.g., which barriers are recurring across clients; what the routing table is surfacing)*
+
+---
+
 ## Cross-Cutting — Going Deeper on Theory
 
 *When you need the theoretical grounding behind a technique or observation:*
 
 | Question | Document |
 |---|---|
+| Why doesn't the heart heal — exegetical and theological basis? | [[Covenant Identity — Why the Heart Does Not Heal — Biblical Research]] |
 | Why does this implicit-level work require a different skill set? | [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] |
 | What is the anthropological basis for the whole-person frame? | [[Covenant Identity — Whole-Person Identity Framework]] |
 | Why are these psychological contributors integrated — and where are the limits? | [[Covenant Identity — Integration Rationale]] |
@@ -272,4 +286,4 @@ Reach for:
 
 ---
 
-*Last updated: 2026-05-22. Add to this document as the engagement process reveals gaps, shortcuts, or recalibrations worth preserving.*
+*Last updated: 2026-06-02. Add to this document as the engagement process reveals gaps, shortcuts, or recalibrations worth preserving.*

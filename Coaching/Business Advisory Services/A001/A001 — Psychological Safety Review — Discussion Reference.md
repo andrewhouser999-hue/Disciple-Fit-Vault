@@ -8,7 +8,7 @@ tags:
   - discussion-reference
   - pre-meeting
 ---
-
+ review that explains what RPA offers that will work to create psychological safety in AOI considering management at all levels fully adopts the recommendations, are coachable and engaged in the process.
 # A001 — Psychological Safety Review — Discussion Reference
 
 **Style:** Written in the manner of Amy C. Edmondson — Harvard Business School, *The Fearless Organization* (2018), originator of the psychological safety construct in organizational research.
