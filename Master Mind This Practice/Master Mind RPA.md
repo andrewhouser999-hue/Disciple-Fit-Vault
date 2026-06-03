@@ -1,3 +1,8 @@
+
+Quiet Notes:
+
+
+ 
  **Correct Framework**
  Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
 
