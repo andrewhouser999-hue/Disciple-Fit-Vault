@@ -1,9 +1,5 @@
 [
-  "githobs",
-  "obsidian-local-rest-api",
-  "templater-obsidian",
-  "obsidian-dictionary-plugin",
   "dataview",
-  "obsidian-git",
-  "obsidian-pandoc"
+  "obsidian-dictionary-plugin",
+  "obsidian-git"
 ]
