@@ -249,7 +249,7 @@ You care about the people who leave — specifically the best ones. Most operato
 **What to listen for:**
 - "Better offers, better pay" → compensation attribution; probe: "Is it always pay, or is pay the stated reason?" Most honest owners know the stated reason is not always the actual reason
 - "They just weren't committed" → character attribution; the coffee-shop frame has not yet extended to departures
-- "The ones who leave are usually the ones I'd want to keep" → he's noticing selectivity in departure; this is a significant diagnostic opening
+- "The ones who leave are usually the ones I'd want to keep" → he's noting selectivity in departure; this is a significant diagnostic opening
 - "They get frustrated with management" → relational attribution already present; he's close to the root-cause frame
 - No clear pattern → exit interview data either doesn't exist or doesn't surface honest answers (which is itself a psychological safety indicator)
 

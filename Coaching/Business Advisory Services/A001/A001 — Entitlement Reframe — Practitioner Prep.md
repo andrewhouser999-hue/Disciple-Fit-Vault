@@ -59,6 +59,41 @@ When accountability is applied unevenly across managers and shifts, employees do
 
 ---
 
+## How the Behavior Presents Differently by Cultural Group
+
+The four structural drivers above apply universally. But the *expression* of unmet needs differs by cultural background — and the same behavior gets the same "entitlement" label for completely different reasons. Nebraska's limited-service workforce is primarily Hispanic/Latino and East African. Both groups are misread through the same lens.
+
+**Hispanic / Latino (Mexican-origin, dominant group in Nebraska housekeeping)**
+
+- *Familismo* — family obligations are non-negotiable cultural commitments, not preferences. Requests for schedule accommodations around family events are not "expecting special treatment." Refusing them signals institutional hostility, which accelerates withdrawal of discretionary effort.
+- *Confianza* — trust is relational, not positional. A supervisor who hasn't built personal trust through relationship gets minimum compliance regardless of rank. This looks like disengagement or pushback. It is rational loyalty rationing.
+- *Respeto* — respect flows from demonstrated character in relationship, not from title alone. Managers who lead with authority before earning respect get passive resistance, not open conflict.
+- **Immigration status** — a significant portion of Hispanic housekeeping workers have uncertain legal status. Rational strategy: do not draw attention, do not seek advancement that requires documentation, do not challenge supervisors. This presents as chronic minimum effort. It is self-protective invisibility, not character.
+- **Provider framing** — purpose is derived from providing for family, not from the institution's mission. "Caring about the property" the way ownership does is not a shared cultural value. The motivation structure is different, not absent.
+
+*Andrew's read:* What looks like passive entitlement — compliance without stewardship — is almost always withdrawal of discretionary effort in the absence of relational trust. The fix is relational, not disciplinary.
+
+**East African (Somali, Sudanese, Eritrean — Omaha market)**
+
+- **Refugee trauma history** — hypervigilance, distrust of authority, and risk-aversion are survival adaptations from pre-immigration experience, not attitude problems. Behavior that looks like stubbornness or suspicion often reflects a threat-response, not a performance choice.
+- **Community solidarity** — word travels fast within the community. Workers who cluster with community members or resist cross-training are often managing community-level trust dynamics. A workplace seen as disrespectful loses access to the whole network simultaneously.
+- **Religious practice** — Somali Muslim workers have prayer schedules, Ramadan observance, and halal requirements. These are non-negotiable practice, not preference requests. Labeling accommodation requests as "expecting special treatment" guarantees alienation and community-level reputation damage.
+- **Language gap** — what presents as pushback is sometimes misunderstanding. The behavior gets labeled attitude before the communication failure is diagnosed.
+
+*Andrew's read:* Clustering, hypervigilance to authority, and religious boundary-setting are not entitlement in any accurate sense. They require accommodation design, not performance management.
+
+**White Non-Hispanic (more common at rural Nebraska properties)**
+
+- **Individual rights orientation** — employment is a contractual exchange of specific duties. "That's not my job" is the cultural default for a legitimate boundary, not laziness. This group states limits directly and verbally, which lands harder than passive withdrawal.
+- **Direct advocacy** — more likely to ask openly for advancement, raises, or changed conditions. Ownership hears this as presumption. It is direct communication style, not overreach.
+- **Generational calibration mismatch** — this is where Twenge's research applies most directly. Expectation of feedback, purpose, and a growth path was never communicated; it was assumed to be obvious. The friction is an expectation gap, not a character gap.
+
+*Andrew's read:* Unmet autonomy and competence needs (SDT) expressed vocally. Same structural problem as the other groups; different cultural expression.
+
+**The operational implication:** The owner is applying one label to three different problems requiring three different responses. Identifying which group, which behavior, and which unmet need is the diagnostic work — not character assessment.
+
+---
+
 ## The Core Reframe to Introduce
 
 > *The behavior you're seeing is real. The question isn't whether it's happening — it's what's producing it. If the cause is character, you can't fix it; you can only replace people indefinitely. If the cause is structural, you can fix it once and it holds.*
