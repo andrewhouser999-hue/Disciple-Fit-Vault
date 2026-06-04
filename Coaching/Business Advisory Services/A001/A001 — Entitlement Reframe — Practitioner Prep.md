@@ -136,6 +136,60 @@ Some supervisors — not necessarily at ownership direction — use implicit imm
 
 ---
 
+## East African Workforce — Specific Turnover Triggers
+
+East African turnover triggers are more operationally discrete than the Hispanic list — most are scheduling and supervisory behavior problems, not cultural mysteries. They are fixable at low operational cost once the owner knows to look for them.
+
+**1. Prayer accommodation failure — break schedule design**
+
+The document mentions religious practice generally. The specific operational failure is break schedule design that doesn't account for prayer timing. Somali Muslim workers pray five times daily; Dhur (midday) and Asr (afternoon) prayers fall during most housekeeping shifts. When break timing is fixed and inflexible, the worker faces an unresolvable conflict between an obligatory religious practice and keeping the job. Management treats it as a preference negotiation. The worker experiences it as an ultimatum. Exit follows when the conflict becomes chronic.
+
+*Management implication:* This is a scheduling design problem, not a performance problem. Flexible break windows cost almost nothing operationally and eliminate a predictable turnover trigger.
+
+**2. Ramadan — seasonal turnover spike**
+
+During Ramadan, Somali workers are fasting from pre-dawn to sunset. Housekeeping is physically demanding labor. Management that holds the same productivity expectations and assigns the same physically intensive rooms during Ramadan creates acute conflict that produces call-outs, disciplinary action, and exit. This is seasonal and predictable. Properties that plan for it retain workers. Properties that don't create a reliable annual turnover spike they attribute to other causes.
+
+*Management implication:* Ramadan is on the calendar. Adjusted expectations and workload distribution for roughly 30 days is a retention intervention with near-zero cost.
+
+**3. Trauma activation by specific management behaviors**
+
+The document names hypervigilance generally. The specific management behaviors that activate a trauma response in refugee workers are: raised voices directed at them, unexpected direct confrontation, being called into an office without explanation, and authority figures whose moods drive enforcement unpredictably. These are routine in American hospitality management. For a worker with a refugee history they are not frustrating — they are dysregulating. The response is fight, flight, or freeze. Exit without notice is a common outcome.
+
+*Management implication:* Supervisors don't need trauma training. They need three specific behavior modifications: lower your voice, explain why you're asking someone to come speak with you, and be consistent. Each one reduces a specific trigger.
+
+**4. Gender norms around supervision and mixed-gender work**
+
+Somali Muslim cultural norms around gender interaction are significant in a supervisory context. Female workers being closely supervised or corrected by male supervisors, being assigned to work in close quarters with male workers, or being expected to interact physically in any customer-facing context creates friction that management doesn't see coming. When it's not accommodated and the worker can't resolve it, exit follows.
+
+*Management implication:* Same-gender supervisory pairing where possible; awareness of physical space dynamics in work assignment. Not operationally complex — rarely considered.
+
+**5. Clan and sub-group conflict within the workforce**
+
+Somali communities have strong clan-based social structures. When workers from different clans or sub-groups are placed on the same team, pre-existing tensions can import into the workplace and manifest as team conflict. Management reads it as personality incompatibility or attitude. When conflict escalates, workers from the less-dominant faction exit — often abruptly, sometimes in groups.
+
+*Management implication:* Ask the resettlement organization or a bilingual community contact about group composition before assuming team conflict is individual. It may require structural separation, not performance management.
+
+**6. "Refugee as less-than" dignity dynamic**
+
+Research on refugee workers consistently shows they are highly attuned to treatment that signals they are valued less because of their status or origin — distinct from general dignity concerns. Interactions where the worker perceives they are treated as disposable, temporary, or inferior because of refugee background trigger exit faster than general disrespect. This shows up in tone, task assignment patterns (worst rooms, hardest carts, no upward mobility), and whether management invests any relational attention in them at all.
+
+*Management implication:* The owner investing personal attention in East African workers — learning names, asking about families, acknowledging religious observances — is not soft management. It is a specific retention lever.
+
+**7. Resettlement support gap at 6–12 months**
+
+Many East African workers arrive through resettlement organizations (IRC, Lutheran Family Services, Catholic Charities) and their initial employment is facilitated by case workers who bridge workplace communication and navigation. When resettlement support ends — typically at 6–12 months — workers lose that bridge. If the workplace hasn't built internal support structures by then, integration stalls and vulnerability to exit spikes. Management often sees this as the worker "washing out" at the one-year mark without understanding the structural cause.
+
+*Management implication:* The 6–12 month mark is a predictable high-risk window. A bilingual supervisor or peer mentor who fills the support role the case worker occupied is the intervention.
+
+**8. Customer-facing exposure and religious dress pressure**
+
+East African workers who wear hijab report heightened stress in customer-facing environments where they experience customer hostility or management pressure — explicit or subtle — to modify religious dress for brand standards reasons. Back-of-house roles like housekeeping are generally preferred and actively sought for this reason. Cross-training into front desk or guest services roles triggers resistance when it feels like exposure to a hostile environment. Management reads the resistance as lack of ambition or flexibility.
+
+*Management implication:* For limited-service properties this is largely moot since housekeeping is back-of-house. It becomes relevant if the owner tries to develop East African workers into front desk roles without addressing the exposure issue first.
+
+---
+
 ## The Core Reframe to Introduce
 
 > *The behavior you're seeing is real. The question isn't whether it's happening — it's what's producing it. If the cause is character, you can't fix it; you can only replace people indefinitely. If the cause is structural, you can fix it once and it holds.*
