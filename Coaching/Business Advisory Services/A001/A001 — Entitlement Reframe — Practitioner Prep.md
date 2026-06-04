@@ -94,6 +94,48 @@ The four structural drivers above apply universally. But the *expression* of unm
 
 ---
 
+## Hispanic Workforce — Specific Turnover Triggers
+
+The cultural drivers above explain why Hispanic workers disengage. These six explain what specifically triggers exit — and most are supervisor behavior or structural design decisions the owner can directly control.
+
+**1. Network-clustered departure**
+
+Hispanic workers recruit through personal networks — family, friends, same community. Turnover is not individual; it is clustered. When one worker leaves due to poor treatment, the network follows. Management reads this as coincidence or seasonality. It is reputation damage inside a closed information community. One bad supervisor interaction can cost a property 3–5 workers over 30 days.
+
+*Management implication:* The unit of retention is not the individual — it is the network. Property reputation inside the local Hispanic community is a structural asset or liability, and it moves faster than management typically realizes.
+
+**2. Public correction as a dignity violation**
+
+In Mexican cultural norms, being corrected or disciplined in front of peers is a severe dignity violation — not just uncomfortable, but a relationship-ending event. Supervisors who correct publicly trigger immediate trust collapse and often resignation without notice. This is a specific, learnable management behavior with a direct retention outcome.
+
+*Management implication:* Supervisors need explicit instruction to correct privately. This is not courtesy training — it is a cross-cultural competency with a measurable retention effect. Ask the owner whether supervisors have ever been taught this.
+
+**3. Language exclusion from the advancement pipeline**
+
+Limited English proficient (LEP) workers are systematically invisible in performance reviews, advancement conversations, recognition systems, and training. The advancement pathway closes by structural default — not by policy. When Hispanic workers see no pathway to supervisor or management, they disengage or exit. Hispanic representation drops sharply at every level above housekeeping at most limited-service properties.
+
+*Management implication:* The ceiling is structural, not individual. It requires deliberate intervention: bilingual supervisory pathway, translated criteria, Spanish-language feedback channels.
+
+**4. Bilingual supervisor gap**
+
+A supervisor who cannot speak Spanish cannot build confianza, cannot deliver competence feedback that lands, and cannot meet the relatedness need across a language barrier. The structural prerequisite for meeting Hispanic workers' core psychological needs is a supervisor who can actually communicate with them. Most limited-service properties don't staff for this.
+
+*Management implication:* Bilingual supervisory capacity is a retention infrastructure decision, not an HR nicety. For A001, ask how many supervisors speak Spanish and how many of their direct reports do not speak English.
+
+**5. Pay inequity traveling through the network**
+
+Hispanic workers share wage information within their community network. When pay inequity is discovered — same role, less pay than a non-Hispanic counterpart — it travels fast and functions as a collective turnover trigger. The property doesn't see it coming because management assumes pay conversations are private.
+
+*Management implication:* Pay compression and inequity are not private facts in a networked workforce. Audit before the conversation surfaces on its own.
+
+**6. Immigration status as an informal management lever**
+
+Some supervisors — not necessarily at ownership direction — use implicit immigration status anxiety as a compliance mechanism. Implying that a complaint or refusal could "cause problems" is not uncommon at the front-line level. This accelerates departure among the most capable workers (who have options), creates legal and compliance exposure for the property, and permanently damages community reputation.
+
+*Management implication:* This behavior exists at the supervisor level and ownership often doesn't know. It is a specific risk to surface when discussing what supervisors actually do day-to-day. Frame it as a liability issue, not a moral one.
+
+---
+
 ## The Core Reframe to Introduce
 
 > *The behavior you're seeing is real. The question isn't whether it's happening — it's what's producing it. If the cause is character, you can't fix it; you can only replace people indefinitely. If the cause is structural, you can fix it once and it holds.*
