@@ -1,6 +1,6 @@
 ---
 created: 2026-05-28
-basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Meeting Discussion Points]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Engagement Intake]] · [[Relational Performance Advisory — Manager Regulatory State Library]]"
+basis: "[[A001 — Initial Correspondence]] · [[A001 — Credibility Talking Points]] · [[A001 — Conversation Readiness Guide]] · [[A001 — First Meeting Question Guide]] · [[A001 — Meeting Discussion Points]] · [[A001 — Initial Meeting Field Form]] · [[A001 — Initial Meeting — Conversation Guide]] · [[A001 — Internalization Cards]] · [[A001 — Engagement Intake]] · [[Relational Performance Advisory — Manager Regulatory State Library]]"
 tags:
   - rpa
   - a001
@@ -52,23 +52,32 @@ tags:
 
 ## When to Use What
 
-| When                                 | Document                                                                  | What It Does                                                                                                                                                                                                   |
-| ------------------------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scheduling the meeting               | [[A001 — Initial Correspondence]]                                         | Outreach templates, delivery protocol, OM-in-the-room protocol                                                                                                                                                 |
-| Night before — 1st read              | [[A001 — First Meeting Question Guide]]                                   | Study the diagnostic logic behind each question; what to listen for                                                                                                                                            |
-| Night before — 2nd read              | [[A001 — Conversation Readiness Guide]]                                   | Know the 7 pivots cold before you walk in                                                                                                                                                                      |
-| Night before — internalize           | [[A001 — Credibility Talking Points]]                                     | Who you are — feel it, don't recite it                                                                                                                                                                         |
-| Night before — internalize           | [[A001 — Meeting Discussion Points]]                                      | Seven research-backed depth points: finding → leadership translation → behavioral signature → bridge question; deploy when conversation goes deeper                                                            |
-| Night before — orient to owner state | [[Relational Performance Advisory — Manager Regulatory State Library]]    | Review the state categories; know what you're watching for in the owner during the meeting — what his likely activation looks like and what it will do to the conversation                                     |
-| Night before — run on owner profile  | [[Relational Performance Advisory — Manager State Identification Prompt]] | Paste the owner profile into the prompt; use the output to sharpen your read before walking in                                                                                                                 |
-| Night before — know your framework   | [[A001 — Advisory Framework]]                                             | Eight-section practitioner reference: core premise, mechanism (Perry/Siegel/Rock), evidence base, program architecture, change sequence, failure modes — know this cold before any framework question comes up |
-| Night before — know your program     | [[A001 — Management Development Program Architecture]]                    | Core curriculum architecture: three tracks (individual coaching, team facilitation, structural recommendations), 12-session arc, design principles — know what you're offering                                 |
-| Night before — know your practices   | [[A001 — Psychological Safety — Essential Practices List]]                | Four-level PS architecture: prerequisites, owner behaviors, manager daily behaviors, structural design — know what the intervention actually produces                                                          |
-| Night before / in meeting            | [[A001 — Psychological Safety Review — Discussion Reference]]             | Expert review of what RPA produces (PS) when fully adopted — deploy if conversation goes deep on mechanism, outcomes, or how this differs from training; Edmondson-voiced, evidence-grounded                   |
-| Night before — internalize           | [[A001 — Method Component Explainer]]                                     | Seven process components broken down as conversation-ready answers — for when he asks "what exactly does that mean?" Know the short answer and developed answer for each component cold                        |
-| In the meeting                       | [[A001 — Initial Meeting Field Form]]                                     | Checkoffs, hospitality-specific questions, brief inline notes                                                                                                                                                  |
-| In the meeting (anchor)              | [[A001 — Method Component Explainer.pptx]]                                | 11-slide visual aid — open on device; jump to specific component slides when verbal explanation needs a visual anchor; never walk through sequentially                                                         |
-| Immediately after                    | [[A001 — Engagement Intake]]                                              | Full debrief from memory while it's fresh                                                                                                                                                                      |
+### Initial Meeting — Kirt
+
+| When | Document | What It Does |
+| ---- | -------- | ------------ |
+| Scheduling the meeting | [[A001 — Initial Correspondence]] | Outreach templates, delivery protocol, OM-in-the-room protocol |
+| Night before — internalize | [[A001 — Internalization Cards]] | 8 load-bearing verbal moves — opening through close; practice generatively: cue → your words → compare |
+| Night before — internalize | [[A001 — Initial Meeting — Conversation Guide]] | Who Kirt is and what to say — the relational thread, verbatim language for opening, bridge, OM moment, personal layer, and close |
+| Night before — 1st read | [[A001 — First Meeting Question Guide]] | Study the diagnostic logic behind each question; what to listen for |
+| Night before — 2nd read | [[A001 — Conversation Readiness Guide]] | Know the 7 pivots cold before you walk in |
+| Night before — internalize | [[A001 — Credibility Talking Points]] | Who you are — feel it, don't recite it |
+| Night before — internalize | [[A001 — Meeting Discussion Points]] | Seven research-backed depth points: finding → leadership translation → behavioral signature → bridge question; deploy when conversation goes deeper |
+| Night before — internalize | [[A001 — Method Component Explainer]] | Seven process components as conversation-ready answers — for when he asks "what exactly does that mean?" Short answer and developed answer for each |
+| In the meeting | [[A001 — Initial Meeting Field Form]] | Checkoffs, hospitality-specific questions, brief inline notes |
+| In the meeting (anchor) | [[A001 — Method Component Explainer.pptx]] | 11-slide visual aid — open on device; jump to specific component slides when verbal explanation needs a visual anchor; never walk through sequentially |
+| Immediately after | [[A001 — Engagement Intake]] | Full debrief from memory while it's fresh |
+
+### Next Level Meeting — OMs
+
+| When | Document | What It Does |
+| ---- | -------- | ------------ |
+| Night before — orient to leader state | [[Relational Performance Advisory — Manager Regulatory State Library]] | Review the state categories; know what you're watching for in each OM — what activation looks like and what it will do to the conversation |
+| Night before — run on leader profile | [[Relational Performance Advisory — Manager State Identification Prompt]] | Paste each OM's profile into the prompt; use the output to sharpen your read before walking in |
+| Night before — know your framework | [[A001 — Advisory Framework]] | Eight-section practitioner reference: core premise, mechanism (Perry/Siegel/Rock), evidence base, program architecture, change sequence, failure modes |
+| Night before — know your program | [[A001 — Management Development Program Architecture]] | Core curriculum architecture: three tracks (individual coaching, team facilitation, structural recommendations), 12-session arc, design principles |
+| Night before — know your practices | [[A001 — Psychological Safety — Essential Practices List]] | Four-level PS architecture: prerequisites, owner behaviors, manager daily behaviors, structural design — know what the intervention actually produces |
+| Night before / in meeting | [[A001 — Psychological Safety Review — Discussion Reference]] | Expert review of what RPA produces (PS) when fully adopted — deploy if conversation goes deep on mechanism, outcomes, or how this differs from training |
 
 ---
 
