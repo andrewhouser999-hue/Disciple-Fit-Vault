@@ -131,6 +131,8 @@ tags:
 
   *Notes:*
 
+This synthesis correctly covers six distinct PS-gap signals — upward accountability routing, no early-warning system, supervisors promoted without relational preparation, culture as person-dependent rather than structural, no GM culture accountability mechanism, and character attribution over structural attribution. Each maps directly to a specific question in the stack.
+
 > [!warning] Hold the Solution Space
 > The *"or is there something I'm missing"* is not a throwaway — it signals that his picture of the situation is the authoritative one, not yours. Wait for his confirmation. Do not introduce what you do here.
 
