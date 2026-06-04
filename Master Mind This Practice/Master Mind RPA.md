@@ -8,7 +8,7 @@ Quiet Notes:
 
 Stories
 1. Gardener Challenge: Jacob & Gavriel, neighbors. One Master Gardener the other a student of gardening.  The master was busy employing the knowledge of garden mastery. The other was a listening Dad, dedicated to training himself in all he does, a quiet listener and observer. 
-2. A coach will sacrifice the friendship for your success. A friend will sacrifice your success for the friendship. I care for you too much to be your friend. That is the posture I wish I had taken with my friend.  I walked with him as a friend until I could walk no more. All I could do was be present and ask powerful and challenging questions.
+2. A coach will sacrifice the friendship for your success. A friend will sacrifice your success for the friendship. I care for you too much to be your friend. That is the posture I wish I had taken with my friend.  I walked with him as a friend until I could walk no more. All I could do was be present and ask powerful and challenging questions until he felt his needs for friendship wasn't met. And he was coachable.
 
 
 Edmondson & Detert — **Implicit Voice Theories** (2011)
