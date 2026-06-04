@@ -21,15 +21,15 @@ tags:
 2. "If I walked into three of your properties unannounced and asked employees what it's like to work here — would I hear the same answer at all three?"
 
 **Layer 2 — Management Behavior Gap**
-3. "Walk me through the last time a supervisor had to address a recurring performance problem. How did that play out?"
-4. "When someone gets promoted into a supervisory role — what does their first 90 days look like?"
-5. "What happens when a guest complaint hits — walk me through the management chain."
+3. "Walk me through the last time a supervisor had to address a **recurring performance** problem. How did that play out?"
+4. "When someone gets **promoted** into a supervisory role — what does their first 90 days look like?"
+5. "What happens when a **guest complaint hits** — walk me through the management chain."
 
 **Layer 3 — Structural Contributors**
-6. "What does a new employee experience in their first two weeks — beyond the job training itself?"
-7. "How do you know when a new hire is struggling — before they decide to leave?"
-8. "How do you hold your GMs accountable to a culture standard — not a performance standard, but how the place actually feels to work in?"
-9. "When your best people leave — what do you typically see as the trigger?"
+6. "What does a **new employee experience** in their first two weeks — beyond the job training itself?"
+7. "How do you know when a new hire is **struggling** — before they decide to leave?"
+8. "How do you hold your **GMs accountable to a culture standard** — not a performance standard, but how the place actually feels to work in?"
+9. "When your **best people leave** — what do you typically see as the trigger?"
 
 **Layer 4 — Pressure Test**
 10. "If you could change one thing about how your management team functions — specifically what they do in the room when something goes wrong — what would it be?"
