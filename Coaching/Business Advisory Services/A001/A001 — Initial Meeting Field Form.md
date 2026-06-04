@@ -36,6 +36,8 @@ tags:
 ## Pre-Meeting
 
 - [ ] Two or three specific moments from the coffee shop exchange — written down
+	- [ ] "Something you wrote back stayed with me — 'create a generation that can carry these values forward as future leaders.' That's not the language of someone trying to fix a turnover problem. I want to understand what that actually means to you."
+	- [ ] 
 - [ ] Decided what you will NOT accomplish today
 - [ ] Role boundary language is yours, not improvised
 - [ ] ★ Next-step offer ready: specific ask, specific day
