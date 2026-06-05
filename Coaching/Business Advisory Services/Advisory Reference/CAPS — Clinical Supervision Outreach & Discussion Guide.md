@@ -27,7 +27,7 @@ tags:
 
 ---
 
-Dr. [Name],
+Dr. Roni Reiter-Palmon,
 
 I am an organizational consultant developing a leadership advisory practice that operates at the intersection of behavioral assessment, executive coaching, and organizational systems consulting — specifically targeting management teams in hospitality and related industries.
 
