@@ -27,6 +27,18 @@ Certified professional coach (CPCC) with deep training in human behavior, identi
 
 ---
 
+## Behavioral Assessment & Organizational Consulting
+
+Built a practitioner methodology for assessing and developing management teams at the level where behavioral problems originate — the regulatory and relational patterns driving accountability failure, turnover, and dysfunction under pressure. Approach integrates structured behavioral assessment, individual coaching, and team facilitation into a sequenced arc designed to produce change that holds beyond the training room.
+
+- Designed a multi-modal behavioral assessment system — structured narrative interview, multi-rater 360 instrument, and facilitated observation session — that identifies the specific regulatory and relational pattern driving each leader's behavior; produces individual profiles specific to each leader's pattern rather than a generic report.
+- Built the diagnostic framework around the mechanism beneath the behavior: regulatory state, stress-response patterns, and attachment-informed relational patterns under pressure — the level standard assessment tools and management training do not reach.
+- Identified implicit behavioral pattern — not skill deficit — as the primary driver of management performance failure; built intervention architecture around that diagnosis rather than curriculum delivery or competency instruction.
+- Working knowledge of the neuroscience and organizational behavior research base driving implicit-level behavioral change: interpersonal neurobiology (Siegel), neurosequential development (Perry), SCARF / threat-state management (Rock), immunity to change (Kegan & Lahey), motivational interviewing (Miller & Rollnick), change readiness staging (Prochaska), psychological safety architecture (Edmondson) — applied as a coherent consulting framework.
+- Developed working knowledge of the organizational development practitioner landscape — what established programs deliver and where they stop short — through sustained research and active leadership engagement with the OD professional community, including ASTD Nebraska and the Organizational Development Network.
+
+---
+
 ## Leadership Communication & Influence
 
 Treat communication as a precision discipline, not a soft skill. Studied and applied personality typology, adaptive messaging, and influence psychology across sales, coaching, training, and organizational leadership contexts, treating personal development in this area as a long-term, deliberate practice rather than a baseline to reach and stop at.
