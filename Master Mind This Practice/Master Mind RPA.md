@@ -8,6 +8,8 @@ Quiet Notes:
 
 The developmental vs. corrective distinction matters deeply in organizational consulting just as it does in formation work. Building awareness of implicit processes is generative and proactive — formation posture. The goal is capacity expansion, not defect repair.
 
+The core architecture is sound. The evidence base is strong where it matters most (Edmondson, Kegan/Lahey, Perry). The theoretical frame — state precedes behavior, coaching creates conditions for state change, state change produces durable behavioral change — is well-supported at the mechanism level even where specific models (polyvagal, SCARF) need epistemic calibration.
+
 Stories
 1. Wheeping Wives: Pastor's wives wheeped bitterly 
 2. Gardener Challenge: Jacob & Gavriel, neighbors. One Master Gardener the other a student of gardening.  The master was busy employing the knowledge of garden mastery. The other was a listening Dad, dedicated to training himself in all he does, a quiet listener and observer.  
