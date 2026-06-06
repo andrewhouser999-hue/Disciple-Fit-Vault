@@ -6,6 +6,8 @@ Quiet Notes:
  **Correct Framework**
  Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
 
+The developmental vs. corrective distinction matters deeply in organizational consulting just as it does in formation work. Building awareness of implicit processes is generative and proactive — formation posture. The goal is capacity expansion, not defect repair.
+
 Stories
 1. Wheeping Wives: Pastor's wives wheeped bitterly 
 2. Gardener Challenge: Jacob & Gavriel, neighbors. One Master Gardener the other a student of gardening.  The master was busy employing the knowledge of garden mastery. The other was a listening Dad, dedicated to training himself in all he does, a quiet listener and observer.  
