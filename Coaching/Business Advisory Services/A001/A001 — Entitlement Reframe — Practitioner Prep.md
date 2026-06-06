@@ -190,6 +190,60 @@ East African workers who wear hijab report heightened stress in customer-facing 
 
 ---
 
+## White Non-Hispanic Workforce — Specific Turnover Triggers
+
+White non-Hispanic turnover is more individually driven and market-responsive than the other two groups. The triggers are operational discipline problems, not cultural competency problems.
+
+**1. "Bad boss" as the named primary driver**
+
+White non-Hispanic workers are the group most likely to name their direct supervisor explicitly as the reason for leaving — on exit interviews, in conversation, and on Glassdoor. The mechanism is different from Hispanic workers: it is not absence of confianza but perceived supervisor incompetence, inconsistency, or favoritism. They tolerate a bad supervisor for a finite period, conclude the situation won't change, and leave. Research on American voluntary turnover consistently puts supervisor quality as the #1 stated driver for this group.
+
+*Management implication:* When this group turns over, the exit interview data is actually usable — they'll say what happened. Most managers don't act on it.
+
+**2. Schedule control and work-life boundary**
+
+This group has stronger expectations around schedule predictability than either Hispanic or East African workers. Last-minute changes, on-call expectations, and mandatory overtime are primary exit triggers — particularly for workers managing second jobs, school, or family commitments they treat as non-negotiable. They are less likely to absorb schedule disruption quietly and more likely to exit than comply.
+
+*Management implication:* Schedule instability is a structural design problem. For this group it reads as disrespect for their time; they have market options and will use them.
+
+**3. Perceived inequity in accommodation policies**
+
+In a mixed-workforce hotel, white non-Hispanic workers sometimes develop a perception — accurate or not — that religious and cultural accommodations represent preferential treatment. Whether the perception is fair doesn't matter operationally: when they conclude the rules apply unequally, they exit. This is a specific dynamic in Nebraska's mixed-workforce limited-service properties that management rarely anticipates.
+
+*Management implication:* This requires proactive communication about why accommodation policies exist and how they apply across the workforce. Silence lets resentment fill the gap.
+
+**4. Growth ceiling realization — delayed but definitive**
+
+This group stays at a limited-service property until they conclude advancement is not real. Then they leave without warning. The generational calibration mismatch in the cultural groups section describes the expectation gap. This is the exit mechanism: they give it a window, form a conclusion, and act on it. Management is usually surprised because there was no visible deterioration — the decision was made internally well before the resignation.
+
+*Management implication:* The intervention window is early — before the conclusion is formed. Once they've decided, the conversation is over.
+
+**5. Dignity friction from job stigma**
+
+White non-Hispanic workers in housekeeping carry a social stigma the job does not carry for immigrant workers who view it as a step up. Being seen in uniform by someone they know, being treated condescendingly by guests, or management that doesn't defend them against guest mistreatment are exit triggers. This is a dignity issue with a different mechanism than the East African "refugee as less-than" dynamic — it is about social standing in their own community, not institutional treatment.
+
+*Management implication:* Management visibly defending workers against guest mistreatment is a retention behavior, not just good culture. This group notices and responds to it.
+
+**6. Active market comparison**
+
+White non-Hispanic workers are more likely to be actively scanning job boards and pursuing competing offers. They have broader social networks for accessing alternatives, fewer barriers to switching employers, and less hesitation to act. They exit when they find better pay at a comparable employer — and they are often looking before management realizes they're dissatisfied.
+
+*Management implication:* Pay-to-market audits matter more for this group because they have the information and the mobility to act on a gap.
+
+**7. No voice, then exit**
+
+Hirschman's exit-voice-loyalty framework applies most directly here. White non-Hispanic workers expect some degree of input into how their work is done. When management is purely top-down and input is not welcomed, they raise the issue once, get shut down, and leave. They do not adapt quietly the way other groups might. The sequence is predictable: raise it → get dismissed → exit.
+
+*Management implication:* A supervisor who shuts down input once loses this worker. The cost of one dismissive response is disproportionate to the offense.
+
+**8. Peer isolation in a majority-immigrant workforce**
+
+When the team is predominantly Spanish-speaking or East African, white non-Hispanic workers can find themselves socially isolated — language barriers prevent team relationships from forming, which removes the relatedness component (SDT). In a job with limited intrinsic rewards, the social dimension carries significant weight. When it's absent, there's very little holding the worker. This is the inverse of the East African clustering dynamic.
+
+*Management implication:* Team integration across language groups doesn't happen organically. It requires deliberate supervisory facilitation.
+
+---
+
 ## The Core Reframe to Introduce
 
 > *The behavior you're seeing is real. The question isn't whether it's happening — it's what's producing it. If the cause is character, you can't fix it; you can only replace people indefinitely. If the cause is structural, you can fix it once and it holds.*
