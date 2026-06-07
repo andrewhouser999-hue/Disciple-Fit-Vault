@@ -7,6 +7,7 @@ Clean my home, car, property.
 **I need**
 You to help me with this list. 
 
+Your will
 Your presence is better than life
 Your provision
 Revive and alive my hearts desires
