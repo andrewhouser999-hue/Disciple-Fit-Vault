@@ -30,3 +30,13 @@ I put my faith in this
 It is time to stand on my Fathers business
 He will turn my life around in one week.
 
+
+
+Boundaries, Trust 
+by Henry Cloud
+
+Clarify Beliefs that feed love, trust and connection
+
+
+
+
