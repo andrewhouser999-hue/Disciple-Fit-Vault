@@ -10,7 +10,7 @@ You to help me with this list.
 Your will
 Your presence is better than life
 Your provision
-Revive and alive my hearts desires
+Revive and align my hearts desires
 Memory, with accurate understanding, of the Word
 Move quickly for the sake of the harvest
 Do new things that are substantially large, mega for the sake of the kingdom.
