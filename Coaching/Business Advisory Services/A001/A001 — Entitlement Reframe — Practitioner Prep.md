@@ -244,6 +244,53 @@ When the team is predominantly Spanish-speaking or East African, white non-Hispa
 
 ---
 
+## White Non-Hispanic Workforce — Specific Retention Needs
+
+This group doesn't need cultural competency interventions. They need operational discipline and a supervisor who is actually good at the job.
+
+**1. A supervisor who is visibly competent and consistent**
+
+This group extends trust based on demonstrated competence, not relational warmth. A supervisor who is good at the job, gives clear direction, and follows through earns trust faster than one who builds personal connection without operational credibility. The relational bar is lower than for Hispanic workers; the consistency bar is higher. Favoritism and inconsistency are more damaging here than anywhere else in the workforce because this group tracks it explicitly and names it on exit.
+
+**2. Schedule predictability with input**
+
+Not just "no last-minute changes" — actual participation in building their schedule. Lambert's research on scheduling control shows predictability is a stronger retention lever than pay for hourly workers when they have scheduling agency. The mechanism is autonomy (SDT), not logistics. A worker who helped build their schedule tolerates more inconvenience than one who receives it.
+
+**3. An explicit growth pathway with criteria, not promises**
+
+The growth ceiling realization happens in silence — the worker draws conclusions in the absence of information. The intervention is management initiating the conversation early, before the conclusion forms, with specific criteria and honest timelines. Not "there are opportunities here." Specifically: here's what the supervisor role requires, here's the timeline, here's what development looks like. This group responds to specificity. Vagueness accelerates the realization.
+
+**4. One real instance of voice that changed something**
+
+They don't need listening sessions or suggestion boxes. They need evidence that input produces action. One real instance where a worker raised something and management changed a practice is more powerful than any number of "open door" statements. That one instance becomes the reason to stay long enough for another.
+
+**5. Proactive pay transparency**
+
+This group is actively comparing. The retention lever is not just paying market rate — it is communicating it before they find the gap elsewhere. "Here's what you make compared to similar properties in the area" said proactively is a retention move. Once they've already found a competing offer, a counter is a fight. The sequence matters.
+
+**6. Management visibly defending them**
+
+Against guest mistreatment specifically, and in the moment — not privately after the fact. When a manager steps between a worker and a difficult guest, it signals that the worker has institutional standing. This counters the job stigma trigger directly. It is a retention event, not just a good interaction.
+
+**7. Belonging to the team, not just the job**
+
+Research on unit cohesion in service settings (Schneider, Bowen) shows this group retains when they experience team identity — not just individual job satisfaction. In a mixed-workforce environment this requires deliberate supervisor facilitation: brief structured connection across language lines in team meetings, cross-training that builds individual relationships, recognition rituals that include everyone. It does not happen organically.
+
+**8. Behavioral, specific recognition from their direct supervisor**
+
+Generic recognition programs don't move this group. Specific, behavioral recognition from their immediate supervisor does — "you handled that cart rotation differently than everyone else and it showed" is more effective than an employee-of-the-month program. The mechanism is competence confirmation (SDT competence need), not appreciation. They need to know their performance is actually being seen.
+
+**9. Visible proof the ceiling breaks**
+
+When a white non-Hispanic worker sees someone like them advance from housekeeping to supervisor at that property, the growth ceiling realization is interrupted before it forms. Real examples visible within the team are more powerful than any stated policy. The growth pathway needs a face, not just a description.
+
+**Two counterintuitive findings:**
+
+- *They don't primarily need more money — they need to believe the pay is fair.* Pay equity perception is more powerful than absolute pay level once they're above a threshold. They'll stay at somewhat below-market pay if they're confident it's equitable across the workforce. The issue isn't the number — it's whether the number is honest.
+- *Connection doesn't require relationship.* Management knowing what a worker is working toward outside the job — school, second job, a family goal — and asking about it briefly and genuinely once a week is more effective than team events or formal programs.
+
+---
+
 ## The Core Reframe to Introduce
 
 > *The behavior you're seeing is real. The question isn't whether it's happening — it's what's producing it. If the cause is character, you can't fix it; you can only replace people indefinitely. If the cause is structural, you can fix it once and it holds.*
