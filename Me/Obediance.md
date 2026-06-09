@@ -9,8 +9,6 @@ You to help me with this list.
 
 Your will
 
-
-
 Your presence is better than life
 Your provision
 Revive and align my hearts desires
@@ -27,7 +25,10 @@ Bless my hand with your power; at relationships, blessing others, divine communi
 Your eyes be upon me
 Show favor
 Restore this house as a home. 
+Restore this house as a nice place to live. 
 Pay back
+
+
 
 **7 Days in His Word and prayer**
 I put my faith in this
