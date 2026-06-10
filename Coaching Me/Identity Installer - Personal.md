@@ -202,11 +202,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do." — Ephesians 2:10
 
 **My Evidence:**
->- I was on my way to work, thinking only of work, when my thoughts were interrupted and directed towards a prayer I prayed 3.5 years prior.  God reached into my world and saved me. My life took on new affections, environments, behaviors, personality and more. 
->- 
+>- Born Again-I was on my way to work, thinking only of work, when my thoughts were interrupted and directed towards a prayer I prayed 3.5 years prior.  God reached into my world and saved me. My life took on new affections, environments, behaviors, personality and more. 
+>
 >- I asked for two employment opportunities, just two, only two. He provided two in an unexpected sector, upper education, one was the obvious choice.
+>
+>- I am rejected by the blind sheepdogs of the institutionalized churches.
+>- God has supplied all of my needs in Christ Jesus. Personal growth and freedom, income, success, failure, wisdom from many life experiences, more...
+>- God, just in time, delivered my from near homelessness
+>- God, just in time, answered immediately when I held onto his leg.
+>- God, 
 >- Dan referenced my pivotal impact on his life, as a natural elder, in his new book titled "*The Long Engagement*."  Dan had been suffering from spiritual abuse.  I authentically welcomed him, the good and the bad, with "you are welcomed here, all of you"
->- 
+>
 > *(Write one sentence — a moment when a door opened, a burden landed on your heart, or someone's words confirmed something God was already stirring.)*
 > Example: "When the same calling kept surfacing through different people in different seasons — I stopped dismissing it as coincidence."
 
