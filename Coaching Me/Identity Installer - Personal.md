@@ -465,7 +465,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **My Evidence:**
 > For God's good pleasure
-> To show others a special light of goodness
+> To show others a special light of goodness.  
+> I choose God sized sights, goals, outcomes. 
 > 
 > (Write one sentence — a moment when your unique wiring — your gifts, experiences, or burdens — aligned with an opportunity in a way that felt designed.)*
 > Example: "When I realized my deepest wound had become the exact thing that gave me access to others in their worst moments — I stopped calling it a mistake."
