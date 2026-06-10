@@ -210,7 +210,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >- God has supplied all of my needs in Christ Jesus. Personal growth and freedom, income, success, failure, wisdom from many life experiences, more...
 >- God, just in time, delivered my from near homelessness
 >- God, just in time, answered immediately when I held onto his leg.
->- God, 
+>- **God, sanctifies me a lot.** 
 >- Dan referenced my pivotal impact on his life, as a natural elder, in his new book titled "*The Long Engagement*."  Dan had been suffering from spiritual abuse.  I authentically welcomed him, the good and the bad, with "you are welcomed here, all of you"
 >
 > *(Write one sentence — a moment when a door opened, a burden landed on your heart, or someone's words confirmed something God was already stirring.)*
@@ -464,7 +464,10 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope." — Jeremiah 29:11
 
 **My Evidence:**
-> *(Write one sentence — a moment when your unique wiring — your gifts, experiences, or burdens — aligned with an opportunity in a way that felt designed.)*
+> For God's good pleasure
+> To show others a special light of goodness
+> 
+> (Write one sentence — a moment when your unique wiring — your gifts, experiences, or burdens — aligned with an opportunity in a way that felt designed.)*
 > Example: "When I realized my deepest wound had become the exact thing that gave me access to others in their worst moments — I stopped calling it a mistake."
 
 **Human Witness:**
