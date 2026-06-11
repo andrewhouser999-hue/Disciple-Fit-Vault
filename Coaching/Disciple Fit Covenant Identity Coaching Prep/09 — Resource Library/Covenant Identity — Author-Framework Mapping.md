@@ -1,6 +1,6 @@
 ---
 created: 2026-05-21
-basis: "[[Covenant Identity — Author & Resource Reference]] — author list and tier assignments; [[Covenant Identity — Full Model Reference]] — framework components being mapped; [[Covenant Identity — Diagnostic Lens Transition Logic]] — diagnostic sequence framework"
+basis: "[[Covenant Identity — Author & Resource Reference]] — author list and tier assignments; [[Covenant Identity — Full Model Reference]] — framework components being mapped; [[Covenant Identity — Diagnostic Lens Transition Logic]] — diagnostic sequence framework; Ephesians 4:22-24 (ESV) — primary-source biblical structural framework (Structural Framework section); [[Identity Installer - Personal]] — existing Renounce/Renew/Receive citation, psychology section item 6"
 tags: [resource-library, reference, contributor-mapping]
 ---
 
@@ -48,6 +48,34 @@ tags: [resource-library, reference, contributor-mapping]
 
 **Supporting:**
 - Miroslav Volf — *Exclusion and Embrace* — for clients whose wound is relational exclusion, rejection, or betrayal; gives theological traction
+
+---
+
+## Structural Framework — Ephesians 4:22-24 (Renounce → Renew → Receive)
+
+> *"...to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires, and to be renewed in the spirit of your minds, and to put on the new self, created after the likeness of God in true righteousness and holiness."* — Ephesians 4:22-24 (ESV)
+
+This passage gives both documents their underlying three-movement shape: naming and laying down what's false (**Renounce**), encountering what is true (**Renew**), and embodying it — in the body and in action (**Receive**). The author-to-element mappings below address *which contributor grounds each individual element*; this section addresses *how the elements group* into that three-part movement.
+
+**Identity Installer already names this framework directly** (psychology section, item 6: *"Scripture itself gives a three-part identity formation structure: Renounce → Renew → Receive. This maps almost exactly onto what psychology confirms."*). Its elements group as:
+
+| Movement | Identity Installer Elements |
+|---|---|
+| **Renounce** | What I'm Putting Off |
+| **Renew** | Identity Statement, Anchor Verse, My Evidence, Human Witness |
+| **Receive** | What I'm Putting On, The Felt Sense, Holding Both — Where the Old Self Still Lives (entries 1-4 currently), Today I Will |
+
+**Lie Eliminator's elements group the same way:**
+
+| Movement | Lie Eliminator Elements |
+|---|---|
+| **Renounce** | This activates when, The Lie I've Believed, What Does That Lie Give You |
+| **Renew** | Who God Is, Who I Am, His Promise, Who Has Witnessed This Truth, Personal Declaration |
+| **Receive** | Holding Both — In the Body (entries 1-4 currently), Therefore I Will |
+
+Scripture Arsenal sits outside the three-movement sequence in both documents — it's a standing reference library, not a step in the live movement.
+
+**Status note:** this table documents the *grouping* the framework implies — not the current field order in either document. In Lie Eliminator, the Renew-cluster fields (Who God Is, Who I Am, His Promise, Witness) currently appear *before* the Renounce-cluster fields (This activates when → The Lie I've Believed → payoff), which the reconsolidation literature (Ecker et al. — see [[Source Library — Trusted Contributors & Frameworks]]) suggests is backwards: the lie needs to be reactivated before the disconfirming truth is introduced. A reorder aligning Lie Eliminator's field sequence to Renounce → Renew → Receive was proposed 2026-06-11 and is pending review. Identity Installer's current order (Identity Statement/Anchor Verse/Evidence/Witness *before* What I'm Putting Off) has the same characteristic but has not been reviewed for resequencing — out of scope here.
 
 ---
 
