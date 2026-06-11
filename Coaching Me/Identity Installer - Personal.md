@@ -114,6 +114,13 @@ Read every Identity Statement that follows as a statement about what is already 
 > 
 > A: "I last felt that, following the end of my job at Schwab" I felt something shifted with God and me. It felt like, strength, freedom, new beginnings, purpose, meaning. I rest now without income. I rest in the one who has me. I work for the upward calling of Christ and trust in Him. 
 
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the orphan" — striving, hiding, performing — still live in my body, even on an ordinary day? (Often the shoulders, the jaw, a low hum of bracing.)
+>
+> Where does the felt sense above — peaceful, assured, free — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been bracing, now that belovedness is present with it — not after it?
+
 **Today I Will:**
 > Bring one need, fear, or failure directly to God — as a child to a Father — without performing, explaining, or earning my way into the conversation.
 >
@@ -163,6 +170,13 @@ Read every Identity Statement that follows as a statement about what is already 
 > 
 > When have I tasted that freedom — and what was different about me in that moment? *I have tasted it in perpetuity, minus the times of despair and disassociation. I am quiet, need nothing, present, at peace, receptive/listening, impenetrable, holding space/ground/wisdom...*
 
+**Holding Both — Where the Old Self Still Lives**
+> Where do the old patterns and labels — family heritage, past failures — still live in my body, even faintly? (Often a familiar tightness, an old posture you drop into without noticing.)
+>
+> Where does the felt sense above — grounded, immovable, planted — land?
+>
+> One hand on each place. Hold both. What happens at the place that's carried the old pattern, now that the new-creation reality is present with it — not after it?
+
 **Today I Will:**
 > Respond to one situation today from my new nature — not from the old reflex — and notice the difference.
 
@@ -200,6 +214,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to approach God with nothing to prove and nothing to hide — fully clean, fully accepted?   Feels like we are the same family, same bloodline, for each other.
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the condemned" — keeping a tally, ready to explain or defend — live in my body? (Often a low-grade tension, a readiness to justify before anyone has accused.)
+>
+> Where does the felt sense above — same family, same bloodline — land?
+>
+> One hand on each place. Hold both. What happens at the place that's been defending, now that belonging is present with it — not after it?
 
 **Today I Will:**
 > Approach God in prayer without apologizing for my failures first — entering as one already declared righteous.
@@ -244,6 +265,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to operate with the quiet confidence that you are exactly where God intended you to be?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the accidental" — drifting, unanchored, without direction — live in my body? (Often a vague restlessness, a feeling of being unmoored.)
+>
+> Where does the felt sense of "chosen, appointed, exactly where God intended" land — even if you're still locating it?
+>
+> One hand on each place. Hold both. What happens at the place that's felt accidental, now that chosen-ness is present with it — not after it?
 
 **Today I Will:**
 > Do one thing today with the full awareness that it was prepared for me — not as a task to complete, but as an assignment from God to fulfill.
@@ -921,6 +949,9 @@ Neurons that fire together, wire together. Identity becomes hardwired through re
 
 **6. Ephesians 4:22-24 — The Biblical Framework**
 *"Put off the old self... be renewed in the spirit of your minds... put on the new self."* Scripture itself gives a three-part identity formation structure: **Renounce → Renew → Receive.** This maps almost exactly onto what psychology confirms.
+
+**7. Dual Awareness — Holding Old and New Together (Ogden & Fisher; Fosha)**
+A new identity statement that lands only as a felt sense — without contact with where the old identity ("What I'm Putting Off") still lives in the body — risks becoming a second belief running alongside the old one rather than displacing it (the same risk Steele's research names above: affirmations the brain can't reconcile with the existing self-concept get rejected). Sensorimotor Psychotherapy's "dual awareness" (Ogden & Fisher, *Sensorimotor Psychotherapy*, 2015) and AEDP's "dyadic regulation of affect" (Fosha, 2001) point to the same mechanism from two directions: holding the old, embodied self-sense and the new, embodied identity at the same time — not sequentially — is what lets the new identity actually meet and begin to displace the old. Implication: pair "What I'm Putting Off" with "The Felt Sense" by body location, and hold both before moving to "Today I Will."
 
 
 **Temporal Identity**

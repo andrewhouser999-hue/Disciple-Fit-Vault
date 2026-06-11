@@ -33,6 +33,10 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 
 ---
 
+**Holding Both — In the Body**, used in the entries below, follows the dual-awareness practice in *Lie Eliminator - Personal.md → How This Document Works* (Ogden & Fisher; Fosha). Locate where the lie lives, locate where the truth lands, hold both at once before moving to *Therefore I Will*.
+
+---
+
 ### Lie — Meekness Means Weakness / Doormat
 
 **Who God Is:**
@@ -59,6 +63,13 @@ The inheritance is not seized. It is received. What the aggressive spend everyth
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > The Greek word *praus* — meekness — was used to describe a trained war horse: full power, fully under control. Moses was called the meekest man on earth while confronting Pharaoh. Jesus called himself meek while cleansing the temple with a whip. Meekness is not the absence of strength. It is strength that no longer needs an audience to confirm it. I am not a doormat. I am a trained horse. My power is real. It simply does not require a fight to remain real. The ego-driven assertion I have called strength is not strength — it is insecurity in motion. I am putting it down. Not because I am weak. Because I am secure enough not to need it.
+
+**Holding Both — In the Body**
+> Where does *"if I'm gentle, people will walk over me"* live in my body — even now? (Often the jaw, the fists, a readiness to assert or dominate.)
+>
+> Where does *"full power, fully under control"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been braced to assert, now that secure strength is present with it — not after it?
 
 **Therefore I Will:**
 > Stop confusing aggression with strength and gentleness with weakness. When I feel the impulse to assert, dominate, or control — I will ask: *"Is this coming from values or from ego?"* I will act from values. I will yield when yielding is right. I will act with full force when action is right. From the same stable place. Without my standing in the room determining which one I choose.
@@ -100,6 +111,13 @@ The joy is real. It comes. But it comes after the night — not instead of it.
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > Jesus stood at the tomb of Lazarus — knowing he was about to raise him — and wept. He was not confused. He was not faithless. He was honest. The Son of God mourned, and the Scripture records it without apology. God himself, in the person of Jesus, grieved at a graveside. My grief does not disqualify me — it confirms that I am seeing clearly. The broken things are broken. The lost things are lost. Pretending otherwise is not faith — it is suppression dressed as maturity. True faith does not skip grief. It mourns with the confidence that the Comforter is coming. I am allowed to grieve. I am allowed to take the time it takes. And God is nearest to me not when I perform strength over pain, but when I bring the pain to him honestly.
+
+**Holding Both — In the Body**
+> Where does *"I should be over this by now"* live in my body — even now? (Often the throat, the chest — a swallowing-down of grief.)
+>
+> Where does *"the LORD is near to the brokenhearted"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been swallowing grief down, now that nearness is present with it — not after it?
 
 **Therefore I Will:**
 > Stop interpreting my grief as evidence of spiritual failure. When the internal voice says "you should be over this by now" — I will name it as a lie, not a conviction. I will bring my grief to God without managing it first. I will sit with what is broken long enough to be honest about it — trusting that the comfort he promises is on the other side of honest mourning, not the side that skips it.
@@ -143,6 +161,13 @@ The pure in heart do not just behave differently — they perceive differently. 
 *(Speak aloud — in Jesus' name.)*
 > James says a double-minded man is unstable in all his ways — not just his spiritual life. In all of it. The division inside produces the instability outside. They are connected. Behavioral compliance covering a divided heart is not wholeness — it is a performance on top of unaddressed fracture. God is not impressed by the right action from the wrong place. He made the heart. He reads it. And he is not asking for compliance — he is asking for consolidation. The competing master I have been refusing to name is not a secret to God. It is only a secret to me. When I name it, when I choose one master deliberately and release the other — not perfectly, but honestly — something shifts. Not just in my behavior. In what I can see. The promise is perceptual: the pure in heart see God. I want to see God. That means I have to stop pretending the division isn't real.
 
+**Holding Both — In the Body**
+> Where does the divided motive — the part doing the right thing for the wrong reason — live in my body? (Often a subtle doubleness — performing on the outside, something else underneath.)
+>
+> Where does *"create in me a clean heart... an undivided heart"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been divided, now that an undivided heart is present with it — not after it?
+
 **Therefore I Will:**
 > Name the competing master specifically — not in general terms, but the actual thing that competes most consistently with full allegiance. Stop using behavioral compliance as a substitute for genuine consolidation. When the competing desire appears, I will name it internally rather than act from it or suppress it. I will choose the primary value deliberately — one vote at a time toward the undivided heart.
 
@@ -184,6 +209,13 @@ The command is to pursue peace actively — not to avoid conflict passively. The
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > Peacekeeping is fear-driven suppression of conflict to reduce my immediate discomfort. Peacemaking is values-driven, costly construction of shalom — the wholeness, flourishing, and right ordering of relationships that God intends. They are not the same. One is about me. The other is about everyone. Jesus did not keep the peace in the temple — he disrupted it in service of what was right. He did not keep the peace in his conversations with the Pharisees — he engaged what was broken with clarity and courage. The peace he pursued was not the absence of tension. It was the presence of shalom. I have been calling conflict avoidance a virtue. It is not a virtue. It is self-protection dressed as spirituality. The people in my sphere who need shalom do not need me to stay quiet. They need me to move first.
+
+**Holding Both — In the Body**
+> Where does *"if I stay out of it, things will settle down"* live in my body — even now? (Often a withdrawing, a shrinking back, tightness in the throat or stomach before a hard conversation.)
+>
+> Where does *"making peace by the blood of his cross"* — costly, moving-toward — land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been withdrawing, now that the courage to move first is present with it — not after it?
 
 **Therefore I Will:**
 > Stop confusing conflict avoidance with spiritual maturity. When I encounter a fractured relationship — my own or between others — I will ask: *"What would shalom look like here?"* Not: *"How do I get out of this without disruption?"* I will engage conflict when engagement serves restoration. I will move first when moving first is what peacemaking requires.

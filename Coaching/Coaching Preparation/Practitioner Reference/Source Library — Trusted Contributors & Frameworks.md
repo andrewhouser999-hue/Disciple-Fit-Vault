@@ -16,7 +16,7 @@ This document records every major contributor, researcher, theologian, and thoug
 
 **Evidence levels:** Established (meta-analyses, clinical consensus, replicated findings) / Supported (solid studies, emerging consensus) / Theoretical (plausible, not yet well-studied) / Expert opinion (respected voice, limited empirical backing)
 
-**Updated:** 2026-05-13
+**Updated:** 2026-06-11
 
 ---
 
@@ -270,6 +270,16 @@ This document records every major contributor, researcher, theologian, and thoug
 
 ---
 
+#### Pat Ogden and Janina Fisher
+**Primary works:** *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment* (Ogden & Fisher, 2015, Norton Series on Interpersonal Neurobiology); *Transforming the Living Legacy of Trauma* (Fisher, 2021)
+**Contribution:** "Dual awareness" — tracking present-moment body sensation (a resource or felt-safety location) and an activated/distressed body sensation at the same time, without either displacing the other. Fisher extends Sensorimotor Psychotherapy with IFS-compatible parts language (Schwartz), giving each "part" a felt body location. Provides the practical skill that operationalizes Ecker's reconsolidation requirement that a disconfirming experience be held *alongside* — not after — the reactivated belief.
+**Evidence level:** Supported (IPNB-aligned; same series as Siegel; growing clinical evidence base for trauma applications)
+**Scope:** Body-based dual awareness and parts-location technique. Does not address theological framework or spiritual formation.
+**Shortcomings:** Developed for clinical trauma treatment — coaching deployment is a lighter-touch adaptation (locating sensation and holding awareness, not full trauma processing). Like Schwartz, the "Self" framing in Fisher's parts work carries the same theological caveat noted under Schwartz: the renewed self is in union with Christ, not a pre-existing undamaged core.
+**Informs:** Lie Eliminator - Personal (Holding Both / dual awareness practice); Identity Installer - Personal (Holding Both — Where the Old Self Still Lives)
+
+---
+
 ---
 
 ## Domain 3 — Christian Psychology and Integration
@@ -478,6 +488,16 @@ This document records every major contributor, researcher, theologian, and thoug
 
 ---
 
+#### Diana Fosha
+**Primary works:** *The Transforming Power of Affect* (2000); "The Dyadic Regulation of Affect" (2001); *Healing Change* (2021)
+**Contribution:** AEDP's "dyadic regulation of affect" and "metatherapeutic processing" — when old pain is met with felt safety/connection, a new "transformational affect" emerges (relief, warmth, an exhale, a loosening), distinct from the original pain and from mere intellectual agreement. Processing both the old pain and the new emergent state together — not the old pain alone, and not the new state in isolation — is what produces lasting change. Gives a concrete marker for what "integration" feels like in the body, complementing Ecker's reconsolidation model with an account of the felt signal that marks the encounter.
+**Evidence level:** Supported (clinical evidence base, growing)
+**Scope:** What to expect/notice when a disconfirming truth meets reactivated pain. Does not address theological framework.
+**Shortcomings:** AEDP is a secular relational psychotherapy modality developed for therapist-client dyads — the "dyadic" regulation in this practice is reframed as Spirit-mediated rather than therapist-mediated. Import the felt-marker concept (transformational affect) as a "what to look for" guide; the relational source of regulation is theologically reframed.
+**Informs:** Lie Eliminator - Personal (Holding Both / dual awareness practice); Identity Installer - Personal (Holding Both — Where the Old Self Still Lives); Covenant Identity — Stage 4b Implicit Level Practitioner Reference
+
+---
+
 ---
 
 ## Domain 6 — Forgiveness and Relational Repair
@@ -538,5 +558,4 @@ Coaching methodologies drawn upon in this practice — not attributed to a singl
 
 - [ ] Add Richard Beck — The Slavery of Death (2014) to Domain 5 (terror management / Rom 8:15 analysis; appears in Biblical Case source log but not yet in this library)
 - [ ] Add Schore, Porges, van der Kolk — somatic and nervous system layer (referenced in Secured in Father source log; entries not yet extracted)
-- [ ] Add Diana Fosha (AEDP) — primary Stage 4b contributor; *The Transforming Power of Affect* (2000), *Healing Change* (2021); appears in Stage 4b Implicit Level Practitioner Reference source log; transformance, four-state model, undoing aloneness, metatherapeutic processing
 - [ ] Audit all documents for remaining Collins references — removed from model 2026-05-14; confirm removal is complete across vault
