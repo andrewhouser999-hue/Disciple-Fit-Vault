@@ -123,6 +123,14 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 > 
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"God is cold, distant, and against me — a cosmic authority figure who rules through demands and watches for failure. He is more prosecutor than Father."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> God being disconnected then I can live disconnected. I am not responsible for drawing near. Drawing
+> *(Write it here.)*
+
 **Who God Is:**
 > "As a father shows compassion to his children, so the LORD shows compassion to those who fear him." — Psalm 103:13
 
@@ -135,14 +143,6 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 **Who Has Witnessed This Truth:**
 > 
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"God is cold, distant, and against me — a cosmic authority figure who rules through demands and watches for failure. He is more prosecutor than Father."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> God being disconnected then I can live disconnected. I am not responsible for drawing near. Drawing
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -177,6 +177,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"I am not capable. This is beyond me. I don't have what it takes."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "The Lord is my strength and my song; he has given me victory." — Exodus 15:2
 
@@ -188,13 +195,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"I am not capable. This is beyond me. I don't have what it takes."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -227,6 +227,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"There is no future, no way out, no point."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "The LORD your God is in your midst, a mighty one who will save." — Zephaniah 3:17
 
@@ -238,13 +245,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"There is no future, no way out, no point."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -274,6 +274,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"There is not enough — of provision, of grace, of time, of opportunity."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "The LORD is my shepherd; I shall not want." — Psalm 23:1
 
@@ -285,13 +292,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"There is not enough — of provision, of grace, of time, of opportunity."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -330,6 +330,13 @@ If increase comes, receive it as provision. If it doesn't, the absence is not a 
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"It's not worth continuing. I'm too tired. Nothing is changing."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "He gives strength to the weary and increases the power of the weak." — Isaiah 40:29
 
@@ -341,13 +348,6 @@ If increase comes, receive it as provision. If it doesn't, the absence is not a 
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"It's not worth continuing. I'm too tired. Nothing is changing."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -370,6 +370,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"If I step out, I will fail. The risk is too great. God won't cover me."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "The LORD is my light and my salvation — whom shall I fear? The LORD is the stronghold of my life — of whom shall I be afraid?" — Psalm 27:1
 
@@ -381,13 +388,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"If I step out, I will fail. The risk is too great. God won't cover me."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -410,6 +410,14 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"God has left. He doesn't see me. He's moved on." "He will remain aloof while I am crushed and suffering alone."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> Comfort of familiarity. I can explain why I have to solution in my own understanding and strive.  This is playing it safe. I can experience safety this way. 
+> *(Write it here.)*
+
 **Who God Is:**
 > "A father to the fatherless, a defender of widows, is God in his holy dwelling." — Psalm 68:5
 
@@ -421,14 +429,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"God has left. He doesn't see me. He's moved on." "He will remain aloof while I am crushed and suffering alone."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> Comfort of familiarity. I can explain why I have to solution in my own understanding and strive.  This is playing it safe. I can experience safety this way. 
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -451,6 +451,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"God might do it through someone else, but not me. This is beyond my capacity."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "Not by might, nor by power, but by my Spirit, says the LORD of hosts." — Zechariah 4:6
 
@@ -462,13 +469,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"God might do it through someone else, but not me. This is beyond my capacity."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -490,6 +490,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"God needs someone more qualified, more holy, more gifted. Not me."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong." — 1 Corinthians 1:27
 
@@ -501,13 +508,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"God needs someone more qualified, more holy, more gifted. Not me."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -530,6 +530,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"My family's sins, my own patterns — I'm too wired into this. It cannot be broken."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness." — 1 John 1:9
 
@@ -541,13 +548,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"My family's sins, my own patterns — I'm too wired into this. It cannot be broken."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -570,6 +570,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"What is fundamentally true is, I am to be rejected. If people really knew me, they'd reject me. God Himself will eventually turn away."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing." — Zephaniah 3:17
 
@@ -581,13 +588,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"What is fundamentally true is, I am to be rejected. If people really knew me, they'd reject me. God Himself will eventually turn away."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -609,6 +609,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"These people are beyond reach, beyond mercy, unworthy of compassion."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "But God shows his love for us in that while we were still sinners, Christ died for us." — Romans 5:8
 
@@ -620,13 +627,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"These people are beyond reach, beyond mercy, unworthy of compassion."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -649,6 +649,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"I am right. They are wrong. Justice demands my response."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "The LORD is righteous in all his ways and faithful in all he does." — Psalm 145:17
 
@@ -660,13 +667,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"I am right. They are wrong. Justice demands my response."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -690,6 +690,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **This activates when:**
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
+**The Lie I've Believed:**
+> *"I have no business coaching anyone while I'm still this unfinished. If they knew how much I'm still working through, they'd dismiss everything I say. Real coaches have it together. I don't."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
 **Who God Is:**
 > "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God." — 2 Corinthians 1:3-4
 
@@ -701,13 +708,6 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"I have no business coaching anyone while I'm still this unfinished. If they knew how much I'm still working through, they'd dismiss everything I say. Real coaches have it together. I don't."*
-
-**What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
