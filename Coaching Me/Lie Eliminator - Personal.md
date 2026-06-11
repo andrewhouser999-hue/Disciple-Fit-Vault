@@ -98,6 +98,67 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 
 ---
 
+### Sample Entry — Annotated Template (Research Basis for Each Field)
+
+*This entry follows the same structure and order as the 14 lies below. In place of personal content, each field explains the research basis for why that part of the exercise exists and what it's designed to do — for internalizing the reasoning and explaining it to others.*
+
+**This activates when:**
+> **Research basis:** Aaron Beck's ABC model (Activating event → Belief → Consequence); Ecker, Ticic & Hulley's memory reconsolidation research.
+>
+> Naming the specific trigger turns a vague struggle into a recognizable pattern that can be caught in the moment. It also re-creates the context the belief actually runs in — reconsolidation research shows a belief has to be reactivated in something close to its native context before a contradicting truth can update it, rather than just being agreed with in the abstract.
+
+**The Lie I've Believed:**
+> **Research basis:** Ecker, Ticic & Hulley (memory reconsolidation); Dan Allender (wound-level lie identification — "agreements with lies").
+>
+> This is the reactivation step. Reconsolidation requires the belief to be made emotionally live — not just recalled — before a contradicting truth can rewrite it instead of sitting next to it unchanged. Naming the lie in its own voice, as it's actually experienced, is what makes everything that follows a direct answer to something currently active, rather than encouragement offered to no one in particular.
+
+**What Does That Lie Give You?**
+> **Research basis:** Secondary gain (see → [[Lie Eliminator — Secondary Gain Reference Card]]); Motivational Interviewing (Miller & Rollnick) — working with ambivalence rather than around it.
+>
+> A lie that's still running is still paying out something — safety, control, an excuse, permission to avoid a risk. Left unnamed, that payoff can survive even after the lie has been argued down, and the lie returns to keep delivering it. Naming it here means the declaration and the action step later can address what's actually maintaining the lie, not just its content.
+
+**Who God Is:**
+> **Research basis:** Curt Thompson and Ana-Maria Rizzuto — the *implicit* image of God operates somewhat independently of correct doctrine and needs direct, repeated address; Walter Brueggemann and Sinclair Ferguson — God's covenant character as Father and covenant-keeper.
+>
+> This is the first piece of the corrective truth, aimed specifically at whatever the lie distorted about God himself. If the lie says God is distant or against you, this field doesn't make a general case for God's goodness — it states the specific truth about who God is that answers the specific distortion just named.
+
+**Who I Am:**
+> **Research basis:** Union with Christ (J. Todd Billings) and adoption (Sinclair Ferguson) as the ground of identity; 2 Corinthians 5:17 and Ephesians 1 — identity grounded in covenant status, not performance.
+>
+> Most lies, however they're worded, are ultimately claims about who you are — not capable, not enough, unwanted, beyond reach. This field answers that claim on the same axis the lie made it on, so the corrective truth lands exactly where the lie was operating.
+
+**His Promise:**
+> **Research basis:** O. Palmer Robertson and Michael Horton — covenant promises as structurally binding commitments, not aspirational language.
+>
+> Part of what makes a lie powerful is what it predicts about the future — nothing will change, you'll fail, you'll be alone — so a true statement about the present alone isn't a complete answer. This field gives the truth a future tense to stand on: not an optimistic guess, but a promise with covenant weight behind it.
+
+**Who Has Witnessed This Truth:**
+> **Research basis:** Daniel Siegel and Mary Main — narrative coherence and "earned security" develop through relational experience, not information alone; Curt Thompson — healing through being known; Dan McAdams — narrative identity, where personal evidence anchors a truth inside someone's own story.
+>
+> Scripture states the truth; this field locates a moment it was actually *lived* — by you, or to you, through someone else. That's what moves a truth from "true in general" to "true in my story," which is what actually changes how it's experienced. (If this field comes up empty, that's useful information too — it may point to where the truth hasn't yet been tested relationally.)
+
+**Personal Declaration:**
+> **Research basis:** Paul David Tripp — the gospel-to-behavior bridge through declaration; Romans 12:2 (renewal of the mind); Claude Steele's self-affirmation research — with the caution this document already names: a declaration spoken without the lie first being reactivated risks becoming "a second belief running parallel" to the old one, rather than replacing it.
+>
+> This is why the declaration sits *after* the lie cluster rather than before (updated 2026-06-11): spoken here, it functions as the disconfirming truth Ecker's model calls for — a direct answer to a lie that's currently active — instead of a positive statement made in a vacuum. Speaking it aloud, in Jesus' name, also makes it a spoken act rather than a read sentence, which is what carries forward into Holding Both.
+
+**Holding Both — In the Body:**
+> **Research basis:** Pat Ogden and Janina Fisher — dual awareness (Sensorimotor Psychotherapy); Diana Fosha — AEDP's "transformational affect" (the exhale, loosening, or warmth that marks a real shift); Eugene Gendlin — the felt sense and the felt shift as a bodily marker of change. This step operationalizes Ecker's requirement to hold the old belief and the new truth *simultaneously*.
+>
+> This is where the change the rest of the entry has been building toward actually happens, according to the reconsolidation model — not in reading the verses, and not in the declaration alone, but in the moment where the place the lie lives and the place the truth just landed are held together in the body at the same time. Without this step, the truth tends to stay accessible only when calm. With it, the truth becomes accessible under the kind of pressure that used to trigger the lie.
+
+**Therefore I Will:**
+> **Research basis:** Paul David Tripp — "Therefore I Will" as the bridge from belief to behavior; implementation-intention research (Gabriele Oettingen's WOOP/MCII framework); James 1:22.
+>
+> A shift that never reaches behavior tends not to hold — and behavior is also how a shift gets tested against real life. This field turns the encounter above into one specific, doable action. (Per the Adaptation Over Time design proposal, once a lie has clearly shifted, this field is also where the practice changes shape — from rehearsing the new truth here, to finding the next context where the old pattern might still be quietly running.)
+
+**Scripture Arsenal:**
+> **Research basis:** Hebrew *hagah* (Psalm 1:2; Joshua 1:8) — meditation as repeated, vocal rehearsal rather than a one-time read; spacing-effect repetition (a candidate addition noted in the Adaptation Over Time design proposal).
+>
+> This list sits outside the live sequence above — a standing reference, not a step (see [[Covenant Identity — Author-Framework Mapping]]). Its purpose is reinforcement over time: lies tend to resurface in new framings, and a single verse can start to feel used up. A wider set of passages, returned to and rehearsed, builds resilience against the lie reappearing in a different disguise.
+
+---
+
 ## The Lies with ESV Counterparts
 
 - [[#Lie of God as Disconnected Authoritarian and Adversary]]
