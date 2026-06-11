@@ -44,34 +44,41 @@ Read every Identity Statement that follows as a statement about what is already 
 
 ## Contents
 
-- [[#1. Beloved Child of God]]
-- [[#2. New Creation]]
-- [[#3. The Righteousness of God]]
-- [[#4. Chosen and Called]]
-- [[#5. Redeemed]]
-- [[#6. More Than a Conqueror]]
-- [[#7. Light of the World]]
-- [[#8. Temple of the Holy Spirit]]
-- [[#9. Co-heir with Christ]]
-- [[#10. Ambassador of Christ]]
-- [[#11. Forgiven and Free]]
-- [[#12. Filled with Purpose]]
-- [[#13. Known and Seen]]
-- [[#14. Empowered]]
-- [[#15. Secure and Unshakeable]]
-- [[#16. Fruit-Bearer]]
-- [[#17. Overcomer]]
-- [[#18. Holy and Set Apart]]
-- [[#19. Deeply and Permanently Loved]]
-- [[#20. Free from Condemnation]]
-- [[#21. Carrier of Peace]]
-- [[#22. Rooted and Established]]
-- [[#23. Called as Coach]]
+> Quick-reference index. After filling in *This activates when* for an entry below, copy a short version of it here — so in the moment, you can scan this table and jump straight to the identity you need.
+
+| Identity | Activates When |
+|---|---|
+| [[#1. Beloved Child of God\|1. Beloved Child of God]] | *(TBD)* |
+| [[#2. New Creation\|2. New Creation]] | *(TBD)* |
+| [[#3. The Righteousness of God\|3. The Righteousness of God]] | *(TBD)* |
+| [[#4. Chosen and Called\|4. Chosen and Called]] | *(TBD)* |
+| [[#5. Redeemed\|5. Redeemed]] | *(TBD)* |
+| [[#6. More Than a Conqueror\|6. More Than a Conqueror]] | *(TBD)* |
+| [[#7. Light of the World\|7. Light of the World]] | *(TBD)* |
+| [[#8. Temple of the Holy Spirit\|8. Temple of the Holy Spirit]] | *(TBD)* |
+| [[#9. Co-heir with Christ\|9. Co-heir with Christ]] | *(TBD)* |
+| [[#10. Ambassador of Christ\|10. Ambassador of Christ]] | *(TBD)* |
+| [[#11. Forgiven and Free\|11. Forgiven and Free]] | *(TBD)* |
+| [[#12. Filled with Purpose\|12. Filled with Purpose]] | *(TBD)* |
+| [[#13. Known and Seen\|13. Known and Seen]] | *(TBD)* |
+| [[#14. Empowered\|14. Empowered]] | *(TBD)* |
+| [[#15. Secure and Unshakeable\|15. Secure and Unshakeable]] | *(TBD)* |
+| [[#16. Fruit-Bearer\|16. Fruit-Bearer]] | *(TBD)* |
+| [[#17. Overcomer\|17. Overcomer]] | *(TBD)* |
+| [[#18. Holy and Set Apart\|18. Holy and Set Apart]] | *(TBD)* |
+| [[#19. Deeply and Permanently Loved\|19. Deeply and Permanently Loved]] | *(TBD)* |
+| [[#20. Free from Condemnation\|20. Free from Condemnation]] | *(TBD)* |
+| [[#21. Carrier of Peace\|21. Carrier of Peace]] | *(TBD)* |
+| [[#22. Rooted and Established\|22. Rooted and Established]] | *(TBD)* |
+| [[#23. Called as Coach\|23. Called as Coach]] | *(TBD)* |
 
 ---
 
 
 ## 1. Beloved Child of God
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I am a beloved child of God — chosen, accepted, and delighted in — not because of what I do, but because of who He is.
@@ -115,6 +122,9 @@ Read every Identity Statement that follows as a statement about what is already 
 ---
 
 ## 2. New Creation
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I am a new creation in Christ. My history does not define me. My bloodline does not own me. The old is gone.
@@ -160,6 +170,9 @@ Read every Identity Statement that follows as a statement about what is already 
 
 ## 3. The Righteousness of God
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am the righteousness of God in Christ Jesus. I do not stand before God in my own record — I stand in Christ's.
 
@@ -194,6 +207,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 4. Chosen and Called
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I was chosen before the foundation of the world. My calling is not an accident — it is a divine appointment.
@@ -236,6 +252,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 5. Redeemed
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am redeemed — bought back, restored, and transferred out of every domain that once owned me.
 
@@ -275,6 +294,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 6. More Than a Conqueror
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I do not merely survive trials — I am more than a conqueror through Christ who loves me.
 
@@ -307,6 +329,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 7. Light of the World
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am the light of the world. Darkness does not define me — I define the darkness.
 
@@ -336,6 +361,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 8. Temple of the Holy Spirit
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > My body is not my own — it is the dwelling place of the Holy Spirit of God.
@@ -367,6 +395,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 9. Co-heir with Christ
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am a co-heir with Christ — inheriting everything the Son inherits from the Father.
 
@@ -396,6 +427,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 10. Ambassador of Christ
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I am Christ's ambassador — his official representative on earth, carrying his message with his authority.
@@ -427,6 +461,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 11. Forgiven and Free
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am fully and finally forgiven. My past has no prosecution rights over my present.
 
@@ -456,6 +493,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 12. Filled with Purpose
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I was not born by accident and I will not die without having fulfilled what God placed me here to do.
@@ -491,6 +531,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 13. Known and Seen
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am fully known by God — every detail, every wound, every hidden thing — and fully loved without condition.
 
@@ -523,6 +566,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 14. Empowered
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am not operating on natural capacity alone. The Spirit of the resurrected Christ lives and works in me.
 
@@ -552,6 +598,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 15. Secure and Unshakeable
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > My identity is hidden with Christ in God. What the world says about me cannot touch what God has declared over me.
@@ -583,6 +632,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 16. Fruit-Bearer
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I was appointed to bear lasting fruit. Fruitfulness in God's kingdom is not earned by striving — it flows from abiding.
 
@@ -612,6 +664,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 17. Overcomer
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I overcome not by my own strength or strategy, but by the blood of the Lamb and the word of my testimony.
@@ -643,6 +698,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 18. Holy and Set Apart
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am holy — not because I am perfect, but because I have been set apart by God for his purposes.
 
@@ -672,6 +730,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 19. Deeply and Permanently Loved
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I am the object of an everlasting, unconditional love that preceded my birth and will outlast my death.
@@ -703,6 +764,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 20. Free from Condemnation
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > There is no condemnation for me. The verdict has been declared — and it cannot be appealed.
 
@@ -732,6 +796,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 21. Carrier of Peace
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I carry a peace that the world cannot manufacture and circumstances cannot remove.
@@ -763,6 +830,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 22. Rooted and Established
 
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
 **Identity Statement:**
 > I am rooted in Christ — stable, grounded, and able to withstand what would uproot a person without a foundation.
 
@@ -792,6 +862,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 23. Called as Coach
+
+**This activates when:**
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
 > I am a coach called by God — not because I am finished, but because I have been comforted and am willing to carry that comfort to others. My unfinished process is not a liability. It is my access point.
