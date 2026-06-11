@@ -120,6 +120,7 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 ### Lie of God as Disconnected Authoritarian and Adversary
 
 **This activates when:**
+> 
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
 **Who God Is:**
