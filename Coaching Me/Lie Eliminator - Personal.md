@@ -98,64 +98,105 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 
 ---
 
-### Sample Entry — Annotated Template (Research Basis for Each Field)
+### Research Basis — Why Each Field Exists (Annotated Sample Entry)
 
-*This entry follows the same structure and order as the 14 lies below. In place of personal content, each field explains the research basis for why that part of the exercise exists and what it's designed to do — for internalizing the reasoning and explaining it to others.*
+*This entry follows the same structure and order as the 14 lies below. In place of personal content, each field names the researchers/contributors behind it, describes their actual finding or contribution, and explains why that finding is the reason this field is part of the exercise's form. For Who God Is, Who I Am, His Promise, and Personal Declaration — the more theologically-flavored fields — the basis is split into two parts: the empirical/psychological research explaining why the field exists structurally, and the theological sources shaping what the field says.*
 
 **This activates when:**
-> **Research basis:** Aaron Beck's ABC model (Activating event → Belief → Consequence); Ecker, Ticic & Hulley's memory reconsolidation research.
+> **Research basis:**
+> - **Aaron Beck** — established the ABC model (Activating event → Belief → Consequence): a specific situation triggers an automatic belief, and that belief — not the situation itself — produces the emotional/behavioral response. Identifying the activating event is the entry point for working with the belief. (Established)
+> - **Bruce Ecker, Robin Ticic & Laurel Hulley** — found that an implicit belief must be reactivated — made emotionally live, not just recalled — and that reactivation happens most reliably when something close to the original triggering context is recreated. (Supported)
 >
-> Naming the specific trigger turns a vague struggle into a recognizable pattern that can be caught in the moment. It also re-creates the context the belief actually runs in — reconsolidation research shows a belief has to be reactivated in something close to its native context before a contradicting truth can update it, rather than just being agreed with in the abstract.
+> **Why this field is in the form:** Without a named, specific trigger there's no live target for what follows. Beck's model is why the trigger is the entry point; Ecker's research is why it has to be specific enough to actually reactivate the belief, not just describe it.
 
 **The Lie I've Believed:**
-> **Research basis:** Ecker, Ticic & Hulley (memory reconsolidation); Dan Allender (wound-level lie identification — "agreements with lies").
+> **Research basis:**
+> - **Bruce Ecker, Robin Ticic & Laurel Hulley** — the reactivation step itself: a belief has to be made emotionally live before a contradicting truth encountered afterward can rewrite it (reconsolidation) instead of leaving it intact underneath (extinction/suppression). Truth offered to a belief that isn't currently live produces "insight only," not change. (Supported)
+> - **Dan Allender** — developed wound-level lie identification: tracing a presenting struggle back to the specific lie that was agreed with at a specific point, named in the person's own words rather than a general category. (Expert opinion)
 >
-> This is the reactivation step. Reconsolidation requires the belief to be made emotionally live — not just recalled — before a contradicting truth can rewrite it instead of sitting next to it unchanged. Naming the lie in its own voice, as it's actually experienced, is what makes everything that follows a direct answer to something currently active, rather than encouragement offered to no one in particular.
+> **Why this field is in the form:** This is the literal reactivation Ecker's research requires. Naming the lie precisely, in its own voice, is what makes the truth fields that follow a direct answer to something currently active — not encouragement offered to no one in particular.
 
 **What Does That Lie Give You?**
-> **Research basis:** Secondary gain (see → [[Lie Eliminator — Secondary Gain Reference Card]]); Motivational Interviewing (Miller & Rollnick) — working with ambivalence rather than around it.
+> **Research basis:**
+> - **Secondary gain** (clinical concept used across psychodynamic and CBT case formulation) — a belief or symptom that persists despite being known to be false is usually still serving a function (safety, control, an excuse); the function has to be identified before the belief can be safely released.
+> - **Miller & Rollnick (Motivational Interviewing)** — found that ambivalence has to be explored directly, in the person's own words, rather than argued past — naming one's own stake in the status quo is what produces durable change, where confrontation produces resistance. (Established)
 >
-> A lie that's still running is still paying out something — safety, control, an excuse, permission to avoid a risk. Left unnamed, that payoff can survive even after the lie has been argued down, and the lie returns to keep delivering it. Naming it here means the declaration and the action step later can address what's actually maintaining the lie, not just its content.
+> **Why this field is in the form:** A lie that's still running is still paying out something. Without naming the payoff here, the truth fields that follow can win the argument and still lose to the unmet need that's quietly maintaining the lie.
 
 **Who God Is:**
-> **Research basis:** Curt Thompson and Ana-Maria Rizzuto — the *implicit* image of God operates somewhat independently of correct doctrine and needs direct, repeated address; Walter Brueggemann and Sinclair Ferguson — God's covenant character as Father and covenant-keeper.
+> **Empirical/psychological basis:**
+> - **Curt Thompson** and **Ana-Maria Rizzuto** — found that the *implicit* image of God (how God is felt and related to) is a distinct psychological structure from explicit theological belief, formed through early relational experience — and that it does not update through information alone; it requires direct, repeated, emotionally-engaged address. (Thompson: Supported; Rizzuto: Theoretical)
+> - **Todd Hall** — found that a person's attachment style with humans corresponds specifically to their *implicit* God-image (not their explicit theology), and that new relational experience — not new information — is what changes it. (Supported)
 >
-> This is the first piece of the corrective truth, aimed specifically at whatever the lie distorted about God himself. If the lie says God is distant or against you, this field doesn't make a general case for God's goodness — it states the specific truth about who God is that answers the specific distortion just named.
+> **Theological basis for content:**
+> - **Walter Brueggemann** — covenant as the relational structure that defines who God is toward his people: compassion, faithfulness, nearness.
+> - **Sinclair Ferguson** — God's fatherhood as the operative relational category for daily life, not a metaphor.
+>
+> **Why this field is in the form:** Thompson, Rizzuto, and Hall are why a generic reassurance isn't enough — the field exists to make a specific, repeatable statement about God's character that can be returned to often enough to reach the implicit level. Brueggemann and Ferguson supply what that statement actually says.
 
 **Who I Am:**
-> **Research basis:** Union with Christ (J. Todd Billings) and adoption (Sinclair Ferguson) as the ground of identity; 2 Corinthians 5:17 and Ephesians 1 — identity grounded in covenant status, not performance.
+> **Empirical/psychological basis:**
+> - **Aaron Beck** and **Jeffrey Young** — established that the deepest layer of belief (Beck's "core belief," Young's "schema") is typically self-referential — an "I am ___" statement — and that surface-level reframing doesn't reach it; the corrective has to be pitched at the identity level itself. (Established)
+> - **Robert Kegan & Lisa Lahey** — found that many stuck patterns are protected by a "Big Assumption" of the form "I am ___, therefore ___"; naming the identity-level belief directly is the entry point for addressing it. (Supported)
 >
-> Most lies, however they're worded, are ultimately claims about who you are — not capable, not enough, unwanted, beyond reach. This field answers that claim on the same axis the lie made it on, so the corrective truth lands exactly where the lie was operating.
+> **Theological basis for content:**
+> - **J. Todd Billings** — union with Christ as the basis for identity statements: "already true," not aspirational.
+> - **Sinclair Ferguson** — adoption/sonship as the relational category that defines "who I am."
+>
+> **Why this field is in the form:** Beck, Young, Kegan and Lahey are why the lie named two fields ago is treated as an identity-level belief, and why the corrective truth is pitched at that same level — not one level up (behavior) or down (situation). Billings and Ferguson supply the actual identity content.
 
 **His Promise:**
-> **Research basis:** O. Palmer Robertson and Michael Horton — covenant promises as structurally binding commitments, not aspirational language.
+> **Empirical/psychological basis:**
+> - **Gabriele Oettingen** — found that a credible, vivid future state is a required ingredient for sustained motivation (Mental Contrasting); a corrected view of the present, on its own, doesn't sustain change without a believable account of the future. (Established)
+> - **Dan McAdams** — found that a "redemptive narrative" (movement through difficulty toward meaning) requires a forward arc, not only a corrected present-tense self-description. (Supported)
 >
-> Part of what makes a lie powerful is what it predicts about the future — nothing will change, you'll fail, you'll be alone — so a true statement about the present alone isn't a complete answer. This field gives the truth a future tense to stand on: not an optimistic guess, but a promise with covenant weight behind it.
+> **Theological basis for content:**
+> - **O. Palmer Robertson** and **Michael Horton** — covenant promises as structurally binding commitments rooted in God's character, not aspirational language.
+>
+> **Why this field is in the form:** Oettingen and McAdams are why the sequence doesn't stop at "who I am now." A lie often makes a claim about the future, and a present-tense correction alone leaves that claim unanswered. Robertson and Horton supply the promise content that closes the gap.
 
 **Who Has Witnessed This Truth:**
-> **Research basis:** Daniel Siegel and Mary Main — narrative coherence and "earned security" develop through relational experience, not information alone; Curt Thompson — healing through being known; Dan McAdams — narrative identity, where personal evidence anchors a truth inside someone's own story.
+> **Research basis:**
+> - **Daniel Siegel** and **Mary Main** — found that narrative coherence — how a person tells their own story, including concrete relational evidence — is the strongest known predictor of "earned security," more than the content of what actually happened. (Established/Supported)
+> - **Dan McAdams** — found that a truth becomes part of identity when it's incorporated into a person's own story with specific evidence, not when it's merely affirmed in the abstract. (Supported)
 >
-> Scripture states the truth; this field locates a moment it was actually *lived* — by you, or to you, through someone else. That's what moves a truth from "true in general" to "true in my story," which is what actually changes how it's experienced. (If this field comes up empty, that's useful information too — it may point to where the truth hasn't yet been tested relationally.)
+> **Why this field is in the form:** These findings are why the exercise asks for a person and a moment, not just a verse. It converts "this is true" into "this has already happened to me" — which is what changes how a truth is held, not just what is believed about it. (An empty answer here is itself useful information — it may point to where the truth hasn't yet been tested relationally.)
 
 **Personal Declaration:**
-> **Research basis:** Paul David Tripp — the gospel-to-behavior bridge through declaration; Romans 12:2 (renewal of the mind); Claude Steele's self-affirmation research — with the caution this document already names: a declaration spoken without the lie first being reactivated risks becoming "a second belief running parallel" to the old one, rather than replacing it.
+> **Empirical/psychological basis:**
+> - **Bruce Ecker, Robin Ticic & Laurel Hulley** — the "disconfirming experience" step: a statement that directly contradicts the just-reactivated belief, encountered while that belief is still emotionally live, is what triggers reconsolidation — not the statement alone, and not a statement made before reactivation. (Supported)
+> - **Claude Steele** — self-affirmation research, with the caution this document's "How This Document Works" section already names: an affirmation made without the original belief being reactivated first risks becoming "a second belief running parallel" to the old one, rather than replacing it.
 >
-> This is why the declaration sits *after* the lie cluster rather than before (updated 2026-06-11): spoken here, it functions as the disconfirming truth Ecker's model calls for — a direct answer to a lie that's currently active — instead of a positive statement made in a vacuum. Speaking it aloud, in Jesus' name, also makes it a spoken act rather than a read sentence, which is what carries forward into Holding Both.
+> **Theological basis for content:**
+> - **Paul David Tripp** — gospel-to-behavior bridge through declaration: daily belief stated in a form that can govern action.
+> - Romans 12:2 — renewal of the mind as the biblical category for what this field is doing.
+>
+> **Why this field is in the form, and why it's positioned here:** Ecker's research is why the declaration sits *after* the lie cluster rather than before (updated 2026-06-11) — placed here, it functions as the disconfirming statement his model requires. Steele is why the declaration can't just be positive language; it has to directly answer the specific lie just reactivated. Tripp and Romans 12:2 supply the form and content of the statement itself.
 
 **Holding Both — In the Body:**
-> **Research basis:** Pat Ogden and Janina Fisher — dual awareness (Sensorimotor Psychotherapy); Diana Fosha — AEDP's "transformational affect" (the exhale, loosening, or warmth that marks a real shift); Eugene Gendlin — the felt sense and the felt shift as a bodily marker of change. This step operationalizes Ecker's requirement to hold the old belief and the new truth *simultaneously*.
+> **Research basis:**
+> - **Pat Ogden & Janina Fisher** — developed "dual awareness": tracking a resourced/felt-safe body location and an activated/distressed body location at the same time, without either displacing the other. (Supported)
+> - **Diana Fosha** — found that when old pain is met with felt safety, a distinct "transformational affect" emerges (relief, an exhale, warmth) that marks genuine integration — different from, and beyond, intellectual agreement. (Supported)
+> - **Eugene Gendlin** — found that the body registers meaning before it can be put into words (the "felt sense"), and that a "felt shift" is the somatic marker that something has actually changed. (Supported)
+> - **Bruce Ecker, Robin Ticic & Laurel Hulley** — the underlying requirement the three findings above operationalize: reconsolidation occurs when the old belief and the new disconfirming experience are held in awareness *simultaneously*, not one after the other. (Supported)
 >
-> This is where the change the rest of the entry has been building toward actually happens, according to the reconsolidation model — not in reading the verses, and not in the declaration alone, but in the moment where the place the lie lives and the place the truth just landed are held together in the body at the same time. Without this step, the truth tends to stay accessible only when calm. With it, the truth becomes accessible under the kind of pressure that used to trigger the lie.
+> **Why this field is in the form:** This is where all four bodies of research converge — it's the field where reconsolidation (Ecker) is actually attempted, using the practical skill (Ogden & Fisher) and the markers for what to look for (Fosha, Gendlin) that indicate whether it's working.
 
 **Therefore I Will:**
-> **Research basis:** Paul David Tripp — "Therefore I Will" as the bridge from belief to behavior; implementation-intention research (Gabriele Oettingen's WOOP/MCII framework); James 1:22.
+> **Research basis:**
+> - **Gabriele Oettingen** — found that pairing a vivid future state with a concrete if-then behavioral plan (Mental Contrasting with Implementation Intentions / WOOP) significantly outperforms positive thinking alone for follow-through. (Established)
 >
-> A shift that never reaches behavior tends not to hold — and behavior is also how a shift gets tested against real life. This field turns the encounter above into one specific, doable action. (Per the Adaptation Over Time design proposal, once a lie has clearly shifted, this field is also where the practice changes shape — from rehearsing the new truth here, to finding the next context where the old pattern might still be quietly running.)
+> **Theological basis for content:**
+> - **Paul David Tripp** — "Therefore I Will" as an explicit gospel-to-behavior coaching tool; this field's name and function come directly from his framework.
+>
+> **Why this field is in the form:** Oettingen's research is why belief-level change doesn't stop at the declaration — without a concrete next action, change tends to stay inert and untested. Tripp supplies the form that action takes. (Per the Adaptation Over Time design proposal, once a lie has shifted, this field's job changes from rehearsal to generalization — finding the next context where the old pattern might still be running.)
 
 **Scripture Arsenal:**
-> **Research basis:** Hebrew *hagah* (Psalm 1:2; Joshua 1:8) — meditation as repeated, vocal rehearsal rather than a one-time read; spacing-effect repetition (a candidate addition noted in the Adaptation Over Time design proposal).
+> **Research basis:**
+> - **Spacing effect** (general memory-research finding, flagged as a candidate formal addition in the Adaptation Over Time design proposal) — distributed repetition across varied material produces more durable retention than single exposure or massed repetition of one item.
+> - Hebrew **hagah** (Psalm 1:2; Joshua 1:8) — the textual basis for repetition-as-rehearsal: meditation in Scripture is repeated vocal practice, not a one-time read.
 >
-> This list sits outside the live sequence above — a standing reference, not a step (see [[Covenant Identity — Author-Framework Mapping]]). Its purpose is reinforcement over time: lies tend to resurface in new framings, and a single verse can start to feel used up. A wider set of passages, returned to and rehearsed, builds resilience against the lie reappearing in a different disguise.
+> **Why this field is in the form:** Lies tend to resurface in new framings over time, and a single verse can start to feel "used up." This field exists as the standing reference (outside the live sequence — see [[Covenant Identity — Author-Framework Mapping]]) that the spacing effect says is needed for the truth to stay resilient against recurrence.
 
 ---
 
