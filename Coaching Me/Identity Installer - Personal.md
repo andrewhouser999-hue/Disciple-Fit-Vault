@@ -78,6 +78,7 @@ Read every Identity Statement that follows as a statement about what is already 
 ## 1. Beloved Child of God
 
 **This activates when:**
+> Out of work for a time with no income in view when God seems silent. I begin to feel abandoned, God Representation revealed as God is indifferent towards me, He leaves me to my circumstances for me to fend for myself. I must not be beloved but, disgusting to Him. I become a beggar taking crumbs.
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **Identity Statement:**
@@ -87,6 +88,8 @@ Read every Identity Statement that follows as a statement about what is already 
 > "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!" — 1 John 3:1
 
 **My Evidence:**
+>- Having PTSD, almost lost my house, God provided last minute, .... showed me my what striving gets
+>- 
 >- Jesus waited for me to confess and reach out to him for salvation. He immediately responded with SALVATION. He saved me. He saved me from the clutches of death and sin. He renewed me with His life. He showed me Him on the cross taking my punishment and me on the cross. He paid the price for me. That I may Live and live in abundance. He is my abundance.  I was made new, such that my life took on brand newness. My desires transformed from sin to savior. My brother Scott noticed and was saved. His life transformed. Oh the love I have for Scott. 
 >- I have grown to trust His hand of provision.
 >- I was laying in bed feeling the full force of being let go from GU. God gave me a vision of a ruby red heart teaming with life, covered in fresh cuts and old scars. I looked in wonder and said, "that is how my heart feels." God drawing near said, "that is what I have done to/for you that there may be more room for Me."
