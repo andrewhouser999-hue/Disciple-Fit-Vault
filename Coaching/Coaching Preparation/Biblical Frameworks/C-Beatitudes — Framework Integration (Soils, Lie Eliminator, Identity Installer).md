@@ -425,6 +425,9 @@ The Identity Installer is built on Ephesians 4:22–24: **Put Off → Renew → 
 
 ### The Seven-Part Identity Format Applied — Example: B3 Meekness
 
+**What I'm Putting Off:**
+The need to win arguments, defend my position, control outcomes, or assert myself to feel secure.
+
 **Identity Statement:**
 *"I am someone with controlled strength — power that doesn't need to prove itself."*
 
@@ -433,9 +436,6 @@ The Identity Installer is built on Ephesians 4:22–24: **Put Off → Renew → 
 
 **My Evidence:**
 *(Client-specific — where has the client exhibited strength under control rather than ego-driven assertion? What mastery experiences document this identity?)*
-
-**What I'm Putting Off:**
-The need to win arguments, defend my position, control outcomes, or assert myself to feel secure.
 
 **What I'm Putting On:**
 The freedom of someone who has nothing to prove. Strength directed by values, not by threat.
@@ -705,8 +705,8 @@ STEP 4 — INSTALL THE IDENTITY
 What is the new identity statement this Beatitude produces?
 What goes off? What goes on? What does it feel like?
 (Identity Installer — 7-part format:
-Identity Statement → Anchor Verse → My Evidence →
-What I'm Putting Off → What I'm Putting On →
+What I'm Putting Off → Identity Statement → Anchor Verse →
+My Evidence → What I'm Putting On →
 The Felt Sense → Today I Will)
 
         ↓
@@ -744,10 +744,10 @@ Together, the complete system:
 ## Next Steps from This Integration
 
 **A — Build Beatitude Identity Installer entries:**
-Nine complete 7-part identity documents, one per Beatitude, to be added to or alongside the Identity Installer. Each one follows the full format: Identity Statement → Anchor Verse → My Evidence → What I'm Putting Off → What I'm Putting On → The Felt Sense → Today I Will.
+Nine complete 7-part identity documents, one per Beatitude, to be added to or alongside the Identity Installer. Each one follows the full format: What I'm Putting Off → Identity Statement → Anchor Verse → My Evidence → What I'm Putting On → The Felt Sense → Today I Will.
 
 **B — Add six new lies to the Lie Eliminator:**
-The six lies the Beatitudes exposed that are not currently in the Lie Eliminator. Each one requires the full 7-part format: Who God Is → Who I Am → His Promise → The Lie → Personal Declaration → Therefore I Will → Scripture Arsenal.
+The six lies the Beatitudes exposed that are not currently in the Lie Eliminator. Each one requires the full 7-part format: The Lie → Who God Is → Who I Am → His Promise → Personal Declaration → Therefore I Will → Scripture Arsenal.
 
 New entries:
 1. Meekness means weakness / doormat

@@ -81,6 +81,9 @@ Read every Identity Statement that follows as a statement about what is already 
 > Out of work for a time with no income in view when God seems silent. I begin to feel abandoned, God Representation revealed as God is indifferent towards me, He leaves me to my circumstances for me to fend for myself. I must not be beloved but, disgusting to Him. I become a beggar taking crumbs.
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the orphan — the one who strives, hides, and performs to earn love that was already freely given.
+
 **Identity Statement:**
 > I am a beloved child of God — chosen, accepted, and delighted in — not because of what I do, but because of who He is.
 
@@ -105,9 +108,6 @@ Read every Identity Statement that follows as a statement about what is already 
 **Human Witness:**
 > The only human witness is me and Jesus. 
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the orphan — the one who strives, hides, and performs to earn love that was already freely given.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -135,7 +135,11 @@ Read every Identity Statement that follows as a statement about what is already 
 ## 2. New Creation
 
 **This activates when:**
+> When my old patterns emerge and I am feeling disconnected from the Father. When I witness my family patterns of iniquity and am connected to my pain of origin, in particular while I am experiencing my expression of the old pattern.
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
+**What I'm Putting Off:**
+> I renounce the identity inherited from my family's patterns, my past failures, and the labels placed on me before I knew Christ and after. They have no legal claim on who I am now.
 
 **Identity Statement:**
 > I am a new creation in Christ. My history does not define me. My bloodline does not own me. The old is gone.
@@ -154,16 +158,17 @@ Read every Identity Statement that follows as a statement about what is already 
 > I chose to do the work against generational curses. 
 > I choose faith in times of fear out of my growing love for Him, celebrating what is true of Him, knowing His promises to provide. 
 > I grew to believe God over others.
-> I have fruit...starting with repentance, trusting Him over fearing, surrendered unforgiveness, believed in Christ not men, said no to pride and insecurity, asked for forgiveness, love the Children of Christ/Body of Christ.
+> I have fruit...starting with repentance, trusting Him over fearing, surrendered unforgiveness, believed in Christ not men, said no to pride and insecurity, asked for forgiveness, love the Children of Christ/Body of Christ. 
+> Chose to love on and care for Sk through the worst of times 
+> Chose to find interest in coworkers despite poor treatment
 > 
 > *(Write one sentence — a moment where you witnessed the new creation reality overtaking an old pattern.)*
 > Example: "When I responded with patience in a situation that used to trigger my old anger — I knew something had actually changed in me."
 
 **Human Witness:**
+> Devin named me as not selling out
+> 
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity inherited from my family's patterns, my past failures, and the labels placed on me before I knew Christ and after. They have no legal claim on who I am now.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -191,6 +196,10 @@ Read every Identity Statement that follows as a statement about what is already 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the condemned — the one who keeps a tally of failures and believes they disqualify me from God's presence. 
+> I renounce the identity with the sinful state -- the old nature that was done away with. 
+
 **Identity Statement:**
 > I am the righteousness of God in Christ Jesus. I do not stand before God in my own record — I stand in Christ's.
 
@@ -208,9 +217,6 @@ Read every Identity Statement that follows as a statement about what is already 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the condemned — the one who keeps a tally of failures and believes they disqualify me from God's presence. I renounce the identity with sinful state -- the old nature that was done away with. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -236,6 +242,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the accidental — the one who stumbled into life without purpose or direction.
+
 **Identity Statement:**
 > I was chosen before the foundation of the world. My calling is not an accident — it is a divine appointment.
 
@@ -259,9 +268,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the accidental — the one who stumbled into life without purpose or direction.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -287,6 +293,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the captive — the one still living as if the chains are intact.
+
 **Identity Statement:**
 > I am redeemed — bought back, restored, and transferred out of every domain that once owned me.
 
@@ -307,9 +316,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
 
-**What I'm Putting Off:**
-> I renounce the identity of the captive — the one still living as if the chains are intact.
-
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
 > The price has been paid in full. I am not partially redeemed or provisionally free — I am fully and finally bought back. The enemy has no legal claim on my life, my mind, or my future. I live on the other side of the transaction.
@@ -329,6 +335,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the victim — the one defined by what has been done to them rather than by who God has made them.
+
 **Identity Statement:**
 > I do not merely survive trials — I am more than a conqueror through Christ who loves me.
 
@@ -342,9 +351,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the victim — the one defined by what has been done to them rather than by who God has made them.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -364,6 +370,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the hidden — the one who shrinks, dims, or apologizes for taking up space.
+
 **Identity Statement:**
 > I am the light of the world. Darkness does not define me — I define the darkness.
 
@@ -376,9 +385,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the hidden — the one who shrinks, dims, or apologizes for taking up space.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -397,6 +403,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the empty — the one who lives as if God is distant, theoretical, or absent from daily life.
+
 **Identity Statement:**
 > My body is not my own — it is the dwelling place of the Holy Spirit of God.
 
@@ -409,9 +418,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the empty — the one who lives as if God is distant, theoretical, or absent from daily life.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -430,6 +436,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the beggar — the one who approaches God's throne as if barely welcome, asking for scraps.
+
 **Identity Statement:**
 > I am a co-heir with Christ — inheriting everything the Son inherits from the Father.
 
@@ -442,9 +451,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the beggar — the one who approaches God's throne as if barely welcome, asking for scraps.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -463,6 +469,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the bystander — the one who watches the world without engaging it, waiting for someone more qualified to speak.
+
 **Identity Statement:**
 > I am Christ's ambassador — his official representative on earth, carrying his message with his authority.
 
@@ -475,9 +484,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the bystander — the one who watches the world without engaging it, waiting for someone more qualified to speak.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -496,6 +502,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the guilty — the one who keeps reopening cases God has already closed and sealed with the blood of Christ.
+
 **Identity Statement:**
 > I am fully and finally forgiven. My past has no prosecution rights over my present.
 
@@ -508,9 +517,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the guilty — the one who keeps reopening cases God has already closed and sealed with the blood of Christ.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -529,6 +535,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the purposeless — the one drifting through life waiting for meaning to find them.
+
 **Identity Statement:**
 > I was not born by accident and I will not die without having fulfilled what God placed me here to do.
 
@@ -545,9 +554,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the purposeless — the one drifting through life waiting for meaning to find them.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -566,6 +572,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the invisible — the one who moves through life unseen, unnamed, and uncounted.
+
 **Identity Statement:**
 > I am fully known by God — every detail, every wound, every hidden thing — and fully loved without condition.
 
@@ -580,9 +589,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the invisible — the one who moves through life unseen, unnamed, and uncounted.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -601,6 +607,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the depleted — the one who measures capacity by what they can produce on their own.
+
 **Identity Statement:**
 > I am not operating on natural capacity alone. The Spirit of the resurrected Christ lives and works in me.
 
@@ -613,9 +622,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the depleted — the one who measures capacity by what they can produce on their own.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -634,6 +640,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the fragile — the one whose sense of self rises and falls with the approval, opinions, or outcomes of the day.
+
 **Identity Statement:**
 > My identity is hidden with Christ in God. What the world says about me cannot touch what God has declared over me.
 
@@ -646,9 +655,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the fragile — the one whose sense of self rises and falls with the approval, opinions, or outcomes of the day.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -667,6 +673,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the barren — the one who believes their life produces nothing of lasting value.
+
 **Identity Statement:**
 > I was appointed to bear lasting fruit. Fruitfulness in God's kingdom is not earned by striving — it flows from abiding.
 
@@ -679,9 +688,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the barren — the one who believes their life produces nothing of lasting value.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -700,6 +706,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the defeated — the one who has accepted loss as permanent and resistance as futile.
+
 **Identity Statement:**
 > I overcome not by my own strength or strategy, but by the blood of the Lamb and the word of my testimony.
 
@@ -712,9 +721,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the defeated — the one who has accepted loss as permanent and resistance as futile.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -733,6 +739,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the common — the one who blends in, conforms, and shrinks their distinctiveness to avoid standing out.
+
 **Identity Statement:**
 > I am holy — not because I am perfect, but because I have been set apart by God for his purposes.
 
@@ -745,9 +754,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the common — the one who blends in, conforms, and shrinks their distinctiveness to avoid standing out.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -766,6 +772,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the unlovable — the one who believes that if people truly knew them, love would be withdrawn.
+
 **Identity Statement:**
 > I am the object of an everlasting, unconditional love that preceded my birth and will outlast my death.
 
@@ -778,9 +787,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the unlovable — the one who believes that if people truly knew them, love would be withdrawn.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -799,6 +805,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the condemned — the one living under a perpetual sense of not being enough, always one failure away from losing everything.
+
 **Identity Statement:**
 > There is no condemnation for me. The verdict has been declared — and it cannot be appealed.
 
@@ -811,9 +820,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the condemned — the one living under a perpetual sense of not being enough, always one failure away from losing everything.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -832,6 +838,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the anxious — the one who defaults to worry as a first response and treats peace as a rare luxury rather than a birthright.
+
 **Identity Statement:**
 > I carry a peace that the world cannot manufacture and circumstances cannot remove.
 
@@ -844,9 +853,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the anxious — the one who defaults to worry as a first response and treats peace as a rare luxury rather than a birthright.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -865,6 +871,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the unstable — the one blown about by every shift in circumstances, relationships, or emotions.
+
 **Identity Statement:**
 > I am rooted in Christ — stable, grounded, and able to withstand what would uproot a person without a foundation.
 
@@ -877,9 +886,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the unstable — the one blown about by every shift in circumstances, relationships, or emotions.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
@@ -898,6 +904,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
+**What I'm Putting Off:**
+> I renounce the identity of the performance-coach — the one who needs to appear polished, resolved, and fully healed before they are credible. That is not a coach. That is a facade. I am not selling an image. I am carrying a presence.
+
 **Identity Statement:**
 > I am a coach called by God — not because I am finished, but because I have been comforted and am willing to carry that comfort to others. My unfinished process is not a liability. It is my access point.
 
@@ -912,9 +921,6 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
-**What I'm Putting Off:**
-> I renounce the identity of the performance-coach — the one who needs to appear polished, resolved, and fully healed before they are credible. That is not a coach. That is a facade. I am not selling an image. I am carrying a presence.
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*

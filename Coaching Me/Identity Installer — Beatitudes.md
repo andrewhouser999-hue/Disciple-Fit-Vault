@@ -31,6 +31,11 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 
 ---
 
+**What I'm Putting Off**
+The self that earns. The self that manages its own spiritual standing. The performance of competence before God. The posture of "I've got this." The exhaustion of maintaining a version of myself that God has never required.
+
+---
+
 **Identity Statement**
 I am someone who has stopped pretending I can manage my own standing before God. I bring nothing — and receive everything. The kingdom is not something I qualify for. It is something I receive when I stop qualifying.
 
@@ -71,11 +76,6 @@ I am someone who has stopped pretending I can manage my own standing before God.
 
 ---
 
-**What I'm Putting Off**
-The self that earns. The self that manages its own spiritual standing. The performance of competence before God. The posture of "I've got this." The exhaustion of maintaining a version of myself that God has never required.
-
----
-
 **What I'm Putting On**
 *(Speak aloud — in Jesus' name.)*
 The posture of the *anawim* — the humble poor who depend entirely on God. The freedom of someone who has stopped pretending. The lightness of arriving empty-handed and being welcomed anyway. The confidence of a son who has been adopted, not an employee who has been evaluated.
@@ -94,6 +94,11 @@ Approach God without a spiritual resume. When the impulse to manage my standing 
 
 ## B2 — Mourning
 ### "Blessed are those who mourn, for they will be comforted." — Matthew 5:4
+
+---
+
+**What I'm Putting Off**
+The performed strength that sits over real pain. The internal voice that says "pull yourself together." The timeline shame — "I should be over this by now." The theology that treats grief as a lack of faith. The suppression that compresses grief and calls it maturity.
 
 ---
 
@@ -131,11 +136,6 @@ I am someone whose grief is not a failure of faith or life — it is the honest 
 
 ---
 
-**What I'm Putting Off**
-The performed strength that sits over real pain. The internal voice that says "pull yourself together." The timeline shame — "I should be over this by now." The theology that treats grief as a lack of faith. The suppression that compresses grief and calls it maturity.
-
----
-
 **What I'm Putting On**
 *(Speak aloud — in Jesus' name.)*
 The posture of *penthountes* — deep, honest mourning that does not perform and does not suppress. The willingness to let what is broken be broken in God's presence. The trust that the comfort he promises is real and that it comes to those who grieve, not to those who manage their grief away.
@@ -156,6 +156,11 @@ Name one thing I have not fully mourned. Bring it to God without managing it. Si
 
 ## B3 — Meekness
 ### "Blessed are the meek, for they will inherit the earth." — Matthew 5:5
+
+---
+
+**What I'm Putting Off**
+The ego-driven assertion. The need to win, to defend, to control outcomes in order to feel secure. The posture that requires dominance to feel strong. The exhausting vigilance of always managing my standing in the room. The confusing of aggression with strength and gentleness with weakness.
 
 ---
 
@@ -184,11 +189,6 @@ I am someone with controlled strength — power that does not need to prove itse
 
 ---
 
-**What I'm Putting Off**
-The ego-driven assertion. The need to win, to defend, to control outcomes in order to feel secure. The posture that requires dominance to feel strong. The exhausting vigilance of always managing my standing in the room. The confusing of aggression with strength and gentleness with weakness.
-
----
-
 **What I'm Putting On**
 *(Speak aloud — in Jesus' name.)*
 The posture of *praus* — controlled strength. The freedom of someone who has nothing to prove. Power directed by values, not by threat. The capacity to yield when yielding is right and to act with full force when action is right — from the same stable place, without ego in the driver's seat.
@@ -209,6 +209,11 @@ In the situation where I typically assert to regain control or protect position 
 
 ## B4 — Hunger and Thirst for Righteousness
 ### "Blessed are those who hunger and thirst for righteousness, for they will be filled." — Matthew 5:6
+
+---
+
+**What I'm Putting Off**
+The obligation-driven spiritual life — doing the right things to avoid the wrong outcomes. The avoidance-based faith that is motivated by fear of failure rather than desire for God. The comfort that wins the daily contest against righteousness. The hunger misdirected toward approval, ease, and security.
 
 ---
 
@@ -240,11 +245,6 @@ I am someone who genuinely wants what God wants — not because I should, but be
 
 ---
 
-**What I'm Putting Off**
-The obligation-driven spiritual life — doing the right things to avoid the wrong outcomes. The avoidance-based faith that is motivated by fear of failure rather than desire for God. The comfort that wins the daily contest against righteousness. The hunger misdirected toward approval, ease, and security.
-
----
-
 **What I'm Putting On**
 *(Speak aloud — in Jesus' name.)*
 The posture of *peinontes kai dipsontes* — survival-level, ongoing, urgent desire. Approach motivation: moving urgently toward what is right, not away from what is wrong. The hunger directed both vertically (right relationship with God, personal holiness) and horizontally (right ordering of relationships, justice in the world).
@@ -268,6 +268,11 @@ Ask the honest question: *"Do I actually want this — or am I performing wantin
 
 ---
 
+**What I'm Putting Off**
+The demand that others deserve before they receive. The withheld compassion justified as fairness. The all-or-nothing judgment that collapses a complex person into a single label. The fear that mercy equals exploitation. The confusion of mercy with enabling.
+
+---
+
 **Identity Statement**
 I am a carrier of mercy I did not earn. I received it when I did not deserve it. I pass it on for the same reason — not because the other person has qualified, but because mercy is not a reward. It is what moves in the kingdom economy. I am the conduit, not the judge.
 
@@ -286,11 +291,6 @@ I am a carrier of mercy I did not earn. I received it when I did not deserve it.
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
----
-
-**What I'm Putting Off**
-The demand that others deserve before they receive. The withheld compassion justified as fairness. The all-or-nothing judgment that collapses a complex person into a single label. The fear that mercy equals exploitation. The confusion of mercy with enabling.
 
 ---
 
@@ -317,6 +317,11 @@ Identify one person from whom I am withholding mercy — and ask: *"What mercy h
 
 ---
 
+**What I'm Putting Off**
+Double-mindedness. The divided allegiance that wants God AND comfort, God AND approval, God AND the thing that hasn't been released. The behavioral compliance that masks a divided desire. The indefinite deferral of the core choice: *"I'll deal with it later."* The self-deception that mixed motives don't matter if the behavior is correct.
+
+---
+
 **Identity Statement**
 I am someone who is becoming undivided. My deepest desire is being consolidated around one thing. I am not there yet — but I am no longer pretending the division isn't real. I am naming the competing master. I am choosing the primary one. And the undivided heart — the heart being made clean — sees God.
 
@@ -335,11 +340,6 @@ I am someone who is becoming undivided. My deepest desire is being consolidated 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
----
-
-**What I'm Putting Off**
-Double-mindedness. The divided allegiance that wants God AND comfort, God AND approval, God AND the thing that hasn't been released. The behavioral compliance that masks a divided desire. The indefinite deferral of the core choice: *"I'll deal with it later."* The self-deception that mixed motives don't matter if the behavior is correct.
 
 ---
 
@@ -366,6 +366,11 @@ Name the competing master specifically — not in general terms but the specific
 
 ---
 
+**What I'm Putting Off**
+Peacekeeping — the suppression of conflict to reduce my immediate discomfort. The bystander posture: "it's not my job." The hopelessness that forecloses engagement before it begins. The all-or-nothing standard that requires full resolution or refuses to attempt partial restoration. The passivity dressed as wisdom.
+
+---
+
 **Identity Statement**
 I am a maker of shalom — not a keeper of peace. I do not suppress conflict to reduce my discomfort. I engage conflict in service of restoration. When I do this, I look most like God. Not because it is easy or because I am naturally equipped for it, but because this is what the Father does — and I carry the family resemblance.
 
@@ -386,11 +391,6 @@ I am a maker of shalom — not a keeper of peace. I do not suppress conflict to 
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
----
-
-**What I'm Putting Off**
-Peacekeeping — the suppression of conflict to reduce my immediate discomfort. The bystander posture: "it's not my job." The hopelessness that forecloses engagement before it begins. The all-or-nothing standard that requires full resolution or refuses to attempt partial restoration. The passivity dressed as wisdom.
 
 ---
 
@@ -417,6 +417,11 @@ Identify one fractured relationship in my sphere — my own or between others �
 
 ---
 
+**What I'm Putting Off**
+The interpretation that suffering means failure. The prosperity gospel assumption: a blessed life should be smooth. The incremental retreat — compromising to make the opposition stop, framed as wisdom. The self-doubt that says: *"Good people don't get treated this way."* The self-protection that prioritizes comfort over fidelity.
+
+---
+
 **Identity Statement**
 I am someone whose identity does not depend on this resolving in my favor. The opposition I am facing is not evidence that I am off track — it is the cost of being on track. The kingdom that belongs to the empty-handed (B1) belongs equally to the emptied-further (B8). My standing is not determined by how this turns out. It is settled.
 
@@ -435,11 +440,6 @@ I am someone whose identity does not depend on this resolving in my favor. The o
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
----
-
-**What I'm Putting Off**
-The interpretation that suffering means failure. The prosperity gospel assumption: a blessed life should be smooth. The incremental retreat — compromising to make the opposition stop, framed as wisdom. The self-doubt that says: *"Good people don't get treated this way."* The self-protection that prioritizes comfort over fidelity.
 
 ---
 
@@ -466,6 +466,11 @@ Diagnose accurately: is what I am facing persecution for righteousness, or conse
 
 ---
 
+**What I'm Putting Off**
+Identity located in others' accurate perception of me. The desperate need to correct the record. The over-defense that consumes everything and often amplifies rather than resolves. The capitulation — slowly beginning to believe the lie under the pressure of its repetition. The peace that is held hostage to an outcome I cannot control.
+
+---
+
 **Identity Statement**
 I am someone whose identity cannot be reached by what others say about me. The false accusation is a story someone else is telling. It is not the verdict. What God says about me is the verdict — and that does not move when the accusation spreads, when people believe it, or when I cannot correct it. I am who God says I am. That is the only identity that holds under this kind of pressure.
 
@@ -484,11 +489,6 @@ I am someone whose identity cannot be reached by what others say about me. The f
 
 **Human Witness:**
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
-
----
-
-**What I'm Putting Off**
-Identity located in others' accurate perception of me. The desperate need to correct the record. The over-defense that consumes everything and often amplifies rather than resolves. The capitulation — slowly beginning to believe the lie under the pressure of its repetition. The peace that is held hostage to an outcome I cannot control.
 
 ---
 

@@ -39,6 +39,9 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 
 ### Lie — Meekness Means Weakness / Doormat
 
+**The Lie I've Believed:**
+> *"Meekness means being passive, soft, and easily exploited. If I am gentle, people will walk over me. Strength requires dominance. Yielding means losing."*
+
 **Who God Is:**
 > *"Take my yoke upon you and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls."* — Matthew 11:29
 
@@ -56,9 +59,6 @@ The inheritance is not seized. It is received. What the aggressive spend everyth
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"Meekness means being passive, soft, and easily exploited. If I am gentle, people will walk over me. Strength requires dominance. Yielding means losing."*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -87,6 +87,9 @@ The inheritance is not seized. It is received. What the aggressive spend everyth
 
 ### Lie — Mourning Means I Lack Faith
 
+**The Lie I've Believed:**
+> *"If I were really trusting God, I wouldn't feel this. Grief is a lack of faith. Strong Christians move through pain quickly. I should be further along. The fact that I'm still feeling this means something is spiritually wrong with me."*
+
 **Who God Is:**
 > *"The LORD is near to the brokenhearted and saves the crushed in spirit."* — Psalm 34:18
 
@@ -104,9 +107,6 @@ The joy is real. It comes. But it comes after the night — not instead of it.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"If I were really trusting God, I wouldn't feel this. Grief is a lack of faith. Strong Christians move through pain quickly. I should be further along. The fact that I'm still feeling this means something is spiritually wrong with me."*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -136,6 +136,9 @@ The joy is real. It comes. But it comes after the night — not instead of it.
 
 ### Lie — My Mixed Motives Don't Matter If I Do the Right Thing
 
+**The Lie I've Believed:**
+> *"What matters is that I do the right thing. My internal motives are between me and God — and they don't affect the outcome. Mixed motives are just part of being human. Behavioral compliance is enough."*
+
 **Who God Is:**
 > *"The LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart."* — 1 Samuel 16:7
 
@@ -153,9 +156,6 @@ The pure in heart do not just behave differently — they perceive differently. 
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"What matters is that I do the right thing. My internal motives are between me and God — and they don't affect the outcome. Mixed motives are just part of being human. Behavioral compliance is enough."*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -185,6 +185,9 @@ The pure in heart do not just behave differently — they perceive differently. 
 
 ### Lie — Peace Means Avoiding Conflict
 
+**The Lie I've Believed:**
+> *"Peace means keeping things quiet. Conflict is inherently harmful and should be avoided. If I stay out of it, things will settle down. Engaging will make it worse. Keeping the peace is the same thing as making peace."*
+
 **Who God Is:**
 > *"For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross."* — Colossians 1:19–20
 
@@ -202,9 +205,6 @@ The command is to pursue peace actively — not to avoid conflict passively. The
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"Peace means keeping things quiet. Conflict is inherently harmful and should be avoided. If I stay out of it, things will settle down. Engaging will make it worse. Keeping the peace is the same thing as making peace."*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -233,6 +233,9 @@ The command is to pursue peace actively — not to avoid conflict passively. The
 
 ### Lie — If I'm Suffering, I Must Be Doing Something Wrong
 
+**The Lie I've Believed:**
+> *"If I were really walking right with God, things would go more smoothly. Suffering is evidence that I've done something wrong, that I'm off track, or that God is displeased with me. A blessed life should be characterized by ease, not opposition."*
+
 **Who God Is:**
 > *"When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you."* — Isaiah 43:2
 
@@ -250,9 +253,6 @@ The kingdom is present tense — not a future consolation for present suffering.
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"If I were really walking right with God, things would go more smoothly. Suffering is evidence that I've done something wrong, that I'm off track, or that God is displeased with me. A blessed life should be characterized by ease, not opposition."*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
@@ -275,6 +275,9 @@ The kingdom is present tense — not a future consolation for present suffering.
 
 ### Lie — I Need People to Understand Me Correctly Before I Can Have Peace
 
+**The Lie I've Believed:**
+> *"I cannot be at peace until the people who misunderstand me — who believe the false thing about me — are corrected. My peace depends on the record being set straight. If the accusation is still out there, believed by people, I cannot rest. I need to control the narrative before I can settle."*
+
 **Who God Is:**
 > *"'Vengeance is mine, I will repay,' says the Lord."* — Romans 12:19
 
@@ -292,9 +295,6 @@ The reward is real. The vindication is coming. It is simply not always coming on
 
 **Who Has Witnessed This Truth:**
 > *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
-
-**The Lie I've Believed:**
-> *"I cannot be at peace until the people who misunderstand me — who believe the false thing about me — are corrected. My peace depends on the record being set straight. If the accusation is still out there, believed by people, I cannot rest. I need to control the narrative before I can settle."*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
