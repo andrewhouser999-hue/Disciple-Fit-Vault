@@ -30,6 +30,7 @@ Read them in that order once before your first engagement. The first three estab
 |---|---|---|
 | [[Covenant Identity — Integration Rationale]] | *Why* these contributors and this framework — governing position, integration criteria, what is and is not imported | Read once for theoretical grounding; consult when integration questions arise |
 | [[Covenant Identity — Whole-Person Identity Framework]] | The anatomy of identity: given/distorted/renewed, soul's faculties, five dimensions, diagnostic layer | Conceptual frame for all sessions; primary reference for what the coach is looking for |
+| [[Covenant Identity — Biblical Foundations Index]] | Single index mapping each architectural/methodological decision in the model (governing frame, diagnostic layer, ten-layer architecture, telos, Identity Installer/Lie Eliminator, Secured in Father) to its scriptural grounding and the document with the full exegetical case | Consult when a design decision is questioned or extended — check here before assuming no grounding exists |
 
 ### Diagnostic Sequence
 | Document | Function | When to Use |
