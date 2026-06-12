@@ -100,6 +100,7 @@ Read every Identity Statement that follows as a statement about what is already 
 >
 
 **Human Witness:**
+> The only human witness is me and Jesus. 
 > *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
 
 **What I'm Putting Off:**
