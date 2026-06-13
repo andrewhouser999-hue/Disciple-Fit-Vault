@@ -379,7 +379,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 7. Light of the World
 *Old pattern: the hidden*
-*Other words that resonate:*
+*Other words that resonate:* standard issue,
 
 **This activates when:**
 > When others define their experience of me as unimpressive, distasteful, 
