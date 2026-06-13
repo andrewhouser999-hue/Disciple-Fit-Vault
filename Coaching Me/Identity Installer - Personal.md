@@ -76,6 +76,8 @@ Read every Identity Statement that follows as a statement about what is already 
 
 
 ## 1. Beloved Child of God
+*Old pattern: the orphan*
+*Other words that resonate:* unworthy  
 
 **This activates when:**
 > Out of work for a time with no income in view when God seems silent. I begin to feel abandoned, God Representation revealed as God is indifferent towards me, He leaves me to my circumstances for me to fend for myself. I must not be beloved but, disgusting to Him. I become a beggar taking crumbs.
@@ -133,6 +135,8 @@ Read every Identity Statement that follows as a statement about what is already 
 ---
 
 ## 2. New Creation
+*Old pattern: the old self*
+*Other words that resonate:*  disobedient 
 
 **This activates when:**
 > When my old patterns emerge and I am feeling disconnected from the Father. When I witness my family patterns of iniquity and am connected to my pain of origin, in particular while I am experiencing my expression of the old pattern.
@@ -192,6 +196,8 @@ Read every Identity Statement that follows as a statement about what is already 
 ---
 
 ## 3. The Righteousness of God
+*Old pattern: the impure*
+*Other words that resonate:* disqualified, rejected, unacceptable
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -238,6 +244,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 4. Chosen and Called
+*Old pattern: the accidental*
+*Other words that resonate:* irrelevant, unimportant, insignificant, not enough for a calling 
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -289,6 +297,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 5. Redeemed
+*Old pattern: the captive*
+*Other words that resonate:* inadequate, rejectable, to be controlled
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -331,6 +341,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 6. More Than a Conqueror
+*Old pattern: the victim*
+*Other words that resonate:* 
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -366,8 +378,11 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 7. Light of the World
+*Old pattern: the hidden*
+*Other words that resonate:*
 
 **This activates when:**
+> When others define their experience of me as unimpressive, distasteful, 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
@@ -399,6 +414,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 8. Temple of the Holy Spirit
+*Old pattern: the empty*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -432,6 +449,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 9. Co-heir with Christ
+*Old pattern: the beggar*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -465,6 +484,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 10. Ambassador of Christ
+*Old pattern: the bystander*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -498,6 +519,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 11. Forgiven and Free
+*Old pattern: the guilty*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -531,6 +554,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 12. Filled with Purpose
+*Old pattern: the purposeless*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -568,6 +593,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 13. Known and Seen
+*Old pattern: the invisible*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -603,6 +630,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 14. Empowered
+*Old pattern: the depleted*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -636,6 +665,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 15. Secure and Unshakeable
+*Old pattern: the fragile*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -669,6 +700,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 16. Fruit-Bearer
+*Old pattern: the barren*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -702,6 +735,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 17. Overcomer
+*Old pattern: the defeated*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -735,6 +770,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 18. Holy and Set Apart
+*Old pattern: the common*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -768,6 +805,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 19. Deeply and Permanently Loved
+*Old pattern: the unlovable*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -801,6 +840,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 20. Free from Condemnation
+*Old pattern: the condemned*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -834,6 +875,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 21. Carrier of Peace
+*Old pattern: the anxious*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -867,6 +910,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 22. Rooted and Established
+*Old pattern: the unstable*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
@@ -900,6 +945,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 ## 23. Called as Coach
+*Old pattern: the performance-coach*
+*Other words that resonate:*
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
