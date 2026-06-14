@@ -1,8 +1,16 @@
 
 Quiet Notes:
+
+Ongoing Thing:
 Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
 
- 
+ -2 Corinthians 3:16–18 — "When one turns (ἐπιστρέψῃ) to the Lord, the veil is removed... we, with unveiled face, beholding (κατοπτριζόμενοι) the glory of the Lord, are being transformed (μεταμορφούμεθα — same verb as the Transfiguration) into the same image... from the Lord who is the Spirit."
+ This may be the most important text for your model. The mechanism is explicitly: turning → unveiling → beholding → being transformed, and the agent of transformation is named as "the Lord who is the Spirit." Note the verb is passive — "are being transformed," not "transform yourselves." The human act (turning, beholding) creates the condition; the transformation itself is received.
+
+First Thing:
+- Psalm 51:10, 17 — "Create (ארָ בָּ   — the Genesis 1 creation verb) in me a clean heart... a broken and contrite heart, O God, you will not despise."
+  Contrition as the posture that precedes/correlates with renewal.
+
  **Correct Framework**
  Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
 
