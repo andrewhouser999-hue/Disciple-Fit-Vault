@@ -1,6 +1,6 @@
 
 Quiet Notes:
-
+Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
 
  
  **Correct Framework**
