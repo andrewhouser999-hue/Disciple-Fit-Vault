@@ -4,6 +4,7 @@ Quiet Notes:
 Ongoing Thing:
 Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
 
+Most Important Thing
  -2 Corinthians 3:16–18 — "When one turns (ἐπιστρέψῃ) to the Lord, the veil is removed... we, with unveiled face, beholding (κατοπτριζόμενοι) the glory of the Lord, are being transformed (μεταμορφούμεθα — same verb as the Transfiguration) into the same image... from the Lord who is the Spirit."
  This may be the most important text for your model. The mechanism is explicitly: turning → unveiling → beholding → being transformed, and the agent of transformation is named as "the Lord who is the Spirit." Note the verb is passive — "are being transformed," not "transform yourselves." The human act (turning, beholding) creates the condition; the transformation itself is received.
 
