@@ -20,7 +20,7 @@ First Thing:
 
 Training up
 - Wesleyan "means of grace" reading: There are real, divinely-appointed channels (prayer, Scripture, sacrament, fasting, fellowship) through which grace ordinarily flows — not meritorious, but genuinely conditional in a covenantal sense, because God has bound himself to work this way. This is the tradition Dallas Willard draws from most directly, and it's the most natural fit for "conditions" language.
-- Add to this Training as a mens of grace not a formula or legalistic framework
+- Add to this **Training as a means of grace** not a formula or legalistic framework
 
 
  **Correct Framework**
