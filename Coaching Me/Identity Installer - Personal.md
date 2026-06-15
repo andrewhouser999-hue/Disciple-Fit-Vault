@@ -12,6 +12,12 @@ tags:
 > - **Daily:** Read your Identity Statement and *Today I Will* for one category.
 > - **Weekly:** Sit with one full category — including the Felt Sense question.
 > - **Monthly:** Update *My Evidence* as God confirms each truth in your life.
+> - **When a category shifts:**
+>   - **Flat** — reading *What I'm Putting Off* no longer produces a charge. It reads like a fact about your history, not a live description of you now. None of the bracing or recognition-jolt that *Holding Both* describes shows up.
+>   - **Displaced** — in the *Holding Both* exercise, the felt sense of the new identity has moved into the place in your body where the old pattern used to live. The old location now produces the new feeling, not the old one.
+>   - **Integrated** — displacement held the next time the real "This activates when" situation actually occurred — not just in reflection. Mark the category by adding a line under *Other words that resonate*: `*Integrated: YYYY-MM-DD — held under the actual trigger*`
+>
+>   Integrated categories drop out of active rotation for *What I'm Putting Off* and *Holding Both*. Keep them in the *My Evidence* (monthly) and *Today I Will* (occasional) rotation so the new identity stays embodied. If the old pattern resurfaces under pressure, remove the marker and resume full rotation for that category.
 
 ---
 
@@ -342,13 +348,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 6. More Than a Conqueror
 *Old pattern: the victim*
-*Other words that resonate:* 
+*Other words that resonate:* Beaten, inadequate
 
 **This activates when:**
-> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+>- Wanting to be more according to worldly standards.
+>- Being brought down in the minds of others
+>- Unable to achieve, move forward
+>- Connecting to what I don't have; to my weaknesses, personal lack
+*(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the victim — the one defined by what has been done to them rather than by who God has made them.
+> I renounce the identity of the victim — the one defined by what has been done to me rather than by who God has made me.
 
 **Identity Statement:**
 > I do not merely survive trials — I am more than a conqueror through Christ who loves me.
@@ -379,7 +389,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 7. Light of the World
 *Old pattern: the hidden*
-*Other words that resonate:* standard issue,
+*Other words that resonate:* 
 
 **This activates when:**
 > When others define their experience of me as unimpressive, distasteful, 
@@ -561,7 +571,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the purposeless — the one drifting through life waiting for meaning to find them.
+> I renounce the identity of the purposeless — the one drifting through life waiting for meaning to find me.
 
 **Identity Statement:**
 > I was not born by accident and I will not die without having fulfilled what God placed me here to do.
@@ -637,7 +647,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the depleted — the one who measures capacity by what they can produce on their own.
+> I renounce the identity of the depleted — the one who measures capacity by what I can produce on my own.
 
 **Identity Statement:**
 > I am not operating on natural capacity alone. The Spirit of the resurrected Christ lives and works in me.
@@ -707,7 +717,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the barren — the one who believes their life produces nothing of lasting value.
+> I renounce the identity of the barren — the one who believes my life produces nothing of lasting value.
 
 **Identity Statement:**
 > I was appointed to bear lasting fruit. Fruitfulness in God's kingdom is not earned by striving — it flows from abiding.
@@ -771,13 +781,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 18. Holy and Set Apart
 *Old pattern: the common*
-*Other words that resonate:*
+*Other words that resonate:* sinner, fallible, human, expected to conform, simulate
 
 **This activates when:**
-> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+>- When i speak like the world doing worldly things with no action or speech setting me apart.
+>- When afraid of what other's would think if I were to behave or speak differently than expected, outside of unspoken rules of conformity
+>- When I would stand out.
+>
+*(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the common — the one who blends in, conforms, and shrinks their distinctiveness to avoid standing out.
+> I renounce the identity of the common — the one who blends in, conforms, and shrinks my distinctiveness to avoid standing out.
 
 **Identity Statement:**
 > I am holy — not because I am perfect, but because I have been set apart by God for his purposes.
@@ -786,6 +800,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > "But you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light." — 1 Peter 2:9
 
 **My Evidence:**
+> I said: 
+> - No to the bars, 
+> - No to looking in the wrong places for life
+> - No to the widely accepted deceptions of the world
+> - No to common christianity
+> - No to church systems
+> - No to corporate compliance and conformity.
 > *(Write one sentence — a moment when you felt the pull toward something that was not yours — and chose differently.)*
 > Example: "The moment I said no to something everyone else was doing — and felt more like myself than I had in years."
 
@@ -806,13 +827,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 19. Deeply and Permanently Loved
 *Old pattern: the unlovable*
-*Other words that resonate:*
+*Other words that resonate:* unacceptably stupid, not enough, lacking worth, discardable, rejectable
 
 **This activates when:**
+> Feeling inadequate; rejected; 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the unlovable — the one who believes that if people truly knew them, love would be withdrawn.
+> I renounce the identity of the unlovable — the one who believes that if people truly knew me, love would be withdrawn.
 
 **Identity Statement:**
 > I am the object of an everlasting, unconditional love that preceded my birth and will outlast my death.
@@ -821,6 +843,10 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > "I have loved you with an everlasting love; I have drawn you with unfailing kindness." — Jeremiah 31:3
 
 **My Evidence:**
+> - Provided a way to be physically healthy knowing my distain for pharmakia 
+> - Removed me from toxic and misaligned relationships, churches and employers
+> - Connected with me when rejected with visions and voice
+> 
 > *(Write one sentence — a moment when you experienced love from God that made no logical sense — when you deserved distance and received nearness instead.)*
 > Example: "At the point I was most convinced God should be done with me, something happened that could only be described as him leaning in closer."
 
@@ -833,6 +859,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to be loved with no strings, no conditions, and no expiration date — fully, permanently, without performance?
+> - I can remember feeling this love shooting through me with forgiveness on my behalf
+> - Feeling the love flow through me the day before I donated my kidney to my brother
+> - Bathing in the love of God the first year of my walk with him, sensing his loving presence which was better than life itself. 
 
 **Today I Will:**
 > Receive one moment of grace, kindness, or provision today as pure love from the Father — without deflecting it or feeling I need to earn it first.
@@ -955,7 +984,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the performance-coach — the one who needs to appear polished, resolved, and fully healed before they are credible. That is not a coach. That is a facade. I am not selling an image. I am carrying a presence.
+> I renounce the identity of the performance-coach — the one who needs to appear polished, resolved, and fully healed before I am credible. That is not a coach. That is a facade. I am not selling an image. I am carrying a presence.
 
 **Identity Statement:**
 > I am a coach called by God — not because I am finished, but because I have been comforted and am willing to carry that comfort to others. My unfinished process is not a liability. It is my access point.
