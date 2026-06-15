@@ -833,6 +833,7 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **This activates when:**
 > Faced with sharing the gospel, I hide my light under a basket
+> The thought of speaking up with the truth of God
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
 **The Lie I've Believed:**
