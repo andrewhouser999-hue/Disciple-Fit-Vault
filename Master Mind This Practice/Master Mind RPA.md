@@ -17,7 +17,12 @@ First Thing:
   - Galatians 5:16, 25 — **"Walk (περιπατεῖτε) by the Spirit... let us keep in step (στοιχῶμεν) with the Spirit.**" Στοιχέω is a marching/formation term — walking in line with a pace already set by Another. The fruit (καρπός — organic, not manufactured by effort) is what the Spirit produces; walking is the condition under which that production happens.
   - Romans 8:5–6 — "Those who live according to the Spirit set their minds (φρόνημα — encompasses mindset and affection, not pure cognition) on the things of the Spirit." This is squarely in your affections-diagnostic territory — φρόνημα is closer to "what you're oriented toward / what you love" than "what you think about."
   - John 15:4–10 — Abiding (μένω). Relational, continuous, includes "if my words abide in you" (v.7) and "keep my commandments" (v.10) — abiding isn't passive mysticism; it has content.
-  
+
+Training up
+- Wesleyan "means of grace" reading: There are real, divinely-appointed channels (prayer, Scripture, sacrament, fasting, fellowship) through which grace ordinarily flows — not meritorious, but genuinely conditional in a covenantal sense, because God has bound himself to work this way. This is the tradition Dallas Willard draws from most directly, and it's the most natural fit for "conditions" language.
+- Add to this Training as a mens of grace not a formula or legalistic framework
+
+
  **Correct Framework**
  Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
 
