@@ -6,7 +6,7 @@ tags: [lie-eliminator, identity-installer, design-proposal, holding-both, mainte
 
 # Lie Eliminator & Identity Installer — Adaptation Over Time (Design Proposal)
 
-**Status:** Design proposal only. Not yet built into any document. Saved for future development — review and filter before building.
+**Status:** Partially built (2026-06-15) — the three-phase Active/Integrating/Integrated structure and the phase marker (candidate piece #1, placed under "This activates when") were added to `Identity Installer - Personal.md`'s "How to use this" section. Lightweight only: no Testimony or Generalization-target fields (#2–#3), no new psychology-section explainer (#4), and Prochaska has not been added to the Source Library (#5). Not yet applied to `Lie Eliminator - Personal.md` or `Lie Eliminator — Beatitudes Addendum.md`. No entries have been marked Integrating/Integrated yet — the §8 recommendation to test on 1–2 entries before wider retrofitting still applies.
 
 ## Context
 

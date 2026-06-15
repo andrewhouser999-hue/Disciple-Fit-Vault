@@ -4,14 +4,20 @@ Quiet Notes:
 Ongoing Thing:
 Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
 
-Most Important Thing
- -2 Corinthians 3:16–18 — "When one turns (ἐπιστρέψῃ) to the Lord, the veil is removed... we, with unveiled face, beholding (κατοπτριζόμενοι) the glory of the Lord, are being transformed (μεταμορφούμεθα — same verb as the Transfiguration) into the same image... from the Lord who is the Spirit."
+**Most Important Thing for this model**
+ -2 Corinthians 3:16–18 — "**When one turns (ἐπιστρέψῃ) to the Lord**, the veil is removed... we, with unveiled face, beholding (κατοπτριζόμενοι) the glory of the Lord, are being transformed (μεταμορφούμεθα — same verb as the Transfiguration) into the same image... from the Lord who is the Spirit."
  This may be the most important text for your model. The mechanism is explicitly: turning → unveiling → beholding → being transformed, and the agent of transformation is named as "the Lord who is the Spirit." Note the verb is passive — "are being transformed," not "transform yourselves." The human act (turning, beholding) creates the condition; the transformation itself is received.
 
 First Thing:
 - Psalm 51:10, 17 — "Create (ארָ בָּ   — the Genesis 1 creation verb) in me a clean heart... a broken and contrite heart, O God, you will not despise."
   Contrition as the posture that precedes/correlates with renewal.
 
+ A. Posture/Orientation — sustained, not episodic
+
+  - Galatians 5:16, 25 — **"Walk (περιπατεῖτε) by the Spirit... let us keep in step (στοιχῶμεν) with the Spirit.**" Στοιχέω is a marching/formation term — walking in line with a pace already set by Another. The fruit (καρπός — organic, not manufactured by effort) is what the Spirit produces; walking is the condition under which that production happens.
+  - Romans 8:5–6 — "Those who live according to the Spirit set their minds (φρόνημα — encompasses mindset and affection, not pure cognition) on the things of the Spirit." This is squarely in your affections-diagnostic territory — φρόνημα is closer to "what you're oriented toward / what you love" than "what you think about."
+  - John 15:4–10 — Abiding (μένω). Relational, continuous, includes "if my words abide in you" (v.7) and "keep my commandments" (v.10) — abiding isn't passive mysticism; it has content.
+  
  **Correct Framework**
  Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
 
@@ -20,7 +26,7 @@ The developmental vs. corrective distinction matters deeply in organizational co
 The core architecture is sound. The evidence base is strong where it matters most (Edmondson, Kegan/Lahey, Perry). The theoretical frame — state precedes behavior, coaching creates conditions for state change, state change produces durable behavioral change — is well-supported at the mechanism level even where specific models (polyvagal, SCARF) need epistemic calibration.
 
 Stories
-1. Wheeping Wives: Pastor's wives wheeped bitterly 
+1. Weeping Wives: Pastor's wives wept bitterly 
 2. Gardener Challenge: Jacob & Gavriel, neighbors. One Master Gardener the other a student of gardening.  The master was busy employing the knowledge of garden mastery. The other was a listening Dad, dedicated to training himself in all he does, a quiet listener and observer.  
 	1. *I listen for the need until it becomes loud enough, I can see its form and understand its proper felt placement.* Andrew Houser 
 3. *A coach will sacrifice the friendship for your success. A friend will sacrifice your success for the friendship.* I care for you too much to be your friend. That is the posture I wish I had taken with my friend.  I walked with him as a friend until I could walk no more. All I could do was be present and ask powerful and challenging questions until he felt his needs for friendship wasn't met. He dropped off. And he was coachable. 

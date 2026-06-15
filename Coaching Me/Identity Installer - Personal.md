@@ -12,12 +12,17 @@ tags:
 > - **Daily:** Read your Identity Statement and *Today I Will* for one category.
 > - **Weekly:** Sit with one full category — including the Felt Sense question.
 > - **Monthly:** Update *My Evidence* as God confirms each truth in your life.
-> - **When a category shifts:**
->   - **Flat** — reading *What I'm Putting Off* no longer produces a charge. It reads like a fact about your history, not a live description of you now. None of the bracing or recognition-jolt that *Holding Both* describes shows up.
->   - **Displaced** — in the *Holding Both* exercise, the felt sense of the new identity has moved into the place in your body where the old pattern used to live. The old location now produces the new feeling, not the old one.
->   - **Integrated** — displacement held the next time the real "This activates when" situation actually occurred — not just in reflection. Mark the category by adding a line under *Other words that resonate*: `*Integrated: YYYY-MM-DD — held under the actual trigger*`
+> - **As a category shifts — three phases (Active → Integrating → Integrated):**
+>   - **Phase 1 — Active** (default, unmarked): the full sequence as written. Stay here while *Holding Both* Step 1 — locating the old pattern in the body — still produces a real signal.
+>   - **Phase 2 — Integrating:** *Holding Both* Step 1 now comes up flat in reflection — no charge, like a fact about your history. Don't rehearse; spot-check instead. Mark the entry `*Phase: Integrating — [date]*` under "This activates when," then watch for the next time the real situation occurs.
+>     - **Quiet in the real moment too** → move to Phase 3.
+>     - **Some charge remains** → not a failed shift — it's a different strand (a separate argument, feeling, or habit still tied to the old identity). Work that strand with the full sequence; the entry stays Integrating otherwise.
+>   - **Phase 3 — Integrated:** Mark the entry `*Phase: Integrated — [date]*`. Three things change:
+>     - *What I'm Putting On* shifts from present-tense fight ("I am not...") to past-tense testimony ("I used to believe X — here's what's true now, and how I know.").
+>     - *Holding Both* is repurposed, not dropped: one hand on the place that used to brace (now quiet), one hand on where the new identity now lives — noticing "this used to be a fight, and now it isn't."
+>     - *Today I Will* shifts from rehearsal to generalization: act from the new identity in an adjacent situation where the old pattern hasn't been tested yet. If the old pattern shows up there, that becomes a new "This activates when" entry.
 >
->   Integrated categories drop out of active rotation for *What I'm Putting Off* and *Holding Both*. Keep them in the *My Evidence* (monthly) and *Today I Will* (occasional) rotation so the new identity stays embodied. If the old pattern resurfaces under pressure, remove the marker and resume full rotation for that category.
+>   **If the old pattern resurfaces** in an already-Integrated entry, that's not a failed integration — per Prochaska, it's information that a *new* activating context exists. Give that context its own "This activates when" entry and run Phase 1 for *that entry only*. The original entry keeps its Integrated marker.
 
 ---
 
