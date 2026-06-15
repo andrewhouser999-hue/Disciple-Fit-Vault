@@ -1,3 +1,10 @@
+Case:
+A Christian walk more biblically adhered to that is  
+- Training actively vs consuming passively 
+- Training skillfully
+- Training sequentially 
+- Training deeply 'all of the heart, mind, soul, strength, which includes both explicit and implicit 'brain' not just the explicit where most people limit their development. 
+- Training individually and together
 
 Quiet Notes:
 
