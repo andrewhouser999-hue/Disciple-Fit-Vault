@@ -876,9 +876,10 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 21. Carrier of Peace
 *Old pattern: the anxious*
-*Other words that resonate:*
+*Other words that resonate:*  inattentive to Christ, self-based understanding, starved of Christ, misguided affections, don't have in mind my divine purpose in the mundane.
 
 **This activates when:**
+> I feel abandoned by God;  When success depends entirely on me, unsure God will come through. I have been leaning on my abilities, losing grip on seeing Jesus, not abiding in Jesus, not seeing work & human engagement as spiritual requiring dependency on the Lord, taking control, seeing only in my natural man understanding, etc. 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
@@ -911,9 +912,10 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 ## 22. Rooted and Established
 *Old pattern: the unstable*
-*Other words that resonate:*
+*Other words that resonate:*  shifting interests, purposeless, striving, busy, surviving, distracted 
 
 **This activates when:**
+> I feel like fulfillment and success, satisfaction and safety depends on me, my efforts, my understanding.  Financial provision falls short or fails. 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
@@ -923,9 +925,10 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I am rooted in Christ — stable, grounded, and able to withstand what would uproot a person without a foundation.
 
 **Anchor Verse:**
-> "So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught." — Colossians 2:6-7
+> "So then, just as you (I) received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught." — Colossians 2:6-7
 
 **My Evidence:**
+> Under long term narc abuse, tempted to dissolve the marriage, I stood strong in my faithful commitment to Christ. Calling upon Him in anticipation of His handywork as resolve, not taking the situation in my own hands. 
 > *(Write one sentence — a season of pressure, loss, or uncertainty that you did not collapse under — and what held you.)*
 > Example: "The season that was supposed to break me didn't — and afterward I understood that roots grow deepest under resistance."
 
@@ -937,7 +940,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I am rooted. What is rooted is not destroyed by wind — it is strengthened by it. Every storm that comes against me drives my roots deeper into Christ. My stability is not a personality trait; it is a spiritual reality available to me at all times.
 
 **The Felt Sense:**
-> What does it feel like to face disruption knowing that nothing can uproot what God has planted?
+> What does it feel like to face disruption knowing that nothing can uproot what God has planted?  I feel STRONG, WISE, TENATIOUS, CONNECTED TO CHRIST, LIKE CHRIST, IMMOVABLE, MANLY, 
 
 **Today I Will:**
 > In one area of uncertainty today, plant my feet in what I know is true about God — and refuse to be moved by what I cannot yet see.
