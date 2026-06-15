@@ -216,6 +216,7 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 - [[#Lie of Disgust of Others in Gross Sin]]
 - [[#Lies Birthed from Lawful Thinking, Ego, Resentment, Anger, Disgust, Frustration]]
 - [[#Lie of the Coaching Imposter]]
+- [[#Lie of Hidden Light / I Have Too Little to Offer]]
 
 ---
 
@@ -825,6 +826,48 @@ Be honest. The lie is still operating because you are getting something from it.
 - **Hebrews 2:10** — *"It was fitting that he...should make the founder of their salvation perfect through suffering."*
 - **1 Corinthians 2:1-5** — *"I did not come proclaiming to you with lofty speech or wisdom...that your faith might not rest in the wisdom of men but in the power of God."*
 - **Romans 8:28** — *"For those who love God all things work together for good, for those who are called according to his purpose."*
+
+---
+
+### Lie of Hidden Light / I Have Too Little to Offer
+
+**This activates when:**
+> Faced with sharing the gospel, I hide my light under a basket
+> *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
+
+**The Lie I've Believed:**
+> *"My life doesn't reflect God. I have too little to offer — nothing about me shows him to anyone."*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
+**Who God Is:**
+> "This is the message we have heard from him and proclaim to you, that God is light, and in him is no darkness at all." — 1 John 1:5
+
+**Who I Am:**
+> "You are the light of the world. A city set on a hill cannot be hidden." — Matthew 5:14
+
+**His Promise:**
+> "For God, who said, 'Let light shine out of darkness,' has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ." — 2 Corinthians 4:6
+
+**Who Has Witnessed This Truth:**
+> *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
+
+**Personal Declaration:**
+*(Speak aloud — in Jesus' name.)*
+> "I am the light of the world — not because I generated it, but because Christ's light is already in me. He said, 'I am the light of the world; whoever follows me will not walk in darkness, but will have the light of life' (John 8:12), and that same light has been shone into my heart (2 Corinthians 4:6). My life reflecting God is not something I have to produce — it is something I have to stop covering. I do not have too little to offer; I have a light already burning, and my part is to stop hiding it, not to create it."
+
+**Therefore I Will:**
+> Stop waiting until I feel like I have more to offer. Let what Christ has already placed in me be seen — uncover it instead of managing it.
+
+**Scripture Arsenal:**
+- **Matthew 5:14-16** — *"You are the light of the world. A city set on a hill cannot be hidden...let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."*
+- **John 8:12** — *"I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."*
+- **2 Corinthians 4:6** — *"For God, who said, 'Let light shine out of darkness,' has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ."*
+- **Ephesians 5:8** — *"for at one time you were darkness, but now you are light in the Lord. Walk as children of light."*
+- **Philippians 2:15** — *"that you may be blameless and innocent, children of God without blemish in the midst of a crooked and twisted generation, among whom you shine as lights in the world"*
+- **1 John 1:5** — *"This is the message we have heard from him and proclaim to you, that God is light, and in him is no darkness at all."*
 
 ---
 
