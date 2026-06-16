@@ -29,6 +29,12 @@ Training up
 - Wesleyan "means of grace" reading: There are real, divinely-appointed channels (prayer, Scripture, sacrament, fasting, fellowship) through which grace ordinarily flows — not meritorious, but genuinely conditional in a covenantal sense, because God has bound himself to work this way. This is the tradition Dallas Willard draws from most directly, and it's the most natural fit for "conditions" language.
 - Add to this **Training as a means of grace** not a formula or legalistic framework
 
+Interpretive Debate
+
+  1. Spatial/afterlife vs. reign-oriented reading. Popular piety often reads "above" as "heaven, where I'm going" — cultivating detachment from earthly life in view of a future destination. N.T. Wright and others push back hard: this reading imports the very Platonic framework Paul is arguing against in Colossians, and it's contradicted by the fact that the household codes (3:18–4:1) immediately apply "heavenly-mindedness" to marriage, parenting, and work  — about as "earthly" as it gets. The more defensible reading: this is about living now in line with the fact that the world's true Lord is already enthroned — not escaping earth for heaven, but bringing heaven's reality to bear on earth.
+  2. **Cognitive vs. affective/volitional φρονεῖτε.** Is this "fill your thoughts with spiritual content" (a content filter) or "**let your whole evaluative framework — values, affections, sense of what's real — be recalibrated"**? The lexical evidence (Phil 2, Rom 8, Phil 3 usage) favors the latter, but a lot of popular application treats it as the former — closer to "think about Bible verses instead of your problems."
+  3. Functional priority of v.3 ("hidden," present possession) vs. v.4 (future appearing, hope-as-motivation). Both are in the text. Pastoral applications differ on whether the weight falls on "your security is already settled, live from that" or "your vindication is coming, endure toward that."
+
 
  **Correct Framework**
  Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
