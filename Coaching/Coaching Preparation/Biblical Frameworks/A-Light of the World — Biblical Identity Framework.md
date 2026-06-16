@@ -96,13 +96,13 @@ Three versions add different shades of meaning:
 
 ### What Baskets Are Made Of — Diagnostic Inventory
 
-| Basket Material | What It Sounds Like | Root Movement |
-|---|---|---|
-| Shame about unfinished condition | "I'm not holy enough yet to represent God" | Hiding self from exposure |
-| Performance anxiety | "What I have isn't good enough to show" | Waiting for a higher standard to be met |
-| Fear of visibility | "If I'm seen, I'll be found out or criticized" | Self-protection from scrutiny |
-| False humility | "It would be prideful to let this be seen" | Confusion between pride and presence |
-| Anxiety about cost | "Shining invites expectations I can't sustain" | Managing the demands that would follow |
+| Basket Material                  | What It Sounds Like                            | Root Movement                           |
+| -------------------------------- | ---------------------------------------------- | --------------------------------------- |
+| Shame about unfinished condition | "I'm not holy enough yet to represent God"     | Hiding self from exposure               |
+| Performance anxiety              | "What I have isn't good enough to show"        | Waiting for a higher standard to be met |
+| Fear of visibility               | "If I'm seen, I'll be found out or criticized" | Self-protection from scrutiny           |
+| False humility                   | "It would be prideful to let this be seen"     | Confusion between pride and presence    |
+| Anxiety about cost               | "Shining invites expectations I can't sustain" | Managing the demands that would follow  |
 
 **Critical distinction:** Matt 6:1's caution ("do not do your good works to be seen by others") and Matt 5:16's command ("let your light shine before others") are not contradictions. The difference is motive and byproduct. Light shines without advertising itself; the visibility is a consequence of obedience, not its goal. A basket can be made of pride (performed visibility, shining to be seen) or fear (hidden withholding, refusing to be seen) — both are coverings, just from opposite directions. Distinguishing these is often the first diagnostic fork.
 
