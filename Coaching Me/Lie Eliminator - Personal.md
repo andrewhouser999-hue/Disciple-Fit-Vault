@@ -838,6 +838,7 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **The Lie I've Believed:**
 > *"My life doesn't reflect God. I have too little to offer — nothing about me shows him to anyone."*
+> "*I fear interrupting others comfortable anticipations or expectations with saying something that is out of attunement, unclear, inconsiderate or disjointed."*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
