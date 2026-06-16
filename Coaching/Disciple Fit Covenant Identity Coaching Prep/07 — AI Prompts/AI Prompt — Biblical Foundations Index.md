@@ -63,8 +63,8 @@ Read each of these before drafting the corresponding section. Do not rely on tit
 
 **Implementation layer**
 - [[Covenant Identity — Author-Framework Mapping]], "Structural Framework — Ephesians 4:22-24" section
-- [[Lie Eliminator - Personal]] — existing "Research Basis" annotations and Scripture Arsenal citations
-- [[Identity Installer - Personal]] — existing "What Psychology Says About Identity Formation" section and hinge-verse citations
+- [[Lie Eliminator/Lie Eliminator - Personal]] — existing "Research Basis" annotations and Scripture Arsenal citations
+- [[Identity Installer/Identity Installer - Personal]] — existing "What Psychology Says About Identity Formation" section and hinge-verse citations
 
 **Formation practice (lighter treatment)**
 - [[Secured in Father — Practitioner Design Notes]] — component evidence map

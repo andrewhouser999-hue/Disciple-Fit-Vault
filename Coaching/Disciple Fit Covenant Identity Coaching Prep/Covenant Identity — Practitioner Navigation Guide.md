@@ -176,7 +176,7 @@ Reach for:
 **Between-session worksheets:**
 - [[Covenant Identity — Deep Lie Work Worksheet]] — deploy when a specific lie is clearly operative and the client is ready for structured lie work
 - [[Covenant Identity — Deep Identity Installation Worksheet]] — deploy when a specific identity layer is the installation target; follows Lie Eliminator work
-- [[Covenant Identity — Lie Eliminator - Personal]] / [[Identity Installer - Personal]] — the underlying client workbooks the worksheets draw from
+- [[Covenant Identity — Lie Eliminator - Personal]] / [[Identity Installer/Identity Installer - Personal]] — the underlying client workbooks the worksheets draw from
 
 **Between-session practices active in Phase 3:**
 - [[Covenant Identity — God-Representation Between-Session Practices]] — primary Phase 3 between-session tool for God-rep work; Gospel encounter is the mechanism

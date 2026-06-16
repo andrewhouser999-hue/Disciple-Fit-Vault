@@ -1,6 +1,6 @@
 ---
 created: 2026-05-21
-basis: "[[Lie Eliminator - Personal]] — worksheet format and declaration architecture; Young (Schema Therapy — schema identification and activation pattern); Kegan & Lahey (Immunity to Change — Big Assumption framework); Thompson (implicit memory and somatic anchoring mechanism for declaration practice)"
+basis: "[[Lie Eliminator/Lie Eliminator - Personal]] — worksheet format and declaration architecture; Young (Schema Therapy — schema identification and activation pattern); Kegan & Lahey (Immunity to Change — Big Assumption framework); Thompson (implicit memory and somatic anchoring mechanism for declaration practice)"
 tags: [between-session, client-facing, worksheet, phases-2-3]
 ---
 

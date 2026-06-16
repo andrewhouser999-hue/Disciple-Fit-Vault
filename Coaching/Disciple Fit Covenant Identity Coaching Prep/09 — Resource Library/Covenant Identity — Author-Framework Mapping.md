@@ -1,6 +1,6 @@
 ---
 created: 2026-05-21
-basis: "[[Covenant Identity — Author & Resource Reference]] — author list and tier assignments; [[Covenant Identity — Full Model Reference]] — framework components being mapped; [[Covenant Identity — Diagnostic Lens Transition Logic]] — diagnostic sequence framework; Ephesians 4:22-24 (ESV) — primary-source biblical structural framework (Structural Framework section); [[Identity Installer - Personal]] — existing Renounce/Renew/Receive citation, psychology section item 6"
+basis: "[[Covenant Identity — Author & Resource Reference]] — author list and tier assignments; [[Covenant Identity — Full Model Reference]] — framework components being mapped; [[Covenant Identity — Diagnostic Lens Transition Logic]] — diagnostic sequence framework; Ephesians 4:22-24 (ESV) — primary-source biblical structural framework (Structural Framework section); [[Identity Installer/Identity Installer - Personal]] — existing Renounce/Renew/Receive citation, psychology section item 6"
 tags: [resource-library, reference, contributor-mapping]
 ---
 

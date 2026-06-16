@@ -1,6 +1,6 @@
 ---
 created: 2026-05-21
-basis: "[[Covenant Identity Coaching — Full Model Reference]] — Section V covenant identity architecture and schema mapping; [[Identity Installer - Personal]] — 22 categories; [[Lie Eliminator - Personal]] — 12 lies; category architecture reconciliation 2026-05-21"
+basis: "[[Covenant Identity Coaching — Full Model Reference]] — Section V covenant identity architecture and schema mapping; [[Identity Installer/Identity Installer - Personal]] — 22 categories; [[Lie Eliminator/Lie Eliminator - Personal]] — 12 lies; category architecture reconciliation 2026-05-21"
 tags:
   - practitioner-reference
   - category-architecture

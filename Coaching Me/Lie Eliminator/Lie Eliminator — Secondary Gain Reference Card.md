@@ -1,12 +1,12 @@
 ---
 created: 2026-05-13
-basis: "[[Lie Eliminator - Personal]] — secondary gain framework for the 'What does that lie give you?' field"
+basis: "[[Lie Eliminator/Lie Eliminator - Personal]] — secondary gain framework for the 'What does that lie give you?' field"
 tags:
 ---
 
 # Lie Eliminator — Secondary Gain Reference Card
 
-Use alongside the **[[Lie Eliminator - Personal]]** when working through the *What does that lie give you?* field. Most people can name the lie but cannot initially name the payoff. This list is for observation — surface it as resonance, not diagnosis.
+Use alongside the **[[Lie Eliminator/Lie Eliminator - Personal]]** when working through the *What does that lie give you?* field. Most people can name the lie but cannot initially name the payoff. This list is for observation — surface it as resonance, not diagnosis.
 
 **In session:** Read through the clusters silently. Reflect back what you observe. Let the person confirm or correct.
 

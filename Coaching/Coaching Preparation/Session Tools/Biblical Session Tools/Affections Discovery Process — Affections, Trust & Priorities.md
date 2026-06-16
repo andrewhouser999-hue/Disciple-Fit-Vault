@@ -209,4 +209,4 @@ Select 2–3 questions per layer based on what the client has surfaced. These ar
 
 **Transition Logic:** See *Diagnostic Lens Transition Logic* for how affections discovery hands off to false identity naming, covenant truth, and CBT deployment.
 
-**Personal Application:** Layer 5's named functional identity is the entry point for [[Lie Eliminator - Personal]] — that document's sequence (Lie Archaeology, Agreement Audit, Stronghold Anatomy, Holding Both) works through whichever lie this process surfaces.
+**Personal Application:** Layer 5's named functional identity is the entry point for [[Lie Eliminator/Lie Eliminator - Personal]] — that document's sequence (Lie Archaeology, Agreement Audit, Stronghold Anatomy, Holding Both) works through whichever lie this process surfaces.

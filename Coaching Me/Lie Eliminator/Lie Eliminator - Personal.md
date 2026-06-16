@@ -116,6 +116,14 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 >
 > **Why this field is in the form:** This is the literal reactivation Ecker's research requires. Naming the lie precisely, in its own voice, is what makes the truth fields that follow a direct answer to something currently active — not encouragement offered to no one in particular.
 
+**What Others Observe**
+> **Research basis:**
+> - **Johari Window** (Luft & Ingham, 1955) — found that self-knowledge has a structural blind spot: behaviors, patterns, and reactions visible to others but invisible to the self. External input is not supplementary to self-knowledge — it is the only reliable source of information about what operates in the blind quadrant.
+> - **Proverbs 12:15** — "The way of a fool is right in his own eyes, but a wise man listens to advice." (ESV) The blind-spot problem is not clinical; it is human. External witness is a wisdom mechanism, not a therapeutic technique.
+> - **Hebrews 3:13** — "But exhort one another every day, as long as it is called 'today,' that none of you may be hardened by the sin of deceit." (ESV) Self-deception is specifically what community is designed to address — not as accusation, but as mutual watchfulness.
+>
+> **Why this field is in the form:** A lie operating in the blind spot cannot be surfaced by self-report alone — the blind spot is definitionally invisible from inside. This field creates a structured capture point for what trusted others reflect back: recurring reactions they notice, patterns they name, responses they recognize before the person does. It is diagnostic input, not evidence to evaluate or argue with immediately — it widens the data available before the declaration sequence begins. An empty field here is also useful information: if no one close enough to observe this lie exists, that absence is itself something to name.
+
 **What Does That Lie Give You?**
 > **Research basis:**
 > - **Secondary gain** (clinical concept used across psychodynamic and CBT case formulation) — a belief or symptom that persists despite being known to be false is usually still serving a function (safety, control, an excuse); the function has to be identified before the belief can be safely released.
@@ -229,6 +237,9 @@ Speak declarations aloud. Close each one in Jesus' name — not as formula, but 
 **The Lie I've Believed:**
 > *"God is cold, distant, and against me — a cosmic authority figure who rules through demands and watches for failure. He is more prosecutor than Father."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > God being disconnected then I can live disconnected. I am not responsible for drawing near. Drawing
@@ -283,6 +294,9 @@ Be honest. The lie is still operating because you are getting something from it.
 **The Lie I've Believed:**
 > *"I am not capable. This is beyond me. I don't have what it takes."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -333,6 +347,9 @@ Be honest. The lie is still operating because you are getting something from it.
 **The Lie I've Believed:**
 > *"There is no future, no way out, no point."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -379,6 +396,9 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **The Lie I've Believed:**
 > *"There is not enough — of provision, of grace, of time, of opportunity."*
+
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
@@ -436,6 +456,9 @@ If increase comes, receive it as provision. If it doesn't, the absence is not a 
 **The Lie I've Believed:**
 > *"It's not worth continuing. I'm too tired. Nothing is changing."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -476,6 +499,9 @@ Be honest. The lie is still operating because you are getting something from it.
 **The Lie I've Believed:**
 > *"If I step out, I will fail. The risk is too great. God won't cover me."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -515,6 +541,9 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **The Lie I've Believed:**
 > *"God has left. He doesn't see me. He's moved on." "He will remain aloof while I am crushed and suffering alone."*
+
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
@@ -557,6 +586,9 @@ Be honest. The lie is still operating because you are getting something from it.
 **The Lie I've Believed:**
 > *"God might do it through someone else, but not me. This is beyond my capacity."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -595,6 +627,9 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **The Lie I've Believed:**
 > *"God needs someone more qualified, more holy, more gifted. Not me."*
+
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
@@ -636,6 +671,9 @@ Be honest. The lie is still operating because you are getting something from it.
 **The Lie I've Believed:**
 > *"My family's sins, my own patterns — I'm too wired into this. It cannot be broken."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -676,6 +714,9 @@ Be honest. The lie is still operating because you are getting something from it.
 **The Lie I've Believed:**
 > *"What is fundamentally true is, I am to be rejected. If people really knew me, they'd reject me. God Himself will eventually turn away."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -714,6 +755,9 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **The Lie I've Believed:**
 > *"These people are beyond reach, beyond mercy, unworthy of compassion."*
+
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
@@ -755,6 +799,9 @@ Be honest. The lie is still operating because you are getting something from it.
 **The Lie I've Believed:**
 > *"I am right. They are wrong. Justice demands my response."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -795,6 +842,9 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **The Lie I've Believed:**
 > *"I have no business coaching anyone while I'm still this unfinished. If they knew how much I'm still working through, they'd dismiss everything I say. Real coaches have it together. I don't."*
+
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
@@ -840,6 +890,9 @@ Be honest. The lie is still operating because you are getting something from it.
 > *"My life doesn't reflect God. I have too little to offer — nothing about me shows him to anyone."*
 > "*I fear interrupting others comfortable anticipations or expectations with saying something that is out of attunement, unclear, inconsiderate or disjointed."*
 
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
 > *(Write it here.)*
@@ -881,11 +934,11 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **The Core Distinction**
 
-This document operates **defensively** — it activates when a false belief attacks, following a *Lie → Truth → Counter it* structure. [[Identity Installer - Personal|Identity Installer]] is the constructive counterpart — it builds a stable, internalized sense of self in ordinary moments, following a *Who I Am → Experience it → Embody it* structure. The two need different tools, which is why they're separate documents — but they're meant to work together: a lie named and dismantled here often has a corresponding identity to install there.
+This document operates **defensively** — it activates when a false belief attacks, following a *Lie → Truth → Counter it* structure. [[Identity Installer/Identity Installer - Personal|Identity Installer]] is the constructive counterpart — it builds a stable, internalized sense of self in ordinary moments, following a *Who I Am → Experience it → Embody it* structure. The two need different tools, which is why they're separate documents — but they're meant to work together: a lie named and dismantled here often has a corresponding identity to install there.
 
 **Identifying Which Lie Is Live**
 
-This document presumes the lie is already named — the "This activates when" and "The Lie I've Believed" fields are filled in. When it isn't obvious which lie (or what's underneath a reaction) is actually operative, [[Affections Discovery Process — Affections, Trust & Priorities|Affections Discovery Process]] is the diagnostic: Layer 3 (Dependency Probe) and Layer 5 (Identity Revelation) trace a reaction down to the functional belief, which can then be matched to a lie here — or added as a new one.
+This document presumes the lie is already named — the "This activates when" and "The Lie I've Believed" fields are filled in. When it isn't obvious which lie (or what's underneath a reaction) is actually operative, [[Affections Discovery Process — Affections, Trust & Priorities|Affections Discovery Process]] is the diagnostic: Layer 3 (Dependency Probe) and Layer 5 (Identity Revelation) trace a reaction down to the functional belief, which can then be matched to a lie here — or added as a new one. When the category of lie is not yet named, [[Lie Eliminator — Schema Recognition Reference]] provides the 18 EMS schema taxonomy, a gap map of uncovered territory, and recognition signals for identifying which schema is active.
 
 **The Implicit-Processing Shift**
 
