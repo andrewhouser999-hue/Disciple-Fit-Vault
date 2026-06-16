@@ -208,3 +208,5 @@ Select 2–3 questions per layer based on what the client has surfaced. These ar
 **In-Session Tool:** A dedicated in-session Affections Discovery Tool is a future build. This document is the practitioner foundation — the question bank and annotation framework will be adapted for structured in-session use with session-specific pacing and sequencing.
 
 **Transition Logic:** See *Diagnostic Lens Transition Logic* for how affections discovery hands off to false identity naming, covenant truth, and CBT deployment.
+
+**Personal Application:** Layer 5's named functional identity is the entry point for [[Lie Eliminator - Personal]] — that document's sequence (Lie Archaeology, Agreement Audit, Stronghold Anatomy, Holding Both) works through whichever lie this process surfaces.

@@ -882,6 +882,10 @@ Be honest. The lie is still operating because you are getting something from it.
 
 This document operates **defensively** — it activates when a false belief attacks, following a *Lie → Truth → Counter it* structure. [[Identity Installer - Personal|Identity Installer]] is the constructive counterpart — it builds a stable, internalized sense of self in ordinary moments, following a *Who I Am → Experience it → Embody it* structure. The two need different tools, which is why they're separate documents — but they're meant to work together: a lie named and dismantled here often has a corresponding identity to install there.
 
+**Identifying Which Lie Is Live**
+
+This document presumes the lie is already named — the "This activates when" and "The Lie I've Believed" fields are filled in. When it isn't obvious which lie (or what's underneath a reaction) is actually operative, [[Affections Discovery Process — Affections, Trust & Priorities|Affections Discovery Process]] is the diagnostic: Layer 3 (Dependency Probe) and Layer 5 (Identity Revelation) trace a reaction down to the functional belief, which can then be matched to a lie here — or added as a new one.
+
 **The Implicit-Processing Shift**
 
 Reading a true statement and believing it intellectually is not the same as the belief actually changing how I respond under pressure. Most of the techniques above exist to close that gap — to work on belief at the level where long-held lies are actually held: implicit, emotionally encoded, and bound up with memory, body, and behavior, not just propositional content.
