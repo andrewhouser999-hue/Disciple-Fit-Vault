@@ -23,6 +23,60 @@ Sections marked `[PENDING]` are planned but not yet built.
 
 ---
 
+## Table of Contents
+
+- [[#Governing Framework]]
+- [[#I. Component Evidence Map]]
+	- [[#1. Entry Ritual]]
+	- [[#2. Self-Diagnostic]]
+	- [[#3. Pattern Descriptions and Partial-Version Notes]]
+	- [[#4. Defusion Statements]]
+	- [[#5. Evidence Anchors]]
+	- [[#6. Somatic Invitations]]
+	- [[#7. Encounter Prompts]]
+	- [[#8. Repair Protocol]]
+- [[#II. Sequencing Rationale — 10 Dimensions]]
+	- [[#Why These 10 Dimensions]]
+	- [[#Why This Order]]
+	- [[#Load-Bearing Sequence Constraints]]
+	- [[#Flexible Elements Within the Sequence]]
+	- [[#Summary: The Five-Zone Architecture]]
+- [[#III. Anticipated Critiques and Responses]]
+	- [[#Critique 1 — Clinical Psychology: "The mechanisms you are invoking do not apply to solo spiritual practice"|Critique 1 — Clinical Psychology]]
+	- [[#Critique 2 — Biblical Counseling (CCEF-Adjacent): "This framework displaces the biblical diagnosis with a developmental one"|Critique 2 — Biblical Counseling (CCEF-Adjacent)]]
+	- [[#Critique 3 — Confessional Reformed: "This adds to the appointed means and cultivates illegitimate religious experience"|Critique 3 — Confessional Reformed]]
+	- [[#Critique 4 — Cessationism: "You are training people to locate the Spirit's work in their subjective internal states"|Critique 4 — Cessationism]]
+	- [[#Critique 5 — Coaching Ethics and Scope: "The clinical methods embedded here require clinical training to deploy safely"|Critique 5 — Coaching Ethics and Scope]]
+- [[#IV. Outcome Markers]]
+	- [[#What "Progress" Means in This System]]
+	- [[#Cross-Pattern Markers — Movement Regardless of Pattern]]
+	- [[#Pattern-Specific Progress Markers]]
+		- [[#Anxious / Preoccupied]]
+		- [[#Dismissing-Avoidant]]
+		- [[#Fearful-Avoidant / Disorganized]]
+	- [[#Practitioner Observation Signals — What to Listen for in Session Debrief]]
+	- [[#What Progress Is Not]]
+	- [[#Temporal Expectations — What to Expect When]]
+- [[#V. Contraindications]]
+	- [[#Absolute Contraindications — Do Not Deploy]]
+	- [[#Conditional Contraindications — Requires Judgment, Modification, or Prior Work]]
+	- [[#What to Do Instead]]
+	- [[#Scope Restatement]]
+- [[#VI. Load-Bearing vs. Modifiable Elements]]
+	- [[#Load-Bearing Elements]]
+	- [[#Modifiable Elements]]
+	- [[#Three Distinctions That Must Be Held in Any Adaptation]]
+- [[#VII. Integration Map]]
+	- [[#System Position: Where Secured in Father Sits]]
+	- [[#Connection 1 — Secured in Father — Entry Guide]]
+	- [[#Connection 2 — Covenant Identity — Affections Discovery — In-Session Protocol]]
+	- [[#Connection 3 — Covenant Identity — Character Wound Diagnostic Tool]]
+	- [[#Connection 4 — Covenant Identity — Diagnostic Lens Transition Logic]]
+	- [[#Summary: Deployment Sequence Map]]
+- [[#Source Log]]
+
+---
+
 ## Governing Framework
 
 All components documented in this reference operate within the five-layer mechanism that governs Covenant Identity Coaching:
