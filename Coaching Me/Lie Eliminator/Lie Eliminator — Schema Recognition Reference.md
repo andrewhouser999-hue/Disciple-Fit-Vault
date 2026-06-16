@@ -101,6 +101,7 @@ Organized by domain. Each entry: core belief → what it sounds like internally 
 **Core belief:** "People will hurt me, use me, manipulate me, or betray me — it is only a matter of when."
 
 **Sounds like:** *"Watch for the angle. They want something. No one does something for nothing. Don't let your guard down."*
+For me: "People lack any semblance of commitment or loyalty"
 
 **Activates when:** receiving help or generosity (what do they want?); vulnerability in a relationship; perceived inconsistency or hidden motive in someone's behavior.
 
