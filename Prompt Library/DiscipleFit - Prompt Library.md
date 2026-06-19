@@ -42,6 +42,20 @@ A record of all saved prompts, their triggers, and purpose.
 
 ---
 
+## Authoring Defaults
+
+These are standing behavior instructions — not triggered commands. They apply in every session without being invoked.
+
+### Elaboration Standard
+
+When authoring any content (documents, frameworks, session tools, explanations, section prose), elaborate enough that the meaning is self-evident without the reader having to assume or infer intent. Where a statement could be misread or would require filling in logic, add a clarifying phrase or sentence. This is not about length — it is about closing the gap between what is written and what is meant, so a reader never has to guess.
+
+**Applies to:** vault documents, section prose, framework descriptions, session tools, coaching explanations, and any authored output.  
+**Does not mean:** padding, restating the obvious, or adding commentary that a well-named heading already provides.  
+**Stored in memory as:** `feedback_elaboration_standard.md`
+
+---
+
 ## Biblical Research
 
 **Trigger (Claude Code):** `/bible`
