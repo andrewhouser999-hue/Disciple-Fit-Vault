@@ -6,7 +6,6 @@ A Christian walk more biblically adhered to that is
 - Training deeply 'all of the heart, mind, soul, strength, which includes both explicit and implicit 'brain' not just the explicit where most people limit their development. 
 - Training individually and together
 
-Quiet Notes:
 
 Ongoing Thing:
 Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
@@ -35,7 +34,9 @@ Interpretive Debate
   2. **Cognitive vs. affective/volitional φρονεῖτε.** Is this "fill your thoughts with spiritual content" (a content filter) or "**let your whole evaluative framework — values, affections, sense of what's real — be recalibrated"**? The lexical evidence (Phil 2, Rom 8, Phil 3 usage) favors the latter, but a lot of popular application treats it as the former — closer to "think about Bible verses instead of your problems."
   3. Functional priority of v.3 ("hidden," present possession) vs. v.4 (future appearing, hope-as-motivation). Both are in the text. Pastoral applications differ on whether the weight falls on "your security is already settled, live from that" or "your vindication is coming, endure toward that."
 
-
+**Praying the Text Activates Identity Processing**
+  The Barna data is the empirical support: consistent Bible engagement correlates with formation indicators more than church attendance alone. But what the summary doesn't surface: how you engage Scripture matters as much as frequency. Extractive reading (finding information, proving doctrine) produces different formation outcomes than **meditative reading (Lectio Divina, praying the text). The neural mechanism is different — one activates the analytical network, the other the default mode network associated with identity processing.**
+  
  **Correct Framework**
  Culture shift starts with the owner. Diagnose the behavioral patterns and environmental conditions suppressing safety. Assess current safety levels with a validated instrument. Build manager regulation capacity as the prerequisite for behavioral training. Then instill the practices — with formation, not just training, for the orientation-level elements — and sustain through structural accountability and measurement over 2–3 years.
 
