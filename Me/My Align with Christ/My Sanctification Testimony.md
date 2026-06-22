@@ -4,9 +4,10 @@ Family (extended and origin) rejection, judgement - *severed relationally*
 Faced homelessness - *violated, died in security
 PTSD - *died emotionally*
 Line of Insanity -*died psychologically*
-Mercury poisoning, most toxic form of metal known to man 35-45 years - killing me relationally - *dying communally*
+Mercury poisoning, most toxic form of metal known to man 35-45 years - killing me relationally - *dying mentally, died communally*
 Marriage to complex trauma, covert narcissistic abuse 14 years, *dyeing physically* 
 
+Beneficiary
 God hand selected my spouse, orchestrated my marriage - 
 God saved my home -
 God saved my financial situation
