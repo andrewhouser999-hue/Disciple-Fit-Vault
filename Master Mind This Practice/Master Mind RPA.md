@@ -6,7 +6,25 @@ A Christian walk more biblically adhered to that is
 - Training deeply 'all of the heart, mind, soul, strength, which includes both explicit and implicit 'brain' not just the explicit where most people limit their development. 
 - Training individually and together
 
+**Four Contributions, Precisely Stated** for Covenant Identity
 
+  1. A redemptive-historical location frame — the triptych's unique contribution.
+  The Psalm 22-23-24 arc tells the client: you are living between the cross and the crown, in the Psalm 23 age, accompanied by a shepherd who has already walked the valley ahead of you. This is not a therapeutic reframe — it is a placement inside the grand narrative of Scripture. Nothing currently in the model does this. It answers the "why does formation take so long?" question from within Scripture's own structure, not from a clinical explanation.
+
+  2. A participatory diagnostic narrative — the Prodigal Son's contribution.
+  The Soils framework diagnoses receptivity. The Affections Discovery Process surfaces disordered loves. Both are practitioner-driven: Andrew identifies
+  where the client is. The Prodigal Son gives the client a story they locate themselves in — participatory diagnosis rather than received diagnosis. This matters because a client who finds themselves in the story owns the diagnosis.  also uniquely captures the moralistic/performance client (the older
+  brother) in a way the existing tools handle less cleanly.
+
+  3. A formation posture for the client — John 15's contribution.
+  VIM gives the formation mechanism. The disciplines give the means. But neither gives the client a single, simple posture to hold between sessions that is both active and receptive. "Abide" does that. It bridges Willard's means layer with what the client actually does — and it prevents the two failure modes the model flags: striving (the branch does not produce the fruit) and passive waiting (the branch remains connected, deliberately).
+
+  4. A matched declaration architecture — the NT epistles' contribution.
+  The Lie Eliminator counters lies with covenant truth. The new system specifies which covenant truth matches which wound structure: abandonment to adoption
+  (Romans 8:14–17), performance identity to sonship (Galatians 4:4–7), shame to acceptance (Ephesians 1), condemnation to no-condemnation (Romans 8:1,
+  31–39). This is not new content — it is precision the model currently lacks. "Counter the lie with truth" becomes "counter this specific lie with this
+  specific covenant address."
+  
 Ongoing Thing:
 Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
 
