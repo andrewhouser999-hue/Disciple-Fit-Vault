@@ -3,7 +3,7 @@ created:
 basis: TBD
 tags:
 ---
-Claude for authorship and productivity
+Claude for authorship and productivity, video production/editing
 NotebookLM Learning and Studying anything
 Perplexity for Research
 Emergent for building apps and websites; consider Hostingers

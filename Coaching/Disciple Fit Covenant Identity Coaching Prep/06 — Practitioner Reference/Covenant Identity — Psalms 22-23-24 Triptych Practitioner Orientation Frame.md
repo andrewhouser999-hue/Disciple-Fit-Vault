@@ -35,7 +35,15 @@ Three positions on the map:
 - What does their position tell me about what kind of work is appropriate?
 - Is the Psalm 23 provision they most need rest, presence, healing, guidance, honor, refreshment, or assurance?
 
-The practitioner does not impose the sequence. The triptych is a map for reading the client's location, not a curriculum that moves them through three chapters.
+**These are registers, not sequential stages.**
+
+The triptych is a map for reading where the client is located, not a curriculum that advances them through three chapters. Two clarifications govern how the practitioner uses it:
+
+**Psalm 22 is structurally foundational to Psalm 23 — not merely prior to it.** The Psalm 23 provisions only carry weight against the background of their possible absence. "Thou art with me" is load-bearing only if genuine absence has been real. The table in the presence of enemies only means something if the enemies have had actual authority. A Psalm 23 that is never grounded in Psalm 22 becomes sentiment — shepherd language that lands as comfort but not as encounter. The green pastures are provisions for someone who has been in the valley.
+
+**The 22→23 transition is not "the darkness ends and formation begins." It is "the shepherd enters the same darkness."** Psalm 23:4 still contains the valley; the psalmist does not leave it. What changes is not the threat — it is the arrival of presence inside the threat. Formation is not the removal of the valley. It is the shepherd present within it. A client's first Psalm 23 provision is almost always "thou art with me" — presence before rest, before guidance, before honor. That provision is available in the dark precisely because it is the dark's provision.
+
+A client does not complete Psalm 22 and graduate to Psalm 23. A client in Phase 3 (Identity Installation) will still have Psalm 22 moments. A client can occupy different registers simultaneously across different life domains. The practitioner's job is to read which register is live right now — and to recognize that a client who hasn't yet encountered the shepherd entering the darkness will not receive any other provision as real.
 
 ---
 
@@ -53,7 +61,7 @@ These are not always presented as crisis. Many clients in Psalm 22 territory pre
 - *Exposure fear:* distress about being seen, judged, or found lacking — particularly in contexts that previously promised safety
 
 **What the position indicates:**
-The client is not ready to receive Psalm 23 provision. The primary work is lament legitimation, affections diagnostic (what failed covenant object is exposed?), and presence — not instruction. The shepherd must be brought into the desolation first, not positioned beyond it.
+The client is not ready to receive most Psalm 23 provision — but one provision is already available: presence. "Thou art with me" is the valley's provision; it does not require the client to exit desolation to receive it. Every other Psalm 23 provision (rest, refreshment, guidance, honor, assurance) is premature until the shepherd has been encountered inside the dark. The primary work is lament legitimation, affections diagnostic (what failed covenant object is exposed?), and creating conditions for the shepherd to enter — not positioning the shepherd beyond the suffering and inviting the client to walk toward him.
 
 ### Psalm 23 Signals — The Client Is in the Formation Zone
 
@@ -177,7 +185,9 @@ When the two instruments conflict — when the stage sequence says "move to cove
 
 **Do not name the triptych in session.** If a client asks what framework you are using, describe your approach in plain language. The triptych is practitioner scaffolding, not client content. A client who is holding the map is not walking the path.
 
-**Do not move from 22 to 23 because the practitioner is uncomfortable with desolation.** The most common practitioner error is premature movement — introducing provision before the lament has been inhabited, because the suffering is difficult to hold. Premature Psalm 23 application is not formation; it is spiritual bypassing with a shepherd. The diagnostic check: has the false covenant object been named? Has the resulting false identity been surfaced? If not, stay in 22.
+**Do not move from 22 to 23 because the practitioner is uncomfortable with desolation.** The most common practitioner error is premature movement — introducing provision before the lament has been inhabited, because the suffering is difficult to hold. The reason this matters is not procedural. Provision received before the shepherd has entered the darkness is not Psalm 23; it is spiritual bypassing with nicer language. The client receives a shepherd-shaped comfort object rather than an encounter. The green pastures are real provisions — but only for someone who has needed a shepherd in the valley. Without that need having been inhabited, they land as sentiment.
+
+The diagnostic check is not only "have the false covenant object and false identity been named?" It is also: *has the shepherd been encountered inside the dark — or has the client only been told he is there?* If the encounter has not happened, stay in Psalm 22. The affections work, the lament, the presence — these are not pre-work before the formation begins. They are the conditions under which the shepherd's entry into the desolation becomes real. That entry is the first formation event.
 
 **Do not assume sequence is linear across domains.** A client can be in Psalm 23 movement regarding their identity but Psalm 22 regarding their marriage, their work, or their relationship with God in prayer. Locate the client domain by domain, not globally.
 

@@ -43,7 +43,7 @@ Items generated from the 2026-06-22 session that built the Complete System Refer
 **What it is:** Practitioner guide for using Luke 15:11-32 as the client-facing self-locating diagnostic entry. Three diagnostic tracks: prodigal (far country = disordered affection surfaced; false identity statement = "make me as a hired servant"); returning (mid-journey; the father running as divine initiative before the son finishes his speech); older brother (moralistic/performance identity; outside the feast; the second false identity the triptych does not capture). Question bank per track. Transition signal to Stage 1 Affections work.
 **Connects to:** Affections Discovery Process, Character Wound Diagnostic, Complete System Reference
 
-- [ ] Built
+- [x] Built — 2026-06-22
 
 ---
 
@@ -54,7 +54,7 @@ Items generated from the 2026-06-22 session that built the Complete System Refer
 **What it is:** The "abide" framework as the client's cooperative posture during formation. Not striving (branch does not produce the fruit — resists performance). Not passive (branch remains connected deliberately — resists quietism). What the between-session practice of abiding looks like per wound type. Between-session question bank. How "abide" connects to Psalm 23 provision content (John 15 = posture; Psalm 23 = what the shepherd does while the client abides). Connection to VIM means layer.
 **Connects to:** Spiritual Disciplines Guide, Between-Session Library, Complete System Reference, Psalm 23 Formation Provision Reference (Item 7)
 
-- [ ] Built
+- [x] Built — 2026-06-22
 
 ---
 
@@ -71,7 +71,7 @@ Items generated from the 2026-06-22 session that built the Complete System Refer
 Per track: wound markers, false identity statement, declaration text (ESV), exegetical note, session deployment timing, connection to Lie Eliminator entry and Identity Installer category. Romans 6:11 *logizomai* caution note included.
 **Connects to:** Character Wound Diagnostic, Lie Eliminator, Identity Installer, Reckoning Pattern, New Covenant Promise Map, Complete System Reference
 
-- [ ] Built
+- [x] Built — 2026-06-22
 
 ---
 
@@ -103,8 +103,8 @@ Per track: wound markers, false identity statement, declaration text (ESV), exeg
 |------|------|--------|
 | Review — Complete System Reference | Review | ✓ Complete |
 | Psalm 22-23-24 Triptych — Practitioner Frame | Build | ✓ Complete |
-| Prodigal Son — Diagnostic Narrative Framework | Build | Pending |
-| John 15 "Abide" — Formation Posture Reference | Build | Pending |
-| Matched Declaration Architecture | Build | Pending |
+| Prodigal Son — Diagnostic Narrative Framework | Build | ✓ Complete |
+| John 15 "Abide" — Formation Posture Reference | Build | ✓ Complete |
+| Matched Declaration Architecture | Build | ✓ Complete |
 | Psalm 24 — Redemptive-Historical Telos Frame | Build | Pending |
 | Psalm 23 — Formation Provision Reference | Build | Pending |
