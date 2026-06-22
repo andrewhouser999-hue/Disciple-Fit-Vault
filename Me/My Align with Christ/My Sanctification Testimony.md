@@ -1,9 +1,9 @@
 Kicked out of 3 churches, above reproach - *rejection trauma*
 Kicked out of employment - *died financially*
+Family (extended and origin) rejection, judgement - *severed relationally*
+Faced homelessness - *violated, died residentially*
 PTSD - *died emotionally*
 Line of Insanity -*died psychologically*
-Faced homelessness - *died residentially*
-Family rejection, judgement - *severed relationally*
 Mercury poisoning, most toxic form of metal known to man 35-45 years - killing me relationally - *dying communally*
 Marriage to complex trauma, covert narcissistic abuse 14 years, *dyeing physically* 
 
