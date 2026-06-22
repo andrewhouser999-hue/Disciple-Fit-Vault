@@ -1,7 +1,7 @@
 Kicked out of 3 churches, above reproach - *rejection trauma*
 Kicked out of employment - *died financially*
 Family (extended and origin) rejection, judgement - *severed relationally*
-Faced homelessness - *violated, died residentially*
+Faced homelessness - *violated, died in security
 PTSD - *died emotionally*
 Line of Insanity -*died psychologically*
 Mercury poisoning, most toxic form of metal known to man 35-45 years - killing me relationally - *dying communally*
