@@ -6,6 +6,8 @@ A Christian walk more biblically adhered to that is
 - Training deeply 'all of the heart, mind, soul, strength, which includes both explicit and implicit 'brain' not just the explicit where most people limit their development. 
 - Training individually and together
 
+**Scriptural Framework System**
+We're building a scriptural framework system to complement Covenant Identity Coaching. We just mapped how each framework fills a specific gap in the existing model
 **Four Contributions, Precisely Stated** for Covenant Identity
 
   1. A redemptive-historical location frame — the triptych's unique contribution.
@@ -24,7 +26,45 @@ A Christian walk more biblically adhered to that is
   (Romans 8:14–17), performance identity to sonship (Galatians 4:4–7), shame to acceptance (Ephesians 1), condemnation to no-condemnation (Romans 8:1,
   31–39). This is not new content — it is precision the model currently lacks. "Counter the lie with truth" becomes "counter this specific lie with this
   specific covenant address."
-  
+
+
+ How It Fits Without Competing
+
+  The new system does not replace anything. It maps cleanly onto the existing diagnostic sequence:
+
+  ┌────────────────────────────────┬──────────────────────────────────────────────────────────────────────┐
+  │         Existing Stage         │                      New Tool That Populates It                      │
+  ├────────────────────────────────┼──────────────────────────────────────────────────────────────────────┤
+  │ Affections diagnostic          │ Hosea 2 / Jeremiah 2:13 (false covenant object precision)            │
+  ├────────────────────────────────┼──────────────────────────────────────────────────────────────────────┤
+  │ Client entry and self-location │ Prodigal Son                                                         │
+  ├────────────────────────────────┼──────────────────────────────────────────────────────────────────────┤
+  │ Formation means                │ John 15 (posture) + Psalm 23 (provision content)                     │
+  ├────────────────────────────────┼──────────────────────────────────────────────────────────────────────┤
+  │ Covenant truth / declaration   │ Romans 8 / Ephesians 1–2 / Galatians 4 (matched to wound)            │
+  ├────────────────────────────────┼──────────────────────────────────────────────────────────────────────┤
+  │ Telos                          │ Psalm 24 + Interior Life as Telos (working together)                 │
+  ├────────────────────────────────┼──────────────────────────────────────────────────────────────────────┤
+  │ Macro-orientation              │ Psalm 22-23-24 triptych (practitioner's background frame throughout) │
+  └────────────────────────────────┴──────────────────────────────────────────────────────────────────────┘
+
+  The Soils framework and the triptych operate at different levels and don't compete: Soils diagnoses why the client isn't receiving the Word (soil
+  conditions). The triptych locates where the client is in the redemptive story. A client can have rocky soil and be in a Psalm 22 position simultaneously —
+  different questions, different tools, no contradiction.
+
+  ---
+  The Single Most Important Contribution
+
+  The redemptive-historical frame.
+
+  Every other contribution strengthens what the model already does. The triptych provides something the model structurally cannot generate from its current
+  tools: a reason, from within Scripture's own story, for why the valley exists and why it is not a sign that formation has failed. A client who understands
+  they are living between Psalm 22 and Psalm 24 — in the Psalm 23 age, accompanied — has a framework for suffering that is not clinical, not therapeutic,
+  and not merely motivational. It is covenantal. That is the register the entire model operates in. The triptych is the missing piece that makes the macro
+  frame covenantal from start to finish.
+
+
+
 Ongoing Thing:
 Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
 
