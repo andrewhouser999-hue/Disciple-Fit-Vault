@@ -32,7 +32,7 @@ Items generated from the 2026-06-22 session that built the Complete System Refer
 **What it is:** How to use the Psalm 22-23-24 triptych to locate a client in the redemptive-historical arc (cross → present age → return of the King). How each position (Ps 22 lament / Ps 23 formation / Ps 24 telos) maps to diagnostic work, formation work, and declaration work. The shift from "He" to "you" in Ps 23:4 as intimacy signal. The enemies arc across all three psalms as a developmental marker.
 **Connects to:** Diagnostic Lens Transition Logic, Practitioner Reference Index, Complete System Reference
 
-- [ ] Built
+- [x] Built — 2026-06-22
 
 ---
 
@@ -102,7 +102,7 @@ Per track: wound markers, false identity statement, declaration text (ESV), exeg
 | Item | Type | Status |
 |------|------|--------|
 | Review — Complete System Reference | Review | ✓ Complete |
-| Psalm 22-23-24 Triptych — Practitioner Frame | Build | Pending |
+| Psalm 22-23-24 Triptych — Practitioner Frame | Build | ✓ Complete |
 | Prodigal Son — Diagnostic Narrative Framework | Build | Pending |
 | John 15 "Abide" — Formation Posture Reference | Build | Pending |
 | Matched Declaration Architecture | Build | Pending |
