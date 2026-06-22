@@ -3,11 +3,15 @@ created:
 basis: TBD
 tags:
 ---
-Claude for authorship
+Claude for authorship and productivity
+NotebookLM Learning and Studying anything
 Perplexity for Research
 Emergent for building apps and websites; consider Hostingers
 Blotato for content creation
 Claude for making money and for coding
+NanoBanana2 Generate AI imaging
+Voice Dictation
+Canvas for Social media carrasels
 
 # Revenue Models — Paid Challenge & Group Coaching
 *Researched and processed: May 2026*
