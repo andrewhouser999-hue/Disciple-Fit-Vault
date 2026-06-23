@@ -121,20 +121,105 @@ Formation does not complete in a single session. What is received in session nee
 
 ---
 
-## What the Model Does Not Yet Fully Specify: The Transition Signal
+## The Transition Signal: When to Move from Conditions 1–2 into Reception
 
-The weakest point currently is the **transition signal** — what in session tells the practitioner that conditions 1 and 2 are sufficiently complete and the client is ready to be moved into reception (condition 3) rather than deeper into diagnostic work.
+This is the practitioner's critical in-session threshold. Moving too early produces premature declaration — the covenant truth lands in explicit memory but meets a false structure that was not live and precisely named, so it supplements rather than displaces. Moving too late misses the window — the moment of readiness passes, the client re-engages analytically, and the opening closes.
 
-Moving into declarative/receptive work before conditions 1–2 are complete produces premature declaration: the covenant truth is heard and noted but does not displace the false structure, because that structure was not live and named at the time the truth was spoken. Staying in diagnostic work after conditions 1–2 are complete misses the window — the moment of readiness passes.
+The signals are organized by condition because conditions 1 and 2 produce different observable markers. **Both must be present** before the move into condition 3 is available.
 
-**Observable signals that conditions 1–2 may be complete:**
-- The client can name the specific lie, its activating context, and the false covenant object it serves — with emotional contact, not detachment
-- The client has named what the false identity is giving them and can feel the cost, not only identify it
-- Affect has shifted from explanation and analysis to something more quiet, more raw, or more still
-- The client makes a statement of fatigue or grief about the false structure: *"I'm so tired of living this way"* — this is the felt inadequacy of the false covenant object, which signals readiness for covenant truth to enter
-- The body quiets or a quality of openness appears that was not present during the diagnostic phase
+---
 
-These observables are signals, not guarantees. The transition remains a practitioner judgment call that cannot be fully algorithmic. Naming this gap keeps it in view for future model development.
+### Condition 1 Complete — The False Structure Is Precisely Exposed
+
+Condition 1 is complete when the practitioner can answer three questions with specificity:
+- What is the lie? Not a category: not "approval-seeking" — a specific claim: *"I am only significant when I am performing at a high level."*
+- What false covenant object does it serve? What is the lie protecting or providing — security, significance, control, approval, belonging?
+- What are the trigger contexts? When does the lie activate — failure, evaluation, conflict, being unseen, not being chosen?
+
+**Observable signals — condition 1 complete:**
+- The client names the pattern in their own language rather than the practitioner's — adoption of the frame in their own words signals recognition, not borrowed concept
+- The client's language becomes concrete rather than abstract — specific scenes and instances surface rather than categories
+- Felt recognition: *"Yes, that's it"* — said with emotional contact, not intellectual acceptance
+- The client extends the pattern unprompted into contexts the practitioner didn't name; they begin connecting it themselves
+- The practitioner can complete this sentence with precision: *"What this person's heart is trusting for [security/significance/worth] is ___."*
+
+**Condition 1 not yet complete:**
+- The client describes the pattern from outside it — analytical, observational, no felt ownership
+- The practitioner can name the category but not the specific structure
+- The client confirms the framing politely but passively — no recognition signal, no extension, no felt contact
+- The practitioner cannot yet answer the three questions with specificity
+
+---
+
+### Condition 2 Complete — The False Structure's Inadequacy Is Felt
+
+This is the grief signal. The diagnostic key: intellectual acknowledgment stays in the explanation-loop; grief quiets it. When condition 2 arrives, the client characteristically becomes *less* articulate, not more. The elaboration stops.
+
+**Observable signals — condition 2 complete:**
+- Statements of weariness or fatigue directed at the false structure: *"I'm so tired of living this way," "I've given up a lot for this," "It's never worked the way I needed it to"*
+- A shift from explaining the pattern to sitting with it — the verbal elaboration slows or stops
+- Tears or rawness — present as something felt, not narrated
+- Physical stillness: speech slowing, longer pauses, inward or downward gaze
+- A statement of loss about what the false covenant object couldn't deliver: *"I've been waiting for this to finally make me feel okay — and it just doesn't"*
+- The client goes quiet without being stuck — a quality of arrival rather than absence
+
+**What looks like condition 2 but is not:**
+
+*Self-criticism or shame:* The client blames themselves for having the pattern — "I should be further along." This is still inside the false identity's logic. Shame keeps the client talking about their own inadequacy; grief quiets them. They feel similar but move differently.
+
+*Performed emotion:* Controlled sadness still under cognitive management — the client narrates their feelings rather than having them. The explanation-loop continues alongside the emotion: "I feel sad about this *because*..." The "because" signals managed emotion.
+
+*Intellectual acknowledgment:* *"Yes, I can see how this has cost me"* — said clearly and analytically, without felt weight. The cost has been identified but not felt. Condition 2 work remains.
+
+*Premature redirect:* "So what do I do?" said quickly after naming the cost. The client touched the grief and managed away from it. Condition 2 was glimpsed and closed.
+
+**Condition 2 not yet complete:**
+- The client explains the cost without feeling it
+- Affect remains controlled and explanatory throughout
+- The client defends the false structure or minimizes: *"I mean, it's served me in some ways"*
+- The explanation-loop is still active — the client continues to elaborate
+
+---
+
+### The Composite Readiness Signal
+
+When both conditions are present, a characteristic quality in the room distinguishes this moment from the diagnostic phase:
+
+- The client has gone quiet without being stuck — silence has a quality of arrival, not resistance
+- Emotional presence without elaboration — the client is *with* something, not explaining it
+- The verbal loop has slowed or stopped — no new analysis is being generated
+- A quality of stillness or openness that was not present during the diagnostic work
+- The client may be looking inward, less engaged with the practitioner as interlocutor
+
+**The practitioner will feel the pull to speak at this moment. This is nearly always the wrong move.** The impulse comes from the practitioner's own discomfort with stillness — it is not a clinical signal. When the composite readiness signal is present, slow down rather than accelerate. Hold the space. Let what is present have its full weight before moving toward condition 3.
+
+---
+
+### Practitioner Check-Moves When Uncertain
+
+Two brief test questions clarify when readiness is unclear. They are diagnostic checks, not extended interventions — each takes thirty seconds and produces an observable response.
+
+**Test for condition 1:** *"Can you say back to me — not the pattern generally, but specifically: what is the claim you've been living from, and what has it been trying to give you?"*
+- Client answers with specificity and emotional contact → condition 1 likely complete
+- Client returns to category language or describes from outside the pattern → more Stage 1 work remains
+
+**Test for condition 2:** *"What has it cost you to live this way? Not what you know it costs — what you actually feel it has cost you."*
+- The explanation-loop quiets and something felt surfaces → condition 2 arriving or complete
+- Elaboration continues → condition 2 not yet complete; grief work remains
+
+If condition 1 passes but condition 2 does not, the coaching move is not more affections mapping — it is lament. The question that surfaces condition 2 is: *"What would you lose if you no longer believed this about yourself?"* Stay with the answer. Do not redirect toward covenant truth until the grief has been felt.
+
+---
+
+### The Distinction from Stage 4b
+
+Premature declaration and Stage 4b look different and require different responses.
+
+**Premature declaration:** The truth was introduced before conditions 1–2 were complete. The client wasn't ready. The false structure was not live and named — the truth ran parallel and didn't displace. *Response:* return to Stage 1 work and complete conditions 1–2.
+
+**Stage 4b:** Conditions 1–2 were complete. The truth was introduced correctly. The client is not arguing against it — but it produces no felt movement. The implicit layer is holding below what explicit tools can reach. *Response:* the relational-attentive response of Stage 4b, not more diagnostic work.
+
+The diagnostic question: *Did covenant truth meet a live, named false structure?* If no — premature declaration; return and complete conditions 1–2. If yes, and the truth still produced no felt movement — Stage 4b. See → [[Covenant Identity — Diagnostic Lens Transition Logic]] Stage 4b.
 
 ---
 
@@ -164,7 +249,7 @@ These observables are signals, not guarantees. The transition remains a practiti
 
 - *Between-session distinction included:* The receptive return vs. affirmation repetition distinction is load-bearing for understanding why between-session work often produces limited formation. It belongs here — not only in the tool documents — because it is part of the mechanism, not only the practice instruction.
 
-- *Transition signal gap named explicitly:* Honest documentation of what the model does not yet fully specify is more useful than implying the judgment call is cleaner than it is. Naming the gap keeps it visible for future development.
+- *Transition signal developed by condition:* The original document named the transition signal as an open gap. Updated 2026-06-23 to provide full condition-by-condition signal development — condition 1 complete vs. condition 2 complete vs. composite readiness, with false positives, false negatives, check-moves, and the diagnostic distinction from Stage 4b.
 
 **Scope boundary:** This document addresses the Stage 3 mechanism — the conditions under which covenant truth lands. It does not cover Stage 4a (cognitive distortion blocking) or Stage 4b (implicit memory barrier), which are the failure modes when Stage 3 does not proceed. Those are addressed in → [[Covenant Identity — Diagnostic Lens Transition Logic]] and → [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] respectively. This document is about what creates Stage 3 success, not what to do when Stage 3 fails.
 

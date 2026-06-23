@@ -1,6 +1,6 @@
 ---
 created: 2026-05-10
-basis: "[[Covenant Identity — Integration Rationale]] + [[Covenant Identity — Whole-Person Identity Framework]] — sequencing logic derived from the multi-framework integration; updated 2026-05-11 to add Character Wound Deepening layer and Stage 4b; updated 2026-05-22 to add reconsolidation mechanism (Ecker) at Stage 3 and Document Provenance"
+basis: "[[Covenant Identity — Integration Rationale]] + [[Covenant Identity — Whole-Person Identity Framework]] — sequencing logic derived from the multi-framework integration; updated 2026-05-11 to add Character Wound Deepening layer and Stage 4b; updated 2026-05-22 to add reconsolidation mechanism (Ecker) at Stage 3 and Document Provenance; updated 2026-06-23 to expand Stage 2 transition signal with condition-by-condition readiness signals (references [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]])"
 tags:
   - diagnostic-sequence
   - transition-logic
@@ -52,7 +52,15 @@ This sequence is not a session script. It is the diagnostic logic that governs w
 **Coaching move:** Reflect the pattern back — not as accusation, but as observation.
 *"What I'm noticing is that a lot of what you're describing circles back to needing [X] to feel okay. Does that land?"*
 
-**Transition signal:** Client can see and acknowledge the pattern — even with resistance. Move to Stage 3.
+**Transition signal:** Two conditions must both be present before moving to Stage 3.
+
+*Condition 1 complete — false structure precisely exposed:* The client names the specific lie, the false covenant object it serves, and the trigger contexts — with emotional contact rather than detached analysis. The practitioner can answer: "What is this person's heart actually trusting, and what does the lie promise?" The client shows recognition — not polite agreement, but felt identification, often by extending the pattern into contexts the coach didn't name.
+
+*Condition 2 complete — felt inadequacy of false structure:* The explanation-loop has quieted. Something more raw than analysis is present — weariness, grief, or fatigue directed at the false structure itself rather than at the self. The client is *less* articulate, not more. Intellectual acknowledgment of the cost ("I can see how this has limited me") is not condition 2; felt acknowledgment is.
+
+Move when both are present. Moving before condition 2 is complete produces premature declaration — the truth supplements the false structure rather than displacing it.
+
+For full signal development — condition-by-condition observables, false positives, false negatives, check-moves, and the distinction from Stage 4b → [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (The Transition Signal section).
 
 ---
 
