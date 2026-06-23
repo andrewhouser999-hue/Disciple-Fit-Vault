@@ -39,6 +39,12 @@ A record of all saved prompts, their triggers, and purpose.
 | [[#Discovery Call Guide\|Discovery Call Guide]]                                                               | *(none)*                     | *(none)*   | Generates the reusable Discovery Call Guide — behavioral staging + divergent identity detection                           |     |     |
 | [[#Diagnostic Intake Profile\|Diagnostic Intake Profile]]                                                     | *(none)*                     | *(none)*   | Generates a client-specific Diagnostic Intake Profile — pattern recognition working hypothesis                            |     |     |
 | [[#Process Note\|Process Note]]                                                                               | `/process-note`              | *(none)*   | Extract key concepts, decisions, action items, and follow-up questions from raw notes; output structured Markdown summary |     |     |
+| [[#CIC Practice — Level 1 Orientation\|CIC Practice — L1: Orientation]]                                      | `/cic-l1`                    | *(none)*   | Recognition and recall — names, contributors, documents, vocabulary; fresh questions every run                            |     |     |
+| [[#CIC Practice — Level 2 Mechanism\|CIC Practice — L2: Mechanism]]                                          | `/cic-l2`                    | *(none)*   | Explain why each CIC piece works — operating logic, formation theory, source attribution                                  |     |     |
+| [[#CIC Practice — Level 3 Diagnostic Judgment\|CIC Practice — L3: Diagnostic Judgment]]                      | `/cic-l3`                    | *(none)*   | Short vignettes, single decision points — Stage 4a/4b differentiation + scope boundary trap every run                    |     |     |
+| [[#CIC Practice — Level 4 Phase Practice\|CIC Practice — L4: Phase Practice]]                                | `/cic-l4`                    | *(none)*   | Full vignette, one randomly selected phase per run (Discovery / Stage 1 / Stage 2–3 / Between-Session)                   |     |     |
+| [[#CIC Practice — Level 5 Full Session Integration\|CIC Practice — L5: Full Session Integration]]            | `/cic-l5`                    | *(none)*   | Complete session arc, 15 questions across 5 movements — scope trap embedded, self-rating rubric after answer key          |     |     |
+| [[#CIC Practice — Level 6 Supervision Mode\|CIC Practice — L6: Supervision Mode]]                            | `/cic-l6`                    | *(none)*   | Fictional session transcript with 4–6 embedded errors — identify, type, and rate severity; annotated answer key          |     |     |
 
 ---
 
@@ -923,6 +929,102 @@ Rules:
 ---
 
 *Source of truth: `.claude/commands/process-note.md` — keep in sync when updating.*
+
+---
+
+## CIC Practice System
+
+Six-level layered practice system for Covenant Identity Coaching knowledge. Each level is self-contained and can be run independently. Generates fresh content every run — no two runs are the same. All levels draw from the CIC vault documents and encode the knowledge domains directly in the command file so Claude generates accurate content without needing external context.
+
+**Progression logic:** L1-L2 build the mental map and operating logic. L3-L4 build diagnostic judgment and phase-level execution. L5-L6 stress-test full integration and self-supervision. Run L1-L2 when the system feels unfamiliar. Run L3-L4 for applied practice. Run L5 before a real client session. Run L6 when you want to find your blind spots.
+
+*All source files: `.claude/commands/cic-l1.md` through `cic-l6.md`*
+
+---
+
+### CIC Practice — Level 1: Orientation
+
+**Trigger (Claude Code):** `/cic-l1`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Recognition and recall — build the mental map before integration is required. Tests names, contributors, documents, vocabulary, and model architecture across 10 fresh questions per run.
+
+**When to use:** When the system feels large and unfamiliar. When you want to confirm you can locate and name what exists before drilling into mechanisms or application. Good entry point after a period away from the material.
+
+**What it generates:** 10 varied recognition questions (definition recall, contributor matching, document identification, fill-in-the-blank) drawn from rotating domains — model architecture, telos qualities, diagnostic sequence, contributors, documents, vocabulary. Answer key includes document source and one sentence on operational significance.
+
+*Source of truth: `.claude/commands/cic-l1.md`*
+
+---
+
+### CIC Practice — Level 2: Mechanism
+
+**Trigger (Claude Code):** `/cic-l2`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Explain WHY each piece works — not just what it is. Tests formation theory, stage transition logic, memory reconsolidation, failure modes, and the VIM framework at the operating level.
+
+**When to use:** After L1 feels solid. When you can name the system but are unclear on the logic underneath it. Essential before L3 — diagnostic judgment requires mechanism knowledge to be genuine rather than pattern-matched.
+
+**What it generates:** 6 mechanism explanation questions requiring Andrew to explain operating logic, not recall labels. Answer key includes: mechanism in 3-6 sentences, contributor and source, vault document + section, and what breaks in practice when it's misunderstood.
+
+*Source of truth: `.claude/commands/cic-l2.md`*
+
+---
+
+### CIC Practice — Level 3: Diagnostic Judgment
+
+**Trigger (Claude Code):** `/cic-l3`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Apply knowledge to a presenting client signal — read what's happening, select the right lens, and recognize scope boundaries. Every run includes a Stage 4a/4b differentiation question and a scope boundary trap.
+
+**When to use:** When L1-L2 feel solid. Before client sessions as a warm-up. When you want to sharpen pattern recognition without carrying a full session arc.
+
+**What it generates:** 4 short client vignettes (2-4 sentences each), each with one decision point. Rotating types: stage identification, transition signal assessment, tool selection, between-session design. Required every run: one Stage 4a/4b question, one scope boundary trap. Answer key includes diagnostic evidence, what breaks if the wrong call is made, document reference, and between-session formation rationale where applicable.
+
+*Source of truth: `.claude/commands/cic-l3.md`*
+
+---
+
+### CIC Practice — Level 4: Phase Practice
+
+**Trigger (Claude Code):** `/cic-l4`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Work one complete session phase with a full client vignette — not just identify what's happening but execute it. Randomly selects one of four phases per run. Always includes an embedded scope boundary detail; answer key reveals whether it was caught.
+
+**When to use:** When you want to drill a specific phase competency before full-arc integration. Good mid-week practice between client sessions. Use L4 for phase-level confidence before running L5.
+
+**What it generates:** A fictional client vignette with 4 behavioral signals + 1 embedded scope detail, then one of four phase tests: (A) Discovery Call — 6 questions across 5 movements; (B) Stage 1 Affections Discovery — 6 questions; (C) Stage 2-3 False Identity + Covenant Truth — 6 questions; (D) Between-Session Design — 6 questions. Answer key: document title + section reference for every governing principle; scope boundary reveal at the end.
+
+*Source of truth: `.claude/commands/cic-l4.md`*
+
+---
+
+### CIC Practice — Level 5: Full Session Integration
+
+**Trigger (Claude Code):** `/cic-l5`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Carry a complete engagement arc across all five movements — from pre-call affections read through between-session design — while maintaining diagnostic precision, scope discipline, and mechanism awareness throughout. Every run includes a hidden scope boundary trap and ends with a self-rating rubric.
+
+**When to use:** Before a real client session as full-system warm-up. When you want to test whether all levels are integrating into a coherent whole. After a session debrief to run a parallel ideal-response comparison.
+
+**What it generates:** A moderately complex client vignette with one embedded scope trap (not flagged). 15 questions across 5 movements: (1) Pre-Call Read, (2) Discovery Call Assessment, (3) Stage 1, (4) Stage 2-3, (5) Between-Session Design. Answer key: correct answer + mechanism + document title and section reference + what breaks in practice. Self-rating rubric: 11 domains rated 1-5. Reflection prompt: name the lowest-scoring domain and the one vault document to read before the next L5 run.
+
+*Source of truth: `.claude/commands/cic-l5.md`*
+
+---
+
+### CIC Practice — Level 6: Supervision Mode
+
+**Trigger (Claude Code):** `/cic-l6`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Evaluate practice, not just perform it. A fictional session transcript contains 4-6 embedded errors of varying types — sequence errors, scope boundary errors, mechanism errors, missed signals, and formation posture errors. Andrew identifies, types, and rates severity of every error; annotated answer key follows. Builds self-supervision capacity — the final coaching competency.
+
+**When to use:** When you want to find blind spots, not just confirm competencies. After building L1-L5 fluency. Especially valuable before taking on a new client or after a session that felt off.
+
+**What it generates:** Client setup (name, session number, prior session context) + a 10-14 exchange fictional session transcript with 4-6 embedded errors distributed throughout. Andrew names each error (exchange, type, problem, correct response) and rates severity (Minor / Significant / Critical). Annotated answer key: full transcript re-presented with inline error annotations — type, what was wrong, principle violated, document reference, correct move, severity rating. Closing reflection prompt and summary tracking fields.
+
+**Error types rotated across runs:** (A) Sequence errors — moved too early/late or in wrong direction; (B) Scope boundary errors — continued past the coaching ceiling; (C) Mechanism errors — wrong theory of change in action; (D) Missed signals — observable cues present in transcript that went unseen; (E) Formation posture errors — correctional or performance drift.
+
+*Source of truth: `.claude/commands/cic-l6.md`*
 
 ---
 

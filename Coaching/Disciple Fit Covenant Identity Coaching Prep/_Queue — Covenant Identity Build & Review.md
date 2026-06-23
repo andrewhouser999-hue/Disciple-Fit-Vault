@@ -82,7 +82,7 @@ Per track: wound markers, false identity statement, declaration text (ESV), exeg
 **What it is:** Psalm 24 as the telos orientation complement to Interior Life as Telos. "The earth is the LORD's" as sovereignty declaration that answers the Psalm 22 feeling of defeat. "Who shall ascend into the hill of the LORD?" answered in Christ for the client who cannot qualify on their own. The King of Glory's return as the horizon that gives the present valley its meaning. When to introduce (later stages, when client is ready to hold a larger frame without bypassing present pain). How Psalm 24 completes the triptych: the client is a Psalm 23 person living between Psalm 22 and Psalm 24.
 **Connects to:** Interior Life as Telos, Triptych Practitioner Frame (Item 2), Complete System Reference
 
-- [ ] Built
+- [x] Built — 2026-06-23
 
 ---
 
@@ -93,7 +93,7 @@ Per track: wound markers, false identity statement, declaration text (ESV), exeg
 **What it is:** The 16 "That's..." formation anchors (rest, refreshment, healing, guidance, presence, honor, assurance, etc.) as diagnostic and formation prompts. For each anchor: what the shepherd is doing, what blocks a client from receiving it, and what that block reveals about the underlying wound or false identity. Connects each provision to the wound type most likely to block it. Between-session question per anchor. Client-facing version: which provision do you need to receive this week?
 **Connects to:** John 15 Abide Reference (Item 4), Character Wound Diagnostic, Affections Discovery, Complete System Reference
 
-- [ ] Built
+- [x] Built — 2026-06-23
 
 ---
 
@@ -106,5 +106,5 @@ Per track: wound markers, false identity statement, declaration text (ESV), exeg
 | Prodigal Son — Diagnostic Narrative Framework | Build | ✓ Complete |
 | John 15 "Abide" — Formation Posture Reference | Build | ✓ Complete |
 | Matched Declaration Architecture | Build | ✓ Complete |
-| Psalm 24 — Redemptive-Historical Telos Frame | Build | Pending |
-| Psalm 23 — Formation Provision Reference | Build | Pending |
+| Psalm 24 — Redemptive-Historical Telos Frame | Build | ✓ Complete |
+| Psalm 23 — Formation Provision Reference | Build | ✓ Complete |
