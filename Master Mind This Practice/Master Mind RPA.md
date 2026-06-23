@@ -72,6 +72,12 @@ What gets someone there is the diagnostic work that prepares the ground — surf
 
 The question worth sitting with for your model: what specifically creates the conditions for a covenant truth to move from cognitive registration to affective reception? That's where your model's formation layer has the most work to do 
 
+---
+
+The coaching relationship also functions here. A relational environment in which the person's worth is not contingent on performance lowers the defensive posture that blocks reception. The practitioner's consistent regard — regardless of the client's presentation — is not just the vehicle for the work; it is part of the work. It creates a present-tense experience of non-contingent safety that the person's nervous system can begin to update against.
+The practical signal that receptive posture has been achieved: the person slows down, the cognitive explanation-loop stops, and there is stillness or emotional presence rather than management.
+
+---
 
 **Most Important Thing for this model**
  -2 Corinthians 3:16–18 — "**When one turns (ἐπιστρέψῃ) to the Lord**, the veil is removed... we, with unveiled face, beholding (κατοπτριζόμενοι) the glory of the Lord, are being transformed (μεταμορφούμεθα — same verb as the Transfiguration) into the same image... from the Lord who is the Spirit."
