@@ -68,6 +68,11 @@ We're building a scriptural framework system to complement Covenant Identity Coa
 Ongoing Thing:
 Transformation as the byproduct of what you fix your eyes on, with the Spirit doing the transforming work, not of the sheer force of your conviction.
 
+What gets someone there is the diagnostic work that prepares the ground — surfacing disordered affections, naming the false covenant object, tracing the false identity structure back to its root — and then the Spirit's work through the disciplines of reception. The covenant truth that follows that work has a prepared place to land. Without it, you're handing someone a map to a country they don't believe exists.
+
+The question worth sitting with for your model: what specifically creates the conditions for a covenant truth to move from cognitive registration to affective reception? That's where your model's formation layer has the most work to do 
+
+
 **Most Important Thing for this model**
  -2 Corinthians 3:16–18 — "**When one turns (ἐπιστρέψῃ) to the Lord**, the veil is removed... we, with unveiled face, beholding (κατοπτριζόμενοι) the glory of the Lord, are being transformed (μεταμορφούμεθα — same verb as the Transfiguration) into the same image... from the Lord who is the Spirit."
  This may be the most important text for your model. The mechanism is explicitly: turning → unveiling → beholding → being transformed, and the agent of transformation is named as "the Lord who is the Spirit." Note the verb is passive — "are being transformed," not "transform yourselves." The human act (turning, beholding) creates the condition; the transformation itself is received.
