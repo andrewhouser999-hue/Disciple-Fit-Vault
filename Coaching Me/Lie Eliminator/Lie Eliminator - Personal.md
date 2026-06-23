@@ -96,6 +96,9 @@ The Spirit is the active agent here — not you. What you are doing is creating 
 
 Speak declarations aloud. Close each one in Jesus' name — not as formula, but as acknowledgment that the authority is Christ's and the transformation is the Spirit's.
 
+**Receptive Return vs. Affirmation Repetition**
+When returning to an entry — daily, weekly, or in a moment of need — the distinction matters: affirmation repetition is cognitive rehearsal — saying the truth enough times hoping it descends. Receptive return is posture: sitting with the truth in stillness, bringing it before the Father in prayer, asking the Spirit to move it deeper. These are not the same practice, and confusing them is why between-session work often produces limited formation.
+
 ---
 
 ### Research Basis — Why Each Field Exists (Annotated Sample Entry)

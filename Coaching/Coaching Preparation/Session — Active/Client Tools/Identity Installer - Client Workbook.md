@@ -123,6 +123,9 @@ This workbook is not designed to be completed once and filed away. Use it this w
 - **Monthly:** Return to *My Evidence* in categories you have already worked through. Update it. God will have confirmed things. Write them down.
 - **As needed:** When a lie attacks, use the companion document *Lie Eliminator* to respond directly. Then return here to reinforce the corresponding identity truth.
 
+**Receptive Return vs. Affirmation Repetition**
+When returning to an entry — in daily practice or any other rhythm — the distinction matters: affirmation repetition is cognitive rehearsal — saying the truth enough times hoping it descends. Receptive return is posture: sitting with the truth in stillness, bringing it before the Father in prayer, asking the Spirit to move it deeper. These are not the same practice, and confusing them is why regular practice often produces limited formation.
+
 ---
 
 ## A Completed Example
@@ -175,6 +178,9 @@ Before each session, pray:
 *Holy Spirit, make what I am about to declare real in me — not just understood, but experienced. In Jesus' name.*
 
 Speak your declarations out loud. Close each one in Jesus' name — not as formula, but as an acknowledgment that the authority is Christ's and the work is the Spirit's.
+
+**Receptive Return vs. Affirmation Repetition**
+When returning to an entry — daily, weekly, or in a moment of need — the distinction matters: affirmation repetition is cognitive rehearsal — saying the truth enough times hoping it descends. Receptive return is posture: sitting with the truth in stillness, bringing it before the Father in prayer, asking the Spirit to move it deeper. These are not the same practice, and confusing them is why between-session work often produces limited formation.
 
 ---
 ---
