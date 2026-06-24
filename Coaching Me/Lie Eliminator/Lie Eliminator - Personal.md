@@ -543,16 +543,18 @@ Be honest. The lie is still operating because you are getting something from it.
 ### Lie of Abandoned by God
 
 **This activates when:**
+> I have a need for direction and guidance and He is not speaking.
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
 **The Lie I've Believed:**
 > *"God has left. He doesn't see me. He's moved on." "He will remain aloof while I am crushed and suffering alone."*
 
 **What Others Observe**
-> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+>Stress, sadness, 
+*(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
-Be honest. The lie is still operating because you are getting something from it. Name it.
+*Be honest. The lie is still operating because you are getting something from it. Name it.*
 > Comfort of familiarity. I can explain why I have to solution in my own understanding and strive.  This is playing it safe. I can experience safety this way. 
 > *(Write it here.)*
 
