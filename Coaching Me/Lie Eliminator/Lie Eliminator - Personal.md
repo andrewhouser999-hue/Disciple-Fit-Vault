@@ -631,6 +631,7 @@ Be honest. The lie is still operating because you are getting something from it.
 ### Lie of I Am Not Enough / Not the Right Person / Imposter
 
 **This activates when:**
+> I am attempting to do a new thing that requires much in skill I have yet to do 
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
 **The Lie I've Believed:**
@@ -641,7 +642,8 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
-> *(Write it here.)*
+>Safety from the unknown, from risk, from cost of failure
+*(Write it here.)*
 
 **Who God Is:**
 > "But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong." — 1 Corinthians 1:27
