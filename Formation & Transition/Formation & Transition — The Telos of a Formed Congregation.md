@@ -99,6 +99,34 @@ This is the telos this track is building toward. It cannot be produced in a shor
 
 ---
 
+## The Formative Dynamic — How the Telos Is Progressively Achieved
+
+An apparent circularity runs through the track's argument that requires resolution before it can bear Phase 2 design weight.
+
+The prerequisite argument (*Assembled, Not Attending*) establishes that *hexis* — a trained perceptive disposition formed through sustained *paideia* — is required before a member can participate in genuine ekklēsia function. *Sympatheia* only operates in a member with a stable interior; the *allēlōn* commands require a formed self to execute them. Without prior formation, genuine assembly cannot occur.
+
+But the telos this document names — communal image-bearing, the fullness of Christ displayed through differentiated unity, a body built up in love — is not achievable outside the assembly. Certain formation can only happen within the ekklēsia itself: the formation of mutual knowledge, the practiced exercise of *allēlōn* functions under real conditions, the experience of being felt-with and of feeling-with, the development of regulatory capacity through actual co-regulation with formed others. These are not products of private spiritual disciplines. They are produced by the body functioning as a body, in assembly, over time.
+
+The resolution is a distinction between mechanism and telos.
+
+*Paideia* (mechanism) produces *hexis* — the individual formation that makes participation in genuine assembly possible. That is the mechanism track, and it precedes assembly. *Ekklēsia* (telos) is both the destination of that formation and the site of a formation that private *paideia* cannot produce. These are not competing claims. They operate in different registers: one describes what must precede genuine assembly; the other describes what genuine assembly itself produces.
+
+Ephesians 4:16 names the recursive design explicitly:
+
+> "...the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love." (ESV)
+
+The body's functioning is the mechanism of its growth. The doing — *allēlōn* commands operating, *sympatheia* active, contribution flowing from every joint — is not merely the expression of a telos already achieved. It is the progressive achievement of that telos. The body builds itself up through the act of building itself up.
+
+This means the chain is not unidirectional. *Assembled, Not Attending* (Section 5) establishes the forward direction: *paideia* → *hexis* → regulatory capacity → *sympatheia* → *allēlōn* commands operational. The recursive direction is equally true: *allēlōn* commands operating within genuine ekklēsia → *sympatheia* deepened through repeated exercise → regulatory capacity expanded through co-regulation with formed others → *hexis* formed at a depth that private disciplines alone cannot reach. The telos, progressively entered, becomes itself a formative container.
+
+Two implications follow for Phase 2 design.
+
+First, the gateway condition — sufficient prior *hexis* to function in genuine assembly — does not require completion before assembly begins. It requires enough formation that the member can contribute and receive without suppressing the body's *sympatheia* mechanism. A member actively in formation can enter genuine assembly; a completely unformed member cannot yet participate in a way that builds rather than disrupts. The threshold matters; the absolute is false.
+
+Second, design decisions that create conditions for the *allēlōn* commands to operate are simultaneously formation decisions. An architecture that enables the body to function as a body is not only expressing the telos — it is producing it. The design question for Phase 2 is therefore not only *does this structure move the congregation toward the telos?* but *does this structure create conditions in which the doing that forms toward the telos can actually occur?*
+
+---
+
 ## The Spirit as Primary Agent
 
 Every formation mechanism this track identifies — *sympatheia*, *allēlōn* functions, disciplined practice, communal accountability, the small-group container — creates conditions. The Spirit is the one who forms.
