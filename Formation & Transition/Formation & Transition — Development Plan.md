@@ -26,6 +26,16 @@ Those documents were built as practitioner reference for individual coaching. Th
 
 These are not opening observations. They are load-bearing claims — six of them established by the founding documents and this track's theological floor; one (§5, the remnant strategy) a working assumption that requires Phase 1 research to establish. Everything in the development roadmap rests on them. If any of these is wrong, the development track needs to be rebuilt, not refined.
 
+| § | Title |
+|---|---|
+| §1 | God is the architect and the primary agent |
+| §2 | The body is designed — and the design is constitutionally present |
+| §3 | Formation precedes assembly — the strategic sequence |
+| §4 | The leader's formation is the gateway condition |
+| §5 | The remnant strategy appears to be the biblical pattern |
+| §6 | The transition itself is *paideia* |
+| §7 | Failure is diagnostic, not spiritual |
+
 ### 1. God is the architect and the primary agent
 
 The body of Christ is not a human institution that can be improved by better programming. It is a living organism whose life comes from its Head (Eph 1:22–23; Col 1:18). Formation is not a process Andrew facilitates, or a pastor deploys, or a framework produces. It is a work of grace that the Spirit performs in human beings who make themselves available for it.
