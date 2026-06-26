@@ -1,6 +1,6 @@
 ---
 created: 2026-06-17
-basis: "Historical formation models — Wesleyan class meeting (Watson, Henderson), early church catechumenate (Kreider, Apostolic Tradition), Benedictine novitiate (Rule of Benedict ch. 58), Pietist collegia pietatis (Spener, Pia Desideria 1675); extends [[Formation & Transition — Development Plan]] Phase 1 item 1"
+basis: "Historical formation models — Wesleyan class meeting (Watson, Henderson), early church catechumenate (Kreider, Apostolic Tradition), Benedictine novitiate (Rule of Benedict ch. 58), Pietist collegia pietatis (Spener, Pia Desideria 1675), liturgical year (Webber, Ancient-Future series; evidence base thin — noted in document), New Monasticism (Claiborne, Wilson-Hartgrove, 12 Marks 2004); transferability criteria framework from cross-model analysis; extends [[Formation & Transition — Development Plan]] Phase 1 item 1"
 tags: [formation, transition, scaling, historical-research, mechanism]
 ---
 
@@ -245,6 +245,91 @@ The *collegia pietatis* directly influenced August Hermann Francke (who establis
 
 ---
 
+## Model 5 — The Liturgical Year (Early Church Through Present)
+
+### Structure
+
+The Christian liturgical calendar organizes congregational life around an annual cycle of seasons — Advent, Christmas, Epiphany, Lent, Holy Week, Easter, Pentecost, Ordinary Time — each with its own formation arc, Scripture emphasis, and affective register. The three-year lectionary (adopted in Catholic practice after Vatican II; adapted by many Protestant denominations) cycles through most of the canonical witness over a three-year sequence, ensuring the congregation is formed by the full range of Scripture rather than the pastor's topical preferences.
+
+The calendar's formation mechanism is temporal embodiment: the congregation inhabits the gospel narrative in its body and community life across 52 weeks, rather than receiving the gospel as information. Advent forms longing; Lent forms penitence and self-examination; Holy Week forms the weight of the cross; Easter forms resurrection confidence; Pentecost forms expectation of the Spirit's work. Ordinary Time — roughly half the calendar year, running from Pentecost to Advent — is the long unhurried season of formation between dramatic peaks, where the daily discipline of following Christ without emotional intensification does its deepest work.
+
+### What Made It Work
+
+**1. Counter-calendar formation.** The liturgical year structures congregational life against the secular calendar's formation arc rather than alongside it. The secular year has its own formation liturgies — Christmas-as-consumption, the sports season's tribal loyalties, the academic year's achievement pressures. The liturgical year counter-forms these by structuring the congregation's time around a different story, enacted in the body and community rather than only proclaimed verbally.
+
+**2. Canonical breadth through the lectionary.** Topical preaching series follow the pastor's thematic interests and the congregation's perceived needs. The lectionary follows the full canonical arc, exposing the congregation to texts it would not choose and seasons it would not naturally dwell in. This is formation-by-canon rather than formation-by-preference — the community is shaped by the whole witness of Scripture, not the portions it finds most accessible.
+
+**3. Ordinary Time as the formation majority.** The high-drama seasons (Advent, Lent, Holy Week, Easter) occupy a minority of the year. Ordinary Time occupies the majority. This proportion is not accidental: genuine *hexis* formation does not happen primarily in emotional peaks. It happens in the long, unhurried middle — where the discipline of daily faithfulness, prayer, and communal life roots itself without the support of seasonal intensity. The near-total neglect of Ordinary Time in free-church Protestantism reflects a formation theology that equates spiritual depth with emotional experience.
+
+### What Caused Decline
+
+The liturgical year was not abandoned because it failed — it was abandoned in free-church Protestant traditions as a Reformation-era rejection of "Catholic" practice, without distinguishing the formation mechanism (annual narrative cycle, canonical breadth) from the institutional form (episcopal liturgical authority, specific ritual content). Once abandoned, it was replaced by topical preaching series following the pastor's interests, with no structure for canonical breadth or temporal counter-formation.
+
+**Evidence note (design judgment):** The claim that observing the liturgical year produces measurably stronger formation outcomes is not well-supported by the available research. Catholic and Anglican populations who observe the full liturgical year do not demonstrate uniformly better formation outcomes than non-liturgical Protestant communities. The liturgical year provides a formation architecture that *could* sustain formation if the community inhabits it formatively — it does not produce formation by being formally observed. Treat as a promising mechanism, not a demonstrated one.
+
+### Transferability Assessment
+
+| Feature | Transferable? | Notes |
+|---|---|---|
+| Annual narrative cycle (Advent through Ordinary Time) | Yes | Requires congregational commitment to the rhythm and leadership capacity to sustain it |
+| Lectionary (three-year canonical coverage) | Yes | Can be adopted without full liturgical form |
+| Seasonal affective formation (longing, penitence, resurrection confidence, etc.) | Yes | Requires inhabiting the seasons formatively, not merely noting them on a calendar |
+| Ordinary Time as the primary formation season | Yes — and underused | The most neglected and arguably most important season for *hexis* formation |
+| Specific liturgical content and ritual form | Not required | The annual narrative structure is the mechanism; specific rites are not |
+| Counter-calendar function | Yes — and urgently relevant | Structuring congregational time against the secular year's formation arc is the most immediately deployable application |
+
+**Verdict:** The liturgical year's most directly deployable feature is the counter-calendar mechanism — structuring congregational formation against the secular year's competing formation arc. For Phase 2 cohort design, adopting the annual narrative cycle (even informally, without full liturgical apparatus) gives the cohort's between-session disciplines a temporal architecture — Advent practices differ from Lenten practices differ from Ordinary Time practices. Evidence base for outcomes is thin; flag as design judgment, not demonstrated mechanism.
+
+---
+
+## Model 6 — New Monasticism (2000s–Present)
+
+### Structure
+
+New Monasticism is a movement of intentional Christian communities, typically in urban settings, organized around a shared rule of life. Key figures and communities: Shane Claiborne (The Simple Way, Philadelphia), Jonathan Wilson-Hartgrove (Rutba House, Durham NC), Chris Haw, and others who gathered in 2004 at Reba Place Fellowship to articulate the 12 Marks of New Monasticism as the defining document.
+
+The 12 Marks include: relocation to abandoned places of empire, sharing economic resources with fellow community members and the neighborhood, hospitality to the stranger, lament for racial divisions, humble submission to Christ's body (the church), intentional formation in the contemplative life, nurturing common life among members, support for celibate singles alongside covenanted relationships, geographical proximity to community members, care for the earth, peacemaking in the midst of violence and conflict, and commitment to a rule of life for the whole community.
+
+The model draws consciously from Benedictine monasticism — particularly the Rule, stability, and daily office — adapted for voluntary non-residential or semi-residential communities in urban neighborhoods rather than enclosed monasteries.
+
+### What Made It Work
+
+**1. Proximity as the condition for genuine mutual knowledge.** Members choosing to live near each other — not necessarily under one roof, but within a neighborhood — created enough geographic proximity for the mutual knowledge that the *allēlōn* commands require. The mechanism is not the residential requirement itself but what residential proximity produces: people knowing one another's daily lives, being present for one another's struggles, and bearing the costs of genuine community rather than the convenience of parallel presence. Where this proximity was sustained, communities developed *sympatheia* — the shared registration of each other's states — that most suburban congregations do not achieve.
+
+**2. Mission-integrated formation.** Formation happened through serving neighbors together, not through extracted formation programs. Sharing a meal with someone experiencing homelessness, repairing a neighbor's house, or practicing hospitality to a stranger is itself a formation event — it disrupts consumer formation patterns, engages the body in practices that form desire differently from consumption, and creates conditions the Spirit works through that a classroom setting does not provide.
+
+**3. Shared rule of life as between-session formation structure.** A common covenant governing the community's rhythms — prayer, meals, economic sharing, service, Sabbath — provided the formation structure that individual discipline alone rarely sustains. The rule creates accountability without enforcement: members who observe it feel the formation it produces; those who drift feel the loss. This is the Benedictine principle translated into voluntary form.
+
+### Track Record — Honest Assessment
+
+The track record is mixed and must be stated plainly. Communities that have sustained more than 10 years are rare. The Simple Way and Rutba House are notable exceptions. The majority of communities that formed in the first decade of the movement dissolved within 3–7 years. The formation architecture (rhythm, proximity, shared rule) is sound; the dissolution rate is real and should not be explained away.
+
+### What Caused Failure
+
+**1. Residential burnout.** The demands of shared life in under-resourced neighborhoods, combined with inadequate formation infrastructure for the members themselves, exceeded what communities could sustain over time. Formation requires formation of the formers; communities that did not build this in were consuming their founders.
+
+**2. Mobility.** Members moved away for employment, family, or health — and the proximity the community's functioning depended on dissolved with them. The stability the model requires is more fragile in a mobile culture than the model's designers acknowledged.
+
+**3. Founder-dependency.** Formation depth concentrated in one or two founding members; when they left or burned out, the formation culture collapsed. This is the same failure mode as the Pietist *collegia* — no mechanism for producing the next generation of formed leaders from within the community.
+
+**4. Ideological frame displacement.** In some communities, political activist identity increasingly defined the community's purpose, with formation becoming instrumental to the activist agenda rather than the other way around. The formation posture inverted: the community existed to do justice rather than to be formed toward Christlikeness, with justice as a fruit.
+
+### Transferability Assessment
+
+| Feature | Transferable? | Notes |
+|---|---|---|
+| Proximity as formation condition | Yes — as principle | The minimum is enough shared life for genuine mutual knowledge; residential co-location is the maximum expression, not the mechanism |
+| Shared rule of life | Yes — most directly transferable | The mechanism; specific content is contextually variable |
+| Mission-integrated formation (formation through service together) | Yes | Service to neighbors as a cohort formation practice, not merely outreach |
+| Economic mutual aid and sharing | Partial | Full resource pooling is not transferable; economic solidarity and mutual aid practices are |
+| Residential requirement | No | Maximum expression; not transferable to most parish contexts |
+| Urban poverty location specificity | No | Content-specific, not mechanism |
+| Formation of the formers | Yes — and critical | The failure mode (founder burnout) is a formation infrastructure problem; Phase 2 cohort design must address this |
+
+**Verdict:** New Monasticism is the only model in this set designed explicitly for the modern Western voluntary context — making it the most immediately relevant reference for constraint navigation, if not for direct replication. Its dissolution rate is a warning against treating the form as the mechanism. The mechanism — enough shared life to produce genuine mutual knowledge, organized around a common rule, through mission together — is transferable at a range of commitment levels. Phase 2 cohort design can draw from this without requiring residential commitment: shared meals outside formal meetings, economic mutual aid practices, neighborhood presence together, and a between-session rule of life adopted at cohort entry are all accessible expressions of the same mechanism.
+
+---
+
 ## Cross-Model Synthesis
 
 ### What All Four Models Share
@@ -301,6 +386,44 @@ Phase 2 cohort design must address this directly. The two-tiered church problem 
 
 ---
 
+## Transferability Criteria Framework
+
+The following five criteria provide a structured basis for evaluating whether a historical formation mechanism is transferable to a modern Western evangelical congregational context. They are design judgments derived from the cross-model synthesis above — stated explicitly so they can be applied, tested, and revised as Phase 2 design proceeds. They are not derived conclusions; treat them as a working evaluative framework.
+
+### The Five Criteria
+
+**Criterion 1: Institutional Authority Dependency**
+Does the mechanism require coercive or juridical authority to function — authority that can deny membership, enforce vows, or impose consequences for non-participation? Mechanisms requiring this kind of authority are not transferable to voluntary congregational contexts where no such authority exists. Mechanisms that benefit from *relational* authority (not coercive) are transferable if the relational conditions can be created.
+
+**Criterion 2: Geographic/Residential Dependency**
+Does the mechanism require physical proximity over sustained time — residential co-location or geographic stability — to produce its outcome? The operative question is not "does it require a monastery?" but "does it require enough shared life to produce genuine mutual knowledge?" Mechanisms requiring permanent residential commitment are not transferable; mechanisms requiring sufficient sustained proximity for mutual knowledge are partially transferable — the proximity can be created by structural commitment without requiring residential vows.
+
+**Criterion 3: Content vs. Form Specificity**
+Is the mechanism dependent on specific liturgical content, theological vocabulary, or cultural context — or on the *form* and structure itself? The catechumenate's exorcism rites are content-specific to their cultural context; the formation-prerequisite-to-participation logic and the sponsor-accountability relationship are form-specific and transferable. Separate the form from the content before evaluating transferability.
+
+**Criterion 4: Exit Availability and Entry Cost**
+Does the mechanism require high entry commitment and low exit availability to function? In voluntary evangelical contexts, exit is always available at zero cost. Mechanisms that depend on captive participants or coercive retention are not transferable. Mechanisms that generate intrinsic motivation to remain — through genuine community, visible formation, relational investment — are transferable because they create functional stability without requiring coercive retention. Covenant entry (commitment made explicitly at the outset) approximates the entry-cost function without enforcement.
+
+**Criterion 5: Scalability of the Core Function**
+Can the core mechanism function in a small group of 8–15 people within a larger congregation, rather than requiring full-congregation participation or a self-contained institution? All six models operate in small units or cohort form. None scale directly to the full congregation. Transferability means: can this function as a sub-unit architecture that feeds formation back into the larger assembly?
+
+### Applied Summary
+
+| Model | Auth. Dependency | Geo. Dependency | Form Specific | Entry/Exit | Small-Group Scalable | Assessment |
+|---|---|---|---|---|---|---|
+| Wesleyan Class Meeting | Low | Low | Form transfers | Moderate entry; exit was structured (ticket) | Yes — designed for small groups | **Highest transferability overall** |
+| Catechumenate | High | Low | Form transfers | High entry; exit socially significant | Yes — cohort form | **Partially transferable: entry logic and sponsor accountability transfer; enforcement authority does not** |
+| Benedictine Novitiate | High | High | Form transfers | Very high entry; near-zero exit | Yes — small community | **Mechanistically instructive; structurally non-transferable; three principles transfer (informed consent, *conversatio morum*, between-session rule)** |
+| Pietist Collegia | Low | Low | Form transfers | Low; fully voluntary | Yes | **High transferability; facilitator pipeline is the critical unresolved weakness** |
+| Liturgical Year | Low | Low | Form transfers | Low | Congregation-level primarily | **Partial: temporal architecture transfers; not a small-group cohort mechanism** |
+| New Monasticism | Low–moderate | High | Form transfers | Moderate; voluntary exit | Yes — small intentional communities | **Mechanism transfers; form does not; dissolution rate is a caution** |
+
+### What "Works" Means for This Track
+
+A mechanism transfers successfully if it produces, in a modern Western voluntary congregational sub-structure, the conditions necessary for communal formation toward the telos named in *The Telos of a Formed Congregation*: mutual knowledge sufficient for *sympatheia*, enough sustained proximity for the *allēlōn* commands to function, and accountable between-session formation practice. The indicator at 12–18 months: does this group know one another well enough to bear one another's burdens in the Galatians 6:2 sense? Is there observable formation that is not self-reported?
+
+---
+
 ## Mechanism Implications for This Track
 
 The four models converge on a mechanism architecture. Phase 2 (Remnant Cohort Design and Formation Track Design) should build from this:
@@ -341,17 +464,14 @@ This document is secondary-source synthesis. The following primary-source readin
 - Rule of Benedict, chapter 58 in full (RB 1980, Liturgical Press) — the novitiate chapter is brief; primary-source reading is a one-session task
 - Spener's *Pia Desideria* full text (Fortress Press English translation, 1964) — short; primary reading is directly available
 
-Two additional models that were not researched here but should be evaluated before Phase 2 design is finalized:
-- **Anabaptist Gemeinde (16th century):** Radical Reformers built intentional covenant communities with rigorous mutual accountability (*Gemeinschaft*). The ban (*Bann*) and church discipline structures are the most direct Protestant precedent for structural accountability with community consequences.
-- **The Oxford Holy Club (1729–1735):** Wesley's own formation before the Methodist revival. A small group of Oxford students meeting weekly for Scripture reading, accountability, and works of mercy — Wesley's *hexis* was formed here before he formed others.
-
 ---
 
 ## Connected Files
 
 - [[Formation & Transition — Development Plan]] — governing document; this is Phase 1, item 1
-- [[Covenant Identity — Assembled, Not Attending]] — sympatheia chain and assembly prerequisites; the destination this mechanism serves
-- [[Covenant Identity — Trained, Not Consumed]] — *paideia*/*hexis* formation framework; the mechanism the cohort must implement
-- [[Covenant Identity — The Interior Life as Telos]] — what the cohort is forming members toward
-- [[Covenant Identity — Spiritual Disciplines Guide]] — between-session disciplines; will be adapted for the cohort's rule of life in Phase 2
+- [[Formation & Transition — The Telos of a Formed Congregation]] — the communal telos this mechanism serves; Phase 1, item 3
+- [[Formation & Transition — Modern Western Constraint Matrix]] — the specific modern constraints each model must be evaluated against
+- [[Assembled, Not Attending]] — *sympatheia* chain and assembly prerequisites; the destination this mechanism serves
+- [[Trained, Not Consumed]] — *paideia*/*hexis* formation framework; the mechanism the cohort must implement
+- [[Covenant Identity — The Interior Life as Telos]] — what the cohort is forming members toward (individual level; see Telos document for communal level)
 - *Phase 2 documents (not yet built):* [[Formation & Transition — Remnant Cohort Design]], [[Formation & Transition — Formation Track Design]]
