@@ -1,6 +1,6 @@
 ---
 created: 2026-05-19
-updated: 2026-05-24
+updated: 2026-06-25
 basis: "Gospel sources (Matthew, Mark, Luke, John), Psalms; Willard (Renovation of the Heart, The Divine Conspiracy), Benner (The Gift of Being Yourself, Surrender to Love), Manning (Abba's Child), Berry (The Peace of Wild Things, Sabbath Poems, Manifesto: The Mad Farmer Liberation Front), Herbert (Love III, The Flower) — two versions: V1 Willard/Benner/Manning; V2 Berry/Herbert woven in"
 tags: [practitioner-reference, telos, sanctification, inner-life, vision-document]
 ---
@@ -102,11 +102,33 @@ Willard calls this living *from* the Kingdom rather than *toward* it — the int
 
 ---
 
+### 9. Available
+
+There is a quality of interior life that only shows up in the presence of others — which is why it comes last. Everything before this describes what formation does to the inside of a person. This quality is what the inside does when it enters a room.
+
+The formed person walks into the body of Christ already turned outward. They are not arriving to scan whether the gathering will be worth the cost, whether they will be seen, whether the room is safe. They have already asked a different question — not *what will I receive?* but *what am I carrying that belongs to the people who will be here?* And the interior is settled enough to actually give it.
+
+This is not the same as being warm or sociable. The most extroverted person in the room may be the least available in this sense — if their energy is a performance that screens out what others are actually carrying. Availability is not affect. It is orientation: the interior facing outward before the encounter begins, stable enough to receive another person's state without flinching from it or being overwhelmed by it.
+
+On the night of his arrest, Jesus gathered with his disciples knowing what was coming. John records the interior from which he moved: *"Jesus, knowing that the Father had given all things into his hands, and that he had come from God and was going to God, rose from supper. He laid aside his outer garments, and taking a towel, tied it around his waist"* (Jn 13:3–4 ESV).
+
+The detail is not incidental. From a settled knowledge of who he was and whose he was — he took a towel. He did not arrive at the table to receive. He arrived already carrying something they needed, and the thing he carried was given in the most particular way possible: he knelt and touched their feet, one at a time.
+
+Peter's objection — *"You shall never wash my feet"* — is the protest of a person who has not yet been reorganized at this level. Receiving is as difficult as giving for an interior still running its calculations about standing and debt and adequacy. Jesus does not engage the calculation: *"What I am doing you do not understand now, but afterward you will understand"* (Jn 13:7 ESV). The posture does not come from reasoning about what the room needs. It comes from what the interior already is.
+
+David Benner writes that to know you are deeply loved reorganizes everything downstream. The person who has received that word — not held as belief in some cognitive register, but lived from as an operative fact — has nothing left to protect. The armor that defended an unloved self is no longer needed. And when the armor is gone, something becomes possible that could not exist behind it: the capacity to feel with a suffering person without flinching, to register another's state without being swept, to remain present in the room when the room becomes difficult.
+
+Paul describes the assembly's constitution: *"If one member suffers, all suffer together; if one member is honored, all are honored together"* (1 Cor 12:26 ESV). The grammar is indicative — not a command but a design specification. The body of Christ is wired for felt-with response to its members' states. But the design can be suppressed. A gathering of defended interiors is a gathering where the suffering member's state goes unregistered, or registers in ways that overwhelm rather than steady. The available person is the one in whom the body's architecture actually functions. Their formed interior is what makes it operative.
+
+Paul names the gathering this formation is building toward: *"When you come together, each one has a hymn, a lesson, a revelation, a tongue, or an interpretation. Let all things be done for building up"* (1 Cor 14:26 ESV). *Each one has* — already carrying. Already a member, not a guest. That is the body when it is assembled. That is what the available person brings to it.
+
+---
+
 ### A Note for the Practitioner
 
 These are not goals to assign to clients. They are not a standard to hold above a person and measure them against. They are what becomes possible when the work of identity formation succeeds — when the false self is named, the wound is met, the covenant truth is received and installed. These qualities are the fruit, not the entry condition.
 
-Hold this picture the way a gardener holds a knowledge of what a plant fully grown looks like: not to shame the seedling but to know what it is becoming, and to tend accordingly. When you see a client who cannot rest, who is always performing, who flinches from full presence — you are seeing blocked access to a life that is genuinely available to them. Your work is to clear the path.
+Hold this picture the way a gardener holds a knowledge of what a plant fully grown looks like: not to shame the seedling but to know what it is becoming, and to tend accordingly. When you see a client who cannot rest, who is always performing, who flinches from full presence — you are seeing blocked access to a life that is genuinely available to them. Your work is to clear the path — the path that leads here: to a person who can enter the body of Christ as a member rather than a guest, carrying something for others, stable enough to feel with those who suffer without being swept, and available in the way the body's design requires. That is where the interior life is headed. That is what you are tending toward.
 
 ---
 
@@ -255,11 +277,35 @@ Dallas Willard called this living *from* the Kingdom rather than *toward* it. Th
 
 ---
 
+### 9. Available
+
+There is a quality of interior life that only shows up in the presence of others — which is why it comes last. Everything before this describes what formation does to the inside of a person. This quality is what the inside does when it enters a room.
+
+The formed person walks into the body of Christ already turned outward. They are not arriving to scan whether the gathering will be worth the cost, whether they will be seen, whether the room is safe. They have already asked a different question — not *what will I receive?* but *what am I carrying that belongs to the people who will be here?* And the interior is settled enough to actually give it.
+
+This is not the same as being warm or sociable. The most extroverted person in the room may be the least available in this sense — if their energy is a performance that screens out what others are actually carrying. Availability is not affect. It is orientation: the interior facing outward before the encounter begins, stable enough to receive another person's state without flinching from it or being overwhelmed by it.
+
+On the night of his arrest, Jesus gathered with his disciples knowing what was coming. John records the interior from which he moved: *"Jesus, knowing that the Father had given all things into his hands, and that he had come from God and was going to God, rose from supper. He laid aside his outer garments, and taking a towel, tied it around his waist"* (Jn 13:3–4 ESV).
+
+The detail is not incidental. From a settled knowledge of who he was and whose he was — he took a towel. He did not arrive at the table to receive. He arrived already carrying something they needed, and the thing he carried was given in the most particular way possible: he knelt and touched their feet, one at a time.
+
+Peter's objection — *"You shall never wash my feet"* — is the protest of a person who has not yet been reorganized at this level. Receiving is as difficult as giving for an interior still running its calculations about standing and debt and adequacy. Jesus does not engage the calculation: *"What I am doing you do not understand now, but afterward you will understand"* (Jn 13:7 ESV). The posture does not come from reasoning about what the room needs. It comes from what the interior already is.
+
+David Benner writes that to know you are deeply loved reorganizes everything downstream. The person who has received that word at the level the interior operates from has nothing left to protect. The armor that defended an unloved self is no longer needed. And when the armor is gone, something becomes available that could not exist behind it: the capacity to feel with a suffering person without flinching, to register another's state without being swept, to remain present in the room when the room becomes difficult.
+
+Wendell Berry spent a lifetime writing about what belonging looks like when it goes deep enough to become second nature. The people of Port William — his fictional Kentucky community — do not decide to help one another at harvest time or in illness or at death. They simply appear. The knowing accumulated over years of shared life has made the need visible before it is stated, and the belonging has made the response inevitable. Berry calls this *membership* — a word he uses with deliberate weight, meaning the bond that comes not from enrollment but from being known and knowing across the full span of a life in common.
+
+This is the human texture of what Paul describes from the structural side: *"If one member suffers, all suffer together"* (1 Cor 12:26 ESV). Not commanded to feel it — constituted to. Berry's members and Paul's body are describing the same thing from different angles: a community in which the interior life of one member is genuinely present to the others. The design exists. Whether it functions depends on whether the people gathered have been formed enough to participate in it.
+
+*"Each one has a hymn, a lesson, a revelation"* (1 Cor 14:26 ESV). Already carrying. Already a member, not a guest. The available person is the one who walks in that way — having considered, having prepared, facing outward before the encounter begins. Their formed interior is what makes the body's design operative rather than theoretical.
+
+---
+
 ### A Note for the Practitioner
 
 These are not goals to assign to clients. They are not a standard to hold above a person and measure them against. They are what becomes possible when the work of identity formation succeeds — when the false self is named, the wound is met, the covenant truth is received and installed. These qualities are the fruit, not the entry condition.
 
-Hold this picture the way a gardener holds a knowledge of what a plant fully grown looks like: not to shame the seedling but to know what it is becoming, and to tend accordingly. When you see a client who cannot rest, who is always performing, who flinches from full presence — you are seeing blocked access to a life that is genuinely available to them. Your work is to clear the path.
+Hold this picture the way a gardener holds a knowledge of what a plant fully grown looks like: not to shame the seedling but to know what it is becoming, and to tend accordingly. When you see a client who cannot rest, who is always performing, who flinches from full presence — you are seeing blocked access to a life that is genuinely available to them. Your work is to clear the path — the path that leads here: to a person who can enter the body of Christ as a member rather than a guest, carrying something for others, stable enough to feel with those who suffer without being swept, and available in the way the body's design requires. That is where the interior life is headed. That is what you are tending toward.
 
 ---
 
