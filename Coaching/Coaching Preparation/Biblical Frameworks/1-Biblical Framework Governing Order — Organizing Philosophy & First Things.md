@@ -128,6 +128,8 @@ The lived response to the A- commands. The how of walking in the kingdom.
 14. Witnessing / bearing fruit outward — John 15:16; Acts 1:8
 15. Solitude and silence — withdrawing to be with the Father — Mark 1:35; Luke 5:16; Matthew 6:6
 
+*Addition worth mention: posture of self perpetual and skilled self examination, identifying what is blocking you from living these out. Scriptural support for this found in C-Diagnostic Lenses.*
+
 ---
 
 **C- Diagnostic Lenses — Catalog (Top 15)**
