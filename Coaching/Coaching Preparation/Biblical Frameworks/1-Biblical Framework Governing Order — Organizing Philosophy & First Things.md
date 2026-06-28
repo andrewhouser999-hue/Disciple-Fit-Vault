@@ -159,12 +159,12 @@ Discipleship is not linear — it is spiral. A disciple cycles through A-, B-, a
 
 ### The Four-Stage Arc
 
-| Stage | A- Priority | B- Postures | C- Diagnostics |
-|---|---|---|---|
-| **Entry** | Repent & Believe; Greatest Commandment | Prayer; Scripture; Community; Confession | Parable of the Soils; Prodigal/Elder Brother |
-| **Foundation** | Seek First the Kingdom; Deny Self; Fear of the Lord | Walk by the Spirit; Sabbath rhythm; Forgiveness; Humility | Beatitudes arc; Counterfeit Kingdom; Love Chapter |
-| **Growth** | New Commandment; Abide in Me; Be Holy | Suffering as formation; Service; Stewardship; Witnessing | Fruit of the Spirit; Old Man/New Man; Vine/Fruit test |
-| **Maturity** | Great Commission; Glorify God in everything | Solitude; Disciple-making; Spiritual gifts in deployment | Comprehensive Discipleship Markers; Spiritual gifts inventory; Rich Young Ruler test |
+| Stage          | A- Priority                                         | B- Postures                                               | C- Diagnostics                                                                       |
+| -------------- | --------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Entry**      | Repent & Believe; Greatest Commandment              | Prayer; Scripture; Community; Confession                  | Parable of the Soils; Prodigal/Elder Brother                                         |
+| **Foundation** | Seek First the Kingdom; Deny Self; Fear of the Lord | Walk by the Spirit; Sabbath rhythm; Forgiveness; Humility | Beatitudes arc; Counterfeit Kingdom; Love Chapter                                    |
+| **Growth**     | New Commandment; Abide in Me; Be Holy               | Suffering as formation; Service; Stewardship; Witnessing  | Fruit of the Spirit; Old Man/New Man; Vine/Fruit test                                |
+| **Maturity**   | Great Commission; Glorify God in everything         | Solitude; Disciple-making; Spiritual gifts in deployment  | Comprehensive Discipleship Markers; Spiritual gifts inventory; Rich Young Ruler test |
 
 ---
 
