@@ -153,6 +153,36 @@ These are not merely strategic problems. They are diagnostic indicators that the
 
 ---
 
+## What the Telos Looks Like From the Inside
+
+The diagnostic layer above names what blocks the telos. The positive counterpart is equally diagnostic: when the telos is being approached, it is recognizable from the inside before it can be analyzed from the outside. The experiential texture of a forming congregation is not incidental — it is the *sympatheia* and *allēlōn* functions made phenomenologically present, and it serves as a concrete standard Phase 2 design can be evaluated against.
+
+What follows is not a list of hoped-for qualities. It is the experiential surface that the framework's mechanism — *paideia* producing *hexis*, *hexis* enabling *sympatheia*, *sympatheia* activating the *allēlōn* functions — produces when it is actually operating.
+
+**Dropped vigilance.** You walk in and something in your posture releases. You are not scanning, not calculating how to be received. The room does not require performance from you. This is what the *allēlōn* function of reception feels like from the receiving end — you know your contribution will land rather than be filtered through what others need you to be.
+
+**Being known without being managed.** People have read your life over enough time to name things in you before you say them. Confrontation, when it comes, does not feel like threat — it feels like someone reaching toward you because they are unwilling to let you stay stuck. This is *katanoeō* (Hebrews 10:24 — other-oriented attention) made personal and sustained. The *allēlōn* function of *parakaleō* requires knowing another's actual state before it can be called alongside them. When that knowledge is present, you feel it immediately.
+
+**Grief does not collapse the room.** When someone suffers, the group moves toward it. There is no flinching, no rush to fix, no pivot to silver linings. The capacity to hold pain without panic is among the most palpable markers of a formed assembly — detectable in the quality of the silence after someone speaks. This is *sympatheia* operating as designed (1 Corinthians 12:26): the body has the regulatory capacity to stay present with suffering rather than suppressing it.
+
+**Congruence, not performance.** When someone speaks truth, it lands with weight — not because they are articulate, but because they are the same person in that room as they are everywhere else. The hypocrisy gap — the distance between public persona and private life — has closed. This is *hexis* visible: virtue as formed reflex, not as managed impression. You can feel the difference between someone who has been through something and someone who has only read about it. Authority in a formed assembly comes from formation, not from position.
+
+**Unhurriedness under pressure.** The room has a settled quality — not flat, not emotionally managed, but not anxious. People can hold tension without needing to collapse it. Disagreements are workable not because everyone agrees, but because the method for working through things together is trusted. This is regulatory capacity operating at the communal level: the room's collective nervous system is not easily destabilized.
+
+**Joy is not awkward.** Celebration fits rather than strains against the occasion. The difference is immediately recognizable: a room that marks an occasion because someone is supposed to be celebrated, versus a room that cannot contain it. Formed communities have enough shared history and genuine mutual knowledge that joy is proportionate and unforced — the same quality of genuineness that makes their grief-capacity real also makes their celebration real.
+
+**You leave different than you came.** The assembly pulls something forward in you — not because it was engineered to, but because being near people whose *hexis* is more formed, whose *allēlōn* functions are more active, whose regulatory capacity is more stable, creates conditions the Spirit uses. This is the recursive dynamic the formative mechanism section names: the *allēlōn* functions operating are not only the expression of the telos but the continuation of formation toward it. The community functions as a mirror of who you are becoming, not only of who you are.
+
+**What is notably absent.** The experiential markers of a formed assembly are as legible in their absence as in their presence. Performance anxiety is gone — you are not calculating your words to manage how you are received. Competition for spiritual status has no foothold. The chronic low-grade question of whether you belong does not follow you in. This is the spirit of adoption rather than the spirit of bondage (Romans 8:15): fear of exposure, rejection, and inadequacy are not the behavioral drivers of the people in the room.
+
+### The Diagnostic Use of This Layer
+
+The structural diagnostic (above) asks whether the architecture removes the blocks. This phenomenological layer asks whether the architecture creates conditions in which people actually experience the room described above. These are related questions but not identical. The first is structural; the second is experiential. Both are required for Phase 2 evaluation.
+
+A design that removes consumption architecture and enables *allēlōn* commands to operate structurally may still fail to produce the telos if the conditions it creates never generate dropped vigilance, grief-capacity, and congruence in the people who inhabit it. The phenomenological layer is the more demanding standard, and it is closer to what Ephesians 4:16 is describing: "the body builds itself up in love." That building — the telos being progressively entered — has an inside as well as an outside.
+
+---
+
 ## Connected Files
 
 - [[Formation & Transition — Development Plan]] — governing document; this is Phase 1, item 3
