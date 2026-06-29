@@ -5,7 +5,7 @@ tags:
   - diagnostic
   - self-assessment
   - arc-location
-  - practitioner-reference
+  - session-tools
   - covenant-identity
 ---
 
@@ -238,4 +238,4 @@ Complete after Parts 1 and 2.
 
 **Upstream documents:** [[Covenant Identity — Diagnostic Lens Transition Logic]]; [[Covenant Identity — The Interior Life as Telos]]
 
-**Client use note:** This document is written in first-person for self-use. For client deployment, Stage 1–2 questions should be administered in session rather than assigned for solo completion — affections disclosure and false identity naming require the relational container of a live coaching conversation. Parts 2 and 3 can be assigned between sessions once Stage 2 is complete.
+**Client use note:** Stages 1–2 should be administered in session rather than assigned for solo completion — affections disclosure and false identity naming require the relational container of a live coaching conversation. Parts 2 and 3 can be assigned between sessions once Stage 2 is complete.
