@@ -1157,7 +1157,7 @@ Be honest. The lie is still operating because you are getting something from it.
 >
 > The older verdict does not stand. Not because the coaching practice succeeded. Because I was named before I began.
 >
-> I am Andrew. I am his. The case is closed."
+> I am Andrew. I am His. The case is closed."
 
 **Holding Both — In the Body**
 > Where does *"I am only safe when I have proof — and without it, the older verdict stands"* live in my body? It lives as a sinking feeling in the lower chest and upper gut. Stay with it for a moment — don't argue it down yet.
@@ -1178,6 +1178,8 @@ Be honest. The lie is still operating because you are getting something from it.
 - **Romans 5:8** — *"but God shows his love for us in that while we were still sinners, Christ died for us."*
 - **Judges 6:12** — *"The LORD is with you, O mighty man of valor."*
 - **1 Peter 2:9** — *"But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession."*
+
+**Arc location:** This lie was diagnosed on the covenant identity arc on 2026-06-29 — Stage 3 activation threshold (covenant truth landed cognitively; Stage 4a blocking distortion surfaced and loosened; felt landing not yet complete). Use [[Covenant Identity — Arc Location Diagnostic]] to track movement over time.
 
 ---
 
