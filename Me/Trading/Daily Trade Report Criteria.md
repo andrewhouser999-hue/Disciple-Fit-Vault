@@ -170,16 +170,17 @@ These are the default priority sectors. Re-verify against current Stage analysis
 If a sector not listed here is showing stronger RS and Stage 2 structure than these, include it.
 This list is a starting screen, not a constraint.
 
-**Priority sectors (as of last update — re-verify):**
-- Energy
-- Utilities
-- Materials
-- Industrials
-- Financials
+**Priority sectors (as of 2026-06-29 — re-verify Stage 2 on charting platform before screening):**
+- Nuclear Utilities (July 4th catalyst — reactors online, deregulation push; screen CEG, VST, SMR)
+- Airlines / Transportation (gas tax suspension + WTI at $70; screen DAL, UAL, LUV, JBHT, ODFL)
+- Financials (OBBB tax cuts favor domestically-focused large-cap; screen XLF components)
+- Domestic Industrials (lower energy costs + tax cuts; screen XLI leaders by RS)
 
-**Avoid (as of last update — re-verify):**
-- Technology (lagging, below key MAs)
-- Consumer Discretionary (oil shock headwind)
+**Avoid or require elevated confirmation (as of 2026-06-29):**
+- Energy (Divergence 3 active — WTI reversed 28% from March highs; suspend new longs)
+- Consumer Discretionary (weak fundamentals, soft revenue trends — low consumer confidence offsets fuel tailwind; require full stack before entry)
+- EM names including YPF (DXY strengthening — Divergence 4 watch)
+- Technology (verify Stage 2 and Minervini template; recent chip weakness per June 25 session)
 
 ---
 
@@ -188,16 +189,19 @@ This list is a starting screen, not a constraint.
 This section is the human-written context layer. The report compares it against current
 conditions and notes any divergence before applying it.
 
-**Last updated:** 2026-03-23
+**Last updated:** 2026-06-29
 
-- Market regime: Defensive/commodity rotation. S&P -5.1% YTD.
-- Primary catalyst: Iran conflict began Feb. 28 → oil supply disruption via Strait of Hormuz
-- Oil levels at last update: Brent ~$112, WTI ~$98
-- Rate environment: Fed cuts delayed to September 2026. Stagflation risk elevated.
-- Dollar: Monitor direction — dollar strengthening activates Divergence 4 for EM names
-- Credit spreads: Monitor for widening — activates Divergence 5
-- Risk posture: Selective. Only Stage 2 sector leaders. No growth or momentum chasing.
-- Primary tail risk: Geopolitical de-escalation → oil reversal → Divergence 3 activates
+- Market regime: Recovery/consolidation. S&P 500 ~7,413 as of June 29 (+17% from March low of ~6,343). Pulled back from June high of ~7,609; now testing 50-day MA (~7,363). 200-day MA ~6,925 — S&P comfortably above. 30-week MA not directly sourced — verify on charting platform (estimated ~7,000–7,100 given recovery trajectory). Broad market likely Stage 2 on weekly, but breadth is neutral/modest — monitor for Divergence 2 activation.
+- Primary catalyst: Iran conflict ongoing. US-Iran strikes renewed June 29 near Strait of Hormuz. Oil bounced modestly on renewed supply fears but remains 28% below March highs. Conflict has not resolved — de-escalation remains the tail risk for energy names.
+- Oil levels: WTI ~$70, Brent ~$72–73 (was WTI ~$98 / Brent ~$112 in March). **Divergence 3 is effectively active.** Oil has reversed 28% from conflict highs. Energy sector long thesis from March is largely invalidated. Suspend energy longs until WTI re-establishes above a clearly defined technical support level.
+- Rate environment: 10-year Treasury yield 4.38% (as of June 26). Fed cuts still delayed — September 2026 is the current expectation. No rate relief yet. Rising yield environment remains a headwind for growth and high-multiple names.
+- Dollar: DXY ~101.33. Up ~2.14% over the past month. Monitor weekly rate of change — Divergence 4 triggers if DXY moves >2% in any single 5-day period. EM names (YPF, etc.) carry elevated currency risk at current trajectory.
+- Credit spreads: IG ~80 bps (near multi-decade tights), HY ~276–285 bps (as of June 24). Tightening — risk-on environment. Divergence 5 NOT active.
+- VIX: ~18.41 (June 26 close). No elevated volatility. Divergence 6 NOT active. Standard stop distances apply.
+- Risk posture: Selective. Broad market recovery intact above 200-day MA, but breadth is neutral and 50-day MA is being tested. Not a high-conviction momentum environment. Full 9-layer stack required — no shortcuts on Minervini template or multi-timeframe alignment.
+- July 4th announcement context: Trump nuclear milestone — 2 of 3 experimental reactors already online (Antares Nuclear June 4, Valar Atomics June 18). Third expected by July 4. Gas tax suspension (18.4 cents/gallon gasoline, 24.4 cents diesel) actively being discussed — not yet law. OBBB tax cuts are already signed law — do not treat as new news; likely already priced in. Do not confuse "lower rates" with Fed action — no rate cut is imminent. "Lower fuel costs" refer to gas tax + energy deregulation, not WTI directly.
+- Sector rotation update: Energy sector thesis from March invalidated by Divergence 3. Pivot screening focus: nuclear utilities (July 4 catalyst — verify Stage 2 on CEG, VST, SMR), airlines/transportation (gas tax suspension thesis — DAL, UAL, LUV), domestic financials and industrials (OBBB tax cuts). Consumer discretionary is lagging — weak revenue trends and soft consumer confidence offset the fuel tailwind. Verify all names against full Minervini template before entry.
+- Primary tail risk: Iran escalation spike → oil reverses sharply upward → re-evaluate energy longs. Secondary risk: breadth continues to narrow while index holds → Divergence 2 activates → reduce to 2 recommendations, VCP base breakouts only.
 
 ---
 
@@ -332,10 +336,14 @@ Before finalizing any recommendation, answer:
 
 One-off additions for the current period. Clear this section each weekly update.
 
-- Flag any setup where the primary thesis depends on the Iran conflict continuing at current intensity. State this plainly and give the invalidation scenario.
-- Note if a security is within 3% of a major resistance cluster — state the level before recommending entry.
-- If the broad market has a distribution day (S&P down 1%+ on above-average volume), reduce all position size recommendations by 50% and flag it.
-- Monitor dollar direction daily — YPF and MEOH carry currency sensitivity that changes their risk profile faster than domestic names.
+**Active as of 2026-06-29:**
+- Divergence 3 is in effect. Do not recommend new energy sector longs. Any existing energy positions: verify stops are tight; tighten to prior swing low or move to breakeven.
+- Apply Marks second-level thinking before any July 4th trade: check RS trend for nuclear utility names over the prior 60 days. If a name has already run 25%+, the easy money is made — new entry requires pullback to defined support with volume contraction, not a chase at current highs.
+- Gas tax suspension is not yet law as of June 29. Airline and trucking thesis depends on it passing. Flag this risk on any airline recommendation — the setup could reverse if the suspension fails legislatively.
+- OBBB tax cuts are already signed law. Do not frame financials or industrials recommendations as "news plays" — they must pass the full technical stack on their own merits, not on announcement hype.
+- Breadth is neutral with S&P testing its 50-day MA. If S&P closes below 50-day MA on above-average volume this week, treat as a distribution signal and reduce recommendations to 2 until breadth re-confirms.
+- If DXY moves >2% in any single 5-day period, activate Divergence 4 immediately — remove or flag any EM or commodity-denominated name.
+- Monitor oil daily. If WTI spikes >5% on a single session (Iran escalation), re-evaluate Divergence 3 status — energy longs may re-activate if oil reclaims prior support on volume.
 
 ---
 
