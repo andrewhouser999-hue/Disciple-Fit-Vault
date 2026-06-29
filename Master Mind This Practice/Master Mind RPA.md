@@ -1,3 +1,20 @@
+"A lot of Christians who feel spiritually stuck aren't actually struggling with discipline or knowledge. They're relating to God from a performance framework — trying to earn standing they've already been given. The harder they try, the more exhausted and distant they feel. That's not a spiritual discipline problem. It's an identity problem masquerading as one."   "I use a three-discipline approach combining Spiritual Formation, Biblical Counseling, and Life Coaching to help Christians discover their covenant identity..."
+
+The First Quote does several things:
+  - Names a specific pattern the reader recognizes in themselves
+  - Offers a diagnosis they hadn't considered
+  - Implies you know what's underneath it
+  - Doesn't pitch anything
+
+  The reader who sees themselves in that doesn't need you to explain your method. They want to talk to the person who just described their inner experience accurately.
+
+  The rule: Show the insight, not the system. One precise observation that reframes how someone sees their own stuck place. That's the demonstration.
+
+  Your diagnostic lens is your product. A one-paragraph post that accurately names what's happening — and why — is more persuasive than any explanation of how you work.
+
+---
+
+
 Case:
 A Christian walk more biblically adhered to that is  
 - Training actively vs consuming passively 
