@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "Gentry & Wellum (progressive covenantism) — covenant-by-covenant sourcing and promise tracing across all seven categories; Goldsworthy — biblical-theology hermeneutic governing the covenant progression spine; N.T. Wright — true Israel / union with Israel reading (Promise 5, Categories 4–5); O. Palmer Robertson (*Christ of the Covenants*) + Horton — covenant promises as structurally binding commitments rooted in God's character, not performance; J. Todd Billings (*Union with Christ*) — New Covenant mechanism field across all categories; union with Christ as the transfer mechanism for Old Covenant promises; Brueggemann — relational covenant structure informing the pastoral register of the 'What This Means for You' sections; Sinclair Ferguson — fatherhood as operative relational category (Category 2, Access); [[Lie Eliminator - Personal]] — four-part promise structure (Text / Covenant source / Mechanism / Personal application) mirrors and expands the 'His Promise' field logic"
 tags:
 ---
 
