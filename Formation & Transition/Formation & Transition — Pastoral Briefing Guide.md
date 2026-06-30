@@ -29,7 +29,7 @@ This document is a conversational guide for presenting the Formation & Transitio
 
 ## Posture Going In
 
-The pastor already has the holy dissatisfaction. He doesn't need to be convinced something is wrong. What he doesn't have yet is diagnostic precision — the ability to name *why* structural solutions keep failing, and what the actual sequence is that produces genuine *ekklēsia*. Vocabulary and sequence are the primary contribution. Give him those, not just shared grief.
+The pastor already has the holy dissatisfaction. He doesn't need to be convinced something is wrong. What he doesn't have yet is diagnostic precision — the ability to name *why* structural solutions keep failing, and what the actual sequence is that produces genuine *ekklēsia* (ek-klay-SEE-ah). Vocabulary and sequence are the primary contribution. Give him those, not just shared grief.
 
 The opening is not a presentation. It's listening. Spend the first 10–15 minutes with probing questions before showing anything. Since Andrew offered to show what he has, a natural framing:
 
@@ -49,7 +49,7 @@ These are not meant to be run in sequence. Deploy as the conversation opens. Eac
 
 This separates what they admire from a distance from what they recognize as absent. The unease is the diagnostic data.
 
-> *"When your group looks at the way Acts describes the early community — the *proskarterountes*, the *koinōnia*, the mutual distribution — what's your working theory of why that isn't reproducible by just doing more of what your churches currently do?"*
+> *"When your group looks at the way Acts describes the early community — the *proskarterountes* (pros-kar-ter-OON-tess), the *koinōnia* (koy-no-NEE-ah), the mutual distribution — what's your working theory of why that isn't reproducible by just doing more of what your churches currently do?"*
 
 Most groups will have an instinctive answer. Whether it's "our culture," "consumer mentality," or "people won't commit" — that answer tells you what frame they're operating in and where the track's framework differs.
 
@@ -121,7 +121,7 @@ Name the three structural failure modes. These are recognizable and specific eno
 
 **1. Consumption architecture** — The congregation is organized around the delivery of religious goods to passive recipients. Ephesians 4:16 says the body **builds itself up** when "each part is working properly." Consumption architecture suppresses contribution in favor of reception. Most Sunday services are designed to deliver, not to receive from every joint.
 
-**2. Parallel presence** — Physical co-location without mutual knowledge. People occupying the same space who don't actually know one another's real states. Hebrews 10:24 uses *katanoeō* — "**let us consider how to stir one another up**" — an intensive word meaning to look intently, to attend to. You cannot stir someone up to love and good works if you don't **know where they actually are.** Parallel presence produces the appearance of community without its mechanism.
+**2. Parallel presence** — Physical co-location without mutual knowledge. People occupying the same space who don't actually know one another's real states. Hebrews 10:24 uses *katanoeō* (kah-tah-no-EH-oh) — "**let us consider how to stir one another up**" — an intensive word meaning to look intently, to attend to. You cannot stir someone up to love and good works if you don't **know where they actually are.** Parallel presence produces the appearance of community without its mechanism.
 
 **3. Platform delivery** — Formation channeled through a single communicator rather than distributed through the body's differentiated gifts. This isn't inherently wrong. It becomes a structural block when it's the *only* formation mechanism, because "**the fullness of Christ" distributed across the body's gifts** cannot be carried by any single voice.
 
@@ -131,21 +131,30 @@ Name the three structural failure modes. These are recognizable and specific eno
 
 ### Movement 2 — What You're Actually Building Toward
 
-Before explaining how to get there, show where "there" is. The phenomenological description of a formed congregation — drawn from the *sympatheia* and *allēlōn* texts — is the most emotionally compelling material in the track. Most pastors have never experienced what they're trying to build. This gives it a face.
+**Quick reference — Greek terms in this movement:**
+
+| Word | Pronunciation | Short Definition |
+|---|---|---|
+| *allēlōn* | al-LAY-lone | "One another" — the mutual, reciprocal actions members owe each other in the body |
+| *katanoeō* | kah-tah-no-EH-oh | To look intently, to fully attend to — sustained notice, not a glance |
+| *sympatheia* | soom-pah-THAY-ah | Shared suffering — the body's designed capacity to co-feel another's pain |
+| *hexis* | HEK-sis | A trained disposition — the reflex formed by repeated practice, not a one-time choice |
+
+Before explaining how to get there, show where "there" is. The phenomenological description of a formed congregation — drawn from the *sympatheia* (soom-pah-THAY-ah) and *allēlōn* (al-LAY-lone) texts — is the most emotionally compelling material in the track. Most pastors have never experienced what they're trying to build. This gives it a face.
 
 > *"Let me describe what a formed congregation actually feels like from the inside — not as an aspiration, but as what the mechanism produces when it's operating."*
 
 Walk through these:
 
-**Dropped vigilance.** You walk in and something in your posture releases. You're not scanning, not calculating how to be received. The room doesn't require performance from you. This is what the *allēlōn* function of reception feels like from the receiving end — you know your contribution will land rather than be filtered through what others need you to be.
+**Dropped vigilance.** You walk in and something in your posture releases. You're not scanning, not calculating how to be received. The room doesn't require performance from you. This is what the *allēlōn* (al-LAY-lone) function of reception feels like from the receiving end — you know your contribution will land rather than be filtered through what others need you to be.
 
-**Being known without being managed.** People have read your life over enough time to name things in you before you say them. Confrontation, when it comes, doesn't feel like threat — it feels like someone reaching toward you because they're unwilling to let you stay stuck. This is *katanoeō* (Heb 10:24) made personal and sustained.
+**Being known without being managed.** People have read your life over enough time to name things in you before you say them. Confrontation, when it comes, doesn't feel like threat — it feels like someone reaching toward you because they're unwilling to let you stay stuck. This is *katanoeō* (kah-tah-no-EH-oh; Heb 10:24) made personal and sustained.
 
-**Grief doesn't collapse the room.** When someone suffers, the group moves toward it. There's no flinching, no rush to fix, no pivot to silver linings. The capacity to hold pain without panic is among the most palpable markers of a formed assembly — detectable in the quality of the silence after someone speaks. This is *sympatheia* operating as designed (1 Cor 12:26): the body has the regulatory capacity to stay present with suffering rather than suppressing it.
+**Grief doesn't collapse the room.** When someone suffers, the group moves toward it. There's no flinching, no rush to fix, no pivot to silver linings. The capacity to hold pain without panic is among the most palpable markers of a formed assembly — detectable in the quality of the silence after someone speaks. This is *sympatheia* (soom-pah-THAY-ah) operating as designed (1 Cor 12:26): the body has the regulatory capacity to stay present with suffering rather than suppressing it.
 
 **Congruence, not performance.** When someone speaks truth, it lands with weight — not because they're articulate, but because they're the same person in that room as they are everywhere else. The hypocrisy gap has closed. Authority in a formed assembly comes from formation, not from position.
 
-**You leave different than you came.** The assembly pulls something forward in you — not because it was engineered to, but because proximity to people whose *hexis* is more formed, whose *allēlōn* functions are more active, creates conditions the Spirit uses.
+**You leave different than you came.** The assembly pulls something forward in you — not because it was engineered to, but because proximity to people whose *hexis* (HEK-sis) is more formed, whose *allēlōn* (al-LAY-lone) functions are more active, creates conditions the Spirit uses.
 
 **What is notably absent.** Performance anxiety is gone. Competition for spiritual status has no foothold. The chronic question of whether you belong doesn't follow you in. This is the spirit of adoption rather than the spirit of bondage (Rom 8:15).
 
@@ -161,13 +170,13 @@ Let that sit. That question either confirms or confronts what they know. Either 
 
 This is the frame-shift. Most reform conversations assume you can restructure the gathering and formation will follow. The research says the opposite — and is specific about why.
 
-The chain runs: *paideia* (sustained, implicit-level formation) → *hexis* (formed disposition, trained reflex) → regulatory capacity (the ability to stay non-anxious in the presence of others' suffering or conflict) → *sympatheia* (the body's designed co-suffering mechanism) → the *allēlōn* functions become possible.
+The chain runs: *paideia* (pie-DAY-ah; sustained, implicit-level formation) → *hexis* (HEK-sis; formed disposition, trained reflex) → regulatory capacity (the ability to stay non-anxious in the presence of others' suffering or conflict) → *sympatheia* (soom-pah-THAY-ah; the body's designed co-suffering mechanism) → the *allēlōn* (al-LAY-lone) functions become possible.
 
 > *"The inverse — restructuring the gathering in hopes that formation follows — has not historically produced formed members. It produces a different shape of consumption. Better small groups, restructured Sunday experience — these are structural interventions. The mechanism that makes genuine assembly possible is upstream of structure."*
 
-Hebrews 5:14 names the mechanism: "those who have their powers of discernment trained by constant practice." The word for "trained" is *gumnazō* — the gymnasium word. Discernment is produced by repeated exercise, not by a different meeting format.
+Hebrews 5:14 names the mechanism: "those who have their powers of discernment trained by constant practice." The word for "trained" is *gumnazō* (goom-NAD-zo) — the gymnasium word. Discernment is produced by repeated exercise, not by a different meeting format.
 
-The implication: **genuine *ekklēsia* is the fruit of formed individuals, not the container that forms them.** You can't produce the fruit by building a better fruit bowl.
+The implication: **genuine *ekklēsia* (ek-klay-SEE-ah) is the fruit of formed individuals, not the container that forms them.** You can't produce the fruit by building a better fruit bowl.
 
 ---
 
@@ -185,7 +194,7 @@ Spener's *Pia Desideria* gave people vocabulary for a hunger they were already c
 
 **The critical failure mode across all cases:**
 
-> *"The most consistent path to failure is when structure decouples from the formation substance that gave it life. The structure spreads. The formation doesn't. What remains is the performance of ekklēsia, not genuine assembly."*
+> *"The most consistent path to failure is when structure decouples from the formation substance that gave it life. The structure spreads. The formation doesn't. What remains is the performance of ekklēsia (ek-klay-SEE-ah), not genuine assembly."*
 
 That failure mode applies directly to any reform initiative this group of pastors is considering. The question is not "what structure should we adopt?" It's "what formation must precede and sustain any structure we build?"
 
@@ -197,7 +206,7 @@ This is the hardest part of the conversation. Don't soften it.
 
 > *"The research on what makes congregational formation possible points to one gateway condition more consistently than any other: the formation arc of the leader. Not the pastor's theological competency, not the sincerity of their belief, not even the quality of their preaching. Whether the pastor has personally been through formation."*
 
-A pastor who has not been through formation cannot hold the formation posture the work requires. Under pressure — financial, attendance-related, relational — they will revert to what their *hexis* has been formed to do: content delivery, program management, meeting people's stated preferences. Not out of faithlessness. Because that's where their trained reflex takes them.
+A pastor who has not been through formation cannot hold the formation posture the work requires. Under pressure — financial, attendance-related, relational — they will revert to what their *hexis* (HEK-sis) has been formed to do: content delivery, program management, meeting people's stated preferences. Not out of faithlessness. Because that's where their trained reflex takes them.
 
 > *"The gateway question for any congregation considering this transition is not 'does our pastor believe this?' but 'has our pastor been through this?' The answer to the first can be sincere while the answer to the second is no. Only the second predicts whether the transition can hold under cost."*
 
@@ -214,10 +223,10 @@ The urgency argument — why this conversation matters in this particular cultur
 Five forces are converging:
 
 **1. AI and the authenticity collapse** *(highest spike potential)*
-As AI-generated companionship normalizes, people bifurcate: some satisfied with simulation, others with acute, articulable hunger for what is provably human and genuinely present. That second group will have a specific sentence: *"I need what AI cannot give me."* That sentence points directly at what genuine *ekklēsia* provides and consumer church does not. Consumer church can be replaced by a good podcast. Genuine assembly cannot. AI cannot co-regulate a nervous system through shared suffering. It cannot participate in *sympatheia* (1 Cor 12:26). The *allēlōn* functions cannot be digitized.
+As AI-generated companionship normalizes, people bifurcate: some satisfied with simulation, others with acute, articulable hunger for what is provably human and genuinely present. That second group will have a specific sentence: *"I need what AI cannot give me."* That sentence points directly at what genuine *ekklēsia* (ek-klay-SEE-ah) provides and consumer church does not. Consumer church can be replaced by a good podcast. Genuine assembly cannot. AI cannot co-regulate a nervous system through shared suffering. It cannot participate in *sympatheia* (soom-pah-THAY-ah) (1 Cor 12:26). The *allēlōn* (al-LAY-lone) functions cannot be digitized.
 
 **2. The therapeutic ceiling becoming visible** *(high spike potential)*
-The mental health crisis among younger generations is hitting a ceiling. Clinical intervention is inadequate because the problem is fundamentally a belonging and meaning crisis. The cultural conversation is shifting from "we need more therapists" toward "what is therapy unable to address?" A body with *sympatheia* active is constituted to answer that question. Consumer church is not.
+The mental health crisis among younger generations is hitting a ceiling. Clinical intervention is inadequate because the problem is fundamentally a belonging and meaning crisis. The cultural conversation is shifting from "we need more therapists" toward "what is therapy unable to address?" A body with *sympatheia* (soom-pah-THAY-ah) active is constituted to answer that question. Consumer church is not.
 
 **3. Loneliness reaching policy scale** *(high spike potential)*
 The Surgeon General named loneliness a public health epidemic. When structured social programs fail visibly at scale — as they will — "what actually produces genuine belonging?" becomes a cultural question without an institutional answer. A formed remnant demonstrating the answer is in position to speak into that moment.
@@ -237,14 +246,14 @@ The convergence of these forces is likely within 10–15 years. The arithmetic i
 Be clear about what exists and what doesn't yet.
 
 **Phase 1 is complete** — the theological floor and research infrastructure:
-- What genuine *ekklēsia* is and what it requires (→ [[Assembled, Not Attending]], [[Trained, Not Consumed]])
-- The communal telos — what a formed congregation is actually displaying (→ [[Formation & Transition — The Telos of a Formed Congregation]])
+- What genuine *ekklēsia* (ek-klay-SEE-ah) is and what it requires (→ [[Assembled, Not Attending]], [[Trained, Not Consumed]])
+- The communal telos (TEH-los) — what a formed congregation is actually displaying (→ [[Formation & Transition — The Telos of a Formed Congregation]])
 - Six historical formation-at-scale models analyzed, with transferability criteria (→ [[Formation & Transition — Scaling Mechanism Research]])
 - The demand landscape and cultural convergence case (→ [[Formation & Transition — The Demand Landscape]])
-- The polity foundation — how pastoral *hexis* flows into body *sympatheia* (→ [[Formation & Transition — Polity Foundation]])
+- The polity foundation — how pastoral *hexis* (HEK-sis) flows into body *sympatheia* (soom-pah-THAY-ah) (→ [[Formation & Transition — Polity Foundation]])
 - Remnant theology established exegetically (→ [[Formation & Transition — Remnant Theology — Biblical Research]])
 - Assessment of four pastoral formation pathways against the gateway condition (→ [[Formation & Transition — Pastoral Formation Pathway Assessment]])
-- The *allēlōn* functions — what the 40+ one-another commands require to actually operate (→ [[Formation & Transition — The Allēlōn Functions — What Active Operation Requires]])
+- The *allēlōn* (al-LAY-lone) functions — what the 40+ one-another commands require to actually operate (→ [[Formation & Transition — The Allēlōn Functions — What Active Operation Requires]])
 
 **Phase 2 is not built yet** — the actual cohort design, formation track, and congregational discernment guide. These require Phase 1 findings to be solid before Phase 2 can be built soundly. Phase 1 is solid.
 
@@ -267,7 +276,7 @@ Let him take that question back to his group.
 The probing conversation will consume 10–15 minutes. With natural dialogue built in throughout, the full arc is achievable in 90 minutes, but if time compresses, prioritize in this order:
 
 1. **Movement 1** — The three structural failure modes (gives diagnostic precision they don't have)
-2. **Movement 2** — The phenomenological description (gives them a telos they can feel)
+2. **Movement 2** — The phenomenological description (gives them a telos (TEH-los) they can feel)
 3. **Movement 3** — The sequence insight (the frame-shift that changes their approach)
 4. **Movement 4** — Wesley and the critical failure mode (historical grounding for Movement 3)
 5. **Movement 5** — The gateway condition (the hardest and most important truth for a room of pastors)
@@ -279,12 +288,12 @@ Movements 6 and 7 — the cultural window and the full research arc — can come
 ## Connected Files
 
 - [[Formation & Transition — Development Plan]] — governing document; first principles, 12-item roadmap
-- [[Assembled, Not Attending]] — *ekklēsia* vocabulary, *sympatheia* mechanism, three structural failure modes
-- [[Trained, Not Consumed]] — *paideia*/*hexis* formation mechanism
-- [[Formation & Transition — The Telos of a Formed Congregation]] — communal image-bearing telos; phenomenological description
+- [[Assembled, Not Attending]] — *ekklēsia* (ek-klay-SEE-ah) vocabulary, *sympatheia* (soom-pah-THAY-ah) mechanism, three structural failure modes
+- [[Trained, Not Consumed]] — *paideia* (pie-DAY-ah)/*hexis* (HEK-sis) formation mechanism
+- [[Formation & Transition — The Telos of a Formed Congregation]] — communal image-bearing telos (TEH-los); phenomenological description
 - [[Formation & Transition — The Allēlōn Functions — What Active Operation Requires]] — what the one-another commands require to operate
 - [[Formation & Transition — Scaling Mechanism Research]] — six historical models; transferability criteria
 - [[Formation & Transition — The Demand Landscape]] — historical demand-generation pattern; cultural convergence case
-- [[Formation & Transition — Polity Foundation]] — how leadership *hexis* flows into body *sympatheia*
+- [[Formation & Transition — Polity Foundation]] — how leadership *hexis* (HEK-sis) flows into body *sympatheia* (soom-pah-THAY-ah)
 - [[Formation & Transition — Remnant Theology — Biblical Research]] — exegetical basis for the remnant strategy
 - [[Formation & Transition — Pastoral Formation Pathway Assessment]] — four pathways assessed against the gateway condition
