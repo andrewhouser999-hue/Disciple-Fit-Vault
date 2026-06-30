@@ -15,7 +15,7 @@ Canvas for Social media carrasels
 Emergent good for creating websites
 Searchable for creating SEO
 Otter.ai for meeting notes
-www.biotato.com/agent - best AI app to humanize your blog posts
+www.biotato.com/agent - best AI app to humanize your blog posts generating leads
 
 # Revenue Models — Paid Challenge & Group Coaching
 *Researched and processed: May 2026*
