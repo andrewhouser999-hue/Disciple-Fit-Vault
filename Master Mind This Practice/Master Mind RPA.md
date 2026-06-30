@@ -13,6 +13,7 @@ The First Quote does several things:
   Your diagnostic lens is your product. A one-paragraph post that accurately names what's happening — and why — is more persuasive than any explanation of how you work.
 
 ---
+"People will reduce themselves to the systems you create for them to work in." Andrew Houser
 
 
 Case:
