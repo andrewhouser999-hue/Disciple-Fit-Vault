@@ -20,7 +20,7 @@ tags: [resource-library, reference, contributors]
 |---|---|---|
 | **Tier 1 — Read First** | Direct session impact; most framework-critical | Thompson, Willard, Allender, Barton, Anderson (*Victory*), Bonhoeffer, Foster |
 | **Tier 2 — Read Next** | High value; builds depth and range | Brueggemann, Billings, Ferguson, Crabb, Welch, Tripp, Benner, Murray, Wright, Siegel, Thomas, Tozer, Cloud/Townsend, Payne |
-| **Reference Only** | Depth when needed; academic or specialized | Robertson, Horton, Volf, Fee, Peterson, Young, Bowen, Anderson (*Bondage Breaker*), Yehuda, C. Wright, Plantinga, Hauerwas |
+| **Reference Only** | Depth when needed; academic or specialized | Robertson, Horton, Volf, Fee, Peterson, Young, Bowen, Anderson (*Bondage Breaker*), Yehuda, C. Wright, Plantinga, Hauerwas, Swann, McAdams |
 
 ---
 
@@ -102,6 +102,20 @@ Identity, otherness, and belonging through a covenantal/trinitarian lens. More t
 - **Christopher Wright — *Old Testament Ethics for the People of God*** — covenant ethics as identity ethics — *Reference Only*
 - **Cornelius Plantinga Jr. — *Not the Way It's Supposed to Be*** — shalom/covenant as the frame for what's broken in human identity — *Reference Only*
 - **Stanley Hauerwas — *A Community of Character*** — covenant community as the context where identity is formed (ecclesial focus) — *Reference Only*
+
+---
+
+## Psychological Research Foundations
+
+> **Note on this section:** These contributors are not reading resources in the same sense as the pastoral and theological authors above — their primary texts are academic journal literature, not practitioner books. They are included because their research directly undergirds specific framework design decisions. For full treatment see [[Covenant Identity — Identity-Before-Behavior Research Foundation]].
+
+**William Swann — Self-Verification Theory**
+Swann's research (University of Texas) documents that people actively seek feedback confirming their existing self-concept, even a negative one. This is motivated behavior, not passive drift: people unconsciously solicit, weight, and create experiences consistent with how they see themselves, and discount or reject disconfirming feedback. The implication for the CIC model is direct — clients who carry a false identity structure will resist covenant truth not because they lack motivation but because accepting it would violate their psychological coherence. Self-verification explains why Stage 2 (False Identity Named) must precede Stage 3 (Covenant Truth): truth installed on an unreformed self-concept gets filtered to fit the existing identity rather than received as disconfirming evidence.
+*Priority: Reference Only — academic journal literature, not a practitioner book. The concept is actively deployed in the diagnostic sequence.*
+
+**Dan McAdams — Narrative Identity Theory**
+McAdams's research (Northwestern University) establishes that people construct a personal narrative — a life story with characters, turning points, and a governing theme — and that behavior conforms to that narrative over time. The narrative is not merely how people describe themselves retrospectively; it is the organizational structure through which they interpret new experience and anticipate future behavior. The key implication: durable change requires narrative revision, not just behavioral rerouting. A client whose governing story is "I am someone God is disappointed in" will interpret every spiritual experience through that lens until the narrative itself is revised — behavioral wins get absorbed into the existing story rather than updating it. McAdams's concept of the *redemptive self* (a narrative in which suffering is redeemed and earlier chapters explain later growth) maps directly onto the coaching arc's movement from wound and lament through covenant truth and integration. The practitioner doing narrative work in sessions reaches for Allender, not McAdams — Allender holds the clinical seat. McAdams provides the research mechanism that explains why that work produces durable change.
+*Priority: Reference Only — academic literature. Actively referenced in [[Covenant Identity — Identity-Before-Behavior Research Foundation]] and [[Covenant Identity — Author-Framework Mapping]] (Intergenerational Transmission, Mechanism 2).*
 
 ---
 

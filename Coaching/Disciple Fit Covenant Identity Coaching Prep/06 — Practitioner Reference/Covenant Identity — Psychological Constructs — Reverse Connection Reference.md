@@ -464,6 +464,22 @@ When you encounter a construct in intake language, session material, reading, or
 
 ---
 
+### Self-Verification
+
+*Swann: the motivated tendency to seek feedback confirming the existing self-concept — even when that self-concept is negative; not passive drift but active behavioral maintenance of identity coherence; disconfirming truth is discounted, avoided, or reinterpreted to fit the existing structure rather than received as corrective*
+
+**Layer:** Both
+**Diagnostic Stage:** Stage 2 (false identity named with precision is the prerequisite) → Stage 3 (self-verification is the primary mechanism the coach must account for when covenant truth is introduced)
+**Engagement Phase:** Phase 2–3
+**Scope:** ● Coaching scope
+
+**How CIC engages:** Self-verification explains why Stage 2 must precede Stage 3 — a client whose self-concept is organized around unworthiness will filter incoming covenant truth to maintain psychological coherence rather than receive it as disconfirming evidence. This is not willpower failure; it is the motivated maintenance of identity coherence. Moving to covenant truth before the false identity is named with precision allows the self-verification mechanism to absorb the truth into the existing structure, producing the appearance of understanding without inner movement. The Felt Inadequacy mechanism (Node 3) addresses this directly: the false structure must be felt as failing — not merely identified as false — before the self-concept becomes sufficiently destabilized for disconfirming truth to land rather than be filtered.
+**Theory of Change Node:** Node 2 (precision in naming the false identity matters because the self-verification mechanism will absorb imprecise truth; the specific lie must be named, not the general category) → Node 3 (felt inadequacy of the false covenant object is what temporarily destabilizes the self-concept and opens it to revision) → Node 5 (the activation requirement at Stage 3 is partly a self-verification management mechanism — truth must enter an emotionally live, destabilized self-concept, not a defended one)
+**Primary tools:** Lie Eliminator; Lament Practice Guide; ITC Protocol (Column 3–4 — surfaces what the false structure is protecting)
+**Key files:** [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]], [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]], [[Covenant Identity — Diagnostic Lens Transition Logic]], [[Covenant Identity — Identity-Before-Behavior Research Foundation]]
+
+---
+
 ## 9. God-Representation
 
 ---
