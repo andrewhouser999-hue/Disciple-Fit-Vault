@@ -119,11 +119,11 @@ This reframes the entire conversation: from "we need to install something new" t
 
 Name the three structural failure modes. These are recognizable and specific enough that any pastor will see his own congregation immediately.
 
-**1. Consumption architecture** — The congregation is organized around the delivery of religious goods to passive recipients. Ephesians 4:16 says the body builds itself up when "each part is working properly." Consumption architecture suppresses contribution in favor of reception. Most Sunday services are designed to deliver, not to receive from every joint.
+**1. Consumption architecture** — The congregation is organized around the delivery of religious goods to passive recipients. Ephesians 4:16 says the body **builds itself up** when "each part is working properly." Consumption architecture suppresses contribution in favor of reception. Most Sunday services are designed to deliver, not to receive from every joint.
 
-**2. Parallel presence** — Physical co-location without mutual knowledge. People occupying the same space who don't actually know one another's real states. Hebrews 10:24 uses *katanoeō* — "let us consider how to stir one another up" — an intensive word meaning to look intently, to attend to. You cannot stir someone up to love and good works if you don't know where they actually are. Parallel presence produces the appearance of community without its mechanism.
+**2. Parallel presence** — Physical co-location without mutual knowledge. People occupying the same space who don't actually know one another's real states. Hebrews 10:24 uses *katanoeō* — "**let us consider how to stir one another up**" — an intensive word meaning to look intently, to attend to. You cannot stir someone up to love and good works if you don't **know where they actually are.** Parallel presence produces the appearance of community without its mechanism.
 
-**3. Platform delivery** — Formation channeled through a single communicator rather than distributed through the body's differentiated gifts. This isn't inherently wrong. It becomes a structural block when it's the *only* formation mechanism, because "the fullness of Christ" distributed across the body's gifts cannot be carried by any single voice.
+**3. Platform delivery** — Formation channeled through a single communicator rather than distributed through the body's differentiated gifts. This isn't inherently wrong. It becomes a structural block when it's the *only* formation mechanism, because "**the fullness of Christ" distributed across the body's gifts** cannot be carried by any single voice.
 
 > *"The problem most pastor groups name is 'we need more community.' But these three are the structural reason community can't form in most Western church architectures — not because the people are uncommitted, but because the structure suppresses the very mechanism it needs."*
 
