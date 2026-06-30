@@ -12,6 +12,10 @@ Claude for making money and for coding
 NanoBanana2 Generate AI imaging
 Voice Dictation
 Canvas for Social media carrasels
+Emergent good for creating websites
+Searchable for creating SEO
+Otter.ai for meeting notes
+www.biotato.com/agent - best AI app to humanize your blog posts
 
 # Revenue Models — Paid Challenge & Group Coaching
 *Researched and processed: May 2026*
