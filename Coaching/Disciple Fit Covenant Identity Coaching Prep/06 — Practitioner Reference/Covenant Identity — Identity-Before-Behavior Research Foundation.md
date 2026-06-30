@@ -42,7 +42,7 @@ The key implication: **durable change requires narrative revision, not just beha
 
 McAdams's concept of the *redemptive self* — a narrative structure in which suffering is redeemed and earlier chapters explain later growth — directly maps onto the coaching arc's movement from wound and lament (Phases 1–2) to covenant truth and integration (Phases 3–4). The coaching sequence is, among other things, a structured narrative revision process.
 
-> *McAdams is already a supporting citation in [[Covenant Identity — Author-Framework Mapping]] (Mechanism 2, intergenerational transmission — family narrative stories as identity frameworks). This document elevates his contribution from a transmission mechanism reference to a primary research foundation for the identity-before-behavior premise. The Full Author Seat Table in that document should be updated to give him a formal seat.*
+> *McAdams is already a supporting citation in [[Covenant Identity — Author-Framework Mapping]] (Mechanism 2, intergenerational transmission — family narrative stories as identity frameworks). This document expands his documented role to include the identity-before-behavior research foundation; his supporting citation status in the Author-Framework Mapping is accurate and does not require change. The practitioner-facing narrative work in CIC sessions is Allender's domain; McAdams provides the research mechanism that explains why that work produces durable change.*
 
 ---
 
@@ -119,7 +119,7 @@ The precision claim is this: **the deeper and more affect-laden the identity com
 | Contributor | Research Basis | Status in CIC System | Primary Implication |
 |---|---|---|---|
 | **William Swann** | Self-Verification Theory | Not in system | People actively maintain behavioral coherence with their self-concept — identity must shift or change reverts |
-| **Dan McAdams** | Narrative Identity Theory | Supporting citation only; needs elevation | Behavior conforms to governing life narrative — durable change requires narrative revision |
+| **Dan McAdams** | Narrative Identity Theory | Supporting citation (transmission + IBB Foundation) | Behavior conforms to governing life narrative — durable change requires narrative revision; Allender holds the practitioner narrative seat |
 | **Kegan & Lahey** | Immunity to Change | Fully documented | Competing commitments protect "big assumptions" (identity claims) — bypass fails reliably |
 | **James Prochaska** | Transtheoretical Model | Not in system | Pre-action stalls are identity-level; movement to sustained action requires self-perception shift |
 | **Jeffrey Young** | Schema Therapy | Reference Only, actively deployed | Core schemas (identity beliefs) drive behavior; surface interventions don't hold under stress |
