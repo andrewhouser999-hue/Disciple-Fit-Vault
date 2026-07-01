@@ -1,12 +1,12 @@
 ---
 created: 2026-06-17
-basis: "[[Covenant Identity — Assembled, Not Attending]] — full lexical study of every Greek and Hebrew term used in that document; primary sources are BDAG, LSJ, BDB, and the NT/LXX occurrences directly"
+basis: "[[Covenant Identity — Assembled, Not Attending]] — full lexical study of every Greek and Hebrew term used in that document; primary sources are BDAG, LSJ, BDB, and the NT/LXX occurrences directly. One additional term (telos, entry 21) is drawn from [[Formation & Transition — The Telos of a Formed Congregation]] by request; the rest of that document's and the folder's other Greek/Hebrew terms are not covered here."
 tags: [practitioner-reference, biblical-foundations, word-study, greek, hebrew]
 ---
 
 # Covenant Identity — Assembled, Not Attending — Greek & Hebrew Word Study
 
-**Purpose:** A full lexical reference for every Greek and Hebrew term used in *Assembled, Not Attending*. Organized in document order. Each entry covers: etymology, semantic range, key canonical occurrences, how translation choices shift meaning, and interpretive debates where they exist. Intended as a companion for the practitioner who wants to trace the precision behind the document's exegetical claims.
+**Purpose:** A full lexical reference for every Greek and Hebrew term used in *Assembled, Not Attending*, plus one additional term (*telos*, entry 21) from the sibling document *The Telos of a Formed Congregation*, added by request. Organized in document order. Each entry covers: etymology, semantic range, key canonical occurrences, how translation choices shift meaning, and interpretive debates where they exist. Intended as a companion for the practitioner who wants to trace the precision behind the document's exegetical claims.
 
 **Abbreviations:** BDAG = Bauer, Danker, Arndt, Gingrich (*A Greek-English Lexicon of the New Testament*); LSJ = Liddell, Scott, Jones (*A Greek-English Lexicon*); BDB = Brown, Driver, Briggs (*Hebrew Lexicon*); LXX = Septuagint; ESV throughout.
 
@@ -16,28 +16,29 @@ tags: [practitioner-reference, biblical-foundations, word-study, greek, hebrew]
 
 Each term links to its full entry below. Definitions are compressed to a single governing sense — see the linked entry for etymology, occurrences, and translation issues. Sorted alphabetically by the English transliteration.
 
-| Term | Quick Definition |
-|---|---|
-| [[#7. ἀλλήλων (allēlōn)\|ἀλλήλων]]<br>**ALLĒLŌN** | Reciprocal "one another" — bilateral behavioral commands that define a functioning body |
-| [[#19. ἀντέχομαι (antechomai)\|ἀντέχομαι]]<br>**ANTECHOMAI** | Active, sustained holding/support — for the *asthenos* (weak, without capacity to stand) |
-| [[#13. δοκιμάζω (dokimazō)\|δοκιμάζω]]<br>**DOKIMAZŌ** | To test/assay one's interior readiness — specifically, capacity to recognize the body |
-| [[#1. ἐκκλησία (ekklēsia)\|ἐκκλησία]]<br>**EKKLĒSIA** | Called-out covenant assembly of people — never a building, time slot, or program |
-| [[#3. ἐπισυναγωγή (episynagōgē)\|ἐπισυναγωγή]]<br>**EPISYNAGŌGĒ** | Purposive, concentrated gathering; carries eschatological weight (only 2 NT occurrences) |
-| [[#14. ἡγέομαι (hēgeomai)\|ἡγέομαι]]<br>**HĒGEOMAI** | Deliberate, prior cognitive assessment that others surpass you — not a feeling |
-| [[#15. ἕξις (hexis)\|ἕξις]]<br>**HEXIS** | Stable, trained disposition operating without deliberation; roughly equivalent to implicit memory |
-| [[#12. κατανοέω (katanoeō)\|κατανοέω]]<br>**KATANOEŌ** | Intensive, deliberate focus on others, undertaken *before* entering assembly |
-| [[#6. κοινωνία (koinōnia)\|κοινωνία]]<br>**KOINŌNIA** | Shared stake / participation in a common reality, including material resources — not social pleasantry |
-| [[#20. μακροθυμέω (makrothymeō)\|μακροθυμέω]]<br>**MAKROTHYMEŌ** | Long-tempered endurance with people over time; the governing disposition underlying the other three targeted responses |
-| [[#17. νουθετέω (noutheteō)\|νουθετέω]]<br>**NOUTHETEŌ** | Corrective verbal admonition — for the *ataktos* (disorderly), not the fragile |
-| [[#9. οἰκοδομή (oikodomē)\|οἰκοδομή]]<br>**OIKODOMĒ** | Building up; Paul's governing criterion for evaluating everything done in assembly |
-| [[#10. οἰκονόμος (oikonomos)\|οἰκονόμος]]<br>**OIKONOMOS** | Household steward — manages entrusted resources/gifts that belong to the household, not to him |
-| [[#16. παιδεία (paideia)\|παιδεία]]<br>**PAIDEIA** | Formative discipline/training — the sustained process that produces *hexis* |
-| [[#8. παρακαλέω (parakaleō)\|παρακαλέω]]<br>**PARAKALEŌ** | To call alongside — comfort, exhort, encourage, or request, depending on context |
-| [[#18. παραμυθέομαι (paramytheomai)\|παραμυθέομαι]]<br>**PARAMYTHEOMAI** | Gentle consolation alongside — for the *oligopsychos* (fainthearted, small-souled) |
-| [[#5. προσκαρτερέω (proskartereō)\|προσκαρτερέω]]<br>**PROSKARTEREŌ** | Durative, habitual devotion — an ongoing orientation of life, not a single event |
-| [[#2. קָהָל (qahal)\|קָהָל]]<br>**QAHAL** | Israel's covenant assembly gathered before God; the OT source-concept behind NT *ekklēsia* |
-| [[#11. συμπάσχω (sympaschō) / συμπαθής (sympathēs)\|συμπάσχω / συμπαθής]]<br>**SYMPASCHŌ / SYMPATHĒS** | Structural felt-with response — a design claim about how the body is built, not an ethical exhortation |
-| [[#4. συνέρχομαι (synerchomai)\|συνέρχομαι]]<br>**SYNERCHOMAI** | Physical act of coming together; morally neutral — doesn't by itself mean genuine assembly occurred |
+| Term                                                                                                   | Quick Definition                                                                                                       |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [[#7. ἀλλήλων (allēlōn)\|ἀλλήλων]]<br>**ALLĒLŌN**                                                      | Reciprocal "one another" — bilateral behavioral commands that define a functioning body                                |
+| [[#19. ἀντέχομαι (antechomai)\|ἀντέχομαι]]<br>**ANTECHOMAI**                                           | Active, sustained holding/support — for the *asthenos* (weak, without capacity to stand)                               |
+| [[#13. δοκιμάζω (dokimazō)\|δοκιμάζω]]<br>**DOKIMAZŌ**                                                 | To test/assay one's interior readiness — specifically, capacity to recognize the body                                  |
+| [[#1. ἐκκλησία (ekklēsia)\|ἐκκλησία]]<br>**EKKLĒSIA**                                                  | Called-out covenant assembly of people — never a building, time slot, or program                                       |
+| [[#3. ἐπισυναγωγή (episynagōgē)\|ἐπισυναγωγή]]<br>**EPISYNAGŌGĒ**                                      | Purposive, concentrated gathering; carries eschatological weight (only 2 NT occurrences)                               |
+| [[#14. ἡγέομαι (hēgeomai)\|ἡγέομαι]]<br>**HĒGEOMAI**                                                   | Deliberate, prior cognitive assessment that others surpass you — not a feeling                                         |
+| [[#15. ἕξις (hexis)\|ἕξις]]<br>**HEXIS**                                                               | Stable, trained disposition operating without deliberation; roughly equivalent to implicit memory                      |
+| [[#12. κατανοέω (katanoeō)\|κατανοέω]]<br>**KATANOEŌ**                                                 | Intensive, deliberate focus on others, undertaken *before* entering assembly                                           |
+| [[#6. κοινωνία (koinōnia)\|κοινωνία]]<br>**KOINŌNIA**                                                  | Shared stake / participation in a common reality, including material resources — not social pleasantry                 |
+| [[#20. μακροθυμέω (makrothymeō)\|μακροθυμέω]]<br>**MAKROTHYMEŌ**                                       | Long-tempered endurance with people over time; the governing disposition underlying the other three targeted responses |
+| [[#17. νουθετέω (noutheteō)\|νουθετέω]]<br>**NOUTHETEŌ**                                               | Corrective verbal admonition — for the *ataktos* (disorderly), not the fragile                                         |
+| [[#9. οἰκοδομή (oikodomē)\|οἰκοδομή]]<br>**OIKODOMĒ**                                                  | Building up; Paul's governing criterion for evaluating everything done in assembly                                     |
+| [[#10. οἰκονόμος (oikonomos)\|οἰκονόμος]]<br>**OIKONOMOS**                                             | Household steward — manages entrusted resources/gifts that belong to the household, not to him                         |
+| [[#16. παιδεία (paideia)\|παιδεία]]<br>**PAIDEIA**                                                     | Formative discipline/training — the sustained process that produces *hexis*                                            |
+| [[#8. παρακαλέω (parakaleō)\|παρακαλέω]]<br>**PARAKALEŌ**                                              | To call alongside — comfort, exhort, encourage, or request, depending on context                                       |
+| [[#18. παραμυθέομαι (paramytheomai)\|παραμυθέομαι]]<br>**PARAMYTHEOMAI**                               | Gentle consolation alongside — for the *oligopsychos* (fainthearted, small-souled)                                     |
+| [[#5. προσκαρτερέω (proskartereō)\|προσκαρτερέω]]<br>**PROSKARTEREŌ**                                  | Durative, habitual devotion — an ongoing orientation of life, not a single event                                       |
+| [[#2. קָהָל (qahal)\|קָהָל]]<br>**QAHAL**                                                              | Israel's covenant assembly gathered before God; the OT source-concept behind NT *ekklēsia*                             |
+| [[#11. συμπάσχω (sympaschō) / συμπαθής (sympathēs)\|συμπάσχω / συμπαθής]]<br>**SYMPASCHŌ / SYMPATHĒS** | Structural felt-with response — a design claim about how the body is built, not an ethical exhortation                 |
+| [[#4. συνέρχομαι (synerchomai)\|συνέρχομαι]]<br>**SYNERCHOMAI**                                        | Physical act of coming together; morally neutral — doesn't by itself mean genuine assembly occurred                    |
+| [[#21. τέλος (telos)\|τέλος]]<br>**TELOS**                                                             | Corporate end/goal a formed congregation displays; not from *Assembled, Not Attending* — see entry note                |
 
 ### Visual Chains — Terms That Build on Each Other
 
@@ -80,6 +81,16 @@ GOD (Father of all paraklēsis)
                      "with the same comfort with which we ourselves are comforted")
 ```
 See [[#8. παρακαλέω (parakaleō)|παρακαλέω]].
+
+**5. Mechanism → Telos Chain** — how individual formation feeds corporate display (Eph 4:13, 16)
+```
+PAIDEIA  →  HEXIS  →  genuine EKKLĒSIA function  →  TELOS
+(mechanism:     (individual        (allēlōn commands operating,   (corporate: "mature manhood,
+ precedes        formation that     sympatheia active — the        to the measure of the stature
+ assembly)       enables            body building itself up        of the fullness of Christ")
+                 participation)     through the act of building)
+```
+Mechanism and telos are not sequential stages you complete and leave behind — the body's functioning is simultaneously the progressive achievement of the telos it displays. See [[#16. παιδεία (paideia)|παιδεία]], [[#15. ἕξις (hexis)|ἕξις]], and [[#21. τέλος (telos)|τέλος]].
 
 ---
 
@@ -655,6 +666,40 @@ In 1 Thess 5:14, after three targeted commands (admonish the *ataktos*, comfort 
 
 ---
 
+## 21. τέλος (*telos*)
+
+**Transliteration:** TEH-los
+**Greek:** from *teleō* (to complete, to finish, to accomplish) → *telos* (end, goal, purpose, completion)
+**Note:** Unlike terms 1–20, *telos* is not used in *Assembled, Not Attending*. It is drawn from the sibling document [[Formation & Transition — The Telos of a Formed Congregation]], added here at Andrew's request because the two documents are read together in the same Formation & Transition track.
+
+### Etymology and Classical Background
+In classical Greek philosophy, *telos* denotes the end *toward which* a thing moves — not mere termination (*pausis*, simple stopping) but the purpose or completion that gives a process its point. This is the root of Aristotle's teleology: every process has a *telos*, a "final cause" that explains *why* it moves as it does. An acorn's *telos* is the oak tree — the end state that makes sense of every stage along the way.
+
+### BDAG
+"The goal toward which a movement is being directed, end, close, conclusion... the outcome of a specific act or process... the goal/objective toward which an activity is directed." BDAG distinguishes this teleological sense (purposive end) from the purely temporal sense (mere cessation) — both occur in the NT, and context determines which is active.
+
+### NT Semantic Range
+- **Rom 10:4** — "Christ is the *telos* of the law for righteousness to everyone who believes." *Telos* here carries both senses at once (debated in Pauline scholarship): the law's termination *and* the law's goal, fulfilled in Christ.
+- **1 Tim 1:5** — "the *telos* of our charge is love that issues from a pure heart." The stated purpose/goal of instruction — not merely where it stops, but what it is *for*.
+- **1 Pet 1:9** — "obtaining the outcome (*telos*) of your faith, the salvation of your souls." The completion toward which faith moves.
+- **Phil 3:19** — "their *telos* is destruction" — negative use: the end that a certain way of life is moving toward.
+- **Matt 24:14** — "and then the *telos* will come" — eschatological/temporal use: the end of the age.
+
+### Document Usage — The Corporate Telos (Eph 4:13)
+*Formation & Transition — The Telos of a Formed Congregation* names the *telos* this track is built toward, citing Eph 4:11–16:
+
+> "...to equip the saints for the work of ministry, for building up the body of Christ, until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ... the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love." (ESV)
+
+The document is explicit that this *telos* is corporate, not merely the sum of individually formed members: "A formed congregation is not a collection of formed individuals. It is a body whose joined life displays what no individual formation alone can produce." The *telos* is recognized by what it produces under pressure — conflict, grief, the presence of a stranger — not by doctrinal knowledge or attendance.
+
+### The Mechanism/Telos Distinction
+The document draws a structural distinction that resolves an apparent circularity in the track's argument: *paideia* (mechanism) produces *hexis* — the individual formation that makes participation in genuine assembly possible, and this precedes assembly. *Ekklēsia* (telos) is both the destination of that formation *and* the site of a formation that private *paideia* cannot produce on its own. These operate in different registers — one names what must precede genuine assembly, the other names what genuine assembly itself produces. Ephesians 4:16 supplies the grammar for this: the body's functioning (*allēlōn* commands operating, *sympatheia* active) is not just the expression of a *telos* already achieved — it is the *progressive achievement* of that *telos*. The body builds itself up through the act of building itself up.
+
+### Cross-Reference — Individual vs. Corporate Telos
+A sibling document, [[Covenant Identity — The Interior Life as Telos]], treats *telos* at the individual level (the eight qualities of a formed interior). *The Telos of a Formed Congregation* treats it at the corporate level (what a formed body displays that no individual formation alone can produce). The two are related as part to whole, not as competing claims.
+
+---
+
 ## Summary Table
 
 | Term | Transliteration | Location | Governing Sense |
@@ -679,9 +724,10 @@ In 1 Thess 5:14, after three targeted commands (admonish the *ataktos*, comfort 
 | παραμυθέομαι | *paramytheomai* | 1 Thess 5:14 | Consolation alongside; for the *oligopsychos* (small-souled, fainthearted) |
 | ἀντέχομαι | *antechomai* | 1 Thess 5:14 | Active sustained holding/support; for the *asthenos* (weak) |
 | μακροθυμέω | *makrothymeō* | 1 Thess 5:14 | Long-tempered endurance; governing disposition for all three targeted responses |
+| τέλος | *telos* | Eph 4:13, 16 | Corporate end/goal a formed congregation displays; distinguished from *paideia*/*hexis* as mechanism |
 
 ---
 
 ## Cross-Reference to Source Document
 
-Every term above is used in [[Covenant Identity — Assembled, Not Attending]] and its Language Note callouts. That document is the primary application context. For the formation mechanism underlying *hexis* and *paideia*, see [[Covenant Identity — Trained, Not Consumed]]. For the *sympatheia* mechanism applied to coaching presence, see [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] and [[Covenant Identity — The Interior Life as Telos]].
+Terms 1–20 above are used in [[Covenant Identity — Assembled, Not Attending]] and its Language Note callouts; that document is their primary application context. Term 21 (*telos*) is drawn from the sibling document [[Formation & Transition — The Telos of a Formed Congregation]] and included here by request. For the formation mechanism underlying *hexis* and *paideia*, see [[Covenant Identity — Trained, Not Consumed]]. For the *sympatheia* mechanism applied to coaching presence, see [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] and [[Covenant Identity — The Interior Life as Telos]].
