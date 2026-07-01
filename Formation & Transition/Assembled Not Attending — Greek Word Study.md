@@ -12,6 +12,35 @@ tags: [practitioner-reference, biblical-foundations, word-study, greek, hebrew]
 
 ---
 
+## Quick Reference Chart
+
+Each term links to its full entry below. Definitions are compressed to a single governing sense — see the linked entry for etymology, occurrences, and translation issues.
+
+| Term | Quick Definition |
+|---|---|
+| [[#1. ἐκκλησία (ekklēsia)\|ἐκκλησία (ekklēsia)]] | Called-out covenant assembly of people — never a building, time slot, or program |
+| [[#2. קָהָל (qahal)\|קָהָל (qahal)]] | Israel's covenant assembly gathered before God; the OT source-concept behind NT *ekklēsia* |
+| [[#3. ἐπισυναγωγή (episynagōgē)\|ἐπισυναγωγή (episynagōgē)]] | Purposive, concentrated gathering; carries eschatological weight (only 2 NT occurrences) |
+| [[#4. συνέρχομαι (synerchomai)\|συνέρχομαι (synerchomai)]] | Physical act of coming together; morally neutral — doesn't by itself mean genuine assembly occurred |
+| [[#5. προσκαρτερέω (proskartereō)\|προσκαρτερέω (proskartereō)]] | Durative, habitual devotion — an ongoing orientation of life, not a single event |
+| [[#6. κοινωνία (koinōnia)\|κοινωνία (koinōnia)]] | Shared stake / participation in a common reality, including material resources — not social pleasantry |
+| [[#7. ἀλλήλων (allēlōn)\|ἀλλήλων (allēlōn)]] | Reciprocal "one another" — bilateral behavioral commands that define a functioning body |
+| [[#8. παρακαλέω (parakaleō)\|παρακαλέω (parakaleō)]] | To call alongside — comfort, exhort, encourage, or request, depending on context |
+| [[#9. οἰκοδομή (oikodomē)\|οἰκοδομή (oikodomē)]] | Building up; Paul's governing criterion for evaluating everything done in assembly |
+| [[#10. οἰκονόμος (oikonomos)\|οἰκονόμος (oikonomos)]] | Household steward — manages entrusted resources/gifts that belong to the household, not to him |
+| [[#11. συμπάσχω (sympaschō) / συμπαθής (sympathēs)\|συμπάσχω / συμπαθής (sympaschō / sympathēs)]] | Structural felt-with response — a design claim about how the body is built, not an ethical exhortation |
+| [[#12. κατανοέω (katanoeō)\|κατανοέω (katanoeō)]] | Intensive, deliberate focus on others, undertaken *before* entering assembly |
+| [[#13. δοκιμάζω (dokimazō)\|δοκιμάζω (dokimazō)]] | To test/assay one's interior readiness — specifically, capacity to recognize the body |
+| [[#14. ἡγέομαι (hēgeomai)\|ἡγέομαι (hēgeomai)]] | Deliberate, prior cognitive assessment that others surpass you — not a feeling |
+| [[#15. ἕξις (hexis)\|ἕξις (hexis)]] | Stable, trained disposition operating without deliberation; roughly equivalent to implicit memory |
+| [[#16. παιδεία (paideia)\|παιδεία (paideia)]] | Formative discipline/training — the sustained process that produces *hexis* |
+| [[#17. νουθετέω (noutheteō)\|νουθετέω (noutheteō)]] | Corrective verbal admonition — for the *ataktos* (disorderly), not the fragile |
+| [[#18. παραμυθέομαι (paramytheomai)\|παραμυθέομαι (paramytheomai)]] | Gentle consolation alongside — for the *oligopsychos* (fainthearted, small-souled) |
+| [[#19. ἀντέχομαι (antechomai)\|ἀντέχομαι (antechomai)]] | Active, sustained holding/support — for the *asthenos* (weak, without capacity to stand) |
+| [[#20. μακροθυμέω (makrothymeō)\|μακροθυμέω (makrothymeō)]] | Long-tempered endurance with people over time; the governing disposition underlying the other three targeted responses |
+
+---
+
 ## 1. ἐκκλησία (*ekklēsia*)
 
 **Transliteration:** ek-klē-SIE-ah
