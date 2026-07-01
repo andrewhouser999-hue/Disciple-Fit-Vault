@@ -18,18 +18,18 @@ This is the only material that goes on-screen during the pastoral briefing descr
 
 ## Vocabulary
 
-| Term | Pronunciation | Meaning |
-|---|---|---|
-| *ekklēsia* | ek-klay-SEE-ah | Genuine assembly — the reality being diagnosed and rebuilt toward |
-| *koinōnia* | koy-no-NEE-ah | Shared life, fellowship |
-| *proskarterountes* | pros-kar-ter-OON-tess | "Devoted themselves" (Acts 2) — sustained, deliberate commitment |
-| *allēlōn* | al-LAY-lone | "One another" — the mutual functions members owe each other |
-| *katanoeō* | kah-tah-no-EH-oh | To look intently, to fully attend — sustained notice, not a glance |
-| *sympatheia* | soom-pah-THAY-ah | Shared suffering — the body's designed capacity to co-feel |
-| *hexis* | HEK-sis | A trained disposition — the reflex formed by repeated practice |
-| *paideia* | pie-DAY-ah | Sustained, implicit-level formation |
-| *gumnazō* | goom-NAD-zo | Trained by constant practice — the gymnasium word (Heb 5:14) |
-| *telos* | TEH-los | End, purpose, goal — what a thing is for |
+| Term               | Pronunciation         | Meaning                                                            |
+| ------------------ | --------------------- | ------------------------------------------------------------------ |
+| *ekklēsia*         | ek-klay-SEE-ah        | Genuine assembly — the reality being diagnosed and rebuilt toward  |
+| *koinōnia*         | koy-no-NEE-ah         | Shared life, fellowship                                            |
+| *proskarterountes* | pros-kar-ter-OON-tess | "Devoted themselves" (Acts 2) — sustained, deliberate commitment   |
+| *allēlōn*          | al-LAY-lone           | "One another" — the mutual functions members owe each other        |
+| *katanoeō*         | kah-tah-no-EH-oh      | To look intently, to fully attend — sustained notice, not a glance |
+| *sympatheia*       | soom-pah-THAY-ah      | Shared suffering — the body's designed capacity to co-feel         |
+| *hexis*            | HEK-sis               | A trained disposition — the reflex formed by repeated practice     |
+| *paideia*          | pie-DAY-ah            | Sustained, implicit-level formation                                |
+| *gumnazō*          | goom-NAD-zo           | Trained by constant practice — the gymnasium word (Heb 5:14)       |
+| *telos*            | TEH-los               | End, purpose, goal — what a thing is for                           |
 
 ---
 
