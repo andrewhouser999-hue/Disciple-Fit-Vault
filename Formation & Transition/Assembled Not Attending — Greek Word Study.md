@@ -14,30 +14,72 @@ tags: [practitioner-reference, biblical-foundations, word-study, greek, hebrew]
 
 ## Quick Reference Chart
 
-Each term links to its full entry below. Definitions are compressed to a single governing sense — see the linked entry for etymology, occurrences, and translation issues.
+Each term links to its full entry below. Definitions are compressed to a single governing sense — see the linked entry for etymology, occurrences, and translation issues. Sorted alphabetically by the English transliteration.
 
 | Term | Quick Definition |
 |---|---|
-| [[#1. ἐκκλησία (ekklēsia)\|ἐκκλησία]]<br>**EKKLĒSIA** | Called-out covenant assembly of people — never a building, time slot, or program |
-| [[#2. קָהָל (qahal)\|קָהָל]]<br>**QAHAL** | Israel's covenant assembly gathered before God; the OT source-concept behind NT *ekklēsia* |
-| [[#3. ἐπισυναγωγή (episynagōgē)\|ἐπισυναγωγή]]<br>**EPISYNAGŌGĒ** | Purposive, concentrated gathering; carries eschatological weight (only 2 NT occurrences) |
-| [[#4. συνέρχομαι (synerchomai)\|συνέρχομαι]]<br>**SYNERCHOMAI** | Physical act of coming together; morally neutral — doesn't by itself mean genuine assembly occurred |
-| [[#5. προσκαρτερέω (proskartereō)\|προσκαρτερέω]]<br>**PROSKARTEREŌ** | Durative, habitual devotion — an ongoing orientation of life, not a single event |
-| [[#6. κοινωνία (koinōnia)\|κοινωνία]]<br>**KOINŌNIA** | Shared stake / participation in a common reality, including material resources — not social pleasantry |
 | [[#7. ἀλλήλων (allēlōn)\|ἀλλήλων]]<br>**ALLĒLŌN** | Reciprocal "one another" — bilateral behavioral commands that define a functioning body |
-| [[#8. παρακαλέω (parakaleō)\|παρακαλέω]]<br>**PARAKALEŌ** | To call alongside — comfort, exhort, encourage, or request, depending on context |
-| [[#9. οἰκοδομή (oikodomē)\|οἰκοδομή]]<br>**OIKODOMĒ** | Building up; Paul's governing criterion for evaluating everything done in assembly |
-| [[#10. οἰκονόμος (oikonomos)\|οἰκονόμος]]<br>**OIKONOMOS** | Household steward — manages entrusted resources/gifts that belong to the household, not to him |
-| [[#11. συμπάσχω (sympaschō) / συμπαθής (sympathēs)\|συμπάσχω / συμπαθής]]<br>**SYMPASCHŌ / SYMPATHĒS** | Structural felt-with response — a design claim about how the body is built, not an ethical exhortation |
-| [[#12. κατανοέω (katanoeō)\|κατανοέω]]<br>**KATANOEŌ** | Intensive, deliberate focus on others, undertaken *before* entering assembly |
+| [[#19. ἀντέχομαι (antechomai)\|ἀντέχομαι]]<br>**ANTECHOMAI** | Active, sustained holding/support — for the *asthenos* (weak, without capacity to stand) |
 | [[#13. δοκιμάζω (dokimazō)\|δοκιμάζω]]<br>**DOKIMAZŌ** | To test/assay one's interior readiness — specifically, capacity to recognize the body |
+| [[#1. ἐκκλησία (ekklēsia)\|ἐκκλησία]]<br>**EKKLĒSIA** | Called-out covenant assembly of people — never a building, time slot, or program |
+| [[#3. ἐπισυναγωγή (episynagōgē)\|ἐπισυναγωγή]]<br>**EPISYNAGŌGĒ** | Purposive, concentrated gathering; carries eschatological weight (only 2 NT occurrences) |
 | [[#14. ἡγέομαι (hēgeomai)\|ἡγέομαι]]<br>**HĒGEOMAI** | Deliberate, prior cognitive assessment that others surpass you — not a feeling |
 | [[#15. ἕξις (hexis)\|ἕξις]]<br>**HEXIS** | Stable, trained disposition operating without deliberation; roughly equivalent to implicit memory |
-| [[#16. παιδεία (paideia)\|παιδεία]]<br>**PAIDEIA** | Formative discipline/training — the sustained process that produces *hexis* |
-| [[#17. νουθετέω (noutheteō)\|νουθετέω]]<br>**NOUTHETEŌ** | Corrective verbal admonition — for the *ataktos* (disorderly), not the fragile |
-| [[#18. παραμυθέομαι (paramytheomai)\|παραμυθέομαι]]<br>**PARAMYTHEOMAI** | Gentle consolation alongside — for the *oligopsychos* (fainthearted, small-souled) |
-| [[#19. ἀντέχομαι (antechomai)\|ἀντέχομαι]]<br>**ANTECHOMAI** | Active, sustained holding/support — for the *asthenos* (weak, without capacity to stand) |
+| [[#12. κατανοέω (katanoeō)\|κατανοέω]]<br>**KATANOEŌ** | Intensive, deliberate focus on others, undertaken *before* entering assembly |
+| [[#6. κοινωνία (koinōnia)\|κοινωνία]]<br>**KOINŌNIA** | Shared stake / participation in a common reality, including material resources — not social pleasantry |
 | [[#20. μακροθυμέω (makrothymeō)\|μακροθυμέω]]<br>**MAKROTHYMEŌ** | Long-tempered endurance with people over time; the governing disposition underlying the other three targeted responses |
+| [[#17. νουθετέω (noutheteō)\|νουθετέω]]<br>**NOUTHETEŌ** | Corrective verbal admonition — for the *ataktos* (disorderly), not the fragile |
+| [[#9. οἰκοδομή (oikodomē)\|οἰκοδομή]]<br>**OIKODOMĒ** | Building up; Paul's governing criterion for evaluating everything done in assembly |
+| [[#10. οἰκονόμος (oikonomos)\|οἰκονόμος]]<br>**OIKONOMOS** | Household steward — manages entrusted resources/gifts that belong to the household, not to him |
+| [[#16. παιδεία (paideia)\|παιδεία]]<br>**PAIDEIA** | Formative discipline/training — the sustained process that produces *hexis* |
+| [[#8. παρακαλέω (parakaleō)\|παρακαλέω]]<br>**PARAKALEŌ** | To call alongside — comfort, exhort, encourage, or request, depending on context |
+| [[#18. παραμυθέομαι (paramytheomai)\|παραμυθέομαι]]<br>**PARAMYTHEOMAI** | Gentle consolation alongside — for the *oligopsychos* (fainthearted, small-souled) |
+| [[#5. προσκαρτερέω (proskartereō)\|προσκαρτερέω]]<br>**PROSKARTEREŌ** | Durative, habitual devotion — an ongoing orientation of life, not a single event |
+| [[#2. קָהָל (qahal)\|קָהָל]]<br>**QAHAL** | Israel's covenant assembly gathered before God; the OT source-concept behind NT *ekklēsia* |
+| [[#11. συμπάσχω (sympaschō) / συμπαθής (sympathēs)\|συμπάσχω / συμπαθής]]<br>**SYMPASCHŌ / SYMPATHĒS** | Structural felt-with response — a design claim about how the body is built, not an ethical exhortation |
+| [[#4. συνέρχομαι (synerchomai)\|συνέρχομαι]]<br>**SYNERCHOMAI** | Physical act of coming together; morally neutral — doesn't by itself mean genuine assembly occurred |
+
+### Visual Chains — Terms That Build on Each Other
+
+Several terms above aren't standalone — they're links in a chain the source document traces explicitly. Reading them in sequence shows the mechanism; reading them in isolation loses it.
+
+**1. Formation Chain** — how a trained disposition is produced (Heb 5:14; 12:5–11)
+```
+PAIDEIA  →  GYMNAZŌ  →  HEXIS  →  trained AISTHĒTĒRIA
+(formative   (disciplined,  (stable disposition   (perceptive faculty that can
+ discipline)  repeated       operating without      distinguish good from evil
+              practice)      deliberation;           without deliberation)
+                              ≈ implicit memory)
+```
+See [[#16. παιδεία (paideia)|παιδεία]] and [[#15. ἕξις (hexis)|ἕξις]].
+
+**2. Covenant-Assembly Lineage** — how the OT term becomes the NT term (LXX, ~100x)
+```
+QAHAL  →  [LXX translation choice]  →  EKKLĒSIA
+(Israel's covenant assembly              (NT covenant assembly — imports
+ before God)                              the full qahal semantic field)
+```
+See [[#2. קָהָל (qahal)|קָהָל]] and [[#1. ἐκκλησία (ekklēsia)|ἐκκλησία]].
+
+**3. Differentiated Pastoral Response Chain** — 1 Thess 5:14, three presentations + one governing disposition
+```
+ATAKTOS (disorderly)        →  NOUTHETEŌ (corrective admonition)
+OLIGOPSYCHOS (fainthearted) →  PARAMYTHEOMAI (gentle consolation)
+ASTHENŌN (weak)             →  ANTECHOMAI (sustained holding/support)
+                                        ↓
+                    MAKROTHYMEŌ ("with all" — the patience that
+                    sustains all three responses over time)
+```
+See [[#17. νουθετέω (noutheteō)|νουθετέω]], [[#18. παραμυθέομαι (paramytheomai)|παραμυθέομαι]], [[#19. ἀντέχομαι (antechomai)|ἀντέχομαι]], and [[#20. μακροθυμέω (makrothymeō)|μακροθυμέω]].
+
+**4. Comfort Chain** — 2 Cor 1:3–7, comfort received becomes comfort given
+```
+GOD (Father of all paraklēsis)
+   →  PARAKALEŌ (comforts us in affliction)
+      →  PARAKALEŌ (equips us to comfort others —
+                     "with the same comfort with which we ourselves are comforted")
+```
+See [[#8. παρακαλέω (parakaleō)|παρακαλέω]].
 
 ---
 
