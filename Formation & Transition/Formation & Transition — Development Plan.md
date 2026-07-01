@@ -151,12 +151,14 @@ The founding documents are silent on ordained leadership's role in ekklēsia. Th
 
 *Complete when:* a biblical-theological account is established of how leadership *hexis* flows into the body's *sympatheia* capacity, with the primary texts read through the formation lens and implications drawn for Item 3.
 
-**3. Leader Formation Prerequisite Assessment** *(requires #2)*
+**3. Leader Formation Prerequisite Assessment** *(requires #2; STILL OPEN — flagged incomplete 2026-07-01)*
 What does a pastor or elder need to have actually done — not just read, not just believed — before a formation-to-*ekklēsia* transition is available to their congregation? This document must be diagnostic (self-assessment capable) and honest (able to tell a leader they are not yet ready without softening the answer).
+
+*Status correction (2026-07-01):* This item was never built as its own document. Its intended function was informally and incompletely absorbed into the Pastoral Formation Pathway Assessment's Part 1 (Gateway Criteria) — but that absorption only covers what forms the pastor as recipient (stable interior, non-anxious regulatory capacity, *hexis* that holds under cost). It does not cover a second, distinct question that [[Formation & Transition — Pastor Formation as Prequel to Remnant Cohort Formation]] surfaced: what equips a *formed* pastor to hold formation space for someone else — the facilitator-specific competency the remnant strategy (§5) requires once the pastor moves from being formed to forming a remnant cohort. Item 3, properly scoped, must assess both: (a) has this pastor been through formation (the original scope), and (b) can this pastor hold formation space for others without collapsing into correction under relational pressure (the newly identified gap). Phase 2, Item 7 (Remnant Cohort Design) cannot be built soundly until both halves of Item 3 exist.
 
 *Cannot be built before the Polity Foundation document (#2).*
 
-*Complete when:* a diagnostic document exists that can assess a specific pastor against the gateway condition and return "not yet" without softening — distinct from whether they understand or believe the framework.
+*Complete when:* a diagnostic document exists that can assess a specific pastor against the gateway condition and return "not yet" without softening — distinct from whether they understand or believe the framework — **and** that separately assesses facilitator competency against real cases, not inference alone.
 
 **4. Formation Posture in a Congregational Context**
 The CI framework maintains formation posture (proactive, Spirit-cooperative) rather than corrective posture (reactive, directive application of Scripture to identified sin). In 1:1 coaching, this distinction is manageable. In congregational transition, the leader will face pressure to shift corrective — naming what's wrong, confronting consumerism, calling people to something they're not currently doing. That corrective pressure is real and, at some level, legitimate. This document needs to establish when and how a congregational leader can hold formation posture without pretending the corrective work doesn't exist.
@@ -394,3 +396,4 @@ The historical precedent for missing this window is instructive: Reformation dem
 - [[Covenant Identity — Spiritual Disciplines Guide]] — between-session practices; will need adaptation for group formation context in Phase 2
 - [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]] — explicit/implicit gap framework; relevant to congregational diagnostic work in Phase 2
 - [[Formation & Transition — The Demand Landscape]] — standalone research document expanding Part 7; full case studies, catechumenate as contrast case, complete cultural catalyst assessment
+- [[Formation & Transition — Pastor Formation as Prequel to Remnant Cohort Formation]] — surfaced that Item 3 was never properly built; identifies the facilitator-competency half of Item 3's scope

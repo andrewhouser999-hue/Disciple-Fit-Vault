@@ -214,6 +214,14 @@ For the group of pastors this chair is leading — this is the conversation they
 
 The track's assessment of existing pastoral formation pathways found: no widely available pathway reliably delivers the gateway condition. Spiritual direction partially delivers (requires a highly formed director and 3+ years). A coaching engagement built specifically for pastoral formation can deliver conditionally. The 30-day Ignatian Exercises partially deliver but require sustained post-retreat integration to hold. Peer accountability does not deliver — it is corrective in structure and behavioral in scope. The finding is not that formation is impossible for pastors. It is that the pathway is more demanding than most have been told, and the outcome must be tested under pressure, not assumed from completion of a program.
 
+**One more piece, if the pastor asks "formation for what, exactly, first" — a question most will ask once they accept the gateway condition:**
+
+> *"You're not forming yourself in order to lead the whole congregation through this. You're forming yourself as the prequel to leading a formed minority — a handful of people who are already hungry for this, not a program announced to everyone. And here's the part that surprises most pastors: it's not finish-then-start. Your own formation and the cohort's formation overlap. Leading that small group becomes the next layer of your own formation, not a graduation from it."*
+
+The reason this isn't sequential: 1 Peter 5:3 describes the elder as *becoming* (present tense, ongoing) a pattern others imitate — not having become one. Paul's three years with the Ephesian elders and Jesus' three years with the Twelve are the same shape: sustained, overlapping formation, not a finished stage followed by a facilitation stage. Practically, that means two things hold at once: the pastor needs a personal formation container *active* before he opens anything, and he needs his own formed guide to stay in place *through* the facilitating, not conclude beforehand — because the pressure of holding formation space for someone else will surface things solitary formation work didn't. And the group itself should be identified, not recruited: the already-hungry, not a sign-up sheet — recruiting broadly just reintroduces the consumption architecture Movement 1 already named.
+
+*(Full synthesis, including the gap this exposes in the track's own roadmap: [[Formation & Transition — Pastor Formation as Prequel to Remnant Cohort Formation]].)*
+
 ---
 
 ### Movement 6 — Why Now
@@ -297,3 +305,4 @@ Movements 6 and 7 — the cultural window and the full research arc — can come
 - [[Formation & Transition — Polity Foundation]] — how leadership *hexis* (HEK-sis) flows into body *sympatheia* (soom-pah-THAY-ah)
 - [[Formation & Transition — Remnant Theology — Biblical Research]] — exegetical basis for the remnant strategy
 - [[Formation & Transition — Pastoral Formation Pathway Assessment]] — four pathways assessed against the gateway condition
+- [[Formation & Transition — Pastor Formation as Prequel to Remnant Cohort Formation]] — how pastor formation and remnant cohort formation overlap rather than run in sequence; the facilitator-competency gap this exposes
