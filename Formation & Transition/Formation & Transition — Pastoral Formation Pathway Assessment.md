@@ -45,7 +45,7 @@ The criterion is not "has this pastor tried hard enough?" It is "has this pastor
 
 ### Pathway 1: Spiritual Direction (Traditional)
 
-**What it is.** A regular relationship (typically monthly, one hour per session) with a trained director who listens for God's movement in the directee's life. The director's role is primarily receptive and reflective — attending to the directee's interior movements (consolation/desolation in Ignatian terms; affections, resistances, and the Spirit's presence in the broader tradition) and occasionally naming what the directee cannot yet see. The tradition has roots in the Desert Fathers' *abba/amma* relationship; the contemporary form varies widely in depth, training, and quality.
+**What it is.** A regular relationship (typically monthly, one hour per session) with a trained director who listens for God's movement in the directee's life. The director's role is primarily receptive and reflective — attending to the directee's interior movements (consolation/desolation in Ignatian terms; affections, resistances, and the Spirit's presence in the broader tradition) and occasionally naming what the directee cannot yet see. ==The tradition has roots in the Desert Fathers' *abba/amma* relationship; the contemporary form varies widely in depth, training, and quality.
 
 **Assessment against gateway criteria:**
 
