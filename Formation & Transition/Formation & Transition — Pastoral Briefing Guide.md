@@ -172,6 +172,7 @@ This is the frame-shift. Most reform conversations assume you can restructure th
 
 The chain runs: *paideia* (pie-DAY-ah; sustained, implicit-level formation) → *hexis* (HEK-sis; formed disposition, trained reflex) → regulatory capacity (the ability to stay non-anxious in the presence of others' suffering or conflict) → *sympatheia* (soom-pah-THAY-ah; the body's designed co-suffering mechanism) → the *allēlōn* (al-LAY-lone) functions become possible.
 
+
 > *"The inverse — restructuring the gathering in hopes that formation follows — has not historically produced formed members. It produces a different shape of consumption. Better small groups, restructured Sunday experience — these are structural interventions. The mechanism that makes genuine assembly possible is upstream of structure."*
 
 Hebrews 5:14 names the mechanism: "those who have their powers of discernment trained by constant practice." The word for "trained" is *gumnazō* (goom-NAD-zo) — the gymnasium word. Discernment is produced by repeated exercise, not by a different meeting format.
