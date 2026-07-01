@@ -49,3 +49,21 @@ Kingdom Marketplace - Joseph's mantle is the ability to negotiate the world, cau
 - Proverbs 10:22 — "The blessing of the Lord makes rich, and he adds no sorrow with it."
 - Psalm 112:1-3 — the man who fears the Lord, "wealth and riches are in his house."
 
+## Hindrances to Prayer — Inventory to Take
+
+Before praying, check the heart against these. Not a single scriptural list — compiled across passages, each a distinct hindrance.
+
+1. **Unconfessed sin** — Isaiah 59:2 (also Psalm 66:18)
+2. **Unforgiveness toward others** — Mark 11:25 (also Matthew 6:14-15)
+3. **Doubt / lack of faith** — James 1:6-7
+4. **Wrong motives** — James 4:3
+5. **Discord or dishonor in marriage** — 1 Peter 3:7
+6. **Idols in the heart** — Ezekiel 14:3
+7. **Disobedience to God's commands** — 1 John 3:22 (also Proverbs 28:9)
+8. **Pride / self-righteousness** — Luke 18:10-14
+9. **Rejecting the poor** — Proverbs 21:13
+10. **Anger / quarreling in prayer** — 1 Timothy 2:8
+11. **Violence / injustice ("hands full of blood")** — Isaiah 1:15
+12. **Covenant unfaithfulness / treachery (marriage)** — Malachi 2:13-14
+13. **General hardness of heart / refusal to listen** — Zechariah 7:11-13
+
