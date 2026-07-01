@@ -140,7 +140,7 @@ Name the three structural failure modes. These are recognizable and specific eno
 | *sympatheia* | soom-pah-THAY-ah | Shared suffering — the body's designed capacity to co-feel another's pain |
 | *hexis* | HEK-sis | A trained disposition — the reflex formed by repeated practice, not a one-time choice |
 
-Before explaining how to get there, show where "there" is. The phenomenological description of a formed congregation — drawn from the *sympatheia* (soom-pah-THAY-ah) and *allēlōn* (al-LAY-lone) texts — is the most emotionally compelling material in the track. Most pastors have never experienced what they're trying to build. This gives it a face.
+Before explaining how to get there, show where "there" is. The phenomenological (an approach as free as possible from conceptual presuppositions) description of a formed congregation — drawn from the *sympatheia* (soom-pah-THAY-ah) and *allēlōn* (al-LAY-lone) texts — is the most emotionally compelling material in the track. Most pastors have never experienced what they're trying to build. This gives it a face.
 
 > *"Let me describe what a formed congregation actually feels like from the inside — not as an aspiration, but as what the mechanism produces when it's operating."*
 
