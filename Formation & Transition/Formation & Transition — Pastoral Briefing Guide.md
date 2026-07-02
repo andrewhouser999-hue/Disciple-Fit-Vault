@@ -47,15 +47,18 @@ These are not meant to be run in sequence. Deploy as the conversation opens. Eac
 
 > *"When you read Acts 2 together, what's the thing that creates the most longing — and what's the thing that creates the most unease about your own context?"*
 
-==Pastor:
-Group:
+==Pastor: Acts 2 is fulfillment made in Micah, God would pour out his spirit out on everyone. church doesn't recognize the Micah promise, no world view to be filled with the Spirit. Early followers had same problem. What grieves him, there is no common, conversation points, language and experience with pastors. Feels impossible. Language is immersive.  
+Group: The pastor must first understand so the body can. They have no new vision. congregations are dwindling, bc the pastors don't have the worldview to lead. 
+His Group knows what Acts2 means: He doesn't have to create a language. it exists.  12 in number. Maybe more nodes creating diff meaning spaces for it. 
 
 This separates what they admire from a distance from what they recognize as absent. The unease is the diagnostic data.
 
 > *"When your group looks at the way Acts describes the early community — the *proskarterountes* (pros-kar-ter-OON-tess), the *koinōnia* (koy-no-NEE-ah), the mutual distribution — what's your working theory of why that isn't reproducible by just doing more of what your churches currently do?"*
 
-==Pastor:
-Group:
+==Pastor: He sees some first fruits. Some are working boots on the ground to create this. The three headed monster of our culture, makes impossible. indiv, passivity, consumerism.)  all church models are based in individualism. they make the argument of what Paul says.  everything is biblical self help model. if they want to be in a community, it is privatized and nothing is asked of them.  If this is asked of them, there is a negative visceral reaction. It may not be prescriptive. We are being transformed by people who don't possess a Christian worldview.  God works for his purposes with people who have yet to have a Christian worldview. The non believer may be doing something God is doing. This is game changing verses, the Christian being at odds to the non believer. While the Christian separates. God is with me not them. Changing this view creates a lifegiving Act. God is going before the Christian to go to those spaces.    We are constantly at war wiht culture. God has always used the systems of ordinary life to transforms things.  God his work through Babylon, Egypt. Go into the world and have families there. this is the way of peace. love your enemies. the moment we have enemies we are done. we no longer have an imagination for what god is doing in the world.  Do i have to choose Spirit or Church?    The church is the mechanism of the Spirit.  This is where we are empowered.  Will we follow Christ or these other things. You will not see these things happening in the world unless you are born of the Spirit.  There are books writing themselves. If he had 2 months he would write.  
+=  We are dealing with the wolves within, they look like mature christians but are corrupt.  We need to know our enemy within. 
+-
+=Group: His group is done with hollow gatherings. They are in the same mind.
 
 Most groups will have an instinctive answer. Whether it's "our culture," "consumer mentality," or "people won't commit" — that answer tells you what frame they're operating in and where the track's framework differs.
 
@@ -65,8 +68,9 @@ Most groups will have an instinctive answer. Whether it's "our culture," "consum
 
 > *"When your group talks about empowering congregants — what does that look like concretely in the scenarios you're imagining? What is the congregant doing that they're not doing now?"*
 
-==Pastor:
-Group:
+==Pastor:  
+Group: They are asking how to facilitate this worldview?  Meaning and form goes hand in hand. They agree on meaning. they are asking, taking meaning and transforming lives. How does this apply to our modern life. Discipleship happens in real life in real time. The shared meaning comes before the form. The forms are lagging behind est meaning. It is more difficult to create the form for transformation.  How do we create spaces for the onging meaning making (biblical worldview) how that meaning informs the way we act, live and see the world daily.  The forms are deeply contextual.  They have two guiding questions What is working and you dont know why?  What is not working and driving you crazy.  They are creating not programs but conversations that create containers to transform the meaning behind these thing.  The moment a person who describes what the Spirit is doing is the moment...  - Willing to live with a Spirit filled conversation and to capitalize what the Spirit does. They need to be open to the misterious and curious nature of the spirit and facilitate connections for the Spirit to do the work.
+Group: Most practitioners assumes the Table does the work. Where two or more are gathered is were the work is done.  God is brining the image of the table to everyone.  When Jesus goes to the Table he is brining communion. Everything we do is communion!  We are accepting the elements. in this space. This is the return to the early church assembly. They are inviting God to those spaces. We are catalysts of God's work.  Growing number of pastors are feeling isolated, feeling they are in a third space they no longer belong.  Where do we belong? Where do we go from here? Is God with us?  It was a journey out of Egypt in the desert that formed them. 
 
 
 This is the most diagnostic question to ask. If the answer is primarily about role and function (serving, contributing, leading programs), the group is thinking structurally. If it's about interior readiness, formation, and disposition — they're closer to where the research lands. Most groups at this stage will answer structurally. That's the entry point for the sequence conversation.
@@ -77,7 +81,7 @@ This is the most diagnostic question to ask. If the answer is primarily about ro
 
 > *"What's your group's current read on *why* the Western church experience produces the gap you're all sensing? Is it primarily a structural problem, a theological problem, a leadership problem, or something else?"*
 
-==Pastor:
+==Pastor: 
 Group:
 
 This surfaces their working diagnosis. It reveals whether they've named the formation gap yet or whether they're still pointing at structures, programs, or cultural forces.
