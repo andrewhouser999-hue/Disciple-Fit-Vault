@@ -47,9 +47,15 @@ These are not meant to be run in sequence. Deploy as the conversation opens. Eac
 
 > *"When you read Acts 2 together, what's the thing that creates the most longing — and what's the thing that creates the most unease about your own context?"*
 
+==Pastor:
+Group:
+
 This separates what they admire from a distance from what they recognize as absent. The unease is the diagnostic data.
 
 > *"When your group looks at the way Acts describes the early community — the *proskarterountes* (pros-kar-ter-OON-tess), the *koinōnia* (koy-no-NEE-ah), the mutual distribution — what's your working theory of why that isn't reproducible by just doing more of what your churches currently do?"*
+
+==Pastor:
+Group:
 
 Most groups will have an instinctive answer. Whether it's "our culture," "consumer mentality," or "people won't commit" — that answer tells you what frame they're operating in and where the track's framework differs.
 
@@ -59,6 +65,10 @@ Most groups will have an instinctive answer. Whether it's "our culture," "consum
 
 > *"When your group talks about empowering congregants — what does that look like concretely in the scenarios you're imagining? What is the congregant doing that they're not doing now?"*
 
+==Pastor:
+Group:
+
+
 This is the most diagnostic question to ask. If the answer is primarily about role and function (serving, contributing, leading programs), the group is thinking structurally. If it's about interior readiness, formation, and disposition — they're closer to where the research lands. Most groups at this stage will answer structurally. That's the entry point for the sequence conversation.
 
 ---
@@ -67,6 +77,9 @@ This is the most diagnostic question to ask. If the answer is primarily about ro
 
 > *"What's your group's current read on *why* the Western church experience produces the gap you're all sensing? Is it primarily a structural problem, a theological problem, a leadership problem, or something else?"*
 
+==Pastor:
+Group:
+
 This surfaces their working diagnosis. It reveals whether they've named the formation gap yet or whether they're still pointing at structures, programs, or cultural forces.
 
 ---
@@ -74,6 +87,9 @@ This surfaces their working diagnosis. It reveals whether they've named the form
 **On personal experience:**
 
 > *"Has anyone in your group — or have you personally — experienced anything that felt like what Acts 2 describes? Even a moment of it, or a season of it? What were the conditions?"*
+
+==Pastor:
+Group:
 
 This is a pastoral question, not a diagnostic one. But the answer is revealing. If he has experienced it, build on that. If no one has, that's itself a significant data point — and a gentle setup for the gateway condition conversation later.
 
