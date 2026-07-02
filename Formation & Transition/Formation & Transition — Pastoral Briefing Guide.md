@@ -81,7 +81,7 @@ This is the most diagnostic question to ask. If the answer is primarily about ro
 
 > *"What's your group's current read on *why* the Western church experience produces the gap you're all sensing? Is it primarily a structural problem, a theological problem, a leadership problem, or something else?"*
 
-==Pastor: 
+==Pastor:  integration is key
 Group:
 
 This surfaces their working diagnosis. It reveals whether they've named the formation gap yet or whether they're still pointing at structures, programs, or cultural forces.
