@@ -7,6 +7,7 @@ tags:
 Claude for authorship and productivity, video production/editing
 NotebookLM Learning and Studying anything
 Perplexity for Research
+Grok Build for coding (exceptionally better than Claude)
 Emergent for building apps and websites; consider Hostingers
 Blotato for content creation
 Claude for making money and for coding
