@@ -99,12 +99,12 @@ This is a pastoral question, not a diagnostic one. But the answer is revealing. 
 
 ---
 
-Pinnacle Ministries Gary Harrison  - tool, 1 year, helps a church with culture change, 
+==Pinnacle Ministries Gary Harrison  - tool, 1 year, helps a church with culture change, 
 http://pinmin.org  Right on the money.  Models are good. Coach to help them walk through.  Practitioner has to have been through it. 
 
-Caregivers Forum by Dale Fremodt. has discoverd the DNA of how this works. Trusted with Louis's dream.  Johnny & Friends is a client. 
+==Caregivers Forum by Dale Fremodt. has discoverd the DNA of how this works. Trusted with Louis's dream.  Johnny & Friends is a client. 
 
-Experience it in a small group context gives the experience greater than 1:1. how do you get them to decide for an ongoing group experience. 
+==Experience it in a small group context gives the experience greater than 1:1. how do you get them to decide for an ongoing group experience. 
 
 
 **On what they fear getting wrong:**
