@@ -17,7 +17,7 @@ tags:
 **Recommended Tally settings for this form:**
 - Form type: **Multi-page** (not single scroll — sections must be distinct pages)
 - Progress bar: **On** (reduces abandonment, signals the client they're moving through something structured)
-- Required questions: **All questions required except Q13** (the open catch-all at the end is optional)
+- Required questions: **All questions required except Q13** (the open catch-all at the end is optional). Q19-22 (Section G — emergency contact and location) are required for every client regardless of session medium.
 - Estimated completion time displayed on welcome page: **15-18 minutes**
 - Responses: **Connect to Airtable** via native integration so intake data routes directly to your client management base
 - Notifications: Set email notification to andrewhouser999@gmail.com on every new submission
@@ -304,6 +304,55 @@ This might be a relationship, an achievement, a role, a sense of control, or som
 - **Question text:**
 ```
 If you had to simplify your life significantly — let go of most of what you're currently managing, doing, or holding — what would you give up last?
+```
+
+---
+
+## Section G — A Few Practical Details
+
+**Section title:** `A Few Practical Details`
+**Section description:** `This is routine practice, not a signal of concern — I ask every client the same thing before we begin working together.`
+
+---
+
+**Question 19**
+- **Type:** Short Text
+- **Required:** Yes
+- **Question text:**
+```
+Emergency contact — name
+```
+
+---
+
+**Question 20**
+- **Type:** Phone Number
+- **Required:** Yes
+- **Question text:**
+```
+Emergency contact — phone number
+```
+
+---
+
+**Question 21**
+- **Type:** Short Text
+- **Required:** Yes
+- **Question text:**
+```
+Emergency contact — relationship to you
+```
+
+---
+
+**Question 22**
+- **Type:** Short Text
+- **Required:** Yes
+- **Question text:**
+```
+What city and state will you typically be in for our sessions?
+
+(If this changes — travel, relocation — just let me know before that session.)
 ```
 
 ---

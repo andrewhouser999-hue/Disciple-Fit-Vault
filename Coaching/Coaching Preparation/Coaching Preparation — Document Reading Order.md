@@ -227,9 +227,10 @@ Read the index first to get the map, then the numbered tools in order, then the 
 Read last in the session tools cluster — these are only useful once you know what you are prepping for.
 
 96. `Attachment Style Diagnostic — Coach Reference & Probe Sequence.md`
-97. `Client-Facing Questions — Diagnostic Intake Form.md`
-98. `Disciple Fit Session Prep Template — Augustine Beatitude Diagnostic.md`
-99. `Life Coaching Intake Questionnaire.md`
+97. `Disciple Fit Session Prep Template — Augustine Beatitude Diagnostic.md`
+98. `Life Coaching Intake Questionnaire.md`
+
+*Note: `Client-Facing Questions — Diagnostic Intake Form.md` (formerly #97 here) was archived 2026-07-06 — superseded by the two-tier intake system in Covenant Identity Coaching Prep/03 — Intake System/. See that cluster instead for current intake procedure.*
 
 ---
 

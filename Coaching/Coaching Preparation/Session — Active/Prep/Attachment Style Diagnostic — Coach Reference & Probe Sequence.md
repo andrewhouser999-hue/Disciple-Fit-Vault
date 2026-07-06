@@ -6,7 +6,7 @@ tags:
 
 # Attachment Style Diagnostic — Coach Reference & Probe Sequence
 
-*Coach-only. Not client-facing. Companion to [[Client-Facing Questions — Diagnostic Intake Form]].*
+*Coach-only. Not client-facing. Originally built as a companion to [[Client-Facing Questions — Diagnostic Intake Form]] (archived 2026-07-06 — superseded by the [[Covenant Identity — Two-Tier Intake Protocol|two-tier intake system]]). This attachment-style probe reference remains active; use alongside the two-tier system's Tier 2 intake rather than the archived form.*
 
 ---
 
@@ -142,7 +142,8 @@ Name these patterns to yourself early. They are diagnostic data, not problematic
 
 ## Related
 
-[[Client-Facing Questions — Diagnostic Intake Form]]
+[[Client-Facing Questions — Diagnostic Intake Form]] (archived)
+[[Covenant Identity — Two-Tier Intake Protocol]]
 [[Comprehensive Discipleship Markers]]
 [[CBT & Cognitive Reframing]]
 [[Parable of the Soils — Kingdom Coaching Deep Framework]]

@@ -195,10 +195,13 @@ Navigation hubs and cross-cutting references.
 
 ### Prep
 
-- **Attachment Style Diagnostic — Coach Reference & Probe Sequence.md** — Coach-only reference for the four attachment styles (secure, anxious, avoidant, disorganized) with behavioral markers and probe sequences; companion to the Diagnostic Intake Form.
-- **Client-Facing Questions — Diagnostic Intake Form.md** — 18-question diagnostic intake (11 pre-session written, 7 verbal in-session); reveals shame, performance orientation, and formation state.
+- **Attachment Style Diagnostic — Coach Reference & Probe Sequence.md** — Coach-only reference for the four attachment styles (secure, anxious, avoidant, disorganized) with behavioral markers and probe sequences; originally a companion to the Diagnostic Intake Form (archived), now used alongside the two-tier intake system.
 - **Disciple Fit Session Prep Template — Augustine Beatitude Diagnostic.md** — Working session prep template using Augustine's Beatitude sequence to identify stuck point, active lie, missing foundation, and installation goals.
 - **Life Coaching Intake Questionnaire.md** — Wheel of Life assessment across 10 domains with structured sections on context, goals, thinking patterns, emotions, and relationships.
+
+### _Archive
+
+- **Client-Facing Questions — Diagnostic Intake Form.md** — Archived 2026-07-06. Superseded by the two-tier intake system (Covenant Identity Coaching Prep/03 — Intake System/). Kept for reference only.
 
 ---
 
