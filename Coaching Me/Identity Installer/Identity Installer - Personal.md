@@ -85,6 +85,7 @@ Read every Identity Statement that follows as a statement about what is already 
 | [[#21. Carrier of Peace\|21. Carrier of Peace]] | *(TBD)* |
 | [[#22. Rooted and Established\|22. Rooted and Established]] | *(TBD)* |
 | [[#23. Called as Coach\|23. Called as Coach]] | *(TBD)* |
+| [[#24. Welcomed and Wanted\|24. Welcomed and Wanted]] | *(TBD)* |
 
 ---
 
@@ -989,6 +990,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 *Other words that resonate:*
 
 **This activates when:**
+> *While I am contemplating practicing as a coach.  I feel I must perform well, to be ideally prepared/skilled to be a good coach. 
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
@@ -1024,6 +1026,50 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 ---
 
 > *"You did not choose me, but I chose you and appointed you so that you might go and bear fruit — fruit that will last."* — John 15:16
+
+---
+
+## 24. Welcomed and Wanted
+*Old pattern: the intruder*
+*Other words that resonate:* unwanted, inconveniencing, a burden absorbed rather than a presence desired
+
+**This activates when:**
+> Entering a space where others already belong to each other, and sensing my presence is an interruption rather than a welcome.
+> Needing something from another person and feeling the need itself is an imposition — before I've even asked.
+> Sensing, without clear evidence, that my presence costs someone something they are tolerating rather than wanting.
+> *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
+
+**What I'm Putting Off:**
+> I renounce the identity of the intruder — the one who enters rooms, relationships, and requests already apologizing for taking up space, already bracing to be tolerated rather than wanted. That verdict was inherited from parents who could not acknowledge in me what they had not first acknowledged in themselves — it was never mine to carry.
+
+**Identity Statement:**
+> I am wanted. I was given a place in God's household before I did anything to earn it, and I do not need to justify the space I take up in the lives of people who love me.
+
+**Anchor Verse:**
+> "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God." — Ephesians 2:19
+
+**My Evidence:**
+> *(Write one sentence — a moment when you were sought out, welcomed, or missed — someone acting as though your presence mattered, not as though it were tolerated.)*
+
+**Human Witness:**
+> *(Who has named this in you — a specific person, a specific moment? Record their words or the moment.)*
+
+**What I'm Putting On:**
+*(Speak aloud — in Jesus' name.)*
+> I do not enter rooms as a cost to be absorbed. I was known and formed on purpose, before I could earn a place anywhere. I am a member of the household of God — a fellow citizen, not a guest tolerated at the margins. Where I show up, I bring belonging with me, not because I have proven myself, but because I was named and wanted before I ever arrived.
+
+**The Felt Sense:**
+> What does it feel like to enter a room, a conversation, or a request without pre-apologizing for existing — trusting that you are wanted, not merely permitted?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the intruder" — the bracing, the held breath before entering, the pre-apology — still live in my body, even on an ordinary day?
+>
+> Where does the felt sense above — wanted, welcomed, belonging — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been bracing, now that being wanted is present with it — not after it?
+
+**Today I Will:**
+> Enter one room, conversation, or request today without pre-apologizing for existing — and notice what it's like to let myself be wanted rather than merely tolerated.
 
 ---
 

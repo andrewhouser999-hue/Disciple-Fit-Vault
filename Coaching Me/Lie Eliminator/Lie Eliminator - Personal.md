@@ -232,6 +232,7 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 - [[#Lie of Essentially Alone — No One Will Truly Know Me]]
 - [[#Lie of the Outsider — I Am Fundamentally Different and Don't Belong]]
 - [[#Lie of the Pending Verdict — Adequate Only When Proven]]
+- [[#Lie of the Intruder — Unwanted, Inconveniencing, Not Enough to Belong]]
 
 ---
 
@@ -1180,6 +1181,63 @@ Be honest. The lie is still operating because you are getting something from it.
 - **1 Peter 2:9** — *"But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession."*
 
 **Arc location:** This lie was diagnosed on the covenant identity arc on 2026-06-29 — Stage 3 activation threshold (covenant truth landed cognitively; Stage 4a blocking distortion surfaced and loosened; felt landing not yet complete). Use [[Covenant Identity — Arc Location Diagnostic]] to track movement over time.
+
+---
+
+### Lie of the Intruder — Unwanted, Inconveniencing, Not Enough to Belong
+
+**This activates when:**
+> Entering a space where others already belong to each other, and sensing my presence is an interruption rather than a welcome.
+> Needing something from another person and feeling the need itself is an imposition — before I've even asked.
+> Sensing, without clear evidence, that my presence costs someone something they are tolerating rather than wanting.
+
+**The Lie I've Believed:**
+> *"I am an intruder in other people's lives — unwanted, inconveniencing, not enough to justify the space I take up. My presence is a burden others absorb, not something they actually want."*
+
+**Where This Lie Came From:**
+> My best guess: who I am was never acknowledged by parents who, themselves, did not know who they were. My mother unknowingly erased herself over time and grew angry and embittered about that loss — she may still carry it. My parents could not give me an acknowledged, wanted place in their lives, because they did not have one to give. That was their unfinished grief, not evidence that I was, in fact, an intrusion.
+
+**What Others Observe**
+> *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
+
+**What Does That Lie Give You?**
+Be honest. The lie is still operating because you are getting something from it. Name it.
+> *(Write it here.)*
+
+**Who God Is:**
+> "Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations." — Jeremiah 1:5
+
+**Who I Am:**
+> "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them." — Ephesians 2:10
+
+**His Promise:**
+> "God sets the lonely in families; he leads out the prisoners to prosperity." — Psalm 68:6
+
+**Who Has Witnessed This Truth:**
+> *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
+
+**Personal Declaration:**
+*(Speak aloud — in Jesus' name.)*
+> "The lie I have believed is that I am an intruder — unwanted, inconveniencing, not enough to belong in the rooms I enter or the lives I touch. That verdict was never mine to inherit. My parents could not acknowledge in me what they had not first acknowledged in themselves; their silence was the shape of their own unfinished grief, not a verdict on my worth. I was not an accident that others learned to tolerate — I was known and formed before I was born, and consecrated on purpose. I am not a cost someone absorbs. I am his workmanship, prepared in advance for good works he intends to do through me. The God who sets the lonely in families does not experience me as an intrusion — he calls me in."
+
+**Holding Both — In the Body**
+> Where does *"I am an intruder — unwanted, inconveniencing"* live in my body — even now? (Often a bracing at the edges — a held breath before entering a room, a shrinking that happens before anyone has responded.)
+>
+> Where does *"I was known and formed on purpose — I am not a cost, I am wanted"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been bracing, now that being wanted is present with it — not after it?
+
+**Therefore I Will:**
+> Notice the bracing before I enter a room or make a request, and answer it directly: this is inherited, not evidence. I will take up the space I actually have — asking, arriving, needing — without pre-apologizing for existing.
+
+**Scripture Arsenal:**
+- **Jeremiah 1:5** — *"Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations."*
+- **Ephesians 2:10** — *"For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."*
+- **Psalm 68:6** — *"God sets the lonely in families; he leads out the prisoners to prosperity."*
+- **Psalm 139:13-16** — *"For you formed my inward parts; you knitted me together in my mother's womb...Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them."*
+- **Ephesians 1:5** — *"he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will."*
+- **1 Peter 2:9-10** — *"But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession...Once you were not a people, but now you are God's people."*
+- **Psalm 27:10** — *"For my father and my mother have forsaken me, but the LORD will take me in."*
 
 ---
 
