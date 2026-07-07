@@ -1198,10 +1198,15 @@ Be honest. The lie is still operating because you are getting something from it.
 > My best guess: who I am was never acknowledged by parents who, themselves, did not know who they were. My mother unknowingly erased herself over time and grew angry and embittered about that loss — she may still carry it. My parents could not give me an acknowledged, wanted place in their lives, because they did not have one to give. That was their unfinished grief, not evidence that I was, in fact, an intrusion.
 
 **What Others Observe**
+> I don't ask for help. The idea of asking for help is met with resistance.
+> 
 > *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
+*I can be the rejected one before I am surprised by the possible upcoming rejection. 
+I am safer as the rejected on on the onset. Here I can hold a known position. 
+I can avoid the risk of rejection entirely. 
 > *(Write it here.)*
 
 **Who God Is:**
