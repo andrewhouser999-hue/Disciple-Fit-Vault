@@ -870,7 +870,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > What does it feel like to be loved with no strings, no conditions, and no expiration date — fully, permanently, without performance?
 > - I can remember feeling this love shooting through me with forgiveness on my behalf
 > - Feeling the love flow through me the day before I donated my kidney to my brother
-> - Bathing in the love of God the first year of my walk with him, sensing his loving presence which was better than life itself. 
+> - Bathing in the love of God the first year of my walk with him, sensing his loving presence which was better than life itself. Ps 63:3
 
 **Today I Will:**
 > Receive one moment of grace, kindness, or provision today as pure love from the Father — without deflecting it or feeling I need to earn it first.
