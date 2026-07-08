@@ -8,8 +8,8 @@ tags:
 *Coach-Facing Practitioner Guide and Client-Facing Reflection Tool*
 
 *Part of: Covenant Identity Coaching Model*
-*Integrates with: Diagnostic Intake (Tier 2), Discovery Call Guide, Diagnostic Lens Transition Logic, [[Covenant Identity — God-Exclusion Map]]*
-*Status: In-session tool extension — flagged for future build*
+*Integrates with: Diagnostic Intake (Tier 2), Discovery Call Guide, Diagnostic Lens Transition Logic, [[Covenant Identity — God-Exclusion Map]], [[Covenant Identity — Affections Discovery — In-Session Protocol]], [[Covenant Identity — Character Wound Diagnostic Tool]], [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]]*
+*Status: Foundational theological and question-bank reference. The in-session tool this document once flagged as a future build now exists — see [[Covenant Identity — Affections Discovery — In-Session Protocol]] for the structured five-layer in-session execution; this document remains the practitioner foundation it draws from.*
 
 ---
 
@@ -39,9 +39,11 @@ This process is internal coaching practice. It does not appear in external marke
 
 Affections discovery is the first layer of the diagnostic sequence:
 
-> **Affections Discovery → False Identity Named → Covenant Truth Spoken → CBT Tools (if distortion blocks reception)**
+> **Affections Discovery → False Identity Named → Covenant Truth Spoken → Stage 4a (CBT tools, if cognitive distortion blocks reception) / Stage 4b (Relational-Attentive Response, if implicit memory blocks reception)**
 
-The affections reveal what the client trusts. That trust reveals what they believe they need to be okay. That belief reveals the identity they are living from. Once named, covenant truth can be brought against it directly.
+The affections reveal what the client trusts. That trust reveals what they believe they need to be okay. That belief reveals the identity they are living from. Once named, covenant truth can be brought against it directly. Full stage-by-stage entry and transition criteria: [[Covenant Identity — Diagnostic Lens Transition Logic]].
+
+**Why affections is the correct entry point, not behavior or cognition:** [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] gives the Theory of Change rationale (Nodes 1–2) for starting diagnosis here rather than with presenting behavior or stated belief.
 
 ---
 
@@ -99,6 +101,8 @@ Examples:
 **Listen for:** Behavioral consistency across contexts (same dependency in multiple domains). The client naming their own pattern without the identity framing yet. Core-belief language surfacing spontaneously.
 
 **Transition:** When the coach can name the false identity specifically, move to Covenant Truth — Stage 3 of the Diagnostic Lens Transition Logic.
+
+**Secondary diagnostic layer:** Once the affections picture from Layers 1–5 is specific, [[Covenant Identity — Character Wound Diagnostic Tool]] can deepen the false-identity naming further by identifying which of the three character wound types (Warrior, Hermit, False Noble) is operating underneath it. Deploy after this process, not before.
 
 ---
 
@@ -205,8 +209,14 @@ Select 2–3 questions per layer based on what the client has surfaced. These ar
 
 **Discovery Call:** Affections discovery is initiated in Movement 3 (Identity Gap Indicators) and threaded through Movement 2 (Behavioral Staging) of the Discovery Call Guide. The coach holds the affections diagnostic lens throughout the entire call and notes the emerging picture in the post-call protocol.
 
-**In-Session Tool:** A dedicated in-session Affections Discovery Tool is a future build. This document is the practitioner foundation — the question bank and annotation framework will be adapted for structured in-session use with session-specific pacing and sequencing.
+**In-Session Tool:** [[Covenant Identity — Affections Discovery — In-Session Protocol]] adapts this document's question bank and annotation framework for structured in-session use, with session-specific pacing, stay/move signals, and somatic observation layered in. This document remains the theological and theoretical foundation that tool draws from.
 
-**Transition Logic:** See *Diagnostic Lens Transition Logic* for how affections discovery hands off to false identity naming, covenant truth, and CBT deployment.
+**Alternative narrative entry:** If a client responds better to a story frame than direct affections questions, [[Covenant Identity — Prodigal Son Diagnostic Narrative Framework]] offers a client-facing self-locating alternative (Far Country / Returning Son / Older Brother) that transitions into this same Stage 1 work.
+
+**Receptivity precondition:** [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] grounds the posture (humble, contrite, trembling at the word) that determines whether affections work will actually surface anything — useful when a client is intellectually engaged with the questions above but not softening.
+
+**Periodic re-assessment:** [[Covenant Identity — Arc Location Diagnostic]] gives a fillable self-assessment for locating current position on the arc, derived from the Transition Logic — useful alongside this continuous diagnostic stance at intervals through the engagement, not only at intake.
+
+**Transition Logic:** See *Diagnostic Lens Transition Logic* for how affections discovery hands off to false identity naming, covenant truth, and Stage 4a/4b deployment.
 
 **Personal Application:** Layer 5's named functional identity is the entry point for [[Lie Eliminator/Lie Eliminator - Personal]] — that document's sequence (Lie Archaeology, Agreement Audit, Stronghold Anatomy, Holding Both) works through whichever lie this process surfaces.

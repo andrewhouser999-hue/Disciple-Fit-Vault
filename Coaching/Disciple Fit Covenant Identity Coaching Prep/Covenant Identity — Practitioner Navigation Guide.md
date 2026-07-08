@@ -56,6 +56,8 @@ tags:
 **Reach for:**
 - [[Covenant Identity — Discovery Call Guide]] — five movements; behavioral question bank; stage-readiness indicators; model introduction language; post-call protocol
 - [[Covenant Identity — Affections Discovery — In-Session Protocol]] — Domain 7 of the question bank is the affections entry; the Discovery Call surfaces the affections picture before intake
+- [[Covenant Identity — Prodigal Son Diagnostic Narrative Framework]] — alternative narrative self-locating entry (Far Country / Returning Son / Older Brother) if the client responds better to a story frame than direct affections questions
+- [[Covenant Identity — Arc Location Diagnostic]] — fillable self-assessment for locating current position on the arc; useful immediately after the call to sharpen the stage-readiness read, and again periodically through the engagement
 
 **Watch for:**
 > Stage-readiness signals — can the client locate a Gap between declared and lived identity? Divergent identity markers (language that contradicts their self-assessment). The affections picture beginning to emerge.
@@ -108,6 +110,11 @@ Reach for:
 **Diagnostic lens through Phase 1:**
 - [[Covenant Identity — Affections Discovery — In-Session Protocol]] — Stage 1; five layers; stay/move signals
 - [[Covenant Identity — God-Exclusion Map]] — Layer 4 of Affections Discovery; eight domains of functional God-exclusion
+- [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] — receptivity precondition underlying the whole diagnostic sequence; use as a Stage 1 diagnostic posture inventory if the client is intellectually engaged but not softening
+
+**Between-session assignments in Phase 1:**
+- [[Covenant Identity — Formation Mechanism Guide]] — issue once the Gap is named; re-issuable if resistance resurfaces later
+- [[Covenant Identity — Pre-Session Preparation Guide]] — hand to the client before Session 2; assign once, universal across phases
 
 **Watch for:**
 > High activation response to God-representation work → consider issuing [[Covenant Identity — Between-Session Distress Protocol]] before Phase 2 begins (do not wait until activation occurs)
@@ -143,12 +150,19 @@ Reach for:
 - [[Covenant Identity — Diagnostic Lens Transition Logic]] — Stage 4b entry criteria
 - [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — skill reference for relational/attentive response; tracking, being, responding, avoiding
 
+**If the client has surfaced a false covenant object without defensive collapse (the "knowing vs. experiencing" gap):**
+- [[Sanctification — Teacher's Manual]] — module foundation; confirm the client matches the target profile (moderate theological literacy, low integration, ACE-prevalent) before deploying
+- [[Sanctification — Coach Diagnostic]] — eight-step pre/post-session diagnostic; use the routing card at end of session, not during
+- [[Sanctification — Session Facilitation Guide]] — scripted Session 1–2 language once the diagnostic confirms fit
+> Deployment gate: middle sessions only, after the false covenant object is named. Not at intake. Not during acute crisis.
+
 **Between-session assignments in Phase 2:**
 - [[Covenant Identity — Between-Session Library — Design Rationale]] — precondition logic and tool selection guide; open this before assigning anything
 - [[Covenant Identity — Between-Session Support Materials]] — base practices; God-rep type preconditions
 - [[Covenant Identity — Character Wound Between-Session Practices]] — Phase 2 wound-type-specific practices; deploy after wound type is confirmed
 - [[Covenant Identity — Lament Practice Guide]] — introduce lament in Phase 2; precondition check required before assignment
 - [[Covenant Identity — Post-Session Integration Guide]] — assign after any heavy session before the next between-session practice assignment
+- [[Covenant Identity — Accountability Companion Guide]] — deploy Phase 2-3, after wound work has begun and before Phase 4; help the client identify one formation companion in session
 
 **Watch for:**
 > Client contacting you between sessions with elevated activation → [[Covenant Identity — Between-Session Distress Protocol]] (coach response protocol, Section 4)
@@ -170,8 +184,10 @@ Reach for:
 
 **Promise and declaration material:**
 - [[Covenant Identity — New Covenant Promises — Comprehensive Reference]] — entry by severed layer; targeted promises for the schema being worked; routing to Promise Map 1
-- [[Covenant Identity — New Covenant Promise Map 1]] — client-facing worksheet; route the client here for between-session promise work
+- [[Covenant Identity — New Covenant Promise Map 1]] — client-facing worksheet; route the client here for between-session promise work; generated via [[New Covenant Promise Map — Generation Prompt]]
 - [[Covenant Identity — Five Intervention Modalities]] — targeted declaration, schema interruption, narrative re-authoring, lament-to-trust, Big Assumption experiment; deployment criteria per modality
+- [[Covenant Identity — Matched Declaration Architecture]] — four wound-matched declaration tracks (Abandonment/Performance/Shame/Condemnation) with ESV text and exegetical rationale; use once the wound type from Phase 2 is confirmed
+- [[Covenant Identity — Faith, Certainty & the Reckoning Pattern]] — Lie Eliminator/Identity Installer "Reckoning Pattern" template (Rom 6:11) if the client is prone to certainty-as-technique rather than faith anchored in God's word
 
 **Between-session worksheets:**
 - [[Covenant Identity — Deep Lie Work Worksheet]] — deploy when a specific lie is clearly operative and the client is ready for structured lie work
@@ -182,6 +198,8 @@ Reach for:
 - [[Covenant Identity — God-Representation Between-Session Practices]] — primary Phase 3 between-session tool for God-rep work; Gospel encounter is the mechanism
 - [[Covenant Identity — Scripture Saturation & Meditation Guide]] — approach calibration; text sources from other tools
 - [[Covenant Identity — Phase-Specific Reflection Guide]] — Phase 3 prompts; feeds Growth Report
+- [[Covenant Identity — John 15 Abide Formation Posture Reference]] — grounds the cooperative posture behind declaration work; use if the client is striving with the declarations or treating them as passive quietism
+- [[Covenant Identity — Calibrated Reading Guide]] — wound-type-calibrated bibliotherapy; assign one title at a time alongside the worksheets
 
 **Mid-engagement check (Sessions 4–5):**
 - [[Covenant Identity — Mid-Engagement Snapshot Template]] — client-facing; side-by-side of intake language vs. current language; re-administer Q9
@@ -208,7 +226,10 @@ Reach for:
 
 **Sustainability:**
 - [[Covenant Identity — Spiritual Disciplines Guide]] — Phase 4 rule-of-life construction; wound-type calibration; co-optation risk per discipline
+- [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] — theological grounding for the disciplines as conditions, not causes; useful if the client frames the rule of life as self-effort
 - [[Covenant Identity — Phase-Specific Reflection Guide]] — Phase 4 prompts; what to carry forward
+- [[Covenant Identity — Psalm 24 Redemptive-Historical Telos Frame]] — telos anchor for the closing conversation, once readiness markers are present
+- [[Covenant Identity — Formation Self-Assessment]] — administer at this phase transition; first-vs-final comparison feeds the Growth Report
 
 **Watch for:**
 > Client minimizing gains or reverting to old schema language as the engagement closes → name the pattern; this is often the schema's response to anticipated loss of the container
@@ -228,6 +249,7 @@ Reach for:
 **Post-Session (as soon as possible after every session):**
 - [[Covenant Identity — Session Growth Notes Template]] — verbatim language, schema movement, installation markers; primary source for Growth Report and Snapshot; do not let it wait until next session
 - [[Covenant Identity — Self-Supervision Template]] — coach-facing; tracks activation, avoidance, wound intersection, formation invitation; distinct from Growth Notes (Growth Notes = what happened in the client; Self-Supervision = what happened in the coach)
+- [[Covenant Identity — Post-Session Client Debrief Card]] — give to the client every session, before Phase 2; client-facing counterpart to the coach's own Growth Notes, timing is the mechanism
 
 ---
 
@@ -283,7 +305,17 @@ Reach for:
 | What presence-level and relational skills distinguish exceptional practice? | [[Exceptional Coaching Practice — What Is Missed, Meaningful & Important]] |
 | Where do all in-session and between-session tools live in one inventory? | [[Covenant Identity — Tool Library]] |
 | What is the full practitioner reference cluster and how does it connect? | [[Covenant Identity — Practitioner Reference Index]] |
+| What is the implicit/explicit distinction across the whole diagnostic sequence, before I get into Transition Logic specifics? | [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] |
+| Why is affections work the correct diagnostic entry over behavior or cognition? | [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] |
+| Why does the false covenant object have to be felt as failing, not just named? | [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]] |
+| Why doesn't covenant truth land just because it was stated correctly? | [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] |
+| Why does between-session consolidation need repeated receptive return instead of affirmation repetition? | [[Covenant Identity — Consolidation Through Receptive Return — Mechanism]] |
+| Where does each architectural or methodological decision in the model come from, scripturally? | [[Covenant Identity — Biblical Foundations Index]] |
+| How does the ten-layer architecture map onto the Identity Installer categories and Lie Eliminator lies? | [[Covenant Identity — Category Architecture Cross-Reference]] |
+| How do the 24 psychological constructs I already know map onto this system? | [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]] |
+| What does the Psalm 22-23-24 triptych add as an overlay on the Stage 1–4b sequence? | [[Covenant Identity — Psalms 22-23-24 Developmental Framework]] |
+| Where's the single-page view of the whole diagnostic-and-treatment system? | [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] |
 
 ---
 
-*Last updated: 2026-06-02. Add to this document as the engagement process reveals gaps, shortcuts, or recalibrations worth preserving.*
+*Last updated: 2026-07-08 — added reach-for entries for 27 documents built between 2026-05-21 and 2026-07-08 that this guide had never referenced, including a new Sanctification Module deployment gate in Phase 2 and a new Phase 1 between-session assignments block. Add to this document as the engagement process reveals gaps, shortcuts, or recalibrations worth preserving.*

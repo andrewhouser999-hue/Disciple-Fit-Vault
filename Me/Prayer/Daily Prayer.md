@@ -11,6 +11,11 @@ tags:
 I abandon Christiandumb for Biblical Faith
 - Apostle Paul spoke in togues, I will speak in tongues 
 
+# Truth over Lies
+
+
+# Identity
+I am a Truth Intruder
 
 # Prayer
 A whole nether level of detail in prayer

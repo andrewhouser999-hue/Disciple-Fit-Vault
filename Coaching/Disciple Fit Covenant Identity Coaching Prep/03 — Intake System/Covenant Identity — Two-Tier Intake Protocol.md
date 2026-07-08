@@ -41,12 +41,32 @@ Go/No-Go Decision (see criteria below)
         ↓
         ├── NO-GO → Graceful close or referral
         │
-        └── GO → Tier 2 Covenant Identity Intake sent within 24 hours
+        └── GO → Coaching Agreement + Stripe Payment Link sent within 24 hours
+                        ↓
+                Client signs agreement and completes payment
+                (full $1,680, or first $560 installment on a payment plan)
+                        ↓
+                Tier 2 Covenant Identity Intake sent
                         ↓
                 Client completes Tier 2 (12-15 min) — at least 48 hours before Session 1
                         ↓
                 Coach reviews Tier 2 → Session 1
 ```
+
+---
+
+## Payment Gate (GO path only)
+
+**Added 2026-07-08 — alpha clients are paying clients, not free/beta.**
+
+Tier 2 is not sent on a Go decision alone. It is sent only after both of the following are true:
+
+1. **Coaching Agreement signed** — terms per `Disciple Fit Coaching — Coaching Agreement.md` Sections 3–4 (12 sessions, $140/session, $1,680 full engagement fee, full-pay or 3-month installment plan).
+2. **Payment received** — full $1,680, or the first $560 installment if the client chose the payment plan. Check the Clients record's `Payment Status` field in Airtable (Paid or Payment Plan Active) before manually sending Tier 2.
+
+This mirrors the logic already in Coaching Agreement Section 4: the $145 intake component is non-refundable once the intake form is submitted, which only makes sense if payment precedes submission. Sending Tier 2 before payment clears inverts that logic and creates a collections problem instead of a payment gate.
+
+**If payment doesn't clear within a reasonable window after the agreement is sent** (e.g., 3-5 days with no response), follow up once. If it still doesn't clear, the engagement does not proceed — do not send Tier 2 on the assumption payment is forthcoming.
 
 ---
 

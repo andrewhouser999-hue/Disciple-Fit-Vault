@@ -34,13 +34,13 @@ The Coach conducts this engagement in alignment with the International Coaching 
 
 ## 3. Engagement Structure and Sessions
 
-**Engagement length:** [NUMBER] sessions over approximately [TIMEFRAME]
+**Engagement length:** 12 sessions over approximately 12 weeks
 
 **Session length:** 60–75 minutes
 
-**Session medium:** [Video / In-person — specify]
+**Session medium:** Video (remote)
 
-**Session frequency:** [Weekly / Bi-weekly — specify]
+**Session frequency:** Weekly
 
 Sessions are scheduled in advance. The Client is expected to complete the intake form prior to session 1. The Coach will prepare intake documentation and coaching records throughout the engagement.
 
@@ -48,15 +48,17 @@ Sessions are scheduled in advance. The Client is expected to complete the intake
 
 ## 4. Fees and Payment
 
-**Engagement fee:** $[PACKAGE FEE] for the full engagement
+**Engagement fee:** $1,680 for the full 12-session engagement ($140/session)
 
 **Intake component:** $145 of the total engagement fee is allocated to pre-session intake work (intake form review, intake documentation, and session 1 preparation). This work begins before session 1 and is non-refundable once the intake form has been submitted.
 
-**Payment schedule:** [Full payment in advance / Payment plan — specify terms]
+**Payment schedule:** Client selects one option at signing:
+- **Full payment in advance:** $1,680, due before Tier 2 intake is sent.
+- **Payment plan:** $560/month for 3 months. First installment due before Tier 2 intake is sent; each subsequent installment due on the same date in the following two months. If the engagement continues beyond the initial 12 sessions, additional sessions are billed individually at $140/session, payable per session.
 
-**Payment method:** [Specify — Stripe, Venmo, check, etc.]
+**Payment method:** Stripe (Payment Link, sent alongside this agreement)
 
-Payment is due [on booking / before session 1 / per agreed schedule]. The Coach reserves the right to pause the engagement if payment is not received according to the agreed schedule.
+Payment is due before Tier 2 intake is sent. The Coach reserves the right to pause the engagement if payment is not received according to the agreed schedule.
 
 ---
 
