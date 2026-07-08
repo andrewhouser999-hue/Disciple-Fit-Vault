@@ -83,7 +83,7 @@ For layer ↔ implementation mapping (which Identity Installer categories / Lie 
 
 | Design Decision | Primary Text(s) (ESV) | What It Establishes | Full Exegesis | Status |
 |---|---|---|---|---|
-| The eight qualities of the sanctified inner life as the coaching telos (interior transformation, not behavior change, is the end) | 2 Cor 3:18 (primary — "from one degree of glory to another") | Progressive transformation is the *mechanism* — interior formation, not behavioral compliance, is what the coaching serves. | [[Covenant Identity — The Interior Life as Telos]] | Developed (mechanism text) — supporting texts Assumed⁴ |
+| The nine qualities of the sanctified inner life as the coaching telos (interior transformation, not behavior change, is the end) | 2 Cor 3:18 (primary — "from one degree of glory to another") | Progressive transformation is the *mechanism* — interior formation, not behavioral compliance, is what the coaching serves. | [[Covenant Identity — The Interior Life as Telos]] | Developed (mechanism text) — supporting texts Assumed⁴ |
 
 | Quality | Supporting Text(s) |
 |---|---|
@@ -95,8 +95,9 @@ For layer ↔ implementation mapping (which Identity Installer categories / Lie 
 | Loved and Knowing It | Matt 3:17 |
 | Truthful Without Cruelty | Eph 4:15; John 4:29 |
 | Purposeful Without Striving | Luke 2:49; 2 Tim 4:7 |
+| Available | John 13:3-4; 1 Cor 12:26 |
 
-> ⁴ **Assumed** — Gal 5:22-23 (fruit of the Spirit), Col 3:1-4, Rom 8:29, and 2 Pet 1:3-8 are present as theological atmosphere across the document but not developed as load-bearing texts for the telos claim itself. No single text anchors all eight qualities together; 2 Cor 3:18 is the closest to a unifying mechanism text.
+> ⁴ **Assumed** — Gal 5:22-23 (fruit of the Spirit), Col 3:1-4, Rom 8:29, and 2 Pet 1:3-8 are present as theological atmosphere across the document but not developed as load-bearing texts for the telos claim itself. No single text anchors all nine qualities together; 2 Cor 3:18 is the closest to a unifying mechanism text.
 
 ---
 

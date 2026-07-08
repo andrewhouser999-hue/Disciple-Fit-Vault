@@ -114,7 +114,7 @@ John 15 — "Abide." Not striving (the branch does not produce the fruit) and no
 Psalm 23 — rest, refreshment, healing, guidance, presence, honor, assurance. Each blocked provision is a diagnostic signal pointing to the specific wound or false identity underneath it. *(Formation provision reference: to be built — see queue.)*
 
 **Formation mechanism (VIM — Willard):**
-- **Vision** — Psalm 24 (redemptive-historical telos: the King of Glory returning); Interior Life as Telos (8 qualities: Settled, Undivided, Free, Moved Without Being Swept, Unhurried, Loved and Knowing It, Truthful Without Cruelty, Purposeful Without Striving)
+- **Vision** — Psalm 24 (redemptive-historical telos: the King of Glory returning); Interior Life as Telos (9 qualities: Settled, Undivided, Free, Moved Without Being Swept, Unhurried, Loved and Knowing It, Truthful Without Cruelty, Purposeful Without Striving, Available)
 - **Intention** — Designed Alliance; client's explicit covenant to pursue formation
 - **Means** — Spiritual disciplines matched to wound type; between-session library; rule of life (Phase 4)
 

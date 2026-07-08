@@ -223,7 +223,7 @@ The Affections Discovery Process, the Comprehensive Discipleship Markers, and th
 
 ### Load-bearing connections
 
-- [[Covenant Identity — The Interior Life as Telos]] — 8 qualities of sanctified inner life; Isaiah 66:2b describes the *entry posture* into that telos. The Interior Life as Telos is where the client arrives; Isaiah 66:2b is what makes the journey possible.
+- [[Covenant Identity — The Interior Life as Telos]] — 9 qualities of sanctified inner life; Isaiah 66:2b describes the *entry posture* into that telos. The Interior Life as Telos is where the client arrives; Isaiah 66:2b is what makes the journey possible.
 - [[Covenant Identity — Diagnostic Lens Transition Logic]] — The three qualities anchor the precondition for the full diagnostic sequence. *ʿānî* / *nəkēh-rûaḥ* / *ḥārēd* map directly to the question of whether a client is positioned to move through Stages 1–4.
 - [[Covenant Identity — Affections Discovery — In-Session Protocol]] — Stage 1 is excavating what occupies the *ʿānî* position (what the client is trusting and relying on instead of God). This text is the theological ground for that excavation.
 - [[Covenant Identity — Character Wound Diagnostic Tool]] — The disordered opposites of the three qualities correlate with specific wound types: self-sufficiency to Warrior, armored defensiveness to Hermit/False Noble.

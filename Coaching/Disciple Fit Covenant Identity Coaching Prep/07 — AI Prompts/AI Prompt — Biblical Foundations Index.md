@@ -112,7 +112,7 @@ Organize the index into six sections, each ending in a table with columns: **Des
 
 ### Section 4 — Telos
 
-9. **The eight qualities of the sanctified inner life as the coaching telos** (the end is interior transformation, not behavior change). Source: [[Covenant Identity — The Interior Life as Telos]]. Candidates: 2 Cor 3:18, Gal 5:22-23, Col 3:1-4, Rom 8:29, 2 Pet 1:3-8.
+9. **The nine qualities of the sanctified inner life as the coaching telos** (the end is interior transformation, not behavior change). Source: [[Covenant Identity — The Interior Life as Telos]]. Candidates: 2 Cor 3:18, Gal 5:22-23, Col 3:1-4, Rom 8:29, 2 Pet 1:3-8.
 
 ### Section 5 — Implementation Layer: Identity Installer & Lie Eliminator
 

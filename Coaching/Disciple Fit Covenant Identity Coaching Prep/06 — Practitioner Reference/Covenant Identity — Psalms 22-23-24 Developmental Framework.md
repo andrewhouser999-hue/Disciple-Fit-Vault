@@ -217,4 +217,4 @@ A client in Psalm 22 darkness is not failing at covenant identity — they are i
 - `Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE.md` (same folder) — the triptych as practitioner's background orientation frame
 - `_Queue — Covenant Identity Build & Review.md` — items 2, 4, 6, 7 are direct build-outs from this framework
 - `Covenant Identity — Diagnostic Lens Transition Logic.md` — confirm alignment between this developmental arc and the existing Stage 1-4b sequence
-- `Covenant Identity — The Interior Life as Telos.md` — Psalm 24 telos complements the 8 qualities
+- `Covenant Identity — The Interior Life as Telos.md` — Psalm 24 telos complements the 9 qualities

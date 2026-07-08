@@ -1,5 +1,6 @@
 ---
 created: 2026-05-24
+updated: 2026-07-08
 basis: primary-source
 tags: [model-foundation, manifesto, covenant-identity, telos]
 ---
@@ -8,7 +9,7 @@ tags: [model-foundation, manifesto, covenant-identity, telos]
 
 ---
 
-**I believe there is a life available to followers of Jesus that most of them have never seen described.** Not a better version of the life they are managing — a different kind of life, organized around a different center, operating from a different root. A life where the interior has been reorganized around love instead of performance, around covenant instead of fear, around what God says instead of what the wound installed. That life is not theoretical. It is available. The eight qualities of it are recognizable and nameable: settled, undivided, free, moved without being swept, unhurried, loved and knowing it, truthful without cruelty, purposeful without striving. These are not aspirational virtues. They are what happens to the inside of a person when the false self has been displaced and the covenant self has been received. Most Christians have never been shown what that looks like from the inside. That is what this practice exists to do.
+**I believe there is a life available to followers of Jesus that most of them have never seen described.** Not a better version of the life they are managing — a different kind of life, organized around a different center, operating from a different root. A life where the interior has been reorganized around love instead of performance, around covenant instead of fear, around what God says instead of what the wound installed. That life is not theoretical. It is available. The nine qualities of it are recognizable and nameable: settled, undivided, free, moved without being swept, unhurried, loved and knowing it, truthful without cruelty, purposeful without striving, available. These are not aspirational virtues. They are what happens to the inside of a person when the false self has been displaced and the covenant self has been received. Most Christians have never been shown what that looks like from the inside. That is what this practice exists to do.
 
 ---
 

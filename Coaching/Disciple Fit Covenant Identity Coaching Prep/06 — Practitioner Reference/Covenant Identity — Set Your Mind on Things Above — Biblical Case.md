@@ -95,5 +95,5 @@ The coaching work is not an addition to the spiritual life. It is the spiritual 
 - [[Covenant Identity — Biblical Foundations Index]] — System-wide scriptural grounding map; mind-setting case fills flagged gap
 - [[Covenant Identity — Faith, Certainty & the Reckoning Pattern]] — λογίζεσθε (Rom 6:11) in depth; Lie Eliminator / Identity Installer reckoning template
 - [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]] — The explicit/implicit gap; what the mind *confesses* vs. what it *runs on*
-- [[Covenant Identity — The Interior Life as Telos]] — The eight qualities of the formed inner life; what the set mind is moving toward
+- [[Covenant Identity — The Interior Life as Telos]] — The nine qualities of the formed inner life; what the set mind is moving toward
 - [[Covenant Identity — Full Model Reference]] — Indicative/imperative grammar in the ten-layer architecture

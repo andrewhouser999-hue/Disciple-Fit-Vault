@@ -6,7 +6,7 @@ tags: [practitioner-reference, biblical-framework, telos, psalm-24, declaration,
 
 # Covenant Identity — Psalm 24 Redemptive-Historical Telos Frame
 
-**What this is:** A practitioner reference for Psalm 24 as the telos anchor of the Psalm 22-23-24 triptych — the declaration layer, the sovereignty frame, and the horizon within which all formation work takes its meaning. Covers the three theological anchors the psalm provides, when and how to introduce it to the client, client-facing session language, and how Psalm 24 connects to the Interior Life as Telos eight qualities.
+**What this is:** A practitioner reference for Psalm 24 as the telos anchor of the Psalm 22-23-24 triptych — the declaration layer, the sovereignty frame, and the horizon within which all formation work takes its meaning. Covers the three theological anchors the psalm provides, when and how to introduce it to the client, client-facing session language, and how Psalm 24 connects to the Interior Life as Telos nine qualities.
 
 **When used:** Two registers. (1) The practitioner holds Psalm 24 as an internal orientation frame from session one onward — it is always running as background. (2) Psalm 24 content is introduced to the client in late-stage work (Phase 3–4), when the Psalm 22 lament has been inhabited, the Psalm 23 shepherd has been encountered in the darkness, and the client has enough interior stability to hold a larger frame without it functioning as bypassing.
 
@@ -170,15 +170,15 @@ Psalm 24 content is held by the practitioner from the beginning and introduced t
 
 ---
 
-## Connection to Interior Life as Telos (Eight Qualities)
+## Connection to Interior Life as Telos (Nine Qualities)
 
-The Interior Life as Telos document (`Covenant Identity — The Interior Life as Telos.md`) identifies eight qualities of the sanctified inner life as the coaching telos: Settled, Undivided, Free, Moved Without Being Swept, Unhurried, Loved and Knowing It, Truthful Without Cruelty, Purposeful Without Striving.
+The Interior Life as Telos document (`Covenant Identity — The Interior Life as Telos.md`) identifies nine qualities of the sanctified inner life as the coaching telos: Settled, Undivided, Free, Moved Without Being Swept, Unhurried, Loved and Knowing It, Truthful Without Cruelty, Purposeful Without Striving, Available.
 
-These eight qualities are the *experiential* content of what the Psalm 24 telos looks like from the inside — what it feels like to be formed toward the King's return. Psalm 24 provides the redemptive-historical arc and the sovereignty frame; the Interior Life as Telos document provides the interior texture of what formation toward that arc produces.
+These nine qualities are the *experiential* content of what the Psalm 24 telos looks like from the inside — what it feels like to be formed toward the King's return. Psalm 24 provides the redemptive-historical arc and the sovereignty frame; the Interior Life as Telos document provides the interior texture of what formation toward that arc produces.
 
 **The VIM integration:**
 - **Vision** = Psalm 24 (King of Glory returning; the arc of all things) + Interior Life as Telos (what the client is being formed into experientially)
-- These are two descriptions of the same telos from different angles: Psalm 24 from outside (the redemptive-historical arc), Interior Life as Telos from inside (the eight qualities of a formed interior life)
+- These are two descriptions of the same telos from different angles: Psalm 24 from outside (the redemptive-historical arc), Interior Life as Telos from inside (the nine qualities of a formed interior life)
 
 When Vision work in Phase 4 asks "what are you being formed toward?" — both frames should be available. The client who can hold only one may have an incomplete Vision. Psalm 24 without interior texture is eschatological abstraction. Interior Life as Telos without Psalm 24 is spiritual self-improvement. Together they describe what the formation is for.
 
@@ -202,7 +202,7 @@ When Vision work in Phase 4 asks "what are you being formed toward?" — both fr
 
 - `Covenant Identity — Psalms 22-23-24 Triptych Practitioner Orientation Frame.md` — this document builds out the Psalm 24 layer of the triptych; the practitioner orientation frame holds all three
 - `Covenant Identity — Psalms 22-23-24 Developmental Framework.md` — full developmental arc; Psalm 24 telos layer is Section 4 of that document
-- `Covenant Identity — The Interior Life as Telos.md` — the eight qualities as the interior texture of what Psalm 24 formation produces
+- `Covenant Identity — The Interior Life as Telos.md` — the nine qualities as the interior texture of what Psalm 24 formation produces
 - `Covenant Identity — Matched Declaration Architecture.md` — Anchor 2 (ascent in Christ) connects directly to the shame and condemnation declaration tracks
 - `Covenant Identity — Phase 4 Session Tools (Integration & Close).md` — Phase 4 telos work; this document is the biblical frame for that phase
 - `Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE.md` — Four-Phase Engagement, Phase 4; Governing Architecture triptych note
