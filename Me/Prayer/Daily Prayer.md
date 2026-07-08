@@ -10,7 +10,11 @@ tags:
 
 I abandon Christiandumb for Biblical Faith
 - Apostle Paul spoke in togues, I will speak in tongues 
-- 
+
+
+# Prayer
+A whole nether level of detail in prayer
+
 ## Family Life
 
 
@@ -23,8 +27,11 @@ I abandon Christiandumb for Biblical Faith
 ## Myself
 
 
-## Ministry
- 
+## Ministry 
+
+# Land 
+Heal the Land
+Bring Righteousness Into it
 
 
 ## Marketplace & Ministry
