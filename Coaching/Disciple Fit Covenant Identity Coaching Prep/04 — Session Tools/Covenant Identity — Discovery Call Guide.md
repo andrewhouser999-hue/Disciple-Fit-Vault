@@ -121,9 +121,9 @@ While staging, the coach is also beginning to build an affections picture. Note 
 
 ---
 
-### Movement 4 — Model Introduction (5–7 min)
+### Movement 4 — Model Introduction and Agreement (7–9 min)
 
-**Purpose:** Introduce the Covenant Identity coaching framework at accessible depth — enough for the client to know what they're saying yes to.
+**Purpose:** Introduce the Covenant Identity coaching framework at accessible depth — enough for the client to know what they're saying yes to — and reach two explicit points of agreement before fit is declared: what the work will specifically target for this client, and what the client themselves said they want, confirmed in their own words. A model explained is not the same as a goal agreed to; this movement does both, not just the first.
 
 **Structure:**
 1. **Name the gap:** *"What I'm hearing is a distance between who you know yourself to be in Christ and who you actually experience yourself to be — especially under pressure. That gap has a name and it has a structure."*
@@ -131,10 +131,12 @@ While staging, the coach is also beginning to build an affections picture. Note 
 3. **Name the grammar:** *"The theological foundation is that your identity in Christ is already declared — it's not something you build, earn, or perform toward. The coaching work is closing the distance between what has already been declared and what you actually live from."*
 4. **Name the pace:** *"This is formation, not productivity. It moves at the pace of real change — which is slower than most people expect and more lasting than most approaches produce."*
 5. **Invite response:** *"Does that resonate with what you're carrying? What questions do you have about what this actually looks like?"*
+6. **Individualize the task:** Replace the generic four-phase description with what phase one would specifically target for this client, using what actually surfaced in Movements 2–3 — not the model in the abstract. *"Based on what you've described about [the specific pattern, gap, or dependency named earlier in the call], the early work would focus on [specific territory] — that's what this looks like for you, not just the four phases in general."* Skipping this step and only ever describing the model generically is a signal the call stayed diagnostic and never reached task agreement.
+7. **Confirm the goal, in their own words:** Reflect back what the client said they wanted — using their own language from Domain 6, not the coach's theological reframing of it — and ask for explicit confirmation before moving to Movement 5. *"Earlier you said [quote or close paraphrase of their own words about what they want to be different]. Is that still the right way to put it, or would you say it differently now?"* The point of this step is client-owned goal language that the client has explicitly confirmed — not coach-approved goal language that the client has merely heard and not objected to. If the client cannot restate or affirm a goal in their own words here, that is itself diagnostic information about readiness, not a step to skip past.
 
 **Tone:** Plain. Not a pitch. Not a theological lecture. Offer it and listen to what lands.
 
-**What to avoid:** Theological vocabulary the client hasn't used themselves; overselling outcomes; making it sound like a program rather than a relational process; filling silence after the introduction.
+**What to avoid:** Theological vocabulary the client hasn't used themselves; overselling outcomes; making it sound like a program rather than a relational process; filling silence after the introduction; moving to Movement 5 on the strength of the client's silence or polite agreement rather than an explicit, individualized goal confirmation.
 
 ---
 
@@ -221,6 +223,8 @@ Organized by domain. For each call, select 2–3 questions per movement — not 
 - "If this coaching worked exactly as it should — what would be different? Not just in your behavior. In who you experience yourself to be."
 
 **What these reveal:** SDT motivation quality (intrinsic vs. introjected vs. external), precipitating event, identity-level aspiration, readiness for the depth of work.
+
+**Carry forward:** Note the client's exact words here, not a paraphrase. This is the language reflected back in Movement 4, Step 7 (Confirm the goal) — the goal-agreement step depends on the client hearing their own words, not the coach's summary of them.
 
 ---
 
@@ -339,7 +343,9 @@ Complete within one hour of the call ending, while the conversation is fresh.
 
 **5. Decision record:** Did you send Tier 2? Yes — on what basis? No — what was the specific reason?
 
-**6. Follow-through:** If you said you'd do something (send the agreement, follow up in a week, provide a referral), do it within 24 hours.
+**6. Note alliance formation:** What did the client explicitly confirm as their own goal, in their own words (Movement 4, Step 7)? What specific task did you name for phase one, and did they confirm it (Movement 4, Step 6)? What evidence — not inference — indicated bond and trust were established, beyond the client simply granting diagnostic access? If any of these three are missing, note it as a gap to close in Session 1, not something to assume happened because the call went well.
+
+**7. Follow-through:** If you said you'd do something (send the agreement, follow up in a week, provide a referral), do it within 24 hours.
 
 ---
 
