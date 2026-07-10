@@ -1,6 +1,6 @@
 ---
-created: 
-basis: TBD
+created: 2026-07-10
+basis: "ICF Global Consumer Awareness Studies (2010/2017/2022), ICF Global Coaching Study (2023), Theeboom/Beersma/van Vianen (2014), Grant (2003), Christian Smith Soul Searching (2005), APA Stress in America (2022) — original April 2026 build; Part 3B added 2026-07-10 from live research pass: Willow Creek REVEAL study, Barna belief-behavior gap tracking, Barna/Pure Desire pornography & wellbeing data — see Part 3B and Research Foundation for full citations"
 tags:
 ---
 
@@ -104,6 +104,20 @@ People pay when they feel the cost of the problem — not when they see the root
 
 ---
 
+### Part 3B — The Evidence Base: The Transformation Gap Is Measured, Not Assumed
+
+*Added 2026-07-10. This section grounds the "Functional unbelief (theology ≠ daily trust)" row above in named, sourced research — not just Disciple Fit's internal theory. Distinguish two separate claims throughout: the evidence below establishes that **the gap is real and measured**. It does not establish that **CIC's specific mechanism closes it** — that remains an untested working thesis. Do not collapse the two in marketing copy.*
+
+**The program-delivery model doesn't produce growth — an insider proved it on itself.** Willow Creek's REVEAL study (2004–2007, expanded to 30 congregations) found that increased involvement in church activities did not predict or drive long-term spiritual growth. Roughly a quarter of Willow Creek's own congregation was stalled or dissatisfied. This is the sharpest available third-party validation of "more input isn't the gap" — an institutional insider confirming it against their own interest, not Disciple Fit asserting it. ([Christian Century](https://www.christiancentury.org/article/2008-01/willow-creek-finds-limits-its-model), [Christianity Today](https://www.christianitytoday.com/2008/02/what-reveal-reveals/))
+
+**Belief doesn't convert to lived behavior, at scale, and Barna has tracked it for years.** Only 6% of Americans hold what Barna defines as a biblical worldview — consistency between stated belief and how they actually think and act; one Barna/CRC measurement put self-identified Christians specifically at 9%. Barna's own report title: "Faith Has a Limited Effect On Most People's Behavior." ([Barna](https://www.barna.com/research/faith-has-a-limited-effect-on-most-peoples-behavior/), [George Barna](https://georgebarna.com/2026/03/even-committed-christians-struggle-with-biblical-basics/))
+
+**The sharpest concrete evidence: Christians converge with non-Christians on measurable outcomes.** 54% of practicing Christians admit to viewing pornography, versus 68% of non-Christians — a narrow gap for a behavior explicitly named as sin in a population professing transformed identity. Barna's wellbeing data shows users of either population report meaningfully worse outcomes on the same measures (life purpose, goal accomplishment, self-criticism, fear of failure). Professed Christian identity is not producing a meaningfully different outcome on this specific, measurable dimension. ([Barna](https://www.barna.com/trends/over-half-of-practicing-christians-admit-they-use-pornography/), [Barna](https://www.barna.com/trends/myths-about-porn/))
+
+**Reading these together:** three independent, credible sources — an institutional self-study, a longitudinal worldview tracker, and a specific behavioral/wellbeing dataset — converge on one finding: professed belief and program participation do not reliably produce changed interior life or behavior. That is legitimate, external market validation of the problem row this section is attached to. It is not validation of the solution.
+
+---
+
 ## Part 4 — Why People Hire Life Coaches: The Aspiration Side
 
 These are growth-toward, not escape-from. Still paying to close a gap — but the gap is between where they are and where they want to be, not between where they are and where they were.
@@ -197,3 +211,7 @@ Disciple Fit reaches both. The framework is the same either way: identity, lies,
 - Christian Smith, *Soul Searching* (2005) — Moralistic Therapeutic Deism
 - LifeWay Research — discipleship gap, relational isolation
 - APA Stress in America Report (2022) — why people seek help
+- Hawkins & Parkinson, *Reveal* — Willow Creek REVEAL Spiritual Life Survey (2004–2007) — church activity does not predict spiritual growth
+- Barna — "Faith Has a Limited Effect On Most People's Behavior"
+- George Barna/CRC — "Even Committed Christians Struggle with Biblical Basics" (2026)
+- Barna — "Over Half of Practicing Christians Admit They Use Pornography"; "3 Misconceptions About Porn Use"

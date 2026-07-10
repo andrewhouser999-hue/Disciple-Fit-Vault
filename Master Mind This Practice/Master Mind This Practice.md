@@ -15,6 +15,7 @@ tags:
   Covenant Identity provides the specific content of what the person is being formed toward: restored image-bearing as God's covenant person in
   Christ.
 
+*(implicit/explicit diagnostic sequencing, reconsolidation-based Covenant Truth work.)*
 
 **Model**
 Educate & Train the Client on: 
