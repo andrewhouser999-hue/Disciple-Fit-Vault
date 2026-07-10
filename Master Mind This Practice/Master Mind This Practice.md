@@ -62,6 +62,9 @@ Insight operates at the explicit level. The implicit belief is not accessible to
   meets the activated implicit belief in a live felt experience.
 
 ---
+within the non-clinical population I'm scoped to serve, a skilled practitioner with a well-designed relational container may produce comparable benefit to what a psychologist would produce with the same population — that's testable and plausible.
+  
+---
 
 How Focusing Differs from Mindfulness
 
