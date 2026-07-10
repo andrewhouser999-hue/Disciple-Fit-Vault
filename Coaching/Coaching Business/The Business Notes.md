@@ -32,6 +32,21 @@ tags:
 | Bookkeeping (Wave, free tier)    | $0                                  | Upgrade to paid (QuickBooks ~$15–35/mo) only if volume demands it                                     |
 | **Subtotal (recurring, annual)** | **~$202–$764/yr**                   | Excludes Stripe per-transaction fees                                                                  |
 
+### Professional Training Investment — Allender Center NFTC (Optional, Not in Running Total)
+*Researched July 2026. Narrative Focused Trauma Care® track — Story Workshop is the entry-point/personal-work experience (no certification); Levels I–III + Certification is the actual credentialing pathway. Not yet decided whether to pursue — kept separate from the required startup tally above.*
+
+| Program | Length | Format | Tuition | Notes |
+|---|---|---|---|---|
+| Story Workshop | 3½ days | In-person, Seattle | $1,595 (early reg) – $1,795 | Not therapy, not certification; personal story work. Lodging not included (~$450–$1,000 est., 3–4 nights) |
+| NFTC Level I | ~9 months | Virtual or in-person (Seattle) | $7,495 (virtual) / $8,495 (in-person) | 4× 3-day weekends + orientation; 85 seat hrs |
+| NFTC Level II | ~9 months | Virtual only | $7,495 | 4× 4-day weekends + orientation; 110 seat hrs; requires Level I |
+| NFTC Level III | 8 months | Virtual only | $5,295 | 8 monthly sessions + orientation; 85 seat hrs; requires Level II |
+| NFTC Certification | Not publicly listed | Not publicly listed | Not publicly listed | Requires Level III; skills review by Certification Review Committee; contact certification@theallendercenter.org for policy/cost |
+
+**Combined I→II→III:** ~26 months, $20,285 (all-virtual) – $21,285 (in-person Level I). Each level: $500 non-refundable deposit (counts toward tuition), $50 application fee, partial scholarships (15–25%) available first-come-first-served. Excludes airfare and Story Workshop lodging.
+
+---
+
 ### Excluded by Design (work-from-home, stay-small)
 Office lease/rent, utilities beyond existing home costs, furniture/equipment, staff/contractors — all $0.
 
