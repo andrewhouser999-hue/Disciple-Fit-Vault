@@ -1,6 +1,6 @@
 ---
 created: 2026-05-20
-basis: "[[Five Intervention Modalities — Definitions & Deep Elaboration]] — lament-to-trust as named modality; [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] — lament introduction; Brueggemann orientation/disorientation/reorientation framework; Westermann biblical lament structure; Thompson implicit memory mechanism; Psalter as Spirit-breathed lament language (2 Tim 3:16)"
+basis: "[[Five Intervention Modalities — Definitions & Deep Elaboration]] — lament-to-trust as named modality; [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] — lament introduction; Brueggemann orientation/disorientation/reorientation framework; Westermann biblical lament structure; Thompson implicit memory mechanism; Psalter as Spirit-breathed lament language (2 Tim 3:16); 2 Corinthians 7:10 — godly vs. worldly grief distinction underlying the Despair vs. Lament section"
 tags: [between-session, client-facing, lament, formation, phase-2, phase-3, phase-4]
 ---
 
@@ -55,6 +55,8 @@ This is not a minor point. From the cross, in the moment of greatest darkness, t
 ### Lament Is Not Despair
 
 The distinction is the direction of address. Despair turns *away* from God — it concludes that God is absent, indifferent, or incapable, and stops speaking to Him. Lament turns *toward* God with the pain — it still says *my God*, even when it cannot say *my good God right now*. The address is the act of faith. Lament says: I am bringing this to You because You are still the one I bring things to.
+
+**This is Paul's grief distinction, applied to direction of address.** 2 Corinthians 7:10 names two kinds of grief that can feel outwardly similar: godly grief, which "produces a repentance that leads to salvation without regret," and worldly grief, which "produces death" (ESV). The difference is not how intensely the grief is felt but where it is carried. Grief addressed to God — even angry, confused, or despairing address — is the godly grief Paul describes: it stays in relationship with the one who can act. Grief that is felt just as intensely but never turned toward God — carried alone, or resolved into self-condemnation, self-management, or resignation — is the worldly grief Paul says produces death. This is why lament's first movement is Address, below: the turn toward God is not a formality preceding the "real" content of complaint. It is what makes the grief that follows godly rather than worldly.
 
 Walter Brueggemann describes the Psalms as moving through three postures: orientation (life is ordered and good), disorientation (the world has broken), and new orientation (something has been restored, though not always in the expected form). Most Christian spirituality is comfortable with orientation and new orientation. Lament lives in disorientation — and the Psalter insists that disorientation has its own language, its own prayers, and its own place in the life of faith. Forcing premature new orientation — skipping lament to get to praise — produces a dishonest spirituality that cannot hold real suffering.
 
@@ -255,5 +257,7 @@ Once per month: a 10–15 minute lament using the four movements — address, co
 | False Noble | Produces polished, well-structured lament that doesn't touch anything real | Ask: *What did you leave out?* The omission is usually the real lament |
 | False Noble | Skips complaint, goes straight to trust statement | Slow down. Stay in the complaint longer. The movement is not earned by brevity |
 | All types | Reports that God felt absent or didn't respond | This is a valid lament experience, not a failed practice. Psalm 88 ends in darkness. Hold it in session. |
+
+**A subtler failure mode — form without substance:** A client can complete the four movements correctly, even opening with "Dear God," while the actual content of the complaint stays self-referential — cataloguing loss and cost without the grief ever functioning as address to a covenant partner. This looks like compliance (the practice was "done") but is worldly grief in the sense described in Section I: felt cost that never turns Godward. It does not produce the vacancy the model depends on — see [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]], "Grief felt but not turned Godward." Watch for lament that reads like a journal entry addressed to God as a formality rather than a cry actually directed at Him, and in session ask what the client felt while writing it, not only what they wrote.
 
 *If lament practice surfaces material that destabilizes the client beyond normal post-session processing — elevated activation persisting past 48 hours, or a trigger event intersecting with the wound terrain being worked — see [[Covenant Identity — Between-Session Distress Protocol]].*

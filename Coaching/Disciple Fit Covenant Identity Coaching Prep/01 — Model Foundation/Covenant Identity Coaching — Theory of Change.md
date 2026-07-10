@@ -66,6 +66,8 @@ This is the diagnostic entry point. The question is never only "what does the cl
 
 **Why grief is the mechanism:** Lament is the felt acknowledgment that what was trusted has failed or cannot deliver. It creates the poverty of spirit — the vacancy — that covenant truth can fill. Covenant truth offered before this vacancy exists tends to sit alongside the false structure rather than displace it. The competing commitment (Kegan-Lahey: the hidden assumption protecting the false identity) must be felt as costly, not just identified as present.
 
+**Not all grief completes this node:** 2 Corinthians 7:10 distinguishes godly grief (oriented toward God) from worldly grief (oriented toward self and consequence) — both can look identical in the room, but only godly grief produces durable release rather than self-effort or relapse. See [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]], "Godly Grief vs. Worldly Grief," for the full distinction and in-session diagnostic.
+
 **Mechanism:** Partially documented in [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (Condition 2 — Felt Inadequacy). The mechanism specific to lament — why felt acknowledgment of loss creates the conditions for new truth to land — is not yet documented as a standalone mechanism document. *Flagged as a gap.*
 
 **Primary tools:** Lament Practice Guide; ITC Column 3-4 work (Sanctification — ITC Practitioner Reference); Parts & Burden Discovery.

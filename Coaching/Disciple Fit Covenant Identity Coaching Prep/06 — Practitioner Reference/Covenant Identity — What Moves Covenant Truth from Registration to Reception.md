@@ -67,6 +67,8 @@ There is genuine loss in releasing a false identity. It has organized the client
 
 This is where lament functions as a formation move, not a therapeutic technique. Lament is the felt acknowledgment that what was trusted has failed or cannot deliver. It creates the poverty of spirit — the vacancy — that covenant truth can fill. Covenant truth offered before the false structure has been grieved tends to sit alongside it rather than displace it.
 
+**Diagnostic caution — not all felt cost completes this condition.** 2 Corinthians 7:10 distinguishes godly grief, which is oriented toward God and "produces a repentance that leads to salvation without regret," from worldly grief, which is self-oriented and "produces death" (ESV). Both can present identically in session — weariness, tears, articulate loss — but only grief that is turned toward God completes this condition. See [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]], "Godly Grief vs. Worldly Grief," for the full distinction. A client who feels the cost but is grieving only what it has cost *them* — not grieving the false trust itself as a breach with God — has not yet met Condition 2, even if the affective markers below appear present.
+
 **Practitioner move:** *"What would you lose if you no longer believed this about yourself?"* The answer is the grief work. Not performed loss — the invitation to name what the false identity has been providing so that its actual cost can be felt rather than only noted.
 
 ---
@@ -173,6 +175,8 @@ This is the grief signal. The diagnostic key: intellectual acknowledgment stays 
 
 *Premature redirect:* "So what do I do?" said quickly after naming the cost. The client touched the grief and managed away from it. Condition 2 was glimpsed and closed.
 
+*Self-protective (worldly) grief:* The client feels the cost genuinely and without performance — real tears, real weariness — but the grief is oriented entirely toward what they have lost or suffered, with no turn toward God. This is 2 Corinthians 7:10's "worldly grief": indistinguishable from godly grief by affect alone, distinguishable only by address. Listen for whether the grief is being brought to God or carried alone. If it is not yet addressed to Him, condition 2 is not complete — the practitioner's move is to invite the turn (see Practitioner Check-Moves, below), not to proceed to condition 3.
+
 **Condition 2 not yet complete:**
 - The client explains the cost without feeling it
 - Affect remains controlled and explanatory throughout
@@ -239,7 +243,7 @@ The diagnostic question: *Did covenant truth meet a live, named false structure?
 | Curt Thompson | Implicit vs. explicit memory as distinct systems; implicit level updated through relational experience, not information; theological integration of neuroscience with formation | Supported (draws on Siegel; Thompson's theological synthesis is expert opinion) |
 | Dallas Willard | VIM (Vision, Intention, Means) framework: transformation is not achieved but facilitated by conditions; disciplines as riverbed, not water; will-training dimension of receptive posture | Expert opinion |
 | Robert Kegan & Lisa Lahey | Competing commitments / immunity to change: persistent false beliefs serve a function; the hidden payoff of the false covenant object must be felt before release is possible | Supported |
-| Paul — Romans 8:16; 2 Corinthians 3:18 | Spirit's witness as the non-reductible agent of formation; turning → beholding → transformation mechanism; conditions are human; transformation belongs to God | Primary source |
+| Paul — Romans 8:16; 2 Corinthians 3:18; 2 Corinthians 7:10 | Spirit's witness as the non-reductible agent of formation; turning → beholding → transformation mechanism; conditions are human; transformation belongs to God. 2 Corinthians 7:10 distinguishes godly grief (oriented toward God, produces repentance to salvation) from worldly grief (self-oriented, produces death) — the biblical basis for Condition 2's grief requirement | Primary source |
 
 **Design decisions:**
 
