@@ -47,6 +47,18 @@ tags:
 
 ---
 
+### Professional Training Investment — CCEF School of Biblical Counseling (Optional, Not in Running Total)
+*Researched July 2026. Two sequential certificates make up the full track — Formation Certificate is the prerequisite; Essentials of Biblical Counseling Certificate follows. Not yet decided whether to pursue — kept separate from the required startup tally above.*
+
+| Program | Length | Format | Tuition | Notes |
+|---|---|---|---|---|
+| Formation Certificate | 2 courses, ~10 weeks each | Virtual, Jan/Mar/Jun/Sep terms | $1,550 ($775/course) | Dynamics of Biblical Change; Helping Relationships — either order; prerequisite for Essentials |
+| Essentials of Biblical Counseling Certificate | 4 courses, ~10 weeks each | Virtual, Jan/Mar/Jun/Sep terms | $3,100 ($775/course) | Applied Theology of the Person; Scripture for Life & Ministry; Everyday Problems in Counseling; Counseling in the Local Church — any order, after Formation Certificate complete |
+
+**Combined Formation → Essentials:** 6 courses total, $4,650, 6–9 hrs/week per course (courses run sequentially or across terms depending on pace). No deposit/application fee structure found (unlike Allender); confirm scholarship/payment plan availability directly with CCEF.
+
+---
+
 ### Excluded by Design (work-from-home, stay-small)
 Office lease/rent, utilities beyond existing home costs, furniture/equipment, staff/contractors — all $0.
 
