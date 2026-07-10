@@ -12,7 +12,7 @@ tags:
 # Covenant Identity — What Moves Covenant Truth from Registration to Reception
 *Practitioner Reference — the mechanism of covenant truth formation*
 
-*Related: [[Covenant Identity — Diagnostic Lens Transition Logic]] (Stage 3 and the activation requirement); [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] (when reception fails at the implicit level); [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] (biblical-exegetical basis for conditions language); [[Covenant Identity — The Interior Life as Telos]] (what successful reception produces)*
+*Related: [[Covenant Identity — Diagnostic Lens Transition Logic]] (Stage 3 and the activation requirement); [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] (when reception fails at the implicit level); [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] (biblical-exegetical basis for conditions language); [[Covenant Identity — The Interior Life as Telos]] (what successful reception produces); [[Covenant Identity — From Vague to Specific — Condition 1 Practitioner Technique]] (the technique that produces Condition 1's specificity)*
 
 ---
 
@@ -56,6 +56,8 @@ The lie must be named specifically: its exact claim, the situations that activat
 The specificity creates the hook the covenant truth can connect to. Without it, the truth is offered to a category rather than to the specific structure that is live and organized. *"You are chosen before the foundation of the world"* addressed to a named false identity — *"I am only safe when I am accepted"* — carries categorically different force than the same truth offered in general.
 
 **Diagnostic tools:** Stage 1 (Affections Discovery) is what produces the specificity this condition requires. The false identity named in Stage 2 of the Diagnostic Lens Transition Logic is the specific structure condition 1 addresses. A Stage 3 covenant truth attempt without completed Stage 1–2 work addresses a surface behavior rather than what the false self is organized around. See → [[Covenant Identity — Diagnostic Lens Transition Logic]], Category Errors section: "What Breaks if Stage 1 is Skipped."
+
+**Practitioner technique:** See → [[Covenant Identity — From Vague to Specific — Condition 1 Practitioner Technique]] for the five-move sequence — behavioral questions before belief questions, laddering to the core assumption, parallel God-exclusion mapping, tentative naming, and the three-condition stopping point — that produces this specificity in session.
 
 ---
 
@@ -297,3 +299,10 @@ What moves (tools → this document): The tools instantiate conditions 1–3 str
 *One-way outbound*
 What moves out: The telos document describes the fruit of successful formation — settled, undivided, loved and knowing it. Condition 4 (Spirit's witness) is what produces the interior qualities named there over time. This document explains the mechanism by which someone moves toward that portrait; Interior Life as Telos describes where they are going.
 Category error: Using the telos document as an entry point for session work — presenting the vision before the diagnostic and formation conditions are in place. The telos is the destination; this document is part of how the practitioner understands the route.
+
+---
+
+**→ [[Covenant Identity — From Vague to Specific — Condition 1 Practitioner Technique]]**
+*One-way outbound*
+What moves out: Condition 1's vague/specific example and three-question completion test are the target that document explains how to reach; the technique document is a compressed walkthrough of the five-layer Affections Discovery sequence for producing that specificity in session.
+Category error: Treating the technique document as a substitute for the full [[Covenant Identity — Affections Discovery — In-Session Protocol]] — it is a compressed recall aid for the mechanism, not the full session tool with question banks, pre-question observation layer, and pacing signals.

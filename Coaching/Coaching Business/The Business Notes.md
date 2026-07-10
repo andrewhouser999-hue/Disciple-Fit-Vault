@@ -59,6 +59,18 @@ tags:
 
 ---
 
+### Professional Training Investment — Curt Thompson / Confessional Community Training (Optional, Not in Running Total)
+*Researched July 2026. Confessional Community® model — Intensive is the entry-point/personal-work experience (no certification, no clinical prerequisite); Training Program is the actual leader-credentialing pathway, open to both clinicians and qualified non-clinicians. Delivered through New Story Behavioral Health / The Center for Being Known — not a standalone "Being Known LLC" program (that entity handles Curt Thompson's broader IPNB/spiritual-formation education and speaking work, not counselor credentialing). Not yet decided whether to pursue — kept separate from the required startup tally above.*
+
+| Program | Length | Format | Tuition | Notes |
+|---|---|---|---|---|
+| Confessional Community Intensive | 3 days (Wed–Fri) | In-person, Falls Church, VA | $1,750 | Not therapy, not certification; small group (6–8) story work + large group teaching led by Curt Thompson MD. Includes Thu/Fri lunch only; travel, lodging, other meals not included |
+| Confessional Community Training Program | 12 months | Hybrid — 2 in-person events (Falls Church, VA) + monthly virtual sessions | $525 application fee + $525/mo × 12 ≈ $6,825 total | Opening event Nov 11–13, 2026; closing event Sept 2027 (TBD); remote CC sessions 1st/3rd Tuesdays + core-issues teaching 2nd Tuesdays, Dec 2026–Aug 2027; CEUs via Seattle School of Theology & Psychology (amount TBD); requires online application + screening interview before acceptance |
+
+**Combined Intensive → Training Program:** ~12 months, ~$8,575. Single-tier leader track, not a multi-level sequence like Allender's Levels I–III (~26 months, $20,285–$21,285) — leader status is conferred through Training Program completion itself, with no separate post-completion "Certification" review step. Excludes travel, lodging, and meals not specified as included.
+
+---
+
 ### Excluded by Design (work-from-home, stay-small)
 Office lease/rent, utilities beyond existing home costs, furniture/equipment, staff/contractors — all $0.
 
