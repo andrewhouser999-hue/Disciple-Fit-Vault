@@ -31,6 +31,8 @@ This process is internal coaching practice. It does not appear in external marke
 
 **Proverbs 4:23** — "Guard your heart, for from it flow the springs of life." The heart — the seat of affections, trust, and priorities — is the source from which life flows. Change at the affections level produces change at the life level.
 
+**Matthew 6:33** — "But seek first the kingdom of God and his righteousness, and all these things will be added to you." Anxious pursuit of provision functions as evidence of a competing trust object (Matt 6:24, "you cannot serve God and money"). What a person seeks first — not what they say they value — names their functional god in the provision/security domain. Diagnostic only when anxiety is disproportionate to actual circumstance; a client facing genuine material scarcity is not exhibiting disordered affections but a legitimate threat, and this text is not a substitute for acknowledging that.
+
 **Trust as worship:** What a person trusts for security, significance, and identity is their functional god. This is a diagnostic frame, not an accusation. The coach does not lead with "you are worshiping X." The coach holds the lens and uses it to locate the false identity the affections are maintaining.
 
 ---
@@ -97,6 +99,7 @@ Examples:
 - "I am only safe when I am accepted."
 - "I am only significant when I am performing at a high level."
 - "I need to be in control in order to feel safe."
+- "I am only secure when I've secured it myself."
 
 **Listen for:** Behavioral consistency across contexts (same dependency in multiple domains). The client naming their own pattern without the identity framing yet. Core-belief language surfacing spontaneously.
 
@@ -137,6 +140,8 @@ Select 2–3 questions per layer based on what the client has surfaced. These ar
 - "Where is God in this picture you're describing?"
 - "What would trusting God here look like — specifically, not in general?"
 - "Is there any part of this area of your life where you find yourself reaching for something other than God first? What is it?"
+
+> **Scriptural mirror (provision/security — coach-internal frame, not necessarily verbalized):** Matt 6:25-33 functions as an internal lens, not a script: anxious seeking, without reference to a Father who already knows the need. Hold silently rather than paraphrasing aloud — verbalized mid-session, it risks landing as correction rather than invitation. Use only when Layer 3-4 answers cluster in provision/security, and only after ruling out genuine material scarcity (see Theological Foundation). If it produces identity language, move to Layer 5.
 
 *Full question bank by domain, naming moves, and diagnostic signals: [[Covenant Identity — God-Exclusion Map]]*
 
