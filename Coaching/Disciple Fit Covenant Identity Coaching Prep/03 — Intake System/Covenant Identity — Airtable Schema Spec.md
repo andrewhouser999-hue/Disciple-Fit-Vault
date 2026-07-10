@@ -1,6 +1,6 @@
 ---
 created: 2026-07-06
-basis: "[[Covenant Identity — Two-Tier Intake Protocol]], [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]], [[Covenant Identity Intake — Tally Build Guide]] — field-level schema derived from these three documents' question sets and pipeline logic; no prior schema existed"
+basis: "[[Covenant Identity — Two-Tier Intake Protocol]], [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]], [[Covenant Identity Intake — Tally Build Guide]] — field-level schema derived from these three documents' question sets and pipeline logic; no prior schema existed. Table 4 added 2026-07-10 per [[Covenant Identity — Alliance Pulse]]."
 tags:
 ---
 
@@ -90,6 +90,24 @@ One row per Tally submission of the full Covenant Identity Intake. Includes the 
 | Emergency Contact Phone | Phone number | Q20 |
 | Emergency Contact Relationship | Single line text | Q21 |
 | Current City/State | Single line text | Q22 |
+| Client | Link to record → Clients | Match by email |
+
+---
+
+## Table 4 — Alliance Pulse Responses
+
+One row per Tally submission of the Alliance Pulse, sent after every session starting with the alpha cohort. See [[Covenant Identity — Alliance Pulse]] for pilot status, deployment timing, and rationale — this table exists to support that pilot and is not yet a permanent fixture of the base.
+
+| Field | Type | Source |
+|---|---|---|
+| Respondent Name | Single line text (primary field) | |
+| Submission Date | Date | Auto-populated by Tally |
+| Session Number | Number | Coach fills in when sending the link — not client-reported, so it stays reliable if a submission comes in late or out of order |
+| Bond Score | Number (1-5) | Item 1 |
+| Task Score | Number (1-5) | Item 2 |
+| Goal Score | Number (1-5) | Item 3 |
+| Alliance Total | Formula (sum of Bond + Task + Goal) | Auto-calculated |
+| Optional Note | Long text | Optional field, often blank |
 | Client | Link to record → Clients | Match by email |
 
 ---
