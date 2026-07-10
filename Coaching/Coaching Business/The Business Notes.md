@@ -8,28 +8,29 @@ tags:
 *Rough estimates, updated as real numbers replace guesses. Model assumption: work from home, no office/lease, stay small until volume forces a change.*
 
 ### One-Time / Setup Costs
-| Item | Estimate | Notes |
-|---|---|---|
-| LLC — Articles of Organization | $100 | Nebraska SOS, online filing — see [[How to Start an LLC in Douglas County, NE]] |
-| LLC — Publication notice (Douglas County requirement) | $150–$300 | 3 consecutive weeks, Daily Record or approved paper — unique to Nebraska |
-| LLC — Proof of publication filing | $25 | |
-| LLC — Name reservation (optional) | $30 | Skip unless reserving before filing |
-| EIN | $0 | Free via irs.gov |
-| Domain name (first year) | $12–$20 | Namecheap/Google Domains |
-| **Subtotal (one-time)** | **~$287–$475** | Excludes optional name reservation |
+| Item                                                     | Estimate       | Notes                                                                           |
+| -------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------- |
+| LLC — Articles of Organization                           | $100           | Nebraska SOS, online filing — see [[How to Start an LLC in Douglas County, NE]] |
+| LLC — Publication notice (Douglas County requirement)    | $150–$300      | 3 consecutive weeks, Daily Record or approved paper — unique to Nebraska        |
+| LLC — Proof of publication filing                        | $25            |                                                                                 |
+| LLC — Name reservation (optional)                        | $30            | Skip unless reserving before filing                                             |
+| EIN                                                      | $0             | Free via irs.gov                                                                |
+| Domain name (first 3 years) covenantidentitycoaching.com | $31            | Cloudflare.com registered                                                       |
+| **Subtotal (one-time)**                                  | **~$287–$475** | Excludes optional name reservation                                              |
 
 ### Recurring Costs (Annual — Work-from-Home, Stay-Small Model)
-| Item | Estimate | Notes |
-|---|---|---|
-| Professional liability insurance | $190–$600/yr | Virtual-only practice should land low end; get direct quote from CPH & Associates or Insurance Canopy |
-| Domain renewal | $12–$20/yr | |
-| Tally.so | $0 | Free tier sufficient at alpha volume |
-| Airtable | $0 | Free tier sufficient at alpha volume |
-| Calendly | $0–$144/yr | Free tier may suffice; paid (~$12/mo) only if you need more event types/reminders |
-| Stripe | $0 base + ~2.9% + $0.30/transaction | Not a fixed cost — scales with revenue once charging begins |
-| Business bank account | $0 | Assume free business checking; verify with bank |
-| Bookkeeping (Wave, free tier) | $0 | Upgrade to paid (QuickBooks ~$15–35/mo) only if volume demands it |
-| **Subtotal (recurring, annual)** | **~$202–$764/yr** | Excludes Stripe per-transaction fees |
+| Item                             | Estimate                            | Notes                                                                                                 |
+| -------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Professional liability insurance | $190–$600/yr                        | Virtual-only practice should land low end; get direct quote from CPH & Associates or Insurance Canopy |
+| Domain renewal                   | $10/yr                              | Cloudflare.com                                                                                        |
+| Google Workspace Business Email  | $7/yr                               | Google Workspace for @covenantidentitycoaching.com                                                    |
+| Tally.so                         | $0                                  | Free tier sufficient at alpha volume                                                                  |
+| Airtable                         | $0                                  | Free tier sufficient at alpha volume                                                                  |
+| Calendly                         | $0–$144/yr                          | Free tier may suffice; paid (~$12/mo) only if you need more event types/reminders                     |
+| Stripe                           | $0 base + ~2.9% + $0.30/transaction | Not a fixed cost — scales with revenue once charging begins                                           |
+| Business bank account            | $0                                  | Assume free business checking; verify with bank                                                       |
+| Bookkeeping (Wave, free tier)    | $0                                  | Upgrade to paid (QuickBooks ~$15–35/mo) only if volume demands it                                     |
+| **Subtotal (recurring, annual)** | **~$202–$764/yr**                   | Excludes Stripe per-transaction fees                                                                  |
 
 ### Excluded by Design (work-from-home, stay-small)
 Office lease/rent, utilities beyond existing home costs, furniture/equipment, staff/contractors — all $0.
