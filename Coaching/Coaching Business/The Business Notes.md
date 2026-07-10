@@ -47,27 +47,28 @@ tags:
 
 ---
 
-### Professional Training Investment — CCEF School of Biblical Counseling (Optional, Not in Running Total)
-*Researched July 2026. Two sequential certificates make up the full track — Formation Certificate is the prerequisite; Essentials of Biblical Counseling Certificate follows. Not yet decided whether to pursue — kept separate from the required startup tally above.*
-
-| Program | Length | Format | Tuition | Notes |
-|---|---|---|---|---|
-| Formation Certificate | 2 courses, ~10 weeks each | Virtual, Jan/Mar/Jun/Sep terms | $1,550 ($775/course) | Dynamics of Biblical Change; Helping Relationships — either order; prerequisite for Essentials |
-| Essentials of Biblical Counseling Certificate | 4 courses, ~10 weeks each | Virtual, Jan/Mar/Jun/Sep terms | $3,100 ($775/course) | Applied Theology of the Person; Scripture for Life & Ministry; Everyday Problems in Counseling; Counseling in the Local Church — any order, after Formation Certificate complete |
-
-**Combined Formation → Essentials:** 6 courses total, $4,650, 6–9 hrs/week per course (courses run sequentially or across terms depending on pace). No deposit/application fee structure found (unlike Allender); confirm scholarship/payment plan availability directly with CCEF.
-
----
-
 ### Professional Training Investment — Curt Thompson / Confessional Community Training (Optional, Not in Running Total)
 *Researched July 2026. Confessional Community® model — Intensive is the entry-point/personal-work experience (no certification, no clinical prerequisite); Training Program is the actual leader-credentialing pathway, open to both clinicians and qualified non-clinicians. Delivered through New Story Behavioral Health / The Center for Being Known — not a standalone "Being Known LLC" program (that entity handles Curt Thompson's broader IPNB/spiritual-formation education and speaking work, not counselor credentialing). Not yet decided whether to pursue — kept separate from the required startup tally above.*
 
-| Program | Length | Format | Tuition | Notes |
-|---|---|---|---|---|
-| Confessional Community Intensive | 3 days (Wed–Fri) | In-person, Falls Church, VA | $1,750 | Not therapy, not certification; small group (6–8) story work + large group teaching led by Curt Thompson MD. Includes Thu/Fri lunch only; travel, lodging, other meals not included |
-| Confessional Community Training Program | 12 months | Hybrid — 2 in-person events (Falls Church, VA) + monthly virtual sessions | $525 application fee + $525/mo × 12 ≈ $6,825 total | Opening event Nov 11–13, 2026; closing event Sept 2027 (TBD); remote CC sessions 1st/3rd Tuesdays + core-issues teaching 2nd Tuesdays, Dec 2026–Aug 2027; CEUs via Seattle School of Theology & Psychology (amount TBD); requires online application + screening interview before acceptance |
+| Program                                 | Length           | Format                                                                    | Tuition                                            | Notes                                                                                                                                                                                                                                                                                        |
+| --------------------------------------- | ---------------- | ------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Confessional Community Intensive        | 3 days (Wed–Fri) | In-person, Falls Church, VA                                               | $1,750                                             | Not therapy, not certification; small group (6–8) story work + large group teaching led by Curt Thompson MD. Includes Thu/Fri lunch only; travel, lodging, other meals not included                                                                                                          |
+| Confessional Community Training Program | 12 months        | Hybrid — 2 in-person events (Falls Church, VA) + monthly virtual sessions | $525 application fee + $525/mo × 12 ≈ $6,825 total | Opening event Nov 11–13, 2026; closing event Sept 2027 (TBD); remote CC sessions 1st/3rd Tuesdays + core-issues teaching 2nd Tuesdays, Dec 2026–Aug 2027; CEUs via Seattle School of Theology & Psychology (amount TBD); requires online application + screening interview before acceptance |
 
 **Combined Intensive → Training Program:** ~12 months, ~$8,575. Single-tier leader track, not a multi-level sequence like Allender's Levels I–III (~26 months, $20,285–$21,285) — leader status is conferred through Training Program completion itself, with no separate post-completion "Certification" review step. Excludes travel, lodging, and meals not specified as included.
+
+---
+
+### Professional Training Investment — Motivational Interviewing / MINT (Optional, Not in Running Total)
+*Researched July 2026. Structurally different from Allender/Thompson: MI has no single unified body that certifies base-level practitioner competency. The two competency-certificate options below are standalone, non-sequential alternatives (pick one, not both) that certify MI skill fidelity but confer no organizational credential. MINT's Training New Trainers (TNT) pathway is a separate, higher tier — it certifies you to train other people in MI, not a prerequisite for using MI skills in coaching. Not yet decided whether to pursue — kept separate from the required startup tally above.*
+
+| Program | Length | Format | Tuition | Notes |
+|---|---|---|---|---|
+| UW–Madison Building MI Competency Certificate | 38 hrs (12 hrs live + 26 hrs self-study) | Fully online blended — live Zoom sessions + self-paced Canvas coursework | Not publicly listed; contact registration@cerc.wisc.edu / 608-262-2451 | Beginner–intermediate. Competency-based: requires fair-or-higher MITI fidelity rating on a simulated client call + 80% on knowledge check. Requires purchasing Rosengren's *Building Motivational Interviewing Skills* workbook. Not a leader/trainer credential |
+| UMass Chan Certificate of Intensive Training in MI (CITMI) | Semester-long | Not confirmed from current page (historically intensive + coursework); verify delivery format directly with UMass Chan | $1,700 individual / $1,550 per person (10+ group rate) | 20 CE credits. Alternate foundational certificate path to UW–Madison's, not a supplement to it. Not a leader/trainer credential |
+| MINT Training New Trainers (TNT) | 3-day onsite workshop | In-person; rotates location/dates yearly (2026 cohort: Lisbon, Portugal, Oct 19–21; registration for 2026 already closed) | Nonrefundable application fee (amount not published) + TNT registration $1,200–$1,800 (Group 1/high-income countries; reduced tiers for Groups 2–4) + annual MINT dues thereafter ($130/yr Group 1, $26–$52 Groups 2–4) | Requires 2-part written application + 20-minute Standardized Patient Interview (SPI) demonstrating MI skill before acceptance; ~6–8 week review. Confers MINT trainer membership — a credential to teach MI to others, not a practitioner certification. MINT Public Service Fund offers limited need-based aid |
+
+**Foundational certificate only (choose one, not sequential):** 38 hrs–1 semester, ~$1,700 (UMass) or fee TBD (UW–Madison, likely lower given no in-person/CE-credit overhead). **If later adding MINT/TNT trainer credential:** +3 days, +~$1,330–$1,930 first year (application fee + TNT registration + first-year dues), recurring $26–$130/yr after. For Andrew's stated goal — alliance/FIS skill acquisition for his own coaching practice, not training other coaches in MI — the foundational certificate tier is the fit; TNT is a future option only if he later wants to teach MI within CIC.
 
 ---
 
