@@ -72,6 +72,21 @@ tags:
 
 ---
 
+### Advisor Opinion — Does Andrew Need Formal Education Before Practicing CIC? (2026-07-10, `/advisor max`)
+*Andrew's question, not a researched-pricing entry like the charts above. Recorded here because it bears directly on whether any of the tracks above are worth buying.*
+
+**Verdict: Fixable, not Fatal — but "formal education" is the wrong-sized answer to a real problem.**
+
+The instinct behind the question is correct: deploying a self-synthesized, never-field-tested framework on real people with no external check is a genuine risk. Deliberate-practice research (Ericsson, Krampe & Tesch-Römer, 1993) and coaching-specific outcome research (de Haan, Duckworth, Birch & Jones, 2013 — already Andrew's own evidence base) agree that structured practice with *external feedback* predicts skill and client outcome, not accumulated study. Andrew's own 2026-07-04 Crisis & Referral Protocol audit had already flagged "no verified supervision relationship" as an open gap — the real need was already self-diagnosed and just not yet closed.
+
+But none of the certificate tracks above (Allender, Thompson, MI/MINT) actually close that gap. They teach someone else's framework and confer a credential; they don't give Andrew feedback on his own diagnostic judgment inside his own model. Coaching is unregulated in Nebraska — "need" here isn't a licensure claim, it's a calibration claim, and a certificate is not the mechanism for calibration. A cheaper, faster paid supervision/consultation relationship (a licensed clinical/biblical counselor for scope-boundary judgment, plus a separate ICF/MI-trained coach for craft/FIS review) gets the actual feedback loop in place in weeks, not months, for a fraction of the cost of any program on this page.
+
+**Named risk:** Andrew has built an unusually complete theoretical architecture (ten-layer contributor model, diagnostic transition logic, crisis protocols, a six-level simulated practice system) and has zero recorded live CIC client sessions to date. When a builder this thorough asks "do I need more training before I start," the base-rate read is that this can be the credential-seeking version of scope creep — one more layer of preparation instead of contact with the thing that would actually test the model. Watch for this resurfacing as a reason to delay after the supervision relationships are in place.
+
+**Full plan and reasoning:** [[Covenant Identity — Pre-Practice Readiness Action Plan]] (`Disciple Fit Covenant Identity Coaching Prep/06 — Practitioner Reference/`) — prioritized sequence, a "what not to do" list, and an outreach draft for the coaching-craft supervisor search.
+
+---
+
 ### Excluded by Design (work-from-home, stay-small)
 Office lease/rent, utilities beyond existing home costs, furniture/equipment, staff/contractors — all $0.
 

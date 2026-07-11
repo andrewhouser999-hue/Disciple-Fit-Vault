@@ -167,6 +167,22 @@ When you encounter a construct in intake language, session material, reading, or
 
 ---
 
+### Precision-Forcing Naming Techniques (Downward Arrow, Schema Charts)
+
+*Beck: the Core Belief Worksheet / Downward Arrow Technique — a chained questioning method ("What would that mean about me?" repeated on each answer) that converts a vague automatic thought into a specific, conditional core belief. Young: the 18 Early Maladaptive Schema chart — each schema paired with a precise stock belief statement and characteristic coping style, functioning as a diagnostic reference the practitioner matches a client's presentation against. Both are recognized clinical methods for forcing a vague trait label into a targetable statement — the same function Node 2's naming requirement performs in CIC.*
+
+**Layer:** Explicit
+**Diagnostic Stage:** Stage 2 (False Identity Named) — the precision requirement itself
+**Engagement Phase:** Phase 2
+**Scope:** ● Coaching scope
+
+**How CIC engages:** Node 2 requires the false structure be named with diagnostic precision — not "I struggle with insecurity" but a specific statement of what the heart is treating as the condition of safety or worth, and what substitution is being made for it. Beck's downward arrow is the closest procedural analog: repeated "what would that mean about me?" questioning strips a vague complaint down to its conditional core belief. Young's schema chart is the closest content analog: eighteen named schemas, each carrying a stock precise belief statement, usable as a reference set. Neither produces CIC's exact two-part architecture — the specific safety/worth condition plus the specific substitution being made for it — which is a CIC-specific design choice, not an import from either source. What they establish is that precision-forcing is itself a recognized clinical requirement (vague belief language is treated as untreatable in both frameworks), not an idiosyncratic CIC standard. This gives the practitioner two ready procedural moves when a client's naming stalls at trait-vague language: run the downward arrow question, or check the presentation against the schema chart's stock statements as a starting point to refine from.
+**Theory of Change Node:** Node 2 (naming precision itself — see Self-Verification, above: an imprecise name is absorbed by the self-verification mechanism rather than landing as disconfirming)
+**Primary tools:** Lie Eliminator; Deep Lie Work Worksheet; ITC Protocol (Column 3–4 — surfaces the conditional structure underneath a stated complaint)
+**Key files:** [[Covenant Identity — Deep Lie Work Worksheet]], [[Covenant Identity — Diagnostic Lens Transition Logic]]
+
+---
+
 ### Cognitive Distortions
 
 *Beck/Burns: systematic errors in thinking — catastrophizing, mind reading, all-or-nothing thinking, personalization, etc. — that reinforce false beliefs about self and actively block the reception of corrective truth*
