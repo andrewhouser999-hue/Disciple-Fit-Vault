@@ -1,12 +1,13 @@
 ---
 created: 2026-05-10
-basis: "[[Covenant Identity — Integration Rationale]] + [[Covenant Identity — Whole-Person Identity Framework]] — sequencing logic derived from the multi-framework integration; updated 2026-05-11 to add Character Wound Deepening layer and Stage 4b; updated 2026-05-22 to add reconsolidation mechanism (Ecker) at Stage 3 and Document Provenance; updated 2026-06-23 to expand Stage 2 transition signal with condition-by-condition readiness signals (references [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]])"
+basis: "[[Covenant Identity — Integration Rationale]] + [[Covenant Identity — Whole-Person Identity Framework]] — sequencing logic derived from the multi-framework integration; updated 2026-05-11 to add Character Wound Deepening layer and Stage 4b; updated 2026-05-22 to add reconsolidation mechanism (Ecker) at Stage 3 and Document Provenance; updated 2026-06-23 to expand Stage 2 transition signal with condition-by-condition readiness signals (references [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]]); updated 2026-07-11 to add Vision-Led Entry addendum — an alternate Stage 1 route for clients with no presenting cost across life/identity/relational/internal domains who are willing to be diagnosed and want to grow deeper with God; sourced from Willard (Vision-first formation), Edwards (affections of the sincere/stable, not only the distressed), and Kegan & Lahey (Immunity to Change repositioned as a primary entry point); includes a Lateral Reroute Signal safeguard against performance/achievement identity misrouting as growth-motivation"
 tags:
   - diagnostic-sequence
   - transition-logic
   - practitioner-reference
   - covenant-identity
   - session-tools
+  - vision-led-entry
 ---
 
 # Covenant Identity — Diagnostic Lens Transition Logic
@@ -18,15 +19,28 @@ tags:
 
 ## The Confirmed Sequence
 
-> **Affections Discovery [+ Character Wound Deepening] → False Identity Named → Covenant Truth Spoken → Stage 4a (cognitive distortion blocks) or Stage 4b (implicit memory blocks)**
+> **[Wound-Led: Affections Discovery] or [Vision-Led: Appetite Discovery] [+ Character Wound Deepening] → False Identity Named → Covenant Truth Spoken → Stage 4a (cognitive distortion blocks) or Stage 4b (implicit memory blocks)**
 
-This sequence is not a session script. It is the diagnostic logic that governs when to move, what to move toward, and what triggers the next stage.
+This sequence is not a session script. It is the diagnostic logic that governs when to move, what to move toward, and what triggers the next stage. The first move — which door the client enters Stage 1 through — is a coach read, not a script; see Entry Fork, below.
 
 ---
 
 ## Stage 1 — Affections Discovery
 
-**Entry:** Always. This is the first diagnostic layer in every engagement — initiated in the intake, opened in the discovery call, and deepened across early sessions.
+### Entry Fork — Wound-Led vs. Vision-Led
+
+*Added 2026-07-11.* Before Stage 1 begins, the coach reads which of two doors the client is standing at. Both doors lead to the same Stage 1 outcome — a specifically named functional dependency — and rejoin the sequence at the identical transition signal below. The fork determines which probes get used to reach that outcome, not what the outcome is.
+
+**Read this at Discovery Call or early Phase 1**, using the same observational posture as soil-type reading — a coach judgment formed from what the client volunteers, not a question put to the client directly ("are you in pain or not" is not asked).
+
+- **Wound-Led** (default): the client names, or the discovery-call question bank surfaces, a presenting cost somewhere in life, identity, relational, or internal domains — distress, disruption, or a pattern that's visibly not working. Proceed with the Wound-Led Entry below.
+- **Vision-Led** (addendum): the client names no presenting cost across those domains, expresses genuine desire to grow deeper with God, and is willing to be diagnosed. Proceed with the Vision-Led Entry below.
+
+Misreading this fork in either direction costs the client — see "What breaks if Wound-Led and Vision-Led are misrouted" in Category Errors, below.
+
+### Wound-Led Entry (default)
+
+**Entry:** Always, for this variant. This is the first diagnostic layer in every Wound-Led engagement — initiated in the intake, opened in the discovery call, and deepened across early sessions.
 
 **Purpose:** Surface what the client is prioritizing, trusting, and relying on outside of God. Trust is included as part of affections — what the client depends on for security, significance, or identity is the functional god the false identity serves.
 
@@ -37,6 +51,34 @@ This sequence is not a session script. It is the diagnostic logic that governs w
 **Tool:** See [[Affections Discovery Process — Affections, Trust & Priorities]] for the full question bank, five-layer framework, and diagnostic signals. See [[Covenant Identity — Affections Discovery — In-Session Protocol]] for in-session pacing and layer-by-layer transition signals.
 
 **Deepening — Character Wound Type:** Once the affections picture is specific enough to name what the client is trusting for security, significance, or identity, consult the [[Covenant Identity — Character Wound Diagnostic Tool]] to identify which type is presenting — Warrior, Hermit, or False Noble. The wound type deepens the false identity picture before Stage 2 naming: it reveals how the false identity has taken its particular shape in this person, what the coach is likely to encounter in the room, and how the false identity will resist being named. Character wound identification is a secondary diagnostic layer — it does not precede affections work, it deepens it.
+
+### Vision-Led Entry (addendum, 2026-07-11)
+
+**Governing distinction from Wound-Led entry:** Wound-Led Stage 1 finds the functional dependency by tracking where cost is landing. Vision-Led Stage 1 finds the *same* functional dependency by tracking where a healthy-looking appetite is actually routing — Isaiah 55:2's question ("why do you spend your money for what is not bread"), not Psalm 42's thirst-in-drought. The target is identical, a specific and named false covenant object; only the surfacing mechanism differs.
+
+**Theological warrant:** the telos of this practice is not problem resolution — it is progressive conformity to Christ, "from one degree of glory to another" (2 Cor. 3:18), which presupposes movement from *any* baseline, including an already-stable one (see Practice Definition, Dimension 1). A client with no presenting cost is not outside the sequence's purpose; the Wound-Led probes are simply built to find material this client doesn't yet have.
+
+**Probes** (adapted from [[Hunger for Righteousness — Practitioner Diagnostic (Mt 5:6)]], Coaching Preparation — cross-track; see Connection Map):
+
+- **The Pursuit Question, low-stakes form:** *"When you have unstructured time — a free evening, a quiet morning — where does your attention actually go?"* Appetite reveals its real object under low-supervision conditions, not only under duress. The crisis-framed original ("when you're depleted, where do you go") assumes cost this client hasn't reported; this form doesn't.
+- **The Hiddenness Test**, deployed as originally designed — it already presupposes a functioning, non-crisis client and requires no adaptation for this population.
+- **ITC improvement-goal opening** (see [[Sanctification — ITC Practitioner Reference]]): *"What do you want to be better at, spiritually, than you are right now?"* Run the standard four-column Immunity to Change process from this improvement goal rather than from a presenting problem. The hidden competing commitment and Big Assumption the process surfaces are the same diagnostic object Affections Discovery is built to find, reached by a different route.
+
+**Coach-internal diagnostic question** (Vision-Led form of the Wound-Led question above): *"Where is this appetite actually routing, and what would a fuller appetite toward God look like that isn't yet true of this person?"*
+
+**Transition signal:** identical to Wound-Led — when the coach can name the functional dependency specifically, move to Stage 2. Character Wound Deepening (above) applies the same way once the picture is specific enough.
+
+### Lateral Reroute Signal (Vision-Led → Wound-Led)
+
+Not every client who presents as growth-motivated with no presenting cost is who they appear to be. Watch for **performance or achievement identity wearing spiritual growth as its current costume** — the growth-seeking itself is the false covenant object (approval, achievement, or control, dressed as sanctification), not evidence of a stable client with room to deepen.
+
+**Reroute signal:** during Vision-Led Stage 1, if any of the following surface, stop and reroute to Wound-Led Entry (standard Affections Discovery) rather than continuing Vision-Led:
+
+- The desire to grow functions compulsively — the client cannot rest without visible progress, tracks growth the way they'd track a KPI, or shows discomfort with anything not measurable
+- Hiddenness Test data shows disciplines don't survive contact with an audience — the "growth" is substantially performed
+- The client is anxious rather than curious about the diagnostic process itself — a tell that something is already at stake for them in how this evaluation comes out
+
+This is a lateral move within the sequence, not an exit from it — distinct from the Referral Signal below, which exits to clinical referral entirely. A rerouted client still has a functional dependency to find; it was simply misidentified at the Entry Fork.
 
 ---
 
@@ -58,7 +100,9 @@ This sequence is not a session script. It is the diagnostic logic that governs w
 
 *Condition 2 complete — felt inadequacy of false structure:* The explanation-loop has quieted. Something more raw than analysis is present — weariness, grief, or fatigue directed at the false structure itself rather than at the self. The client is *less* articulate, not more. Intellectual acknowledgment of the cost ("I can see how this has limited me") is not condition 2; felt acknowledgment is. Even here, not all grief qualifies: per 2 Corinthians 7:10, grief that stays turned toward the self (worldly grief) can look identical to grief turned toward God (godly grief) but does not produce durable release — see [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]], "Godly Grief vs. Worldly Grief," for the diagnostic distinction.
 
-Move when both are present. Moving before condition 2 is complete produces premature declaration — the truth supplements the false structure rather than displacing it.
+*Condition 2-Alt — Vision Gap Awareness (Vision-Led entries only; added 2026-07-11):* felt inadequacy is not available in its usual grief-based form for a client with no presenting cost — there is no loss yet to mourn. The equivalent activator is a specific, *felt* gap between who the client wants to become and who they currently are: longing or holy dissatisfaction, not grief. Signal: does the desire carry actual weight — "I want more than this, and I feel that" — or is it purely intellectual assent to self-improvement? Only the former activates Stage 3; the latter means Condition 2 is not yet met, and the coach should continue Vision-Led Stage 1 rather than move forward. This is Willard's Vision language functioning as an activator, not Edwards's conviction language — a different route to the same requirement, that the false structure be experientially, not just conceptually, insufficient before Covenant Truth can displace it. Condition 2-Alt is not a relaxed version of Condition 2; it carries the same rigor and is not a substitute for grief work a Wound-Led client is avoiding — see Notes on Usage.
+
+Move when Condition 1 and either form of Condition 2 are present: grief (Condition 2) for Wound-Led entries, or vision gap awareness (Condition 2-Alt) for Vision-Led entries. Moving before either is complete produces premature declaration — the truth supplements the false structure rather than displacing it.
 
 For full signal development — condition-by-condition observables, false positives, false negatives, check-moves, and the distinction from Stage 4b → [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (The Transition Signal section).
 
@@ -143,12 +187,16 @@ See [[Covenant Identity — Crisis & Referral Protocol]] for specific referral t
 - The affections layer (Stage 1) is a continuous diagnostic stance across all phases, not a one-time discovery event.
 - Character wound type identification deepens Stage 1 — it informs how the false identity is named in Stage 2 and what Stage 3 resistance is likely to look like per type.
 - The distinction between extinction and reconsolidation is load-bearing at Stage 3. Declaration and Covenant Truth failures are rarely failures of content — the truth spoken was correct — but failures of activation: the implicit belief was not emotionally live when the truth was introduced. Explicit memory received the truth; implicit memory was not reached. The result is a proposition the client holds without a belief system that has changed. Verify activation before proceeding to Stage 3 content.
+- The Entry Fork (Wound-Led vs. Vision-Led) is read once, at Discovery Call or early Phase 1 — it is not re-evaluated every session. If a Vision-Led client's Stage 1 work repeatedly triggers the Lateral Reroute Signal, that is itself diagnostic content, not a routing error to fix and forget.
+- Condition 2-Alt does not loosen Condition 2 — it is a distinct, equally rigorous activator for a client population that structurally cannot produce grief-based Condition 2. Do not use Condition 2-Alt as a shortcut for a Wound-Led client who is simply resistant to feeling grief; that is a different diagnostic picture (see Stage 2 resistance patterns by wound type) and should not be waved through on vision-gap language it hasn't actually earned.
 
 ---
 
 ## Document Provenance
 
 **Why this exists:** The coaching model draws on multiple frameworks that do not naturally sequence themselves — affections discovery, character wound typing, false identity naming, covenant truth, CBT tools, and relational/attentive response. Without a documented logic governing when to move between them, a practitioner either applies them all indiscriminately (overreach) or waits for an obvious signal that may not arrive (underuse). This document answers the in-session question: "What am I seeing right now, and what does that tell me about where to go next?"
+
+A 2026-07-11 addendum extends this logic to a second population the original document didn't address: clients with no presenting cost across life, identity, relational, or internal domains who are nonetheless willing to be diagnosed and genuinely want to grow deeper with God. The original sequence's Stage 1 and Stage 2 Condition 2 both assumed cost as the surfacing and activating mechanism; this population needed an alternate route to the same diagnostic target rather than a different target.
 
 **Governing question:** What specific, observable client behavior tells the coach when to move from one diagnostic lens to the next — and what happens when the expected tools stop working?
 
@@ -162,6 +210,9 @@ See [[Covenant Identity — Crisis & Referral Protocol]] for specific referral t
 | Eric L. Johnson | Integration rationale governing when and how CBT tools are deployed — under scriptural governance, not as a standalone clinical modality; the governing position that Scripture frames the goal (covenant truth reception) and CBT tools serve that goal | [[Source Library — Trusted Contributors & Frameworks#Eric L. Johnson\|Johnson]] |
 | Ed Welch | Fear-of-man diagnostic structure informing what Stage 2 false identities look like in their most common forms — most presenting false identities are fear-of-man lies in structure even when the content varies | [[Source Library — Trusted Contributors & Frameworks#Ed Welch\|Welch]] |
 | Bruce Ecker / Nader & LeDoux | Memory reconsolidation mechanism — the theoretical basis for the activation requirement at Stage 3 (implicit belief must be emotionally live before Covenant Truth is introduced); the extinction vs. reconsolidation distinction (temporarily suppressed lies return under stress; replaced lies do not); and why Stage 4b relational presence produces structural change where explicit tools cannot | [[Memory Reconsolidation — Ecker & Neuroscience Basis]] |
+| Dallas Willard | Vision-first formation (VIM) — theoretical basis for the Vision-Led Entry addendum: discipleship is properly pursued by intentional apprenticeship, not only provoked by crisis; grounds Vision Gap Awareness (Condition 2-Alt) as a legitimate activator distinct from grief | [[Source Library — Trusted Contributors & Frameworks#Dallas Willard\|Willard]] |
+| Jonathan Edwards | *Religious Affections* — precedent for examining the affections of sincere, stable, non-crisis subjects rather than only the distressed; grounds appetite-direction (not only appetite-absence-under-pressure) as diagnostically valid in Vision-Led Stage 1. Not yet a Source Library entry — cited directly from the primary work | — |
+| Robert Kegan & Lisa Lahey | Immunity to Change's improvement-goal-first methodology, repositioned in the Vision-Led addendum from a reactive Column 3/4 tool (per [[Sanctification — ITC Practitioner Reference]]) to a primary Stage 1 entry point — same four-column mechanism, new deployment context | [[Source Library — Trusted Contributors & Frameworks#Robert Kegan and Lisa Lahey\|Kegan & Lahey]] |
 
 **Design decisions:**
 
@@ -175,6 +226,14 @@ See [[Covenant Identity — Crisis & Referral Protocol]] for specific referral t
 
 - *Stage 4b relational response does not add content — it changes the coach's mode:* The moves listed in Stage 4b (slow the session, invite internal attention, speak personally rather than propositionally, return across sessions) are all subtractive or presence-based, not additive. Reason: when the block is implicit, more content makes it worse. The coach's temptation when stuck is to restate more clearly or try a different framing — both are cognitive moves that will not reach an implicit barrier. The document explicitly names this temptation and redirects.
 
+- *Vision-Led is a front-door variant into Stage 1, not a parallel Stage 1–4 sequence (2026-07-11):* A fully separate diagnostic track for this population was considered and rejected. It would duplicate the false-identity-naming, covenant-truth, and Stage 4a/4b machinery for no reason, since the target and downstream mechanism are identical once a functional dependency is found — only how it's found differs for a no-presenting-cost client. One diagnostic engine with two front doors preserves the sequence's integrity and avoids maintaining duplicate logic that would drift out of sync over time.
+
+- *Condition 2-Alt is a distinct condition, not a relaxed Condition 2 (2026-07-11):* Simply loosening Condition 2 to accept intellectual acknowledgment for this population was considered and rejected. That would blur the exact distinction (felt vs. intellectual) the original document was built to protect, and would hand a Wound-Led client avoiding grief work a loophole to bypass it. Vision Gap Awareness is defined with the same rigor as grief-based Condition 2: it must be felt, not merely stated.
+
+- *The Lateral Reroute Signal exists because "growth-seeking" is itself a plausible false covenant object (2026-07-11):* Achievement and approval identities are highly capable of producing sincere-sounding growth language. Without an explicit reroute check, Vision-Led entry becomes a way for a performance-driven client to get their compulsive growth-seeking coached and resourced rather than diagnosed and named — the opposite of what the sequence exists to do.
+
+- *Four-phase engagement labels (e.g., "Wound Mapping") are left unchanged for Vision-Led clients (2026-07-11):* Renaming Phase 2 for this population would ripple into the Phase 2 Session Tools, Onboarding, and Discovery Call documents — a system-wide change out of scope for this addendum. Phase names are internal/practitioner labels, not client-facing language, consistent with the Practice Definition's treatment of "formation apprentice" — a Vision-Led client is never told they're in "Wound Mapping." Flagged for review if the mismatch causes a practical problem in the room; not resolved here.
+
 **Scope boundary:** This document governs sequencing — it is not a session script and does not provide in-session technique for any individual stage. Each stage has its own document: Stage 1 → [[Covenant Identity — Affections Discovery — In-Session Protocol]] and [[Covenant Identity — Character Wound Diagnostic Tool]]; Stages 2 and 3 → session tools; Stage 4a → CBC session skills; Stage 4b → relational presence (coach formation, coach soul care). This document provides the navigational logic; the stage-specific documents provide the content.
 
 **Client summary:** This is a practitioner-only reference. It is not shared with clients.
@@ -182,6 +241,8 @@ See [[Covenant Identity — Crisis & Referral Protocol]] for specific referral t
 **Contested ground:** The implicit/explicit memory distinction underlying Stage 4b is drawn from interpersonal neurobiology (Siegel, Thompson) — Supported but not established specifically in coaching contexts. The claim that implicit memory barriers require relational presence rather than cognitive tools is theoretically well-grounded and convergent with clinical experience, but the specific application to Christian coaching has not been empirically validated. The Stage 4a/4b diagnostic distinction requires practitioner judgment — the line between "client arguing against covenant truth" and "client agreeing without feeling" is not always clean. When in doubt about which stage is operative, err toward Stage 4b (less cognitive input) before adding more content.
 
 The memory reconsolidation mechanism (Nader & LeDoux, 2000; Schiller et al., 2010; Ecker et al., 2012) adds neurobiological specificity to both the Stage 4a/4b distinction and the Stage 3 activation requirement — explaining at the synaptic level why implicit memory barriers require relational presence rather than cognitive tools, and why Declaration fails when the implicit belief is not emotionally active. The neuroscience base is empirically established and peer-reviewed (human evidence: Schiller et al., 2010, *Nature*). Ecker's clinical translation and its application to coaching tools (Declaration, Covenant Truth installation) is practitioner-grade theory, not RCT-validated in coaching contexts.
+
+**The Vision-Led addendum (2026-07-11) carries its own contested ground.** Willard's Vision-first formation and Edwards's affections-of-the-sincere are well-established within their respective traditions but were not designed as diagnostic entry mechanisms — their application here as Stage 1 surfacing tools and a Stage 2 activation condition is this document's extension, not a validated coaching technique. More specifically: repositioning Immunity to Change's improvement-goal opening as a *primary* entry point, rather than its originally reactive deployment for Column 3/4 patterns, is a design judgment made for this addendum, not something Kegan & Lahey's own research validates for non-presenting-problem populations. Practitioners should treat Vision-Led outcomes as provisional until field experience either confirms or revises the mechanism — the same posture this document takes toward the Stage 4a/4b distinction itself.
 
 ---
 
@@ -235,6 +296,21 @@ Category error: Using soil type as a substitute for Stage 1 (Affections Discover
 
 ---
 
+**→ [[Hunger for Righteousness — Practitioner Diagnostic (Mt 5:6)]]** *(Coaching Preparation — cross-track; added 2026-07-11)*
+*One-way inbound feed*
+What moves in: two of the tool's core diagnostic probes (the Pursuit Question, the Hiddenness Test), adapted from crisis-framing to routine-framing, as the primary probe set for Vision-Led Stage 1 entry.
+Category error: Treating this connection as merging the two practice tracks. It doesn't — Coaching Preparation and Covenant Identity Coaching remain separate tracks (see the Three-Track Separation rule). This document borrows two probes as tools; it does not import Coaching Preparation's broader diagnostic frame, client population, or governing assumptions.
+
+---
+
+**↔ [[Sanctification — ITC Practitioner Reference]]** *(added 2026-07-11)*
+*Bidirectional*
+What moves (Transition Logic → ITC Reference): a new deployment context — ITC's improvement-goal opening as a *primary* Vision-Led Stage 1 entry point, not only a reactive response to Column 3/4 patterns discovered elsewhere in the sequence.
+What moves (ITC Reference → Transition Logic): the full four-column execution detail this document does not duplicate — practitioners run the Vision-Led ITC probe using the ITC Reference's actual facilitation guidance, not a summary of it.
+Category error: Running ITC's four columns as a technique divorced from the covenant-truth destination. As with Stage 4a's relationship to Integration Rationale, ITC here is a mechanism serving the sequence's target (a named functional dependency) — not a standalone intervention that ends at insight.
+
+---
+
 ### Category Errors at Stage Transitions
 
 **What breaks if Stage 1 is skipped:**
@@ -245,3 +321,11 @@ If Stage 2 (False Identity Named) is attempted without Stage 1 (Affections Disco
 *Applying Stage 4a tools (cognitive content) to a Stage 4b presentation (implicit barrier):* Adding better argument, clearer doctrine, or more precise restatement to a client who already intellectually agrees and cannot feel it. This leaves the client experiencing their own failure — *"I've heard this truth many times and it still doesn't land; something must be wrong with me."* The schema gains ground. This pattern can deepen a Defectiveness/Shame presentation precisely when the coach believes they are addressing it.
 
 *Applying Stage 4b posture (relational presence) to a Stage 4a presentation (active distortion):* Responding with soft relational presence when the client is actively arguing against covenant truth leaves the distortion undisturbed. The client is doing cognitive work — they need cognitive engagement. A Warrior client in particular will experience Stage 4b moves as the coach backing down, which confirms rather than challenges the Warrior pattern. Stage 4b is not warmth added to every moment of difficulty; it is a specific response to a specific presenting condition.
+
+**What breaks if Wound-Led and Vision-Led are misrouted (2026-07-11):**
+
+*Reading a Wound-Led client as Vision-Led:* A client who is genuinely hurting but hasn't yet found language for their cost — common early in Phase 1, before trust is established — can present as if they have no presenting cost. Routing them into Vision-Led Stage 1 misses the material Wound-Led Affections Discovery was built to find, because appetite-tracking probes aren't designed to surface acute, not-yet-named pain. The client experiences the coach as not quite reaching what's actually going on, and may conclude the model has no room for what they're carrying.
+
+*Reading a Vision-Led client as Wound-Led:* Forcing a client with no genuine presenting cost through pain-based Affections Discovery pressures them to manufacture or exaggerate a distress narrative to be taken seriously by the diagnostic. This is spiritually corrosive in a specific way — it teaches the client that coaching attention requires performing brokenness, the opposite of the honesty the practice depends on, and produces false-positive Stage 1 material that Stage 2 will then name incorrectly.
+
+*Ignoring the Lateral Reroute Signal:* A client whose growth-seeking is itself a performance or achievement identity gets their compulsive pattern coached and resourced under the banner of spiritual growth rather than diagnosed and named. The coach becomes functionally complicit in the client's false covenant object — mistaking the client's productivity for the Spirit's formation.
