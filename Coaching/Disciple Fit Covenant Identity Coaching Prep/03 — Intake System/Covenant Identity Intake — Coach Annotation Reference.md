@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "TBD (original); updated 2026-07-11 to add a Vision-Led read to Q1, a Vision-Led row to the Q11 motivation table, and an Entry Fork field to the Working Hypothesis Template — see [[Covenant Identity — Diagnostic Lens Transition Logic]], Entry Fork addendum"
 tags:
 ---
 
@@ -32,6 +32,7 @@ tags:
 - Ratio of external description (circumstances, other people) to internal description (feelings, identity, self-awareness). High external = limited self-reflective access or avoidance. Shapes how quickly to move to identity work.
 - Behavioral language ("I want to stop doing X") vs. identity language ("I want to actually feel like who God says I am"). Identity language = readiness for this model.
 - Vocabulary that is already identity-adjacent = client has been in this territory before; can move faster.
+- **No presenting problem named, but a specific and felt growth desire present = Vision-Led signal, not low self-reflective access.** Confirm against Tier 1 responses and the discovery call before finalizing this read — see Entry Fork in [[Covenant Identity — Diagnostic Lens Transition Logic]].
 
 **Referral watch:** Crisis language, acute hopelessness, self-harm ideation.
 
@@ -242,6 +243,7 @@ This answer is one of the first to read on any completed form. It orients the re
 | "This genuinely matters to me, even if it's uncomfortable" | Identified motivation | Workable. Commitment is real. |
 | "I feel like I should be further along / I feel guilty / someone told me I should" | Introjected motivation | Fragile. Will perform initially, break down when challenged. Naming this early can convert it. |
 | "My wife / pastor / friend thinks I should do this" | External motivation | Highest risk. May not have personal buy-in. Explore in session 1 whether the client genuinely wants this. |
+| "I don't have a specific problem — I want to become who I actually am in Christ" | Intrinsic/integrated motivation, Vision-Led signal | Workable, often unusually durable since it isn't crisis-dependent. Confirm against the Lateral Reroute Signal before treating as straightforwardly healthy. |
 
 Also note: the "rather than six months ago" clause often surfaces the precipitating event — a loss, a relational crisis, a ministry failure, something that cracked the managed self open. That event is often the most alive material for session 1.
 
@@ -286,6 +288,8 @@ Ask in discovery call:
 CLIENT NAME:
 DATE OF FORM COMPLETION:
 SESSION 1 DATE:
+
+ENTRY FORK (Wound-Led / Vision-Led):
 
 PRIMARY SCHEMA (most likely operational):
 

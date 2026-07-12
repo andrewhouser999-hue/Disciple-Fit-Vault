@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "TBD (original); updated 2026-07-11 to add a Vision-Led branch to Go/No-Go Criterion 1 — see [[Covenant Identity — Diagnostic Lens Transition Logic]], Entry Fork addendum"
 tags:
 ---
 
@@ -84,6 +84,8 @@ Client demonstrated at minimum *Contemplation* stage readiness: they are aware o
 *Pre-contemplation signal* (not ready for Tier 2): Client attributes the problem entirely to external factors; cannot name any internal pattern; shows no curiosity about why the same issues keep recurring.
 
 *Contemplation or higher* (ready): Client names an internal dimension to the problem, even tentatively. Shows emotional weight around the question of who they actually are vs. who they want to be.
+
+*Vision-Led signal* (also ready — added 2026-07-11): Client names no presenting problem but demonstrates a specific, felt desire to grow deeper — not vague self-improvement language, but something with actual weight behind it. Willingness to be diagnosed is present. This is not a Pre-Contemplation signal; it is a different entry point into the same readiness requirement. Cross-check against the Lateral Reroute Signal in [[Covenant Identity — Diagnostic Lens Transition Logic]] before confirming — compulsive, KPI-tracked "growth" is a different, Wound-Led picture wearing this one's clothes.
 
 ---
 

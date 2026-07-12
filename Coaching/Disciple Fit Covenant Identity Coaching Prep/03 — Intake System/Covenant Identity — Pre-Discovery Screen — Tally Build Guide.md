@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "TBD (original); updated 2026-07-11 to add Vision-Led entry-signal wording to Q1/Q6 and a Vision-Led read to the Coach Review table — see [[Covenant Identity — Diagnostic Lens Transition Logic]], Entry Fork addendum"
 tags:
 ---
 
@@ -70,7 +70,7 @@ Your responses come directly to me and are held in complete confidence.
 ```
 What's happening in your life right now that made you reach out?
 
-What are you most stuck in, frustrated by, or hoping to change?
+What are you most stuck in, frustrated by, or hoping to change — or is this more a season where nothing's especially wrong, but you want to grow deeper than you currently are?
 ```
 
 ---
@@ -147,7 +147,7 @@ On a scale of 1 to 10, how much does who you believe you are in Christ actually 
 ```
 What's actually driving you to pursue coaching right now?
 
-Not the presentable version — what's the real thing making you reach out now rather than waiting?
+Not the presentable version — what's the real thing making you reach out now rather than waiting? Or, if nothing's pushing you into it, what's made now feel like the right time to invest in this?
 ```
 
 ---
@@ -243,15 +243,20 @@ Read the completed form within 24 hours of receiving it. Note:
 | Motivation quality — intrinsic/identified vs. introjected/external; precipitating event | Q6 |
 | Clinical flag — if YES on Q7, prepare the discernment conversation | Q7 |
 | What they chose to bring when given total freedom | Q8 |
+| **No presenting cost named, but specific and felt desire to grow — Vision-Led signal, not evasion** | Q1, Q6 |
 
 **This review is preparation, not diagnosis.** You are orienting your listening for the discovery call — not forming clinical conclusions. Hold your initial read loosely; the discovery call conversation may shift it entirely.
+
+**A "no problem" answer on Q1 is not automatically a low-engagement or evasive signal.** Check it against Q3 (movement vs. circling) and Q6's added clause before concluding anything — it may be a Vision-Led client rather than a guarded one. See Entry Fork in [[Covenant Identity — Diagnostic Lens Transition Logic]].
 
 **Affections Layer — Read Across All Responses:**
 After completing the table above, read the form once more through the affections diagnostic lens. Ask: *What is this person depending on — and where is God absent from it?*
 
+*If the Vision-Led signal is present, ask instead:* Where is this person's evident appetite for God actually routing, and what's the gap between that and the fuller thing they say they want?
+
 - Q1 and Q3: What are they emotionally orbiting? What are they not mentioning?
 - Q4: Is God present in the functional texture of their day, or described abstractly and at a distance?
-- Q6: What's driving the urgency — what are they afraid of losing or needing to fix?
+- Q6: What's driving the urgency — what are they afraid of losing or needing to fix? *(Vision-Led: what's the specific thing they want more of?)*
 - Q8: What did they bring when given total freedom? What does that choice reveal about priority?
 
 Note your initial affections read before the call. Carry it as a listening frame — do not lead with it in conversation.
