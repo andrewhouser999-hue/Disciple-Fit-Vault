@@ -15,6 +15,8 @@ This is a practitioner reference for in-session diagnostic use when a client's o
 
 Read [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] for the theology. Use this document for the probes.
 
+*Part of a series covering all nine Beatitudes (Mt 5:3–12) — see [[_Beatitude Diagnostics — Quick-Select Index]] for the presenting-signal lookup and cross-reference map across all eight diagnostics.*
+
 ---
 
 ## Governing Reframe
@@ -102,3 +104,19 @@ Three probes, each translating one of Isaiah 66:2b's three dimensions (full exeg
 - Not a tool for assessing or treating low self-worth — see Contraindication. Using it there produces the opposite of its intended effect.
 - Not a substitute for Affections Discovery or the Character Wound Diagnostic. This tool identifies whether self-sufficiency is blocking engagement; those tools do the deeper work once it's named.
 - Not a claim that Mt 5:3 strictly precedes mourning (5:4) or meekness (5:5) in every client's actual experience. Treat as closely related, not as a mandatory gate.
+
+---
+
+## Poverty of Spirit in Life Experience
+
+### What It Is
+
+The felt, functioning knowledge — not merely believed but actually operated from — that one has nothing to bring to God that earns standing, and everything is received. It shows up in how a person handles being helped, failing, or being corrected: without needing to manage, repay, or defend against it. It is less a feeling and more a posture, tested best in exactly those three moments.
+
+### Not to Be Mistaken For
+
+- **Low self-worth or self-condemnation** — believing oneself worthless is a self-referential, self-managed state, still organized around the self, not dependence on God; see Contraindication, above.
+- **False modesty** — verbally disclaiming credit or ability while still operating from self-sufficiency underneath; a performance, not a posture.
+- **Codependency or lack of boundaries** — inability to assert needs or say no, often trauma- or attachment-driven, not the same mechanism as receiving grace.
+- **Passivity or lack of ambition** — poverty of spirit doesn't mean not pursuing goals or exercising competence; Moses (Num 12:3) was both supremely poor in spirit and an extraordinarily capable, decisive leader.
+- **Spiritual bypassing of real competence** — refusing to acknowledge genuine skill or accomplishment as a false display of humility, when the actual issue being avoided is something else entirely.

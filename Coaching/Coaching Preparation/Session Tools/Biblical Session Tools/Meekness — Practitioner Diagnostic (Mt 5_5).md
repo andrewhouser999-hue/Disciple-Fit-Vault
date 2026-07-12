@@ -15,6 +15,8 @@ This is a practitioner reference for in-session diagnostic use when a client's m
 
 A note on scope: Mt 5:5's "meek" (*praeis*, from *ʿānāw*) shares a Hebrew root with Mt 5:3's "poor in spirit" (*ʿānî*) — see [[Poor in Spirit — Practitioner Diagnostic (Mt 5_3)]] and [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]]. They are related but distinct facets, not duplicates: 5:3 names posture toward God (dependence for standing); 5:5 names posture toward others and circumstance (restraint under provocation, refusal to grasp). Unlike 5:3, no existing document already covers this beatitude's ground — this is a full, independent diagnostic, not a companion.
 
+*Part of a series covering all nine Beatitudes (Mt 5:3–12) — see [[_Beatitude Diagnostics — Quick-Select Index]] for the presenting-signal lookup and cross-reference map across all eight diagnostics.*
+
 ---
 
 ## Governing Reframe
@@ -119,3 +121,19 @@ Meekness has three possible counterfeits, not one. Watch for all three — Warri
 - Not a trauma or anxiety assessment. Where fear-driven non-reactivity looks clinical in origin, see Contraindication — refer, don't diagnose further with this tool.
 - Not a claim that Mt 5:5 is identical to or a restatement of Mt 5:3, despite the shared Hebrew root — see Purpose, above, for the distinction.
 - Not a client-facing document. The theological grounding is for Andrew's comprehension; clients receive the stripped-down session-ready questions, not the framework.
+
+---
+
+## Meekness in Life Experience
+
+### What It Is
+
+Strength that stays under someone's own control because it's been submitted to God's timing and justice — the capacity to act decisively still present, but not seized reflexively when provoked, wronged, or overlooked. It shows up most clearly under real provocation: what actually happens, and why, when a person could grasp for control and doesn't.
+
+### Not to Be Mistaken For
+
+- **Passivity or conflict-avoidance** — non-assertion driven by fear of confrontation rather than trust in God's justice; see Layer 2's Hermit-pattern mapping, above.
+- **Doormat behavior or lack of boundaries** — allowing repeated harm or violation without response, which is not restraint but an absence of the capacity or willingness to protect oneself or others appropriately.
+- **Performed gentleness** — composure maintained as an image rather than an internal reality; see Layer 2's False Noble-pattern mapping, above.
+- **Learned helplessness** — non-response born from believing action is futile, not from trusting God's justice — despair wearing meekness's clothing.
+- **Weakness or lack of capability** — meekness presupposes real strength being held back, not the absence of strength to begin with (Numbers 12:3's Moses; Zechariah 9:9's king).

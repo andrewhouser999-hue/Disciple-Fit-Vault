@@ -200,6 +200,7 @@ When Vision work in Phase 4 asks "what are you being formed toward?" — both fr
 
 ## Connects To
 
+- [[Purity of Heart — Practitioner Diagnostic (Mt 5_8)]] *(Coaching Preparation — cross-track; added 2026-07-12)* — Engages the same "clean hands, and a pure heart" phrase (v.4) but for a different, earlier-stage job: an ongoing, coach-internal sanctification diagnostic (is the client's inner life becoming more integrated, or is there a namable gap between profession and operation) rather than this document's late-stage justification declaration. That tool is explicit that it never reopens the qualification question this document answers — see its "Relationship to Psalm 24" section. Do not let the two blend in a single client's case: this document's watch point ("never leave the qualification question unanswered in the room") still governs.
 - `Covenant Identity — Psalms 22-23-24 Triptych Practitioner Orientation Frame.md` — this document builds out the Psalm 24 layer of the triptych; the practitioner orientation frame holds all three
 - `Covenant Identity — Psalms 22-23-24 Developmental Framework.md` — full developmental arc; Psalm 24 telos layer is Section 4 of that document
 - `Covenant Identity — The Interior Life as Telos.md` — the nine qualities as the interior texture of what Psalm 24 formation produces

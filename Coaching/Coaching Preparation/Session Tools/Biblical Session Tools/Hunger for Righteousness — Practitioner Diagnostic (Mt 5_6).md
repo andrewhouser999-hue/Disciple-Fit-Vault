@@ -13,6 +13,8 @@ tags:
 
 This is a practitioner reference for in-session diagnostic use when a client's appetite for righteousness — its presence, direction, or quality — is a live question. Andrew uses it during session to select and sequence diagnostic probes. It is not a scoring rubric and is not shown to clients. It belongs in the diagnostic layer of the coaching mechanism: after the relationship has created a safe container, before covenant truth application.
 
+*Part of a series covering all nine Beatitudes (Mt 5:3–12) — see [[_Beatitude Diagnostics — Quick-Select Index]] for the presenting-signal lookup and cross-reference map across all eight diagnostics.*
+
 ---
 
 ## Governing Reframe
@@ -139,3 +141,19 @@ After one or more probes, match what emerged to the appropriate next move.
 - Not a regeneracy test. Do not use it to evaluate whether a client is genuinely saved.
 - Not a client-facing document. The theological grounding is for Andrew's comprehension; clients receive the stripped-down session-ready question, not the framework.
 - Not a formation tool. Between-session formation practices (Psalm 119 as a mirror; Isaiah 55 as reflection) are a downstream artifact from this diagnostic — not part of it.
+
+---
+
+## Hunger for Righteousness in Life Experience
+
+### What It Is
+
+A persistent, felt appetite — recognized more by direction than intensity — that orients a person toward wanting to be right with God and to see things made right, even when that's costly or slow to arrive. It shows up as restlessness with a life or a world that isn't yet what it should be, joined to an active reaching toward God rather than toward substitutes. It's tested best by where the appetite actually goes when a person is depleted, unsupervised, or given a completely free choice — not by how intensely they feel it.
+
+### Not to Be Mistaken For
+
+- **Perfectionism** — a compulsive need to be flawless, driven by fear of failure or shame, not desire for God; produces anxiety, not the contentment-in-seeking this beatitude names.
+- **General ambition or self-improvement drive** — wanting to be better or more successful, oriented toward self rather than toward God's righteousness specifically.
+- **Scrupulosity** — obsessive, anxious preoccupation with whether one has sinned or fallen short; a clinical, OCD-adjacent pattern, not spiritual appetite (see Contraindication, above).
+- **Moral outrage without personal engagement** — hungering for others to be held accountable while exempting oneself; the Pursuit Question and Grief Inventory probes specifically test for this gap.
+- **Performed piety** — visible religious activity that doesn't survive removal of an audience (see the Hiddenness Test) — looks like hunger, is actually approval-seeking.
