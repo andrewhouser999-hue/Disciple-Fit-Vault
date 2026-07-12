@@ -249,6 +249,7 @@ The Affections Discovery Process, the Comprehensive Discipleship Markers, and th
 ### Broader biblical framework connections
 
 - [[B-Beatitudes — Complete Tool Integration]] — Matthew 5:3 (*poor in spirit*) draws directly on *ʿānî* / *nəkēh* vocabulary. Isaiah 66:2b is the OT root of the first Beatitude.
+- [[Poor in Spirit — Practitioner Diagnostic (Mt 5_3)]] *(Coaching Preparation — cross-track; added 2026-07-12)* — Session-tool companion that translates this document's three dimensions into indirect, behavioral probes for general coaching-prep use. Deliberately does not re-derive the exegesis above — defers to this document for the "why" and holds only the "how, in session." Built after a /scrutinize pass found that a full parallel diagnostic here would duplicate this document, per its own "do not add this as a fourth diagnostic instrument" caution (Section 9).
 - [[A-Parable of the Soils — Kingdom Coaching Deep Framework]] — "Good soil" receptivity and Isaiah 66:2b's portrait of receivability are describing the same underlying condition from different angles.
 - [[B-The Holy Spirit as Primary Agent of Formation]] — The Spirit creates the brokenness described here; it is not self-generated. This text resists any reading that treats the three qualities as achievable through technique.
 - [[C-Shame — The Enemy's Primary Weapon Against Identity]] — Shame produces the armored, hidden, defended opposite of *nəkēh-rûaḥ*. This text is a direct counter to shame-driven self-protection.
