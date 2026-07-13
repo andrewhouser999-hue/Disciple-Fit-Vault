@@ -32,7 +32,7 @@ A whole nether level of detail in prayer
 
 
 ## Myself
-
+For my son's self esteem - Assist him in his authenticity of own feelings; Make sure they are held, seen and understood -> Self esteem
 
 ## Ministry 
 
