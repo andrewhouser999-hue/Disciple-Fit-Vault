@@ -10,6 +10,8 @@ This is a personal design-lab tool (see [[Lie Eliminator - Personal]] / [[Identi
 
 **What this is:** A compiled reference of every major biblical "list" of character and virtue — Philippians 4:8 and ten others — paired with a repeatable worksheet card. For each attribute you select, you ground it in the actual words of Scripture, locate it concretely in Christ's character, and name a specific, current opportunity in your own life to exercise it.
 
+**Printable version:** https://claude.ai/code/artifact/02c3b3f3-d72b-4fa3-aa5d-87ae7ed0356a — designed print layout with ruled fill-in lines; see also [[Printable Worksheets — Index]].
+
 **A note on the word "meditate":** Biblical meditation (Hebrew *hagah* — Josh 1:8, Ps 1:2) is not silent abstract thought. It literally means to mutter, growl, or murmur low in the throat — the same word used of a lion growling over its prey. It's audible, repetitive, physical rehearsal of words until they settle into you, not a single mental glance. That's the practice this worksheet is built around: read the phrase, say it low, repeat it, return to it again later the same day. (This is a different word and concept from the *negative* "murmuring" of Israel in the wilderness — Exod 15–17, 1 Cor 10:10 — which is complaint against God, not devotion to Him. Worth keeping the two apart in your own head as you use this.)
 
 ---
