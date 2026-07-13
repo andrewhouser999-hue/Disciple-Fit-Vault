@@ -16,7 +16,7 @@ This document records every major contributor, researcher, theologian, and thoug
 
 **Evidence levels:** Established (meta-analyses, clinical consensus, replicated findings) / Supported (solid studies, emerging consensus) / Theoretical (plausible, not yet well-studied) / Expert opinion (respected voice, limited empirical backing)
 
-**Updated:** 2026-06-11
+**Updated:** 2026-07-12
 
 ---
 
@@ -498,6 +498,16 @@ This document records every major contributor, researcher, theologian, and thoug
 
 ---
 
+#### Erik de Haan
+**Primary works:** De Haan, Duckworth, Birch & Jones, "Executive coaching outcome research: The predictive value of common factors such as relationship, personality match, and self-efficacy" (2013); subsequent coaching alliance/critical-moments research program
+**Contribution:** Coaching-specific test of the working alliance (Bordin's goal/task/bond model) as an outcome predictor, using the Working Alliance Inventory in executive coaching populations rather than clinical psychotherapy samples. Found working alliance and coach self-efficacy predict outcome; personality match between coach and client does not. The coaching-specific evidence base for why the practitioner development track prioritizes alliance-building over technique refinement, and against the intuitive but empirically unsupported idea of matching coaching style to client personality.
+**Evidence level:** Supported (single well-designed study within a small but growing coaching-specific literature; not yet meta-analytic like the psychotherapy alliance research it parallels)
+**Scope:** Coaching relationship and practitioner-effect research. Does not address theological framework, session methodology, or diagnostic technique.
+**Shortcomings:** Executive coaching samples differ from CIC's population — goal-directed, secular, workplace-performance context, not identity-formation or theologically-premised coaching. The finding that goals are co-constructed in the studied population doesn't map cleanly onto CIC's premise that identity is already declared and the work is reception, not construction — de Haan's alliance evidence transfers, but his implicit model of what "goal agreement" means does not without translation.
+**Informs:** Covenant Identity — Discovery Call Guide; practitioner professional-development track (alliance/FIS rehearsal)
+
+---
+
 ---
 
 ## Domain 6 — Forgiveness and Relational Repair
@@ -549,6 +559,7 @@ Coaching methodologies drawn upon in this practice — not attributed to a singl
 - **Schore, Porges, van der Kolk** — Referenced in source footnotes of *Secured in Father* but not fully extracted. Each contributes to the somatic and nervous system layer; entries to be added.
 - **Sports psychology and performance coaching** — Limited representation in current source base; intentional given faith-based practice context.
 - **CBT-specific scope boundary document** — Pending: specific in-session signals that trigger shift from coaching to CBT-informed tools. (Noted in Scratch, 2026-05-10)
+- **Alliance and relationship-effect research (Bordin, Horvath & Bedi / Flückiger et al. meta-analyses, Anderson's Facilitative Interpersonal Skills)** — De Haan's coaching-specific alliance finding is now documented (Domain 5, Tier 2), but the broader psychotherapy-alliance evidence base it draws on and parallels — the theoretical model it tested, and the meta-analytic and practitioner-skill research behind it — is not yet in this library. Relevant to the practitioner professional-development track (alliance/FIS rehearsal, 2026-07 onward); not yet extracted as full entries.
 
 ---
 
@@ -559,3 +570,7 @@ Coaching methodologies drawn upon in this practice — not attributed to a singl
 - [ ] Add Richard Beck — The Slavery of Death (2014) to Domain 5 (terror management / Rom 8:15 analysis; appears in Biblical Case source log but not yet in this library)
 - [ ] Add Schore, Porges, van der Kolk — somatic and nervous system layer (referenced in Secured in Father source log; entries not yet extracted)
 - [ ] Audit all documents for remaining Collins references — removed from model 2026-05-14; confirm removal is complete across vault
+- [x] Add Erik de Haan — coaching-specific alliance/self-efficacy research (Domain 5, added 2026-07-12)
+- [ ] Add Bordin (1979) tripartite alliance model — theoretical model underlying de Haan's coaching-alliance research (Domain 5)
+- [ ] Add Horvath & Bedi (2002) / Flückiger et al. (2018) alliance-outcome meta-analyses — Domain 5
+- [ ] Add Anderson et al. (2009) Facilitative Interpersonal Skills (FIS) research — Domain 5

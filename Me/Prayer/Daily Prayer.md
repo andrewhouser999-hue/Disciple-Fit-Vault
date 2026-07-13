@@ -11,6 +11,8 @@ tags:
 I abandon Christiandumb for Biblical Faith
 - Apostle Paul spoke in togues, I will speak in tongues 
 
+Salvation for Aunt Kathleen and SK to visit her before her death
+
 # Truth over Lies
 
 
