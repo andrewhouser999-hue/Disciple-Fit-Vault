@@ -1,6 +1,6 @@
 ---
 created: 2026-07-12
-basis: "[[Covenant Identity — Diagnostic Lens Transition Logic]], Entry Fork addendum (2026-07-11) — compressed into a single-page comparison; the full technical detail, design decisions, and contested ground live in that document, not here"
+basis: "[[Covenant Identity — Diagnostic Lens Transition Logic]], Entry Fork addendum (2026-07-11) — compressed into a single-page comparison; the full technical detail, design decisions, and contested ground live in that document, not here; updated 2026-07-14 to add the third axis (Character Wound Deepening conditionality) — orthogonal to the Wound-Led/Vision-Led door, corrected after that same date's propagation-gap fix"
 tags:
   - practitioner-reference
   - covenant-identity
@@ -44,10 +44,25 @@ One diagnostic engine, two front doors. Both routes are aimed at the same target
 
 ---
 
+## A third axis, orthogonal to the front door (added 2026-07-14)
+
+The table above describes the Stage 1 entry fork — which door the client walks through. There is a second, independent fork that was previously (and incorrectly) treated as automatic: **whether Character Wound Deepening applies at all.**
+
+This axis cuts across both doors, not along the Wound-Led/Vision-Led line:
+
+| | Injury-shaped wound present | No injury-shaped wound |
+|---|---|---|
+| **Wound-Led entry** | Character Wound Diagnostic Tool applies as originally designed — Warrior/Hermit/False Noble | Skip the tool; name the false identity directly from the affections picture (this is common — see [[Sunday-Monday Christian]]) |
+| **Vision-Led entry** | Rare but possible — the tool still applies if a specific injury surfaces during appetite-tracking | The typical case; skip the tool, name directly from the appetite picture |
+
+Previously, [[Covenant Identity — Diagnostic Lens Transition Logic]] stated Character Wound Deepening "applies the same way" once the Vision-Led picture is specific enough — implying it was automatic for both doors. That was never checked against the tool itself, which is built entirely from three injury archetypes (betrayal, terror, ambivalence). It has been corrected: deepening is now conditional on an actual injury signal, checked via [[Covenant Identity — Character Wound Diagnostic Tool]]'s "Before Typing" section, regardless of which door the client entered through.
+
+---
+
 ## The one-sentence version
 
 Pain-driven clients get found through what's costing them; growth-driven clients get found through where a functioning appetite is quietly misrouted — but both are heading toward the same named false identity, met by the same covenant truth, activated by the same requirement (the false structure must be *felt* as insufficient, not just known to be) — grief supplies that felt insufficiency for one population, holy discontent supplies it for the other.
 
 ---
 
-*Cross-references: [[Covenant Identity — Diagnostic Lens Transition Logic]] (full mechanism, design decisions, contested ground), [[Covenant Identity — Two-Tier Intake Protocol]] (Go/No-Go Criterion 1 Vision-Led branch), [[Covenant Identity Intake — Coach Annotation Reference]] (Q1/Q11 Vision-Led reads, Entry Fork field in the Working Hypothesis Template), [[Hunger for Righteousness — Practitioner Diagnostic (Mt 5:6)]] (source of the Appetite Discovery probes, Coaching Preparation — cross-track).*
+*Cross-references: [[Covenant Identity — Diagnostic Lens Transition Logic]] (full mechanism, design decisions, contested ground), [[Covenant Identity — Two-Tier Intake Protocol]] (Go/No-Go Criterion 1 Vision-Led branch), [[Covenant Identity Intake — Coach Annotation Reference]] (Q1/Q11 Vision-Led reads, Entry Fork field in the Working Hypothesis Template), [[Hunger for Righteousness — Practitioner Diagnostic (Mt 5:6)]] (source of the Appetite Discovery probes, Coaching Preparation — cross-track), [[Covenant Identity — Character Wound Diagnostic Tool]] (Before Typing section — the injury-presence check for the third axis, above), [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] (the parallel non-injury excavation arc that Phase 2 now runs when this axis reads "no injury"), [[Covenant Identity — Discovery Call Guide]] (Entry Fork reading support and the alternate Model Introduction script).*

@@ -1,6 +1,6 @@
 ---
 created: 2026-05-11
-basis: "Allender (*The Wounded Heart*; *The Healing Path*) — character wound types as the primary framework; deepened with attachment classification (Ainsworth/Main), schema coping modes (Young), and IPNB shame architecture (Thompson)"
+basis: "Allender (*The Wounded Heart*; *The Healing Path*) — character wound types as the primary framework; deepened with attachment classification (Ainsworth/Main), schema coping modes (Young), and IPNB shame architecture (Thompson); updated 2026-07-14 to add explicit optionality scope — the tool applies only when an injury-shaped wound is actually present, correcting an undocumented assumption (in [[Covenant Identity — Diagnostic Lens Transition Logic]]) that it applied universally to every client, including Vision-Led and non-injury Wound-Led entries — see [[Sunday-Monday Christian]] for the market evidence that this population is common, not rare"
 tags:
   - character-wound
   - diagnostic-tool
@@ -26,6 +26,18 @@ tags:
 **Wound and sin are both present in every type.** Each pattern began as a survival response to harm — and has been cultivated through repeated choice until it operates automatically. The coach who reads identity distortion as exclusively wound-produced will miss the moral agency dimension. The coach who reads it as exclusively sinful will miss the compassion the wound requires. Both are true.
 
 **God-image data takes time.** The God-image distortions listed below typically become visible in sessions 2-3, not session 1. They confirm type identification — they rarely initiate it. Hold them as confirmatory, not primary.
+
+---
+
+## Before Typing: Confirm an Injury-Shaped Wound Is Present
+
+This tool identifies which of three injury-origin archetypes is presenting — each type is built from a specific relational wound (betrayal, terror, or ambivalence) that a real person's action or absence produced. **Not every client has an identifiable wound of this kind, and this tool does not apply to those who don't.**
+
+**Signal that no type fits:** the coach cannot locate a specific person, relationship, or event the client's pattern is protecting against. The client's own account of their formative material sounds more like *"this is a pattern I absorbed"* or *"this is just how I was conditioned to operate"* than *"someone did this to me"* or *"someone who should have been there wasn't."* A client whose false identity formed through ordinary, diffuse formation — performance conditioning that was rewarded rather than survival that was forced, spiritual drift rather than spiritual injury — will not resolve into Warrior, Hermit, or False Noble no matter how long the coach looks, because the tool's three types are not exhaustive categories of false identity. They are three specific wound shapes.
+
+**What to do when no type fits:** do not force a label. The confirmation-bias risk named above (typing too early) runs the same direction here — a coach fluent in this typology will be tempted to reach for the closest-fitting type rather than conclude that none actually fits. Resist it. Proceed directly to Stage 2 (False Identity Named) using the affections or appetite picture Stage 1 already produced. A false identity — *"I am only safe when I am accepted," "I need to be in control to feel safe"* — can be named with full precision without a wound-type deepening layer underneath it. See [[Covenant Identity — Diagnostic Lens Transition Logic]], Stage 2, for how naming proceeds without this secondary layer.
+
+**Why this matters:** treating this tool as universally applicable — which earlier cross-referencing documentation asserted without checking — produces exactly the failure this document warns against elsewhere: a client pressured to fit a wound narrative they don't actually have, in order to be legible to the diagnostic. See [[Covenant Identity — Diagnostic Lens Transition Logic]], "What breaks if Wound-Led and Vision-Led are misrouted" — this is the same corrosion, one layer deeper than the Stage 1 entry fork it was originally named at.
 
 ---
 
@@ -403,6 +415,8 @@ Once a type is identified or suspected, these affections probes are most likely 
 - *Blended presentations included:* Real clients blend types. A tool with only pure archetypes produces a practitioner who forces single-type identification onto what is actually a primary/secondary structure. The three common blends (Warrior/False Noble; False Noble/Hermit; Hermit/Warrior) are included with their specific diagnostic move: what happens under the client's specific stressor is what activates the secondary type.
 
 **Scope boundary:** These wound types are descriptive archetypes for coaching use — not formal psychological diagnoses, personality disorder categories, or assessment instruments. Clinical presentations that superficially resemble these types (narcissistic PD in Warrior/False Noble range; avoidant PD in Hermit range; borderline features in Fearful-Avoidant presentations) require clinical assessment, not coaching deepening. The referral triggers per type mark where coaching scope ends. The tool provides a working frame for formation work with functioning adults — it is not a clinical instrument.
+
+Nor is this tool a universal deepening layer applicable to every client. It applies only when an actual injury-shaped wound is present — see "Before Typing," above. A client without one is not a coverage gap in this tool; they are outside its intended scope, and belong in Stage 2 naming without it.
 
 **Client summary:** Practitioner-only reference. Not shared with clients.
 

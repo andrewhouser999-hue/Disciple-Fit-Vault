@@ -1,6 +1,6 @@
 ---
 created: 2026-05-21
-basis: "[[Covenant Identity — Two-Tier Intake Protocol]] — two-tier structure timing; [[Covenant Identity Intake — Coach Annotation Reference]] — diagnostic guidance for interpreting responses; [[Covenant Identity — Session Growth Notes Template]] — B fields feed Language Evolution table; coaching documentation standards"
+basis: "[[Covenant Identity — Two-Tier Intake Protocol]] — two-tier structure timing; [[Covenant Identity Intake — Coach Annotation Reference]] — diagnostic guidance for interpreting responses; [[Covenant Identity — Session Growth Notes Template]] — B fields feed Language Evolution table; coaching documentation standards; updated 2026-07-15 to add an injury-vs-diffuse-conditioning note to A4 and Entry Fork / Character Wound Type Applicable rows to the Summary Baseline table — previously the one piece of information [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] needs to select its excavation arc (this document's own stated Phase 2 entry point) had no guaranteed place to survive from Discovery Call into the permanent baseline record"
 tags: [intake, practitioner-reference, coach-documentation, template]
 ---
 
@@ -56,6 +56,7 @@ tags: [intake, practitioner-reference, coach-documentation, template]
 > "[paste verbatim]"
 
 **Gap between stated and modeled messages:** *(note if present)*
+**Injury-shaped wound or diffuse conditioning?** *(added 2026-07-15 — a specific person/event = injury-shaped; "that's just how things were" with no identifiable person/event = diffuse conditioning. See [[Covenant Identity — Character Wound Diagnostic Tool]], "Before Typing." Determines the Character Wound Type Applicable row in the Summary Baseline below.)*
 
 ---
 
@@ -194,6 +195,8 @@ tags: [intake, practitioner-reference, coach-documentation, template]
 | Dimension | Baseline |
 |-----------|----------|
 | Q9 score | / 10 |
+| Entry Fork (Wound-Led / Vision-Led) *(added 2026-07-15)* | |
+| Character Wound Type Applicable (Y/N — type if Y) *(added 2026-07-15)* | |
 | Primary schema (hypothesis) | |
 | Primary covenant identity layer gap | |
 | Narrative type | |

@@ -1,8 +1,6 @@
 ---
 created: 
-basis: TBD
-tags:
----
+basis: "Updated 2026-07-15 to add Entry Fork reading instructions (Section 2) and an alternate non-injury Model Introduction (Section 7), mirroring the manual 2026-07-14 fix already applied to the output document [[Covenant Identity — Discovery Call Guide]] — without this, regenerating the guide from this prompt would silently overwrite that fix. Same-day follow-up also synced the Movement 4 alliance-formation revision (retitled 'Model Introduction and Agreement,' Steps 6-7 individualize-the-task/confirm-the-goal, 7-9 min) and the corresponding Post-Call Protocol 'Note alliance formation' item, matching the output document's 2026-07-10 revision. Original prompt basis otherwise TBD. Note: this prompt still lacks the output document's affections-layer content — the Section 2 'Affections Layer' read, the Movement 2/3 affections framing, Domain 7 (Affections, Trust & Dependencies), and Post-Call item 'Note the affections picture' — all present in the live guide, none reflected here. Flagged, not fixed."
 
 # AI Prompt — Discovery Call Guide
 
@@ -127,6 +125,14 @@ Practical pre-call protocol:
 **Review Tier 1 Pre-Discovery Screen responses (if submitted):**
 List the six things to read for — mirroring the Coach Review section of the Pre-Discovery Screen Tally Build Guide. Note any immediate flags (clinical screen answer, Q4 tone, Q5 score, Q6 motivation quality).
 
+**Read for the Entry Fork too (added 2026-07-15):**
+Include a subsection instructing the coach to also read Q1/Q3 for the Entry Fork defined in [[Covenant Identity — Diagnostic Lens Transition Logic]] — this is a coach-internal read, not a question put to the client. Three signals to distinguish:
+- **Wound-Led:** a presenting cost, disruption, or a pattern the client names as visibly not working — something bleeding in a specific domain.
+- **Vision-Led / non-injury:** no presenting cost at all — genuine desire to grow deeper, willing to be diagnosed, nothing currently breaking.
+- **Named-pattern, non-injury** (most common per [[Sunday-Monday Christian]] market research): the client names a specific pattern they've noticed interfering with intimacy with God or a relationship, described as something they do, not something done to them. Still Wound-Led in the model's broad sense (see [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] — "wound" is not a trauma diagnosis), but will not resolve into a Character Wound type. Do not read this as Vision-Led just because it isn't painful, and do not force it toward a manufactured injury story.
+
+State explicitly that this read determines which Section 7 Model Introduction script to use, and which Phase 2 excavation arc the engagement will run.
+
 **Prepare your intention, not a script:**
 The call has a structure but not a script. Know which behavioral areas you want to enter based on the Tier 1 read. Have two or three behavioral questions in mind for the identity-gap territory that seems most active.
 
@@ -164,6 +170,8 @@ What you're assessing: Are they in pre-contemplation (external attribution only)
 
 Red flags for wrong fit: Cannot name any internal contribution to the problem; attributes everything to others or circumstances; wants a strategy not a formation process.
 
+Note (added 2026-07-15): Domain 1's pattern-and-cost questions work regardless of Entry Fork read, but instruct the guide not to assume a disruption/crisis narrative is coming. A named-pattern, non-injury client will answer "what has this cost you" with something quieter — lost intimacy, flatness, distance — not a breaking marriage or collapsing role. Quiet is not the same as absent.
+
 **Movement 3 — Identity Gap Indicators (10–12 min)**
 
 Purpose: Surface behavioral evidence of divergent identity operation — the gap between theological identity and functional identity.
@@ -177,9 +185,9 @@ What you're assessing: Is there a live gap? Is the client aware of it? Can they 
 
 Distinguish: A client who says "I struggle with shame" is reporting. A client who says "Every time I fail, I spend three days performing my way back into feeling okay with God before I can actually be present" is revealing the gap. Listen for the behavior, not the self-assessment.
 
-**Movement 4 — Model Introduction (5–7 min)**
+**Movement 4 — Model Introduction and Agreement (7–9 min)** *(retitled and extended 2026-07-15 to match the 2026-07-10 alliance-formation revision already live in the output document)*
 
-Purpose: Introduce the Covenant Identity coaching framework at accessible depth — enough for the client to know what they're saying yes to, not a full orientation session.
+Purpose: Introduce the Covenant Identity coaching framework at accessible depth — enough for the client to know what they're saying yes to — and reach two explicit points of agreement before fit is declared: what the work will specifically target for this client, and what the client themselves said they want, confirmed in their own words. A model explained is not the same as a goal agreed to; this movement must do both, not just the first.
 
 Structure of the introduction:
 1. Name the gap: "What I'm hearing is a distance between who you know yourself to be in Christ and who you actually experience yourself to be — especially under pressure. That gap has a name and it has a structure."
@@ -187,8 +195,12 @@ Structure of the introduction:
 3. Name the grammar: "The theological framework underneath all of it is that your identity in Christ is already declared — it's not something you build, earn, or perform toward. The coaching work is closing the distance between what has already been declared and what you actually live from."
 4. Name the pace: "This is formation, not productivity. It moves at the pace of real change — which is slower than most people expect and more lasting than most approaches produce."
 5. Invite response: "Does that resonate with what you're carrying? What questions do you have about what this actually looks like?"
+6. **Individualize the task:** Replace the generic four-phase description with what phase one would specifically target for this client, using what actually surfaced in Movements 2–3 — not the model in the abstract. "Based on what you've described about [the specific pattern, gap, or dependency named earlier in the call], the early work would focus on [specific territory] — that's what this looks like for you, not just the four phases in general." Skipping this step and only ever describing the model generically is a signal the call stayed diagnostic and never reached task agreement.
+7. **Confirm the goal, in their own words:** Reflect back what the client said they wanted — using their own language from Domain 6, not the coach's theological reframing of it — and ask for explicit confirmation before moving to Movement 5. "Earlier you said [quote or close paraphrase of their own words about what they want to be different]. Is that still the right way to put it, or would you say it differently now?" The point is client-owned goal language the client has explicitly confirmed — not coach-approved language the client has merely heard and not objected to. If the client cannot restate or affirm a goal in their own words here, that is itself diagnostic information about readiness, not a step to skip past.
 
 Tone: Plain. Not a pitch. Not a theological lecture. Offer it and listen to what it lands.
+
+What to avoid — add to the existing list below: moving to Movement 5 on the strength of the client's silence or polite agreement rather than an explicit, individualized goal confirmation.
 
 **Movement 5 — Fit Assessment and Next Steps (5–7 min)**
 
@@ -343,6 +355,12 @@ Use this as a template, not a script. Adapt to what the client actually said in 
 - Making it sound like a program or curriculum rather than a relational process
 - Filling silence after the introduction — let it land
 
+**Alternate framing — named-pattern, non-injury presentation (added 2026-07-15):**
+Include a second version of both the one-minute and three-minute scripts, used instead of the standard version when the Entry Fork read (Section 2) surfaced a named pattern without an injury behind it. The theological content and four-phase container stay identical; only injury-presupposing vocabulary changes:
+- The one-minute version is unchanged — it was never injury-specific.
+- In the three-minute version, "vows you made" becomes "patterns you were trained into, ways of operating that got reinforced," and "mapping the specific wounds and lies underneath" becomes "mapping the specific patterns and beliefs underneath."
+- Instruct the coach to choose whichever framing matches what actually surfaced in Movements 2–3, not to default to the standard (wound) version by habit. If the Entry Fork read was ambiguous, instruct the coach to ask rather than guess: "Does 'wounds and lies' land, or does it feel more like a pattern than a wound?" — the client's own reaction to the word is itself diagnostic data.
+
 ---
 
 #### Section 8: Transition Language
@@ -373,7 +391,9 @@ Complete within one hour of the call ending, while the conversation is fresh.
 
 **4. Decision record:** Did you send Tier 2? Yes — on what basis? No — what was the specific reason?
 
-**5. Follow-through:** If you said you'd do something (send the agreement, follow up in a week, provide a referral), do it within 24 hours.
+**5. Note alliance formation** *(added 2026-07-15, matching the output document's 2026-07-10 revision):* What did the client explicitly confirm as their own goal, in their own words (Movement 4, Step 7)? What specific task did you name for phase one, and did they confirm it (Movement 4, Step 6)? What evidence — not inference — indicated bond and trust were established, beyond the client simply granting diagnostic access? If any of these three are missing, note it as a gap to close in Session 1, not something to assume happened because the call went well.
+
+**6. Follow-through:** If you said you'd do something (send the agreement, follow up in a week, provide a referral), do it within 24 hours.
 
 ---
 
@@ -394,7 +414,7 @@ Run these four questions before finalizing. Fix any that fail.
 
 2. **Clinical:** Does the guide maintain a clear ceiling on depth — surfaces patterns, does not diagnose? Are the "present but clinical" markers in the divergent identity section specific enough to catch scope violations? Are referral pathways named, not just referenced?
 
-3. **Structural:** Is the primary job (fit assessment) clearly primary throughout — or does behavioral staging or identity-gap detection crowd it out? Is there a hard ceiling on how deep each movement goes?
+3. **Structural:** Is the primary job (fit assessment) clearly primary throughout — or does behavioral staging or identity-gap detection crowd it out? Is there a hard ceiling on how deep each movement goes? Does the output document retain both the Entry Fork reading instructions (Section 2) and the alternate non-injury Model Introduction (Section 7) — regenerating this guide without them silently reintroduces the wound-tooling propagation gap closed 2026-07-14/15.
 
 4. **Practical:** Can Andrew actually run this guide in a 30–45 minute conversation with a person he has never met? Is it organized for use in-the-moment, not just for study?
 

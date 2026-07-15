@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "Original content basis TBD; updated 2026-07-14 per [[Covenant Identity — Diagnostic Lens Transition Logic]]'s Character Wound Deepening correction — added a parallel non-injury excavation arc (formative pattern → felt inadequacy/vision gap → God-connection misdirection) alongside Allender's wound → vow arc, so a client whose Stage 1 material is pattern-based rather than injury-based has a documented path through Phase 2 and a stated completion criterion"
 tags:
 ---
 
@@ -35,6 +35,8 @@ The client is curious about their own patterns rather than only ashamed of them.
 Phase 2 produces a map. Not healing. Not resolution. A map precise enough to do targeted work in Phase 3.
 
 "Wound" here is not a trauma diagnosis. It means: the formative experiences, received messages, and interpreted meanings that produced the client's current operational theology — how they actually function as if certain things were true about themselves and God, regardless of what they confess. The wound is the gap between the declared identity and the experienced one, and Phase 2 is the work of understanding what created it and what keeps it in place.
+
+**Two excavation paths, same job description (added 2026-07-14).** Everything above holds regardless of whether the client's formative material is injury-shaped or not. Most of this document is written in Allender's wound → vow → relational style → God-connection absence vocabulary, because most Phase 2 work runs through it. But not every client's gap was produced by a specific betrayal, terror, or ambivalence — see [[Covenant Identity — Character Wound Diagnostic Tool]], "Before Typing," for the signal. For a client whose Stage 1 material is diffuse conditioning rather than injury, this document's Primary Excavation section (below) has a parallel arc, and the Transition Marker (Section 7) has a parallel completion criterion. The map produced is the same kind of map either way — a specific schema, a specific competing commitment, a specific covenant identity layer under resistance. Only the excavation content differs.
 
 **What Phase 2 produces:**
 - A named schema (or schema cluster) with documented origin material — not just what happened, but what the client concluded from what happened
@@ -77,11 +79,15 @@ Non-follow-through in Phase 2 almost always has schema content underneath it. Th
 
 The error in Phase 2 is excavating too many things simultaneously. Choose the highest-yield thread — typically the primary schema hypothesis from the Summary Baseline — and stay with it until something real surfaces. Breadth is not the goal. Contact is the goal.
 
-Dan Allender's formation arc is the structural guide for this section: *wound → vow → relational style → God-connection absence.*
+Dan Allender's formation arc is the structural guide for this section when an injury-shaped wound is present: *wound → vow → relational style → God-connection absence.*
 
 The wound is the originating experience. The vow is the survival decision — what the child decided to do (or not do) so that would never happen again. The relational style is the behavioral expression of the vow — compliance, aggression, or withdrawal. The God-connection absence is where the arc lands: the wound and the vow, compounded over time, have produced a way of relating to God that keeps the covenant identity from landing.
 
 Move through this arc one layer at a time. Do not skip to God-connection before the wound and the vow have been named clearly.
+
+**Parallel arc — no injury-shaped wound present (added 2026-07-14):** If Stage 1 produced an appetite-misdirection picture rather than a wound picture — the Vision-Led Entry in [[Covenant Identity — Diagnostic Lens Transition Logic]], or a Wound-Led entry where the Character Wound Diagnostic Tool's "Before Typing" signal came back negative — use this arc instead: *formative pattern → felt inadequacy or vision gap → God-connection misdirection.* The formative pattern is the conditioning that produced the current operating theology — not a survival response to harm, but a habituated way of securing safety, worth, or belonging that was reinforced rather than forced. The felt inadequacy or vision gap is this arc's equivalent of the vow — not a decision made to survive a threat, but the point where the client can feel, not just describe, that the pattern isn't producing what it promised (see [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]] and Condition 2-Alt in the Transition Logic document for the theological grounding of felt-versus-intellectual). God-connection misdirection is the same landing point as God-connection absence: the pattern, sustained over time, has produced a way of relating to God that keeps covenant identity from landing — the difference is that the client's relationship with God was quietly rerouted, not damaged.
+
+Move through either arc one layer at a time. Do not skip to God-connection before the first two layers have been named clearly, regardless of which arc is operating.
 
 **Immunity to Change — Four-Column Conversation (15-20 minutes, typically in sessions 3-4)**
 
@@ -142,6 +148,19 @@ Their summary is the next piece of data — listen to what they emphasize, what 
 - *"If you could go back to the moment when this became your operating system, when would it be?"*
   — Useful when the client can describe the schema but hasn't located its origin. The body often knows the answer before the mind does — watch for the physical response to this question.
 
+### Pattern Origin (non-injury parallel to Schema Origin — added 2026-07-14)
+
+*Use this set instead of Schema Origin when the client's Stage 1 material is diffuse conditioning rather than a specific injury — see the parallel arc above.*
+
+- *"When did this become how you operate? Not a single event — a season, a habit, a way of moving through the world that got reinforced."*
+  — The pattern equivalent of "where did you first learn." Do not press for a wound event that isn't there; the client may not be able to name a moment, only a drift.
+- *"What did you get for operating this way — attention, safety, approval, a sense of being on top of things?"*
+  — Names the reinforcement, not the injury. Diffuse conditioning is sustained by reward, not survival — the question surfaces what the pattern was actually paying out.
+- *"What would a child who was rewarded for [pattern] have concluded about what makes them safe or lovable?"*
+  — The externalizing-frame equivalent of "what would a child have had to conclude to survive." Same compassionate distance, different causal shape: conditioning shaped this, not a threat.
+- *"Is there a person, or is it more like an atmosphere — a whole environment that trained you into this?"*
+  — Directly checks whether the material is actually injury-shaped after all. If a specific person surfaces here who should have protected and didn't, or who was consistently unsafe, redirect to the Character Wound Diagnostic Tool and the standard Schema Origin set — the pattern arc was the wrong read.
+
 ### Vow and Self-Protection
 - *"What did you decide to do — or not do — so that would never happen again?"*
   — The vow question. The client may not have thought of it as a decision. Help them see it was: it was survival intelligence at the time. It is now costing them.
@@ -187,6 +206,21 @@ Their summary is the next piece of data — listen to what they emphasize, what 
   — Surfaces the God-representation in the context of the wound. The answer is almost always more revealing than the general God-description from Phase 1.
 - *"What would it mean if [covenant identity layer] were true in the middle of this wound — not after it resolved, but inside it?"*
   — The indicative in the wound. Not resolution — presence. This question plants the seed that becomes Phase 3 installation work.
+
+### Pattern and God-Connection (non-injury parallel to Wound and God-Connection — added 2026-07-14)
+
+*Use this set instead of Wound and God-Connection when the pattern arc is operating. The lament door still applies — a client can lament a misdirected appetite the same way they lament a wound; the object of grief is different, the movement is not.*
+
+- *"Has God ever been present in this pattern — not theologically, but in felt experience? Or has this always run on its own, somewhere God wasn't invited?"*
+  — Opens the presence question without presupposing absence-through-injury; a rerouted appetite is often simply un-visited, not defended against.
+- *"Is this pattern something you've ever brought to God honestly — not the version where you already know the answer is 'try harder'?"*
+  — The lament door, adjusted. Many clients bring besetting patterns to God only as confession-and-resolution requests, never as honest naming of the pattern's actual pull.
+- *"What would you need to say to God about how long this has been running the show — if you let yourself, without editing?"*
+  — Lament prompt, pattern-flavored. Still does not require the client to speak to God in session.
+- *"What do you imagine God's response would be to this pattern — not to the sin content of it, but to you, still caught in it?"*
+  — Surfaces the God-representation in the context of the pattern rather than an injury; watch for whether the imagined response is disciplinary or personal.
+- *"What would it mean if [covenant identity layer] were already true, right now, in the middle of still doing this — not after the pattern is broken, but inside it?"*
+  — The indicative inside the pattern, mirroring the indicative-in-the-wound question. Plants the same Phase 3 seed via a different route.
 
 ### Somatic and Body
 - *"Where in your body does [wound material] live right now?"*
@@ -290,17 +324,18 @@ If Phase 2 material is still actively surfacing significant content at session 4
 
 **Phase 2 is complete when:**
 - The primary schema has been named, traced to its formation point, and connected to the specific covenant identity layer it is severing
-- The vow has been named — the survival decision the client made that is now costing them
+- **Either** the vow has been named — the survival decision the client made that is now costing them (injury-shaped wound) — **or** the formative pattern and its felt inadequacy/vision gap have been named and connected to the specific covenant identity layer it is severing (non-injury pattern; added 2026-07-14) — whichever arc actually applied
 - The competing commitment has been surfaced and received — the client understands what the hidden obligation is and what Big Assumption underlies it, and they have felt the weight of it rather than only understanding it intellectually
 - The narrative externalization has begun — the client can speak about their story as a story, at least in moments, rather than only from inside it
-- The client has had at least one experience of bringing the wound material to God — however incomplete, however halting
-- The coach can state in two sentences: *"The Gap is maintained by [specific schema content and maintenance behavior]. The formation point was [named], the competing commitment is [named], and the covenant identity layer most severed is [specific layer]."*
+- The client has had at least one experience of bringing the wound *or pattern* material to God — however incomplete, however halting
+- The coach can state in two sentences: *"The Gap is maintained by [specific schema content and maintenance behavior]. The formation point was [named — wound or pattern], the competing commitment is [named], and the covenant identity layer most severed is [specific layer]."*
 
 **Phase 2 is not complete when:**
-- The wound has been named but the formation level has not been reached — the client can describe what happened without naming what they concluded
+- The wound or pattern has been named but the formation level has not been reached — the client can describe what happened without naming what they concluded
 - The competing commitment is named intellectually but not felt — the client can explain it but it has not moved them
-- The God-connection piece has been bypassed — the wound has been mapped without any contact with how the wound has shaped the client's experience of God
+- The God-connection piece has been bypassed — the wound or pattern has been mapped without any contact with how it has shaped the client's experience of God
 - The coach cannot state the primary schema and its maintenance behavior in two sentences
+- **The wrong arc was forced** (added 2026-07-14): the coach ran the wound → vow arc on a client with no identifiable injury, producing a manufactured wound narrative — or ran the pattern arc on a client who actually has a specific, nameable injury, missing the character-wound deepening that client's presentation needed. If this is discovered mid-Phase 2, re-check the signal in the Character Wound Diagnostic Tool's "Before Typing" section and switch arcs; this is a correction, not a restart — material already surfaced under the wrong frame usually still belongs to the map.
 
 **If Phase 2 material is still actively surfacing new significant content at session 4:** Stay. The map is not finished. A premature move to Phase 3 leaves the coach working without the map — and the client feeling, correctly, that the work is becoming generic.
 

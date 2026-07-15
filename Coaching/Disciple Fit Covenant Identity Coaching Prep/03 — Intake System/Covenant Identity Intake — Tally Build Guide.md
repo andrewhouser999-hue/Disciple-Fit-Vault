@@ -1,8 +1,6 @@
 ---
 created: 
-basis: TBD
-tags:
----
+basis: "Original content basis TBD; updated 2026-07-15 to add a Pattern Origin (non-injury) row to the Verbal In-Session Follow-Up Areas table, parallel to the existing Schema Origin row — this form previously had zero coverage of the Wound-Led/Vision-Led Entry Fork or the Character Wound Deepening conditionality corrected the same day in [[Covenant Identity — Character Wound Diagnostic Tool]]"
 
 # Covenant Identity Intake — Tally Build Guide
 *Tier 2 of the two-tier intake system. Sent after the discovery call confirms fit — not before. For design rationale, diagnostic targets, and full annotations see: Covenant Identity Intake — Design Basis & Annotation.md*
@@ -406,7 +404,8 @@ These are not scripted questions — they are diagnostic areas the coach enters 
 
 | Area | Enter if form revealed... | Opening move |
 |------|--------------------------|-------------|
-| Schema origin | Q4 described conditional love, absence, or contradiction | "When you described [the early message] — when did you first know that about yourself?" |
+| Schema origin | Q4 described conditional love, absence, or contradiction — a specific person or event | "When you described [the early message] — when did you first know that about yourself?" |
+| Pattern origin (non-injury) *(added 2026-07-15)* | Q4 described diffuse conditioning rather than a specific injury — "that's just how things were," no identifiable person or event to point to; see [[Covenant Identity — Character Wound Diagnostic Tool]], "Before Typing" | "When did this become how you operate? Not a single event — a season, a habit that got reinforced." *(see [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]], Pattern Origin question set)* |
 | Immunity specifics | Q2 showed 3+ failed attempts at same pattern | "Walk me through what happened the last time you tried to change this. Where specifically did it break down?" |
 | God-representation origin | Q5 described God as distant, disappointed, or absent | "When did God start feeling that way? Was there a time when it felt different?" |
 | Lament capacity | Q7 showed "never" or "it felt wrong/dangerous" | "What do you imagine would happen if you brought the full, unfiltered thing to God — the anger, the grief? What's the worst-case version of how He'd respond?" |

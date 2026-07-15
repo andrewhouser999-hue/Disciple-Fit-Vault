@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "TBD (original); updated 2026-07-11 to add a Vision-Led read to Q1, a Vision-Led row to the Q11 motivation table, and an Entry Fork field to the Working Hypothesis Template — see [[Covenant Identity — Diagnostic Lens Transition Logic]], Entry Fork addendum"
+basis: "TBD (original); updated 2026-07-11 to add a Vision-Led read to Q1, a Vision-Led row to the Q11 motivation table, and an Entry Fork field to the Working Hypothesis Template — see [[Covenant Identity — Diagnostic Lens Transition Logic]], Entry Fork addendum; updated 2026-07-15 to add an injury-vs-diffuse-conditioning read to Q4 and a Character Wound Type Applicable field to the Working Hypothesis Template — the third, orthogonal axis corrected in [[Covenant Identity — Character Wound Diagnostic Tool]]'s 'Before Typing' section had no place to be recorded at intake until now"
 tags:
 ---
 
@@ -87,6 +87,7 @@ tags:
 - Absence: "No one said anything — I was just expected to function." = Emotional Deprivation schema, possible avoidant attachment.
 - Contradiction: "They said they loved me but the way they treated me said something different." = Gap between stated and behavioral messages = core schema conflict, often the load-bearing structure.
 - Note the gap between what was said vs. what was modeled. The modeled message is almost always the operative one.
+- **Injury-shaped wound vs. diffuse conditioning (added 2026-07-15):** Does a specific person, relationship, or event surface — someone who should have protected and didn't, someone who actively harmed? Or does the language sound more like "this is just how things were" / "nobody really said anything, that's just how it worked" — conditioning rather than injury? The first signals the Character Wound Diagnostic Tool applies (Warrior/Hermit/False Noble). The second means Stage 2 naming proceeds without it — see [[Covenant Identity — Character Wound Diagnostic Tool]], "Before Typing." Record this read in the Working Hypothesis Template below; it also determines which Phase 2 excavation arc — wound or pattern — the engagement will run (see [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]]).
 
 **Attachment signals from this answer:**
 - Consistent, warm, responsive care described = secure base.
@@ -290,6 +291,8 @@ DATE OF FORM COMPLETION:
 SESSION 1 DATE:
 
 ENTRY FORK (Wound-Led / Vision-Led):
+
+CHARACTER WOUND TYPE APPLICABLE (Y/N — if Y, likely type; if N, Stage 2 proceeds without it — added 2026-07-15):
 
 PRIMARY SCHEMA (most likely operational):
 

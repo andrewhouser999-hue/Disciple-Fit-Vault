@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "Original content basis TBD; updated 2026-07-14 to add Entry Fork reading support (per [[Covenant Identity — Diagnostic Lens Transition Logic]]) and an alternate, non-injury Model Introduction script (Section 7) — this document was named elsewhere as where the Entry Fork should be read but previously gave no concrete support for doing so. Updated 2026-07-15: the source generation prompt (07 — AI Prompts/AI Prompt — Discovery Call Guide.md) has now been synced to include the same Entry Fork and alternate-framing instructions, plus a Scrutiny Check line guarding against silently dropping them, and to include the Movement 4 alliance-formation revision (Steps 6-7, retitled movement, Post-Call 'Note alliance formation' item) — regenerating this guide from that prompt will no longer overwrite either fix. Remaining known drift: the prompt still lacks this document's affections-layer content (Section 2 Affections Layer read, Movement 2/3 affections framing, Domain 7, Post-Call affections-picture item) — not yet synced."
 tags:
 ---
 
@@ -51,6 +51,16 @@ As a separate diagnostic frame, read the completed form for affections signals. 
 
 This is a pre-call read only. You are orienting your listening, not forming conclusions.
 
+### Entry Fork — Read For This Too (added 2026-07-14)
+
+Alongside the affections read, this is also where the Entry Fork from [[Covenant Identity — Diagnostic Lens Transition Logic]] gets read — that document names this call as the place to do it, but until now this guide gave no concrete support for actually doing so. Hold it as a coach-internal read, not a question put to the client directly.
+
+- **Wound-Led signal:** Q1/Q3 surface a presenting cost, disruption, or a pattern the client names as visibly not working — something bleeding in a specific domain (marriage, work, relationships, their own interior).
+- **Vision-Led / non-injury signal:** Q1/Q3 surface no presenting cost — the client describes wanting to grow deeper, is willing to be diagnosed, but isn't reporting anything currently breaking or bleeding.
+- **Named-pattern, non-injury signal** (the most common real-world case, per [[Sunday-Monday Christian]] market research — neither pure crisis nor pure absence of concern): the client names a specific pattern they've noticed — interfering with intimacy with God, with a relationship, with how they show up under pressure — but describes it as a pattern they've observed in themselves, not something someone did to them. This is still Wound-Led in the broad sense the model uses (see [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]], "'Wound' here is not a trauma diagnosis"), but it will not resolve into a Character Wound type — see that tool's "Before Typing" section. Do not read this signal as Vision-Led just because it isn't painful, and do not force it toward a manufactured injury story because "Wound-Led" is the default door. Hold it as what it is.
+
+This read shapes which excavation arc Phase 2 will use (see Phase 2 Session Tools) and which Movement 4 script to reach for (Section 7, below) — it is not just background color for this call.
+
 ### Prepare Your Intention, Not a Script
 
 The call has structure but not a script. Based on the Tier 1 read, know which behavioral areas you want to enter. Have two or three behavioral questions ready for the territory that seems most active.
@@ -99,6 +109,8 @@ Not a rigid script. Movements. Know where you are and what each movement is for.
 While staging, the coach is also beginning to build an affections picture. Note what the client is orbiting around. What do they keep returning to? What generates the most emotional energy? What they've tried and failed at reveals what they've been trusting.
 
 **Red flags for wrong fit:** Cannot name any internal contribution to the problem; attributes everything to others or circumstances; wants strategy not formation.
+
+**Note (added 2026-07-14):** Domain 1's "pattern and cost" language and Domain 2's narrative questions both work regardless of which side of the Entry Fork the client is on — but do not assume a disruption/crisis narrative is coming. A client with a named-pattern, non-injury presentation will answer "what has staying in this pattern cost you" with something quieter than a Wound-Led client would — lost intimacy, a flatness, a sense of distance — not a breaking marriage or a collapsing role. Quiet is not the same as absent. Listen for the specific cost, not for its dramatic register.
 
 ---
 
@@ -309,6 +321,23 @@ Use as a template, not a script. Adapt to what the client actually said.
 2. *"This coaching is built on the idea that your identity in Christ is already declared — it's the given. The work isn't to build it. It's to close the distance between what's already declared and what you actually live from. The gap is maintained by specific formation material: early messages you believed, vows you made, competing commitments that make change feel dangerous even when you genuinely want it."*
 3. *"We work through that gap in four phases — getting the baseline, mapping the specific wounds and lies underneath, doing targeted installation work, and then integrating and closing. It's not fast. It moves at the pace of real formation. But what changes, changes at a depth that holds."*
 4. *"Does that match what you're actually carrying? What questions does that raise?"*
+
+---
+
+### Alternate Framing — Named-Pattern, Non-Injury Presentation (added 2026-07-14)
+
+Use this version — not the one above — when the Entry Fork read (Section 2) surfaced a named pattern without an injury behind it. The theological content and the four-phase container are identical; only the injury-presupposing vocabulary changes. This is not a softer or lesser version of the model — it is the same model in accurate language.
+
+**The one-minute version:**
+*"The coaching I do works in the gap between who you know yourself to be in Christ and who you actually experience yourself to be in daily life — especially under pressure. Most growth approaches work on what you do. This one works on who you live from. The foundation is that your identity in Christ is already given — not something you build or earn. The work is closing the distance between that declaration and how it actually operates in your life."* (Unchanged — this version was never injury-specific.)
+
+**The three-minute version:**
+1. *"What I'm hearing you describe is a distance between [specific thing they said about their theological identity] and [specific pattern or experience they described]. That gap is real and it has a structure — even without a single event behind it."*
+2. *"This coaching is built on the idea that your identity in Christ is already declared — it's the given. The work isn't to build it. It's to close the distance between what's already declared and what you actually live from. The gap is maintained by specific formation material: patterns you were trained into, ways of operating that got reinforced, competing commitments that make change feel dangerous even when you genuinely want it."*
+3. *"We work through that gap in four phases — getting the baseline, mapping the specific patterns and beliefs underneath, doing targeted installation work, and then integrating and closing. It's not fast. It moves at the pace of real formation. But what changes, changes at a depth that holds."*
+4. *"Does that match what you're actually carrying? What questions does that raise?"*
+
+**Choosing between the two versions:** use whichever framing matches what actually surfaced in Movements 2–3 — this is the same individualization discipline Movement 4 Step 6 already requires for the four-phase description generically. Do not default to the standard (wound) version because it's the one written first in this document; that default is exactly the propagation gap this addition corrects. If the Entry Fork read was ambiguous, ask rather than guess: *"Does 'wounds and lies' land, or does it feel more like a pattern than a wound?"* — the client's own reaction to the word is itself diagnostic data.
 
 ---
 

@@ -5,6 +5,25 @@ tags:
 ---
 Unusually complete theoretical architecture — ten contributor layers, diagnostic transition logic, crisis protocols, a six-level simulated practice system
 
+**CIC Core Coaching Translation**
+
+  This gives CIC a cleaner three-layer architecture than a flat "identity → obedience" model:
+
+  1. Ontological layer (already true, not coached): regeneration / union with Christ. Andrew doesn't produce this and shouldn't imply the coaching work produces it. This is the basis the client already stands on, whether or not they feel it or believe it yet.
+  2. Formational layer (what CIC actually does): identity formation — bringing the client's self-concept, affections, and felt sense of self into conscious alignment with layer 1's reality. This is where Willard's VIM applies directly: Vision (seeing who they actually are in Christ, not who they've believed themselves to be), Intention (deciding to live from that reality), Means (practices that habituate the new self). This is also  where Kegan/Lahey's subject-object shift maps cleanly onto Romans 6:6 — moving the "old self" from something the client is unconsciously fused with (subject) to something they can name, examine, and relate to as object ("our old self was crucified" — Paul is describing exactly this kind of subject-object move, just theologically rather than developmentally).
+  3. Behavioral layer (fruit, not target): obedience. This is what changes automatically as layer 2 progresses — which is precisely CIC's non-conformity claim, and it's the Ezekiel 36 pattern (heart given → statutes walked in, not the reverse).
+
+  What a client would need to understand and feel, not just know: that their new identity isn't something they're building or earning through the coaching process — it's something that's already objectively true of them the moment they trust Christ, and the work is closer to remembering/realizing than constructing. This distinction
+  matters emotionally: "I'm becoming someone new" (effort-based, can produce performance anxiety) lands very differently than "I already am someone new and I'm learning to live like it" (grace-based, reduces performance pressure). The second is the theologically accurate frame.
+
+Session Application
+
+  - Framework anchor: This gives you a precise answer if a client or reviewer asks "does CIC think coaching creates the new identity?" — no; it names/aligns/actualizes an identity the Spirit already conferred. Worth stating explicitly in the Model Foundation doc if it isn't already, since it protects against a subtle works-righteousness drift in how the model could be perceived.
+  - Diagnostic use: When a client's stuck point is disbelief in their new identity ("I know I'm supposed to be new but I don't feel it"), the diagnostic move is not "let's build your identity" but "let's examine what's obscuring your awareness of what's already true" — closer to unveiling than constructing. This affects the tone of intervention.
+  - Declarative/Lie Eliminator use: This is exactly the theological warrant for declaration-based work — declaring "I am..." statements isn't affirmation-as-manifestation (a common critique of identity-declaration language), it's declaring an objective, already-accomplished reality back to a mind that hasn't caught up to it yet. Worth having this distinction ready if anyone raises the manifestation-language concern.
+
+---
+
 **What This Practice Is**
 
   A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ,

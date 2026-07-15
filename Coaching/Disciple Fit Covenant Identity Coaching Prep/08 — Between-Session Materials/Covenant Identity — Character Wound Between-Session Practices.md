@@ -1,6 +1,6 @@
 ---
 created: 2026-05-20
-basis: "[[Covenant Identity — Character Wound Diagnostic Tool]] — wound type definitions and formation implications; [[Covenant Identity — Between-Session Support Materials]] — precondition framework; Thompson implicit memory mechanism; Willard VIM/disciplines as means; Allender character wound architecture"
+basis: "[[Covenant Identity — Character Wound Diagnostic Tool]] — wound type definitions and formation implications; [[Covenant Identity — Between-Session Support Materials]] — precondition framework; Thompson implicit memory mechanism; Willard VIM/disciplines as means; Allender character wound architecture; updated 2026-07-14 to add an explicit redirect for clients with no confirmed wound type, since this document has no universal fallback of its own — points to the already wound-agnostic tools in the between-session library rather than leaving the coach with nothing to assign"
 tags: [between-session, practitioner-reference, client-facing, character-wound, formation]
 ---
 
@@ -17,6 +17,22 @@ tags: [between-session, practitioner-reference, client-facing, character-wound, 
 3. **Run the precondition check first.** See the table below before assigning any practice.
 4. **Hand the client-facing section only.** The practitioner notes are for coach use. Extract the relevant phase section for the client; customize language as needed for that individual.
 5. **For phase-level precondition logic**, see [[Covenant Identity — Between-Session Support Materials]].
+
+---
+
+## If No Wound Type Applies (added 2026-07-14)
+
+Step 1 above is not optional, and this document has no universal version underneath it — every practice from here forward is written for a confirmed Warrior, Hermit, or False Noble presentation. If the client's Stage 1/Phase 2 material never resolved into one of the three types — see [[Covenant Identity — Character Wound Diagnostic Tool]], "Before Typing: Confirm an Injury-Shaped Wound Is Present" — do not force an assignment from this document. Forcing a near-fit type onto a non-injury client produces mismatched between-session material that either doesn't land or actively teaches the client to describe themselves in injury language they don't actually have.
+
+**What to assign instead:** the between-session library has several tools whose core content does not require a wound type at all — wound type only adds supplementary calibration to an already-universal base:
+
+- [[Covenant Identity — God-Representation Between-Session Practices]] — gated by God-representation type (five types), not wound type; fully usable
+- [[Covenant Identity — Lament Practice Guide]] — the theological container and four-movement lament shape don't require a wound type; the psalm-selection calibration table is a refinement, not a gate
+- [[Covenant Identity — Spiritual Disciplines Guide]] — the 13-discipline core library and Willard's training/trying frame are universal; the co-optation signal table is wound-type-specific value-add, simply unavailable here
+- [[Covenant Identity — Scripture Saturation & Meditation Guide]] — the five-approach menu and hagah frame are universal; wound-type only calibrates which approach to lead with
+- [[Covenant Identity — Formation Self-Assessment]] — already fully wound-type-independent; use as normal
+
+**This is an interim redirect, not a purpose-built replacement.** A pattern-based between-session practices document — mirroring this one's structure (theological frame per pattern type, phase-variant practices, co-optation signals) but built for non-injury formative material rather than character wounds — is a real future build, not yet started. Flagging it here rather than building it now keeps this fix scoped to closing the propagation gap; building a full parallel library is a separate effort.
 
 ---
 

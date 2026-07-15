@@ -57,12 +57,29 @@ The telos is the progressive restoration of the client's covenant identity — b
 
 ---
 
+### Positional Identity vs. Identity Formation — A Necessary Distinction
+
+The telos statement above — "the progressive restoration of the client's covenant identity" — describes a *process*. But the identity being restored is not something this practice, the client's cooperation, or the coach's skill brings into being. Two things must not be collapsed into one:
+
+**Positional identity** is the objective, already-accomplished reality conferred on the client at new birth and union with Christ — instantaneous, complete, and monergistic (the Spirit's act, not the client's achievement or the coach's production). Scripture states this in the past tense, as a finished fact: the old self *was* crucified (Rom. 6:6), the client *has* died and their life *is* hidden with Christ (Col. 3:3), and if anyone is in Christ, they *are* a new creation (2 Cor. 5:17). This is already true of every client who meets the spiritual baseline for entry (Dimension 3) — true from the day they trusted Christ, before this practice, or any coaching relationship, ever touched their life.
+
+**Identity formation** — what this practice actually does — is the Spirit-enabled, cooperative process of bringing the client's conscious self-understanding, felt sense of self, affections, and will into alignment with the positional identity that is already theirs. This is present-tense and progressive: renewal of the mind (Rom. 12:2), putting off the old self / putting on the new (Eph. 4:22–24). It is the work of *realizing and inhabiting* a reality that already exists — not constructing one that doesn't yet exist.
+
+**Why this distinction is load-bearing, not academic:**
+- It protects the practice from a subtle works-righteousness drift. The client is not earning or building their identity through the coaching engagement; they are being brought into conscious, lived alignment with what the Spirit has already secured. This keeps Mechanism Layer 1 (Dimension 2) — "the Spirit is already at work... the coach does not produce transformation" — anchored to a specific theological fact rather than a general sentiment.
+- It answers, directly, a predictable objection to the practice's declarative tools (Lie Eliminator, Identity Installer, targeted declaration): that they function as manifestation-style self-persuasion — "declare it until you believe it." They do not. The client is not declaring a self-chosen outcome into existence; they are declaring an objective, Spirit-accomplished reality back to a mind and affective system that has not yet caught up to it. This is the same logical structure as Rom. 6:11's *logizomai* ("consider/reckon yourselves dead to sin and alive to God") — reckoning with what is already true, not manifesting what is not yet true.
+- It gives the practice precise language for clients who cognitively know their new identity but do not feel it: the gap is not a deficiency in their positional identity — nothing is missing there — it is a gap in formation, where awareness, felt reality, and lived alignment have not yet caught up to a status that is already secure. This reframes a client's felt distance from God as the normal condition formation work addresses, not as evidence the transformation hasn't started.
+
+**What this means for the telos statement above:** "Progressive restoration of covenant identity" should be read as progressive *formation into conscious alignment with* an identity that is not itself progressive or partial — it is complete at new birth. The practice does not form the identity into existence. It forms the client into the felt, functional, lived experience of an identity the Spirit has already established.
+
+---
+
 ## Dimension 2 — Mechanism: What Produces Transformation
 
 Transformation happens through a five-layer sequence. Each layer is distinct. Collapsing them produces one of three failure modes.
 
 **Layer 1 — The Spirit is the primary agent.**
-The Spirit is already at work in the client's life before the coach arrives. The coach does not produce transformation. The practice creates conditions; the Spirit transforms.
+The Spirit is already at work in the client's life before the coach arrives. The coach does not produce transformation. The practice creates conditions; the Spirit transforms. This includes the client's positional identity in Christ — already established at new birth and union with Christ, prior to and independent of this practice's involvement (see Dimension 1, "Positional Identity vs. Identity Formation").
 
 **Layer 2 — The coaching relationship creates a formation context.**
 Attunement, relational honesty, and the coach's own formation posture create conditions in which the client can be genuinely known. This is the relational condition in which the Spirit's diagnostic and formative work can be received rather than defended against.
