@@ -1,6 +1,6 @@
 ---
 created: 2026-07-16
-basis: TBD
+basis: primary-source
 tags:
 ---
 
