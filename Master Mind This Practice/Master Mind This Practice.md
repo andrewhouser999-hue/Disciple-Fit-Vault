@@ -333,3 +333,14 @@ Naturally speaking, in or earlier years we are adding on, in our later years we 
 
 Spiritually speaking in our earlier walk we are wiping off so in our later years we can add on. Death precedes resurrection. Christoformity is shaped like the cross before it is shaped like the resurrection. Phil 3:10, the suffering pathway
 
+
+
+Scripture - Holy Spirit
+Speak these 4 verses over what needs healed, redeemed followed by declaration.
+1. 1 Peter 2:24 - _He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed._ Say to the 'thing' by His stripes you are healed.
+2. Romans 8:11 - *If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.*  Holy Spirit you quicken and you make alive the 'thing.'
+3. Matthew 8:17 - *This was to fulfill what was spoken by the prophet Isaiah: “He took our illnesses and bore our diseases.* Therefore, devil we are not taking this 'thing' no more because it was on the cross.
+4. Ps 138:8 *The LORD will fulfill his purpose for me; your steadfast love, O LORD, endures forever. Do not forsake the work of your hands.* Lord you will perfect the 'thing' in 'this' way in the name of Jesus.
+
+
+When a demonic spirit has been cast out, Mental, physical, spiritual. Speak healing into life. Speak the Word into what needs healing. *He will perfect that which concerns you . Ps 138:8*  Deliverance first then healing. Death is the Mountain to move.  The true name it and claim it is declaring the Word. We are speaking spirits. Jesus Christ is the same. *Don't let the Word of God depart from your sight but keep it in the midst of your heart... Prov 4:20*  
