@@ -184,7 +184,7 @@ Peterson's contribution is attentiveness — the Spirit-responsive life as count
 | Author | Contribution | Priority |
 |---|---|---|
 | **Daniel Siegel** — *The Developing Mind* | IPNB basis for attachment transmission; earned security as the hope narrative | Tier 2 |
-| **Dan Allender** — *The Wounded Heart* | Family-of-origin wound transmission; lies embedded in family story | Tier 1 |
+| **Dan Allender** — *The Healing Path* | Family-of-origin wound transmission; lies embedded in family story | Tier 1 |
 | **Jeffrey Young** — Schema Therapy literature | Schema transmission through parental vicarious learning — the academic mechanism | Reference Only* |
 | **Murray Bowen** — Family Systems Theory | Differentiation of self; emotional fusion as the transmission medium for generational patterns | Reference Only |
 | **Neil Anderson** — *The Bondage Breaker* | Generational spiritual strongholds; prayer-based renunciation | Reference Only |
