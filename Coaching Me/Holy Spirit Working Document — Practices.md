@@ -18,6 +18,8 @@ Before starting any practice below, name the "thing" out loud and specifically �
 
 **Purpose:** To bring a specific area of mental, emotional, psychological, or spiritual affliction under the authority of Christ's finished work, by speaking the relevant Scripture directly over it and then declaring its outcome — rather than only describing the problem to God in prayer. Speaking Scripture *over* the thing (as opposed to *about* it) treats the Word as active and effective in the moment, not just as background truth.
 
+**Designed version:** [Speak the Word Over What Needs Healing](https://claude.ai/code/artifact/e3b79342-b974-446b-9f0b-f64dbff3d27e) — interactive page with a live fill-in for the named 'thing' (and the specific outcome in verse 4), so the declarations read as your actual spoken words rather than a template.
+
 **How to run it:**
 1. Name the specific 'thing' out loud (see "How to use this document" above).
 2. Speak each of the four verses below, in order, addressing it to the 'thing' itself — not as background reading, but as a direct statement over the condition.
