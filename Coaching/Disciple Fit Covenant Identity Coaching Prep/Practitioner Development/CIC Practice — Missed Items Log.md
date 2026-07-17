@@ -12,42 +12,65 @@ Running log of questions missed across `/cic-l1` through `/cic-l6` practice runs
 
 ---
 
-## 2026-07-17 — L1: Orientation
+## 2026-07-17 — L1: Orientation (Run 1)
 
 - **Q:** Define "affections" in CIC. What are they *not*?
-  **Missed answer:** "Not relying on God" (conflated with Dependency Probe layer)
-  **Correct:** Affections = what the client prioritizes, trusts, and depends on — the functional center of life, the organizing loves. Not emotions.
+  **Answer given:** "Not relying on God."
+  **Why this misses:** This describes the *Dependency Probe* — Affections Discovery layer 3 (what the client is trusting for security, significance, or identity) — not the definition of affections itself. The question asked what affections *are*, and no positive definition was offered.
+  **Correct answer:** Affections are what the client prioritizes, trusts, and depends on — the functional center of life, the organizing loves. They are explicitly **not emotions**; a client can report feeling calm while their affections (what they actually organize their time, energy, and anxiety around) are pointed at something other than God.
+  **Source:** CIC Core Vocabulary.
+  **Why it matters operationally:** Mistaking affections for feelings leads a coach to process emotion in-session instead of surfacing what the client is functionally trusting — which is the actual Stage 1 target. A coach chasing feeling-language will miss the affections data entirely.
 
-- **Q:** Which contributor supplied the CBT toolkit for Stage 4a (Socratic questioning, laddering/downward arrow, thought record, behavioral experiment)?
-  **Missed answer:** Guessed a "K" name
-  **Correct:** Aaron Beck
+- **Q:** Which contributor supplied the CBT toolkit used in Stage 4a (Socratic questioning, laddering/downward arrow, thought record, behavioral experiment)?
+  **Answer given:** Guessed a name starting with "K."
+  **Why this misses:** No CIC contributor in this domain has a K-name; this appears to be a confusion with Kegan & Lahey, who are cited elsewhere in the broader CIC system (Immunity to Change work) but are not the source of the Stage 4a CBT toolkit.
+  **Correct answer:** Aaron Beck.
+  **Source:** CIC Key Contributors list.
+  **Why it matters operationally:** Knowing the toolkit's origin keeps its use scoped correctly — these tools belong specifically to Stage 4a (triggered when a cognitive distortion is actively blocking reception of covenant truth), not as a general-purpose technique a coach reaches for whenever a session stalls.
 
-- **Q:** Name the two Affections Discovery documents — the 5-layer framework/question bank one and the in-session pacing one.
-  **Missed answer:** Blank
-  **Correct:** *Affections Discovery Process — Affections, Trust & Priorities* (framework + question bank) and *Covenant Identity — Affections Discovery — In-Session Protocol* (in-session pacing/transition signals)
+- **Q:** Name the two Affections Discovery documents — the one with the five-layer framework and question bank, and the one governing in-session pacing.
+  **Answer given:** Blank — could not recall either title.
+  **Correct answer:** *Affections Discovery Process — Affections, Trust & Priorities* is the five-layer framework and question bank (the content layer — what to ask and why). *Covenant Identity — Affections Discovery — In-Session Protocol* is the coach-facing execution layer — in-session pacing, stay/move transition signals between the five layers, and somatic observation cues.
+  **Source:** CIC Key Documents.
+  **Why it matters operationally:** The first document tells the coach *what* to listen for; the second tells the coach *when* to move to the next layer. Conflating them, or only knowing one exists, causes a coach to either rush the sequence (naming false identity before the affections picture is specific enough) or stall with no criteria for when to advance.
 
 - **Q:** VIM = Vision, Intention, ___?
-  **Missed answer:** "Movement"
-  **Correct:** Means — the specific disciplines that train the whole person
+  **Answer given:** "Movement."
+  **Correct answer:** Means — the specific disciplines that train the whole person (not willpower applied in the moment, but practices that form capacity over time).
+  **Source:** Dallas Willard, VIM framework.
+  **Why it matters operationally:** Means without Vision and Intention collapses into willpower-driven discipline practice — this is one of the direct pathways into the legalism failure mode, where disciplines get treated as effort applied to sin-identification rather than as conditions for Spirit-led formation.
 
-- **Q:** T/F: "Tool dependence" means a coach relying too heavily on the Discovery Call Guide during intake.
-  **Partial credit:** Correctly identified False, but correction described client-over-relying-on-a-tool rather than the actual mechanism
-  **Correct:** Tool dependence = treating the tools themselves (Lie Eliminator, Identity Installer, Secured in Father, diagnostics) as the *cause* of transformation rather than conditions the Spirit works through
+- **Q:** True or False: "Tool dependence" means a coach relying too heavily on the Discovery Call Guide during intake.
+  **Answer given:** Correctly identified the statement as False, but the correction offered was: "it is the client depending too much on a tool to do the work the session can do."
+  **Why this is only partial:** The direction (client over-relying on a tool) is closer to the real idea than the original false statement, but it still locates the failure mode in the client's behavior rather than in what the coach believes the tool is doing. The actual failure mode is a claim about mechanism, not about frequency of use.
+  **Correct answer:** Tool dependence means treating the tools themselves — Lie Eliminator, Identity Installer, Secured in Father, and the diagnostic instruments — as the *cause* of transformation, rather than as conditions the Spirit works through. It's a category error about what does the transforming, not a statement about how often a tool gets used.
+  **Source:** CIC Practice Definition, Five-Layer Mechanism / Three Failure Modes.
+  **Why it matters operationally:** A coach who mistakes the tool for the mechanism will track tool-completion (did the client finish the worksheet) as the marker of progress, instead of tracking actual formation (is the false identity actually loosening its grip) — a completed worksheet is not evidence of change.
 
-- **Q:** Which practitioner role is primary — cooperating with the Spirit, holding formation telos, designing formation practices?
-  **Missed answer:** "Holding the container" (tertiary/coaching-partner language)
-  **Correct:** Formation partner
+- **Q:** Of the three practitioner roles, which is primary — cooperating with what the Spirit is doing, holding formation telos, and designing formation practices?
+  **Answer given:** "Holding the container."
+  **Why this misses:** "Holding the container" is relational-container language, which belongs to the Coaching Partner role (powerful questions, forward orientation, client agency, accountability) — and that role is listed as *tertiary*, not primary.
+  **Correct answer:** Formation partner is primary.
+  **Source:** CIC Practice Definition, Three Practitioner Roles (in priority order: Formation partner > Covenant identity diagnostician > Coaching partner).
+  **Why it matters operationally:** This ordering keeps the coach's default posture as cooperating with the Spirit rather than leading with technique (coaching partner) or leading with diagnosis (diagnostician) — both of which are real parts of the work, but subordinate to the formation-partner posture that governs how they're used.
 
-- **Q:** Which document is vision-only — not diagnostic, not prescriptive — organized around 8 qualities?
-  **Missed answer:** Blank
-  **Correct:** *Covenant Identity — The Interior Life as Telos*
+- **Q:** Which document is a vision document only — not diagnostic, not prescriptive — describing what becomes possible when the work succeeds, organized around eight qualities?
+  **Answer given:** Blank — could not recall.
+  **Correct answer:** *Covenant Identity — The Interior Life as Telos* — Settled / Undivided / Free / Moved Without Being Swept / Unhurried / Loved and Knowing It / Truthful Without Cruelty / Purposeful Without Striving.
+  **Source:** CIC Key Documents.
+  **Why it matters operationally:** Because this document is explicitly non-diagnostic and non-prescriptive, using it as a session checklist (e.g., rating a client against the eight qualities mid-engagement) misapplies a *telos* document as a *progress* document — the qualities are fruit of formation, not entry conditions or session goals to chase directly.
 
-- **Q:** Which two contributors are the source for the implicit/explicit memory distinction?
-  **Missed answer:** Blank
-  **Correct:** Curt Thompson and Dan Siegel
+- **Q:** Which two contributors are the source for the implicit vs. explicit memory distinction — the one that explains why Stage 4b requires relational presence rather than cognitive argument?
+  **Answer given:** Blank — could not recall.
+  **Correct answer:** Curt Thompson and Dan Siegel.
+  **Source:** CIC Key Contributors.
+  **Why it matters operationally:** This distinction is the reason a coach cannot reason a client past an implicit-memory barrier ("I know that's true but there's no felt movement") — Stage 4b calls for slowing the session, inviting internal attention, and staying non-anxious specifically because the barrier lives below the level explicit argument can reach.
 
-- **Q:** T/F: The False Noble type withdraws when neared and shows compliance theater early on.
-  **Partial credit:** Correctly identified this as Hermit, but False Noble correction ("covers wound with identity statements") was imprecise
-  **Correct:** False Noble performs adequacy, shows early enthusiasm that doesn't hold under pressure, and appears spiritually mature
+- **Q:** True or False: the False Noble character wound type withdraws when neared and shows compliance theater in early sessions.
+  **Answer given:** Correctly identified the statement as False, and correctly named the description as belonging to the Hermit type instead. The False Noble correction offered was: "cover up their wound with identity statements."
+  **Why this is only partial:** The direction (masking/covering rather than withdrawing) is right, but "identity statements" isn't how the tool actually characterizes the presentation, and it risks reframing False Noble as a verbal-coping behavior rather than the fuller presentation pattern the diagnostic tool describes.
+  **Correct answer:** Hermit — abandonment/isolation wound, core shame "I am not worth knowing," withdraws when neared, compliance theater in early sessions. False Noble — shame/exposure wound, core shame "I am defective and if known will be rejected," performs adequacy, shows early enthusiasm that doesn't hold under pressure, and appears spiritually mature.
+  **Source:** Covenant Identity — Character Wound Diagnostic Tool (Allender).
+  **Why it matters operationally:** Confusing these two types produces a category error at Stage 2 naming — naming exposure-shame ("if known, rejected") for a client who is actually presenting Hermit isolation-shame, or vice versa, will not land, because the false identity structure being named is the wrong one for what the client is actually carrying.
 
-**Weak-spot pattern this run:** Contributor attribution (Beck, Thompson/Siegel) and document identification (Interior Life as Telos, the two Affections Discovery documents) were the clearest gaps — both blank or wrong. Core vocabulary (affections definition) also slipped.
+**Weak-spot pattern this run:** Contributor attribution (Beck, Thompson/Siegel) and document identification (Interior Life as Telos, the two Affections Discovery documents) were the clearest gaps — both landed blank or wrong. Core vocabulary (the affections definition) also slipped, and both true/false corrections showed the right instinct (correct direction) without landing the precise mechanism or language the source documents use.
