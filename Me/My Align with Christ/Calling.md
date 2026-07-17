@@ -20,7 +20,20 @@ Business owner finds my wife and offers her a perfect job, part time allowing he
 
 I know God works in mysterious ways. In holding this loosely, I can only imagine the parallels being providential. In feeling the need for RPA and a biblical Assembly model, this only strengthened my resolve for brining Covenant Identity Coaching CIC to the world of Marketplace and 'Church.' I returned to refining CIC, internalizing, practicing speaking in private about it, while practicing the disciplines of coaching. I am committed to this in the face of obstacles. Seems like a long game at a prophetic time that could be so very short. My relationships are unmaintained due to years focused on raising a family and fulltime work.  I have persevered past several times of heavy fear and self condemnation, therefore created conditions for the Holy Spirit to work, self-addressing my wounds with CIC tools & prayer. I shifted out from the weight of this as a result. My wife and I see the need for me to do my own therapeutic work and am holding off due to funding needs.  She is supportive thinking I could use formal training. I am planning on MI training. She is prayerful and logically thinks I should obtain income if it includes getting a job to help pay the bills. We have time.  I can question the calling not having heard from the Lord as clearly as I once had in the past. Yet I know The Lord works and speaks in His own ways in His timing.  I feel only so equipped, yet I know this model is simply creating the conditions, however imperfect, for the Holy Spirit to cause the growth. I move forward in faith anyway.  I am compelled. 
 
-The pattern of life evidence -> shift in desire - compelled -> Encounter - Software Engineer, AI -> Coach-therapeutic gap w/ AI -> Encounter, Business owner w/ adjacent problem - RPA -> Theme of Assembly - same answer -> Encounter - Encouragement from a Coach -> Inner Resistance - CIC tool victory -> Video ministry encouragement -> Wife receives job offer (perfect) -> Shift in mindset to Spirit/Prayer -> 
+**Pattern of Evidence**
+Post exit, **strong sense** not returning - **compelled** -> 
+Encounter - **Equipping** - Software Engineer, AI -> 
+Coach-therapeutic gap **defined** using AI -> 
+Encounter, Bus. owner w/ adjacent problem - **Marketplace need is defined** resulting in RPA ->
+Theme of Assembly defined - **synergy in solution to Marketplace**-> 
+Encounter two young men who work for roofing co ministered to them - 
+Encounter - **Encouragement** from Coach Jeff -> 
+Inner Resistance - **Overcame with Holy Spirit and CIC tool** -> 
+Encounter - **Discovery** - Dale who is formed holds lead for a small church group that is slightly formative. 
+YouTube Videos as ministry **encouragement** -> 
+Wife receives job offer (perfect) **strengthening** -> 
+Encounter - **providence** - unplanned encounter with Jeff, scheduled to show him CIC & Formation
+**Shift in mindset to Spirit/Prayer** -> 
 
 
 

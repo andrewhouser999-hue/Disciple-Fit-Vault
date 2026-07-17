@@ -1,7 +1,7 @@
 ---
 created: 2026-07-14
 artifact_url: https://claude.ai/code/artifact/05d05db3-fc9c-457d-bf5a-c68d8e2507b5
-basis: "Synthesis document — draws from [[Covenant Identity Coaching — Practice Definition]] (governing definition, three-discipline architecture, boundary testing, positional identity vs. identity formation), [[Covenant Identity Coaching — Manifesto]] (telos, anthropology), [[Covenant Identity Coaching — Theory of Change]] (eight-node mechanism), [[Covenant Identity — Diagnostic Lens Transition Logic]] (Stage 1-4b sequence, Wound-Led/Vision-Led entry fork), [[Covenant Identity — Integration Rationale]] (psychological integration criteria), [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] (four-phase engagement), [[Covenant Identity — The Interior Life as Telos]] (nine qualities), [[Covenant Identity Coaching — Full Model Reference]] (covenant structure, distinctives table), [[Covenant Identity — Identity-Before-Behavior Research Foundation]] (identity-precedes-behavior research corroboration), [[Disciple Fit Covenant Identity Coaching — White Paper]] (four-phase detail). Built for a specific meeting: explaining CIC to a Christian executive coach (Holy Spirit-centered, works with wounded executives) who has no prior exposure to the model. Restructured 2026-07-14 per Andrew's direction to open with Scripture rather than psychology, and to add an identity-precedes-behavior section and 'what this is / is not' contrast charts."
+basis: "Synthesis document — draws from [[Covenant Identity Coaching — Practice Definition]] (governing definition, three-discipline architecture, boundary testing, positional identity vs. identity formation), [[Covenant Identity Coaching — Manifesto]] (telos, anthropology), [[Covenant Identity Coaching — Theory of Change]] (eight-node mechanism), [[Covenant Identity — Diagnostic Lens Transition Logic]] (Stage 1-4b sequence, Wound-Led/Vision-Led entry fork), [[Covenant Identity — Integration Rationale]] (psychological integration criteria), [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] (four-phase engagement), [[Covenant Identity — The Interior Life as Telos]] (nine qualities), [[Covenant Identity Coaching — Full Model Reference]] (covenant structure, distinctives table), [[Covenant Identity — Identity-Before-Behavior Research Foundation]] (identity-precedes-behavior research corroboration), [[Disciple Fit Covenant Identity Coaching — White Paper]] (four-phase detail). Built for a specific meeting: explaining CIC to a Christian executive coach (Holy Spirit-centered, works with wounded executives) who has no prior exposure to the model. Restructured 2026-07-14 per Andrew's direction to open with Scripture rather than psychology, and to add an identity-precedes-behavior section and 'what this is / is not' contrast charts. Amended 2026-07-17 per Andrew's direction to add a 'Whose mission this is now' subsection to Section 1, arguing CIC's mission continuity from Christ's Luke 4:18 mission statement to the Ecclesia's inherited mission (John 20:21, Acts 1:8, Acts 26:18, 1 Corinthians 12:27, Ephesians 1:22–23), scoped explicitly to the inward register only. Further amended 2026-07-17 to add 'Not Biblical Counseling' and 'Not (Generic) Christian Life Coaching' contrast tables to Section 8, and an Orientation row to the existing Spiritual Formation/Spiritual Direction table — the Biblical Counseling table sourced from [[Covenant Identity Coaching — Full Model Reference]] §IV/§XI/§XII (reactive/proactive distinction); the Christian Life Coaching table is original synthesis, flagged as design judgment rather than a direct source quote, since no prior document contrasted CIC against Christian Life Coaching dimension-by-dimension."
 tags: [model-foundation, peer-briefing, presentation]
 ---
 
@@ -63,6 +63,22 @@ Paul names the ongoing shape of that same work in the believer's present life:
 > *"And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit."* (2 Corinthians 3:18)
 
 **These texts converge on a single claim, and it is the claim this whole model is built on:** the primary terrain of Christian transformation is the inner man — the heart, the affections, the felt and operating identity — not behavior considered first and identity assumed to follow. That is not a psychological insight Scripture happens to confirm. It is where Scripture starts, and it is where this model starts.
+
+### Whose mission this is now
+
+Christ names this mission as His own in Luke 4:18–21. But He does not keep it. He commissions the Ecclesia to carry it forward:
+
+> *"As the Father has sent me, even so I am sending you."* (John 20:21)
+
+> *"But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses..."* (Acts 1:8)
+
+Paul describes his own apostolic commissioning in the same Isaiah 61 vocabulary Christ used of Himself — blindness, darkness, captivity:
+
+> *"...to open their eyes, so that they may turn from darkness to light... that they may receive forgiveness of sins..."* (Acts 26:18)
+
+This is not a claim that the church repeats Christ's fulfillment — Luke is precise that the fulfillment was singular and already accomplished ("today," Luke 4:21). It is a claim of inheritance: the church, as Christ's body (1 Corinthians 12:27; Ephesians 1:22–23), continues the same mission under the same Spirit, in derivative and participatory form — not a second messianic act.
+
+Isaiah 61 and 58 name both inward conditions (the brokenhearted, the captive in heart) and outward ones (the poor, the physically bound, the oppressed). The Ecclesia inherits both. Covenant Identity Coaching does not claim both — consistent with Section 8's boundaries, its scope is the inward register only. What this model claims is narrower and more precise: that "binding up the brokenhearted" and "liberty to the captives" is not metaphor in this mission statement — it is a literal mandate covering the interior life, and CIC is one disciplined way the church carries out that specific piece of what it was handed.
 
 ---
 
@@ -250,12 +266,37 @@ CIC draws directly on clinical diagnostic frameworks — schema theory, attachme
 
 | | Spiritual Direction / Formation | Covenant Identity Coaching |
 |---|---|---|
+| Orientation | Attentive — accompanies without directing toward a specific destination | Generative — actively moves toward a named telos through a structured arc |
 | Diagnostic tools | None | Affections Discovery, Character Wound, God-Representation |
 | Structure | Unstructured, pace-of-the-Spirit | Defined four-phase arc, formation-flexible |
 | Outcome specificity | Presence and accompaniment | A named false identity met by a named covenant truth |
 | Risk if used alone | A person can be directed for years without their specific false identity ever named | Built precisely to close that gap |
 
 CIC shares spiritual formation's telos and posture — cooperating with what the Spirit is already doing, not producing transformation. What it adds is diagnostic precision and a structured arc. Unstructured accompaniment is genuinely valuable and this model does not replace it — but it is a different practice, not a stricter version of the same one.
+
+### Not Biblical Counseling — specifically why
+
+| | Biblical Counseling | Covenant Identity Coaching |
+|---|---|---|
+| Orientation | Reactive — engages when sin or crisis presents | Proactive — formation posture engages ongoing identity development, not contingent on a presenting problem |
+| Coach/counselor posture | Directive and prescriptive — the counselor is the expert who applies scriptural truth to the client's situation | Evocative and collaborative — the client's own discernment is engaged; the coach draws out rather than applies |
+| Diagnostic root | Idolatry and disordered worship, addressed through correction | Same diagnostic root — surfaced through Affections Discovery, then covenant truth offered, not imposed |
+| Structure | Sin-confrontation and repentance arc | Four-phase formation arc (Orientation → Wound Mapping → Identity Installation → Mission) |
+| Risk if used alone | Truth applied ahead of readiness can produce *performance agreement* — the client learns to say the right thing while feeling the same thing underneath | Built specifically to guard against this — covenant truth is withheld until the activation requirement (Section 4, Node 4) is met |
+
+CIC shares Biblical Counseling's diagnostic root — idolatry and disordered worship as what has actually gone wrong — and draws on it directly for diagnostic precision (Section 3). What it adds is a coaching-methodology delivery that preserves client agency, and a proactive formation posture that doesn't wait for a presenting crisis to engage the work.
+
+### Not (Generic) Christian Life Coaching — specifically why
+
+| | Christian Life Coaching | Covenant Identity Coaching |
+|---|---|---|
+| Governing frame | The client's own goals, values, and preferences are the standard; Scripture, where referenced, sits in the background rather than functioning as an authoritative reference point | Covenant identity is the authoritative reference point — the client is the authority on their experience, God is the authority on their identity, and both are honored simultaneously |
+| Diagnostic tools | General coaching competencies — powerful questions, championing, accountability — with no specific tool for surfacing false identity | Affections Discovery, Character Wound typology, God-Representation — precision tools absent from generic coaching |
+| What "identity work" means, if present at all | Aspirational — who the client wants to become, self-authored | Positional — who the client already is in Christ; the work is growing into an already-conferred reality, not constructing a new one |
+| Structure | Forward-oriented goal-setting, generative and possibility-focused | Four-phase arc that moves through wound before mission — identity before goals |
+| Risk if used alone | Faith worldview present but not structurally load-bearing — theology can function as garnish rather than architecture | Built precisely to make covenant theology the structural frame, not a decorative layer |
+
+CIC shares Christian Life Coaching's relational container — forward-oriented partnership, client agency, structured engagement (Section 3). What it adds is a governing theological frame that determines content, not just posture: covenant identity, not client preference, is the reference point for what's true about who the client is.
 
 **The single most distinctive element:** the integration of spiritual formation's telos and posture with biblical counseling's diagnostic precision, delivered through coaching methodology and a structured formation arc — with the tools functioning as formation disciplines rather than technique delivery. This specific configuration doesn't exist in any of the parent disciplines alone, or in the common hybrids between them.
 
