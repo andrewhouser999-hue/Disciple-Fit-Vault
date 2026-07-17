@@ -30,6 +30,23 @@ tags:
 
 ---
 
+### Professional Consultation — Paid Case Consultation with Licensed Clinician for CIC Review (Optional, Not in Running Total)
+*Researched July 2026. Alternative to IAOTRC/CTRC (see above) for closing CIC's external-supervision gap — a paid case-consultation relationship with a state-licensed clinician, not a certification track. Not a formal "supervision of record" relationship (that's a specific legal arrangement for pre-licensed clinicians pursuing their own license) — an informal, contracted relationship where Andrew brings de-identified case material and gets feedback on diagnostic judgment and referral timing. Individual rate range: $50–$200+/hr depending on credentials/experience/region (group/peer format: $25–$100/session). Ideal candidate is **dually credentialed** — state-licensed clinician (LPC/LMFT/LCSW/LIMHP) *and* biblically/Christian trained, covering both clinical risk judgment and theological fit with CIC's framework. Not yet decided whether to pursue — kept separate from the required startup tally above.*
+
+| Name | Credentials | Specialization | Contact | Notes |
+|---|---|---|---|---|
+| Jarred Maynard | LIMHP, CPC | Trauma recovery, family dynamics, adolescent behavioral concerns | (402) 781-8550 | Strongest first call — trauma focus matches CIC's Crisis & Referral Protocol needs |
+| James Holt | LIMHP, LCSW, LISW, CADC | Trauma, anxiety, relationship struggles (30+ yrs experience) | (402) 313-4703 | Strongest first call — same fit as above |
+| LaTaunya Riley | LPC, LADC, LIMHP | "Mentally, physically and spiritually" integrated support | (402) 542-5439 | |
+| Jillian Booth | MA, LIMHP, NCC, IS-ART | Past trauma, relationship difficulties, anger management | (402) 518-4215 | Open to incorporating Christian principles |
+| Spence Counseling Center | Multiple clinicians — LIMHP, LPC, LMFT, LCSW, PhD | Explicitly a "Christian Counseling agency," 30 yrs serving NE/IA/KS | (402) 281-9379 x2022 / (402) 991-0611 | Multi-clinician practice — better odds someone there is open to an informal consulting arrangement |
+
+**Candidates above are Christian-integrated and state-licensed but not confirmed ACBC-certified** (formal biblical-counseling methodology, not just faith-friendly clinical practice) — general web search doesn't index ACBC's interactive member map, so check `biblicalcounseling.com/find-a-counselor` directly, filtered to Nebraska, before assuming this list is exhaustive. Note also: ACBC has stated it can decline to continue certifying state-licensed practitioners "due to growing ethical and moral restrictions placed on state licensed practitioners" — genuinely dual-credentialed (state license + full ACBC certification) people may be a smaller pool than expected, which is part of why the list above skews toward faith-friendly-but-not-ACBC clinicians. Reference ceiling: ACBC caps its own certification-supervisor fee at $800/yr — a certification-track price, not this use case, but a useful sanity check.
+
+**Practical setup:** a short written consulting agreement covering (1) scope — case consultation only, no clinical liability transfer to the consultant for Andrew's coaching practice; (2) confidentiality — de-identify client material by default, obtain client consent if anything identifiable is shared; (3) cadence — monthly or biweekly is typical; (4) fee and invoicing as an independent contractor.
+
+---
+
 ## Startup Expense Estimate (Running Tally)
 *Rough estimates, updated as real numbers replace guesses. Model assumption: work from home, no office/lease, stay small until volume forces a change.*
 
