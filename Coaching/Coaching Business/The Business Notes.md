@@ -4,6 +4,32 @@ basis: TBD
 tags:
 ---
 
+### Professional Training Investment — Trauma Recovery Coach Certification (Optional, Not in Running Total)
+*Researched July 2026. Certified Trauma Recovery Coach (CTRC) — International Association of Trauma Recovery Coaching (IAOTRC), founded 2017 by Bobbi L. Parish, MA, CTRC-S. This is a **recovery** model (individual, remedial, retrospective — Herman's stages of recovery / SAMHSA recovery-oriented care), distinct from **resilience** models (systemic, preventive, prospective) — see naming-collision note below. Not yet decided whether to pursue, and not yet decided whether one credential should serve both RPA and CIC or whether RPA needs a separate resilience-focused credential instead — kept separate from the required startup tally above.*
+
+| Program                             | Length                | Format                                                                                                | Tuition                                                                                                                                            | Notes                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IAOTRC Initial Certification (CTRC) | 18 months to complete | Fully online — recorded weekly classes + bi-weekly live Q&A + observation/practice/supervision groups | $2,700 (early enrollment, by July 31, 2026) / $3,100 (standard) — $700 non-refundable deposit, or 6 monthly installments of $425 if paid over time | Next cohort starts Aug 18, 2026. Requires: 4 observation + 9 participation practice groups, 5 group supervision sessions, 5 triad practicum sessions (7.5 hrs total), written exam (80%+ pass), portfolio (video coaching session + case studies), and "demonstrate ethical compliance and recovery stability" — confirm directly with IAOTRC what this last item requires before enrolling |
+
+**Renewal:** Year 2 requires 25 group + 5 individual supervision hours (or 35 group hours alone) + 15 CE credits; every 2 years after, 15 CE credits + ethics review. $50 renewal fee.
+
+**Naming collision — not the same program:** Starr Commonwealth also sells a "CTRC" — Certified Trauma and **Resilience** Coach, not **Recovery** Coach. It is a school/educator capacity-building program (training staff to build trauma-informed learning environments), not a 1:1 coaching credential, and reflects a prevention-oriented model rather than IAOTRC's individual/remedial recovery model.
+
+---
+
+### Professional Training Investment — Motivational Interviewing / MINT (Optional, Not in Running Total)
+*Researched July 2026. Structurally different from Allender/Thompson: MI has no single unified body that certifies base-level practitioner competency. The two competency-certificate options below are standalone, non-sequential alternatives (pick one, not both) that certify MI skill fidelity but confer no organizational credential. MINT's Training New Trainers (TNT) pathway is a separate, higher tier — it certifies you to train other people in MI, not a prerequisite for using MI skills in coaching. Not yet decided whether to pursue — kept separate from the required startup tally above.*
+
+| Program | Length | Format | Tuition | Notes |
+|---|---|---|---|---|
+| UW–Madison Building MI Competency Certificate | 38 hrs (12 hrs live + 26 hrs self-study) | Fully online blended — live Zoom sessions + self-paced Canvas coursework | Not publicly listed; contact registration@cerc.wisc.edu / 608-262-2451 | Beginner–intermediate. Competency-based: requires fair-or-higher MITI fidelity rating on a simulated client call + 80% on knowledge check. Requires purchasing Rosengren's *Building Motivational Interviewing Skills* workbook. Not a leader/trainer credential |
+| UMass Chan Certificate of Intensive Training in MI (CITMI) | Semester-long | Not confirmed from current page (historically intensive + coursework); verify delivery format directly with UMass Chan | $1,700 individual / $1,550 per person (10+ group rate) | 20 CE credits. Alternate foundational certificate path to UW–Madison's, not a supplement to it. Not a leader/trainer credential |
+| MINT Training New Trainers (TNT) | 3-day onsite workshop | In-person; rotates location/dates yearly (2026 cohort: Lisbon, Portugal, Oct 19–21; registration for 2026 already closed) | Nonrefundable application fee (amount not published) + TNT registration $1,200–$1,800 (Group 1/high-income countries; reduced tiers for Groups 2–4) + annual MINT dues thereafter ($130/yr Group 1, $26–$52 Groups 2–4) | Requires 2-part written application + 20-minute Standardized Patient Interview (SPI) demonstrating MI skill before acceptance; ~6–8 week review. Confers MINT trainer membership — a credential to teach MI to others, not a practitioner certification. MINT Public Service Fund offers limited need-based aid |
+
+**Foundational certificate only (choose one, not sequential):** 38 hrs–1 semester, ~$1,700 (UMass) or fee TBD (UW–Madison, likely lower given no in-person/CE-credit overhead). **If later adding MINT/TNT trainer credential:** +3 days, +~$1,330–$1,930 first year (application fee + TNT registration + first-year dues), recurring $26–$130/yr after. For Andrew's stated goal — alliance/FIS skill acquisition for his own coaching practice, not training other coaches in MI — the foundational certificate tier is the fit; TNT is a future option only if he later wants to teach MI within CIC.
+
+---
+
 ## Startup Expense Estimate (Running Tally)
 *Rough estimates, updated as real numbers replace guesses. Model assumption: work from home, no office/lease, stay small until volume forces a change.*
 
@@ -56,19 +82,6 @@ tags:
 | Confessional Community Training Program | 12 months        | Hybrid — 2 in-person events (Falls Church, VA) + monthly virtual sessions | $525 application fee + $525/mo × 12 ≈ $6,825 total | Opening event Nov 11–13, 2026; closing event Sept 2027 (TBD); remote CC sessions 1st/3rd Tuesdays + core-issues teaching 2nd Tuesdays, Dec 2026–Aug 2027; CEUs via Seattle School of Theology & Psychology (amount TBD); requires online application + screening interview before acceptance |
 
 **Combined Intensive → Training Program:** ~12 months, ~$8,575. Single-tier leader track, not a multi-level sequence like Allender's Levels I–III (~26 months, $20,285–$21,285) — leader status is conferred through Training Program completion itself, with no separate post-completion "Certification" review step. Excludes travel, lodging, and meals not specified as included.
-
----
-
-### Professional Training Investment — Motivational Interviewing / MINT (Optional, Not in Running Total)
-*Researched July 2026. Structurally different from Allender/Thompson: MI has no single unified body that certifies base-level practitioner competency. The two competency-certificate options below are standalone, non-sequential alternatives (pick one, not both) that certify MI skill fidelity but confer no organizational credential. MINT's Training New Trainers (TNT) pathway is a separate, higher tier — it certifies you to train other people in MI, not a prerequisite for using MI skills in coaching. Not yet decided whether to pursue — kept separate from the required startup tally above.*
-
-| Program | Length | Format | Tuition | Notes |
-|---|---|---|---|---|
-| UW–Madison Building MI Competency Certificate | 38 hrs (12 hrs live + 26 hrs self-study) | Fully online blended — live Zoom sessions + self-paced Canvas coursework | Not publicly listed; contact registration@cerc.wisc.edu / 608-262-2451 | Beginner–intermediate. Competency-based: requires fair-or-higher MITI fidelity rating on a simulated client call + 80% on knowledge check. Requires purchasing Rosengren's *Building Motivational Interviewing Skills* workbook. Not a leader/trainer credential |
-| UMass Chan Certificate of Intensive Training in MI (CITMI) | Semester-long | Not confirmed from current page (historically intensive + coursework); verify delivery format directly with UMass Chan | $1,700 individual / $1,550 per person (10+ group rate) | 20 CE credits. Alternate foundational certificate path to UW–Madison's, not a supplement to it. Not a leader/trainer credential |
-| MINT Training New Trainers (TNT) | 3-day onsite workshop | In-person; rotates location/dates yearly (2026 cohort: Lisbon, Portugal, Oct 19–21; registration for 2026 already closed) | Nonrefundable application fee (amount not published) + TNT registration $1,200–$1,800 (Group 1/high-income countries; reduced tiers for Groups 2–4) + annual MINT dues thereafter ($130/yr Group 1, $26–$52 Groups 2–4) | Requires 2-part written application + 20-minute Standardized Patient Interview (SPI) demonstrating MI skill before acceptance; ~6–8 week review. Confers MINT trainer membership — a credential to teach MI to others, not a practitioner certification. MINT Public Service Fund offers limited need-based aid |
-
-**Foundational certificate only (choose one, not sequential):** 38 hrs–1 semester, ~$1,700 (UMass) or fee TBD (UW–Madison, likely lower given no in-person/CE-credit overhead). **If later adding MINT/TNT trainer credential:** +3 days, +~$1,330–$1,930 first year (application fee + TNT registration + first-year dues), recurring $26–$130/yr after. For Andrew's stated goal — alliance/FIS skill acquisition for his own coaching practice, not training other coaches in MI — the foundational certificate tier is the fit; TNT is a future option only if he later wants to teach MI within CIC.
 
 ---
 
