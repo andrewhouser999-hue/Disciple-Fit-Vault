@@ -82,11 +82,10 @@ Insight operates at the explicit level. The implicit belief is not accessible to
 
   This is the mechanism by which Declaration, Lie Eliminator, and Covenant Truth installation actually work on implicit beliefs — when they work. The juxtaposition is Scripture-as-living-truth meeting the activated lie, not Scripture as propositional correction. When they fail, it is almost always because the implicit belief was never activated (cognitive substitution, not reconsolidation) or the juxtaposition was not emotionally live.
 
-  The "moment of meeting" (BCPSG / Fosha) is also a reconsolidation event — the relational disconfirmation ("I am not alone / I am not too much")
-  meets the activated implicit belief in a live felt experience.
+  The "moment of meeting" (BCPSG / Fosha) is also a reconsolidation event — the relational disconfirmation ("I am not alone / I am not too much") meets the activated implicit belief in a live felt experience.
 
 ---
-within the non-clinical population I'm scoped to serve, a skilled practitioner with a well-designed relational container may produce comparable benefit to what a psychologist would produce with the same population — that's testable and plausible.
+**within the non-clinical population I'm scoped to serve, a skilled practitioner with a well-designed relational container may produce comparable benefit to what a psychologist would produce with the same population — that's testable and plausible.**
   
 ---
 
