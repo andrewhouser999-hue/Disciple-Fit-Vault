@@ -1,6 +1,6 @@
 ---
 created: 2026-05-20
-basis: "Fosha (2000) *The Transforming Power of Affect*, Schore (2012) *The Science of the Art of Psychotherapy*, Stern (2004) *The Present Moment in Psychotherapy and Everyday Life*, Ecker/Hulley/Hulley (2012) *Unlocking the Emotional Brain* — synthesized for Stage 4b practitioner reference; reconsolidation mechanism section added 2026-05-22"
+basis: "Fosha (2000) *The Transforming Power of Affect*, Schore (2012) *The Science of the Art of Psychotherapy*, Stern (2004) *The Present Moment in Psychotherapy and Everyday Life*, Ecker/Hulley/Hulley (2012) *Unlocking the Emotional Brain* — synthesized for Stage 4b practitioner reference; reconsolidation mechanism section added 2026-05-22; Relational–Body Response Fork (Gendlin 1981 *Focusing*; McMahon & Campbell 1985 *Bio-Spirituality*) added 2026-07-18, extending the reconsolidation mechanism to a second, body/felt-sense route"
 tags:
   - curriculum
   - practitioner-reference
@@ -104,7 +104,64 @@ This is the clinical argument — not merely the virtue argument — for the coa
 
 ---
 
-## IV. Skill Taxonomy
+## IV. The Response Fork — Relational vs. Body/Felt-Sense Route
+
+Once Category 1 tracking confirms something is emotionally live (Section II, Condition 1 — activation), the coach reads which of two qualities the live material carries and routes toward the corresponding response set. This is a live read, not a one-time triage — a session can move between routes if the quality of what's live changes.
+
+### Fork Signals
+
+| | Route A — Relational | Route B — Body/Felt-Sense |
+|---|---|---|
+| **What's presenting** | The client's implicit pattern is enacting with the coach, right now | Something is live but not obviously about the coach |
+| **Enactment** | Present — pulling away, testing, managing, reaching for rescue | Absent — connection with the coach feels stable |
+| **Language** | Organized around anticipated relational outcome (being seen, left, judged, used) | Interior and undifferentiated — "it's just there," "I don't know what it is" |
+| **Response to coach's moves** | The stuck place visibly shifts, tightens, or guards depending on what the coach does | Doesn't track with relational moves — the block doesn't loosen or tighten based on relational offering |
+
+**If signals are mixed or unclear, default to Route A.** Missing live enactment is the costlier error — see Category 1's "noticing enactments" skill.
+
+### Route A — Mechanism (unchanged)
+
+Section II's reconsolidation mechanism as already established: activation, prediction error (the coach's disconfirming presence while a specific relational belief is live), juxtaposition. Deploy the relational moves in Category 3 — undoing aloneness, meta-processing the relational experience, authentic response at now moments.
+
+### Route B — Mechanism (extension of Section II)
+
+*This is a design extension of the reconsolidation logic in Section II, not an independently established claim. Hold it with the same caution as the "moments of meeting" theological inference in Section III.*
+
+Route B material has no relational content to disconfirm yet — that is precisely why it is not routing through enactment. But a different implicit belief is almost always live in that moment, one level above content: **that being uncertain, inarticulate, or unresolved in front of another person is not safe.** Most clients who cannot yet name what they are sitting with learned, somewhere, that not having an answer yet is exactly what loses a room — impatience, a fix offered too fast, a subject change, disengagement.
+
+Read against Section II's three conditions, Route B still targets a relational belief — just a different one than Route A:
+
+- **Activation:** the client turns inward without an answer ready. The belief ("this isn't safe to sit in, in front of someone") goes live the moment they cannot immediately produce content.
+- **Prediction error:** the coach's sustained, unhurried, non-rescuing presence while the client has nothing yet — no fix offered, no filled silence, no requirement that the client produce something usable.
+- **Juxtaposition:** the belief is live at the same moment the coach is visibly, patiently still there with the not-knowing.
+
+Under this reading, the Route B sequence below does two things at once: it helps the client find language for a felt sense (its stated purpose in Focusing), and it serves as the disconfirming event for the interiority belief (Section II's purpose, extended). The two are not competing — the second is what makes the first survivable for a client whose system expects punishment for not-yet-knowing.
+
+### The Route B Sequence
+
+*Source: Gendlin's Focusing method, condensed to the moves usable within coaching scope; the Ask step adapted through McMahon and Campbell's Bio-Spiritual Focusing. See Source Log.*
+
+| Step | Move | Coach Discipline |
+|---|---|---|
+| **1. Attend** | "As you sit with that — not what you think about it, what do you notice in your body right now?" Then wait. | Hold space against the pull to fill it. If nothing surfaces, stay here — do not push to the next step. |
+| **2. Handle** | "If that had a word, or a quality, or an image — even a rough one — what comes?" | Offer, don't require. No implied pressure if nothing comes. |
+| **3. Resonate** | "Does that fit, or is it not quite right?" | Check without evaluating. A word that doesn't fit is not a failure — invite another, or drop back to Step 1. |
+| **4. Ask** | "As you stay with that — is there anything you sense God saying here, or anything you want to bring to Him about it?" | Bridges into In-Session Prayer (Tool Library, implicit layer) — already within coaching scope. An unanswered ask is a complete outcome. |
+| **5. Receive** | Witness without interpreting, summarizing, or moving to application. | Matches the existing "allow transformation markers to land" guidance in Category 3. |
+
+**What must not happen at any step:** any signal — tone, pacing, a follow-up question — implying the client should have produced something by now. That signal confirms the exact belief this sequence exists to disconfirm.
+
+**Stop rule:** if activation escalates rather than settles, affect flattens into glazed or absent presentation, or any Section VIII referral signal appears — stop the sequence immediately, drop to Category 2 presence work with no further invitation, and apply the Referral Signals protocol. This sequence never overrides that protocol.
+
+### Not Mutually Exclusive
+
+A session can move between routes. Relational work (Route A) is often what makes material emotionally live in the first place; once live, the coach may find what surfaces is more interior than relational and shift to Route B. Conversely, Route B material that turns out to be "about" the coach or another specific person hands off to Route A. Track the live signal, not a fixed classification of the client.
+
+**Predisposing signal, not a determining rule:** clients with a confirmed injury-shaped wound (Warrior, Hermit, False Noble — Character Wound Diagnostic Tool) are more likely to present Route A material, since the wound itself is relationally organized. Clients whose material is diffuse conditioning rather than injury may be more likely to present Route B material. Use this as a soft prior, never as a substitute for reading the live signal.
+
+---
+
+## V. Skill Taxonomy
 
 These four categories organize what the coach is doing at Stage 4b. They are not sequential steps. They operate simultaneously as the session unfolds.
 
@@ -149,7 +206,7 @@ These are active moves — but they are light moves. Stage 4b response is charac
 |---|---|
 | **Slow down / extend silence** | Let something land. The implicit level processes slower than cognition. Silences longer than feel comfortable. Do not fill. |
 | **Follow the affect, not the content** | When affect appears, stay there. "Stay with that" — not "so what does that mean?" The content will be accessible later; the affect may not return if you leave it now. |
-| **Invite felt-sense attention** | When the client is in contact with the stuck place but cannot articulate it — redirect from content to the pre-verbal: *"As you sit with that — not what you think about it, what do you notice in your body right now?"* Then wait. The felt sense forms slowly; hold space against the pull to fill it with another question or reframe. Distinct from somatic intervention — this is an invitation to attend, not a directive to process body sensation. If something surfaces (a word, a quality, a physical location), stay with it the same way you would stay with affect: "Stay with that." |
+| **Felt-sense route (Route B)** | When tracking indicates Route B rather than Route A — see Section IV, The Response Fork — deploy the Attend → Handle → Resonate → Ask → Receive sequence there instead of the relational moves in this table. |
 | **Name the visible without interpreting** | "Something just shifted." "I notice you went quiet." "Something is happening right now." Observation — not analysis. Name what you can see without telling the client what it means. |
 | **Authentic response at now moments** | Personal, specific, fitting — not scripted. What does *this* person, in *this* moment, with *this* history need from *you*? The authentic move cannot be planned. |
 | **Meta-processing the relational experience** | Name and briefly stay with the experience of being in the coaching relationship. "What's it like to feel that here, with me right now?" "What happened for you just then?" This is the move most directly within coaching scope at Stage 4b. |
@@ -174,7 +231,7 @@ These are the moves that break implicit-level processing. Most of them feel like
 
 ---
 
-## V. The AEDP State Model — Tracking Tool
+## VI. The AEDP State Model — Tracking Tool
 
 Use this as a tracking instrument, not a protocol. You are reading which state the client is in, not moving them through states. The client moves (or doesn't) on the Spirit's timing.
 
@@ -187,7 +244,7 @@ Use this as a tracking instrument, not a protocol. You are reading which state t
 
 ---
 
-## VI. Scope Boundary
+## VII. Scope Boundary
 
 This section is load-bearing. Stage 4b requires precise knowledge of what is within and outside coaching scope.
 
@@ -217,7 +274,7 @@ This section is load-bearing. Stage 4b requires precise knowledge of what is wit
 
 ---
 
-## VII. Referral Signals
+## VIII. Referral Signals
 
 At Stage 4b, implicit material that has been blocked may become accessible. This is a formation opportunity — and a referral trigger. Know the difference.
 
@@ -233,7 +290,7 @@ At Stage 4b, implicit material that has been blocked may become accessible. This
 
 ---
 
-## VIII. Failure Mode Guards
+## IX. Failure Mode Guards
 
 ### Legalism
 
@@ -255,7 +312,7 @@ At Stage 4b, implicit material that has been blocked may become accessible. This
 
 ---
 
-## IX. Connection to Existing Documents
+## X. Connection to Existing Documents
 
 | Document | Connection |
 |---|---|
@@ -266,6 +323,7 @@ At Stage 4b, implicit material that has been blocked may become accessible. This
 | **God-Representation Deepening Tool** | God-representation work may encounter implicit-level resistance; Stage 4b skills apply when implicit memory — not cognitive distortion — is the block |
 | **Secured in Father — Practitioner Design Notes** | Coach's own formation as prerequisite; the design notes address formation work at the implicit level that builds the coach's capacity for Stage 4b |
 | **Whole-Person Identity Framework** | Anthropological grounding — the implicit level is located in the soul's body and habituated will; this document's mechanism layer (Thompson) supports Stage 4b's neurobiological framing |
+| **Covenant Identity — Tool Library** | The Route B "Ask" step (Section IV) bridges into In-Session Prayer, already listed there as a coaching-safe implicit-layer tool |
 
 ---
 
@@ -283,7 +341,10 @@ At Stage 4b, implicit material that has been blocked may become accessible. This
 | Stern, D.N. (2004). *The Present Moment in Psychotherapy and Everyday Life.* W.W. Norton. | **Theoretical** | Present moments; now moments; moments of meeting |
 | Stern, D.N. et al. (1998). "The process of therapeutic change involving implicit knowledge." *Infant Mental Health Journal, 19(3),* 300–308. | **Theoretical/Supported** | Implicit relational knowing; "something more than interpretation" |
 | Lyons-Ruth, K. (1998). "Implicit relational knowing." *Infant Mental Health Journal, 19(3),* 282–289. | **Theoretical/Supported** | Foundational concept paper; procedural relational memory |
+| Gendlin, E.T. (1981). *Focusing* (2nd ed.). Bantam Books. | **Theoretical** | Felt sense construct; six-step method condensed into the Route B Attend/Handle/Resonate sequence (Section IV) |
+| Hendricks, M.N. (2001). "Focusing-oriented/experiential psychotherapy." In D.J. Cain & J. Seeman (Eds.), *Humanistic Psychotherapies: Handbook of Research and Practice.* American Psychological Association. | **Supported** | Outcome research linking client felt-sense/experiencing level to therapeutic outcome across studies |
 | Willard, D. (2002). *Renovation of the Heart.* NavPress. | **Expert opinion** | VIM framework; disciplines as conditions not causes |
+| McMahon, E. & Campbell, P. (1985). *Bio-Spirituality: Focusing as a Way to Grow.* Loyola University Press. | **Expert opinion** | Spiritual-direction adaptation of Focusing; basis for the Route B "Ask" step treating felt-sense attending as prayer, not psychological processing |
 | Nader, K., Schafe, G.E. & LeDoux, J.E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406, 722–726. | **Supported** | Foundational memory reconsolidation mechanism; lability, protein synthesis requirement, labile window — the neurological basis for why implicit belief activation is required before relational disconfirmation can produce structural change |
 | Ecker, B., Hulley, R. & Hulley, L. (2012). *Unlocking the Emotional Brain.* Routledge. | **Supported/Theoretical** | Clinical translation of reconsolidation neuroscience; juxtaposition conditions; explains mechanistically why Stage 4b relational presence produces structural change where explicit tools cannot; failure mode analysis (extinction vs. reconsolidation) |
 | Schiller, D. et al. (2010). Preventing the return of fear in humans using reconsolidation update mechanisms. *Nature*, 463, 49–53. | **Supported** | Human evidence for reconsolidation; 1-year follow-up showing no return of fear when extinction training occurred within reconsolidation window; distinction from extinction confirmed in human subjects |
