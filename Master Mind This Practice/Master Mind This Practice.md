@@ -48,10 +48,14 @@ Educate & Train the Client on:
 *Faith-integrated coaching built on the covenant identity declared in Christ, evidence-based psychology, and the conviction that formation is God's work — and that humans can proactively cooperate with it.*
 
 
+Define "false identity." How is it different from a behavior pattern?
+self-derived, misaligned identity, and "deeper than behavior" — but the definition's load-bearing element is missing: false identity is specifically the organizing narrative built around a false covenant object (what the client trusts for security, significance, or identity instead of God), not just any misaligned self-definition. Behavior-patterns description ("ways of thinking embedded in implicit systems that govern behavior") — false identity is deeper than behavioral description, full stop, not a claim about where behavior patterns live.
+
+
 **This is the LINCHPIN!**  
   The Neuroscience Foundation
 
-  Standard learning theory produces extinction — a new association suppresses the old one, but the original encoding remains latent. It can be fffffffffreinstated by stress, context shift, or time. This is why CBT gains erode.
+  Standard learning theory produces extinction — a new association suppresses the old one, but the original encoding remains latent. It can be reinstated by stress, context shift, or time. This is why CBT gains erode.
 
   Reconsolidation is structurally different. When a memory is reactivated, it briefly becomes labile — physically unstable, protein synthesis dependent — and can be rewritten at the synaptic level (LeDoux; Nader et al., 2000). The original encoding is not suppressed. It is replaced. There is no reinstatement because the original trace is gone.
 
