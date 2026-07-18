@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
-basis: "[[Source Library — Trusted Contributors & Frameworks]] — parent contributor reference for the broader coaching practice; practitioner literature survey — annotated reading guide specific to the Covenant Identity model"
+updated: 2026-07-17
+basis: "[[Source Library — Trusted Contributors & Frameworks]] — parent contributor reference for the broader coaching practice; practitioner literature survey — annotated reading guide specific to the Covenant Identity model. 2026-07-17: added Nouwen (Life of the Beloved) and Manning (Abba's Child), both already load-bearing in [[Covenant Identity — The Interior Life as Telos]] and [[Covenant Identity — Matched Declaration Architecture]] but previously absent from this index."
 tags: [resource-library, reference, contributors]
 ---
 
@@ -18,7 +19,7 @@ tags: [resource-library, reference, contributors]
 
 | Tier | Criteria | Authors |
 |---|---|---|
-| **Tier 1 — Read First** | Direct session impact; most framework-critical | Thompson, Willard, Allender, Barton, Anderson (*Victory*), Bonhoeffer, Foster |
+| **Tier 1 — Read First** | Direct session impact; most framework-critical | Thompson, Willard, Allender, Barton, Anderson (*Victory*), Bonhoeffer, Foster, Nouwen, Manning |
 | **Tier 2 — Read Next** | High value; builds depth and range | Brueggemann, Billings, Ferguson, Crabb, Welch, Tripp, Benner, Murray, Wright, Siegel, Thomas, Tozer, Cloud/Townsend, Payne |
 | **Reference Only** | Depth when needed; academic or specialized | Robertson, Horton, Volf, Fee, Peterson, Young, Bowen, Anderson (*Bondage Breaker*), Yehuda, C. Wright, Plantinga, Hauerwas, Swann, McAdams |
 
@@ -36,6 +37,14 @@ Practical, widely used. Lists identity statements rooted in union with Christ. L
 
 **Curt Thompson — *Anatomy of the Soul* and *The Soul of Shame***
 Neuroscience + interpersonal neurobiology + theology of shame/identity. Directly relevant to this model's implicit memory mechanism (how shame is stored below conscious theology and why attunement and encounter shift it). Shame as a disruption of covenant belonging; healing through attunement and truth. Very strong fit for this work.
+*Priority: Tier 1*
+
+**Henri Nouwen — *Life of the Beloved: Spiritual Living in a Secular World* (1992)**
+The clearest sustained account of belovedness as constitutive identity rather than achieved status — and the only source in this list that supplies a mechanism for how belovedness moves from stated fact to lived identity, rather than just asserting the claim. Four movements: **Taken** (given, prior to any selection process), **Blessed** (spoken and heard, not merely true in the abstract), **Broken** (tested against real suffering and failure and found still standing), **Given** (extended outward, confirmed by becoming a source for others). Written for a secular friend with no Christian frame, which forces the claim to be operational rather than devotional. Already integrated into [[Covenant Identity — The Interior Life as Telos]] (Quality 6, Loved and Knowing It) and [[Covenant Identity — Matched Declaration Architecture]] (Track 5 — The Impostor / Constructed Self).
+*Priority: Tier 1*
+
+**Brennan Manning — *Abba's Child: The Cry of the Heart for Intimate Belonging* (1994)**
+The sharpest single-sentence crystallization of the same claim Nouwen develops at length: *"Define yourself radically as one beloved by God. This is the true self. Every other identity is illusion."* Names the false-self construct directly as "the impostor" — the self built to perform, prove, and manage perception in place of the self that is already loved. Functions best as a compressed declaration once Nouwen's four movements (or equivalent session work) have done the sequencing; the line lands as truism if spoken before the client's constructed identity has actually been named. Already integrated into [[Covenant Identity — The Interior Life as Telos]] (Quality 3, Free) and [[Covenant Identity — Matched Declaration Architecture]] (Track 5).
 *Priority: Tier 1*
 
 ---

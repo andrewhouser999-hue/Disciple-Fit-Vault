@@ -1,6 +1,7 @@
 ---
 created: 2026-05-22
-basis: "[[Covenant Identity — Author & Resource Reference]] — all book selections and calibration; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type calibration; [[Covenant Identity — Between-Session Library — Design Rationale]] — tool purpose and design decisions"
+updated: 2026-07-17
+basis: "[[Covenant Identity — Author & Resource Reference]] — all book selections and calibration; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type calibration; [[Covenant Identity — Between-Session Library — Design Rationale]] — tool purpose and design decisions. 2026-07-17: added Nouwen (Life of the Beloved) to Universal — not wound-specific, addresses the general false-self construction dynamic (Matched Declaration Architecture Track 5) underneath all three wound types."
 tags: [between-session, client-facing, reading-guide, bibliotherapy, phase-1, phase-2, phase-3, phase-4]
 ---
 
@@ -26,7 +27,7 @@ Assign alongside or shortly after the Formation Mechanism Guide — after the wo
 
 **False Noble:** Start with *Willard — Renovation of the Heart* (Phase 1–2). Establishes the training/trying frame before anything else — if the False Noble reads Crabb first, they may turn the "ache" into another performance item. *Crabb — Inside Out* follows in Phase 2. *Ferguson — Children of the Living God* and *Benner — Surrender to Love* are Phase 3–4 closes.
 
-**Universal:** *Anderson — Victory Over the Darkness* is the Phase 1 orientation for any wound type. *Thomas — Sacred Pathways* is useful early to prevent the client from concluding that formation practices "don't work" when the issue is temperament misfit. *Allender — To Be Told* and *Foster — Celebration of Discipline* belong in Phase 2–3 once the framework is established.
+**Universal:** *Anderson — Victory Over the Darkness* is the Phase 1 orientation for any wound type. *Nouwen — Life of the Beloved* pairs well with Anderson early (Phase 1–2) as the experiential companion to Anderson's more propositional list of identity statements — Nouwen supplies the felt "why" underneath Anderson's "what." Note that the book's third movement (Broken — belovedness tested against real suffering) will land thin for a client who hasn't yet done wound work; it can be reread with more weight in Phase 3–4 once the wound has actually been named. *Thomas — Sacred Pathways* is useful early to prevent the client from concluding that formation practices "don't work" when the issue is temperament misfit. *Allender — To Be Told* and *Foster — Celebration of Discipline* belong in Phase 2–3 once the framework is established.
 
 ---
 
@@ -106,6 +107,9 @@ Very short — under 110 pages. Written for people who need permission to stop. 
 
 **Neil Anderson — *Victory Over the Darkness*** | *Phase 1*
 The most accessible entry point for covenant identity work. Anderson organizes Scripture's declarations about who the believer is in Christ into a clear, readable framework. Less theological depth than others on this list, but high everyday accessibility. Good for grounding the identity language of the engagement early, before the deeper work begins.
+
+**Henri Nouwen — *Life of the Beloved*** | *Phase 1–2, reread Phase 3–4*
+Written for a friend with no Christian background, which makes the claim unusually direct: you are the Beloved before you are anything else you have built or been given. Nouwen names four movements belovedness has to move through before it functions as identity rather than a nice idea — Taken (given, not earned), Blessed (spoken and heard, not just believed), Broken (tested against real suffering and still standing), and Given (extended toward someone else). Read it early for the shape of the claim. It will likely mean more the second time, once you've done some of the harder work in this engagement — the Broken movement especially tends to land only after a real wound has been named and worked, not before.
 
 **Gary Thomas — *Sacred Pathways*** | *Phase 1–2*
 Nine spiritual temperaments — the distinct ways different people most naturally encounter God. Before working through the formation practices in this engagement, it is useful to understand which door the Spirit uses most naturally for you. Reduces the false conclusion that a practice "doesn't work" when the real issue is that it doesn't fit how you are made.

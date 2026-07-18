@@ -1,7 +1,7 @@
 ---
 created: 2026-05-19
-updated: 2026-06-25
-basis: "Gospel sources (Matthew, Mark, Luke, John), Psalms; Willard (Renovation of the Heart, The Divine Conspiracy), Benner (The Gift of Being Yourself, Surrender to Love), Manning (Abba's Child), Berry (The Peace of Wild Things, Sabbath Poems, Manifesto: The Mad Farmer Liberation Front), Herbert (Love III, The Flower) — two versions: V1 Willard/Benner/Manning; V2 Berry/Herbert woven in"
+updated: 2026-07-17
+basis: "Gospel sources (Matthew, Mark, Luke, John), Psalms; Willard (Renovation of the Heart, The Divine Conspiracy), Benner (The Gift of Being Yourself, Surrender to Love), Manning (Abba's Child), Nouwen (Life of the Beloved), Berry (The Peace of Wild Things, Sabbath Poems, Manifesto: The Mad Farmer Liberation Front), Herbert (Love III, The Flower) — two versions: V1 Willard/Benner/Manning/Nouwen; V2 Berry/Herbert woven in. Nouwen added 2026-07-17."
 tags: [practitioner-reference, telos, sanctification, inner-life, vision-document]
 ---
 
@@ -77,6 +77,8 @@ Before Jesus healed anyone, before he taught anyone, before the ministry began �
 Most people live their whole lives trying to arrive at the place Jesus started from. They believe, in some cognitive register, that they are loved. But the interior operates from a different data set — the accumulated evidence of early relationships, of failures, of silences where approval should have been. The actual felt center of life is performance, not reception.
 
 Benner writes: *"The place to begin is to know that you are deeply known and deeply loved."* Not as a starting affirmation but as the thing that reorganizes everything downstream. The person who lives from love does not need to earn safety. They already have it. And it shows in everything — how they speak, how they receive criticism, how they sit with silence, how they treat the person who has nothing to offer them.
+
+Henri Nouwen's *Life of the Beloved* (1992) names why so many people can believe this in principle and still not *know* it, in the sense this quality means. The fact of belovedness has to move through four stages before it functions as identity rather than sitting as inert information. He names them **Taken** — belovedness as a given fact, prior to any selection process, not earned and not granted because of qualification; **Blessed** — the fact has to be spoken and heard, not merely true in the abstract, because an unspoken truth does not organize an interior life; **Broken** — belovedness has to survive contact with real suffering and failure, or it was never load-bearing — it was a mood, not an identity; and **Given** — belovedness that is not extended outward curdles into self-focus, and is confirmed, not diminished, by becoming a source for others. Most people who say they "believe" they are loved have only completed the first movement. They have never had it spoken to them and received as address. They have never tested it against real failure and found it still standing. And they have never let it move through them toward someone who needed it. Knowing — the kind of knowing this quality names — requires all four.
 
 ---
 
@@ -245,6 +247,8 @@ That last line. *So I did sit and eat.* That is what it looks like to know you a
 
 David Benner adds the experiential texture: *"The place to begin is to know that you are deeply known and deeply loved."* Not as a starting affirmation but as the thing that reorganizes everything downstream.
 
+Henri Nouwen's *Life of the Beloved* (1992) names why so many people can believe this in principle and still not *know* it, in the sense this quality means. The fact of belovedness has to move through four stages before it functions as identity rather than sitting as inert information: **Taken** (a given fact, prior to any selection process), **Blessed** (spoken and heard, not merely true in the abstract), **Broken** (tested against real suffering and failure and found still standing), and **Given** (extended outward, confirmed by becoming a source for others rather than a possession held alone). Most people who say they "believe" they are loved have only completed the first movement. Knowing — the kind of knowing this quality means — requires all four.
+
 ---
 
 ### 7. Truthful Without Cruelty
@@ -313,7 +317,7 @@ Hold this picture the way a gardener holds a knowledge of what a plant fully gro
 
 **Primary sources:** Matthew, Mark, Luke, John (ESV); Psalms 23, 27, 42, 63, 131 (ESV); Philippians 4, 2 Corinthians 4, Ephesians 4, 2 Timothy 4 (ESV)
 
-**Primary contributors:** Dallas Willard (*The Divine Conspiracy*, *Renovation of the Heart*); David Benner (*The Gift of Being Yourself*, *Surrender to Love*); Brennan Manning (*Abba's Child*); Wendell Berry (*The Peace of Wild Things*, Sabbath Poems, *Manifesto: The Mad Farmer Liberation Front*); George Herbert (*Love III*, *The Flower*)
+**Primary contributors:** Dallas Willard (*The Divine Conspiracy*, *Renovation of the Heart*); David Benner (*The Gift of Being Yourself*, *Surrender to Love*); Brennan Manning (*Abba's Child*); Henri Nouwen (*Life of the Beloved*); Wendell Berry (*The Peace of Wild Things*, Sabbath Poems, *Manifesto: The Mad Farmer Liberation Front*); George Herbert (*Love III*, *The Flower*)
 
 **Upstream documents:** [[Covenant Identity Coaching — Full Model Reference]], [[Covenant Identity — Whole-Person Identity Framework]], [[Covenant Identity — Diagnostic Lens Transition Logic]]
 

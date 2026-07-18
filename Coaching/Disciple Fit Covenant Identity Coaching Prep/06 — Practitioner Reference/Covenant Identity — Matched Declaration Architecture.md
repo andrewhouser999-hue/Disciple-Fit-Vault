@@ -1,12 +1,13 @@
 ---
 created: 2026-06-22
-basis: "Biblical exegesis (Rom 8, Gal 4, Eph 1) and CIC Stage 3 deployment framework — 2026-06-22 session"
+updated: 2026-07-17
+basis: "Biblical exegesis (Rom 8, Gal 4, Eph 1) and CIC Stage 3 deployment framework — 2026-06-22 session. 2026-07-17: added Track 5 (The Impostor / Constructed Self, Mark 1:9-11 / Colossians 3:1-4) and Nouwen's Life of the Beloved (1992) four-movement structure as Track 5's diagnostic layer."
 tags: [practitioner-reference, declaration, stage-3, wound-matched, identity-installation]
 ---
 
 # Covenant Identity — Matched Declaration Architecture
 
-**What this is:** The Stage 3 deployment reference for wound-matched covenant truth. Four wound categories, each matched to the specific scriptural framework that addresses it — not because other texts don't apply, but because these texts engage the exact lie structure each wound produces. Includes wound markers, the false identity statement, the ESV declaration text, exegetical rationale for the match, deployment timing, and connection to the Lie Eliminator and Identity Installer.
+**What this is:** The Stage 3 deployment reference for wound-matched covenant truth. Five identity tracks. Four are matched to discrete wound categories — not because other texts don't apply, but because these texts engage the exact lie structure each wound produces. The fifth (Track 5 — The Impostor / Constructed Self, added 2026-07-17) is not wound-specific; it addresses the general false-self construction dynamic that underlies all four wound-matched tracks and that also presents on its own in diffuse-conditioning clients with no single traceable injury. Includes wound markers, the false identity statement, the ESV declaration text, exegetical rationale for the match, deployment timing, and connection to the Lie Eliminator and Identity Installer.
 
 **When used:** Stage 3 (Covenant Truth Received). After Stage 2 has named the specific false identity, this document tells the practitioner which declaration framework to reach for and how to deploy it. Also used in Lie Eliminator development (counter-truth sourcing) and Identity Installer category work.
 
@@ -232,6 +233,68 @@ Primary layers: **New Creation** (Layer 3), **Loved as Son** (Layer 8), **Being 
 
 ---
 
+## Track 5 — The Impostor / Constructed Self
+
+**Structural note:** This track differs in kind from Tracks 1-4. Each of those names a specific accusation against the client ("you are alone," "you are hired," "you are disqualified," "you are guilty") and matches it to the scriptural framework that answers that exact charge. Track 5 does not answer a specific accusation — it addresses the operating rule underneath all four: that identity itself must be earned, built, and defended rather than received as already given. Most clients will meet Track 5 as a foundational or closing layer alongside a wound-matched track. Some — particularly diffuse-conditioning presentations with no single traceable injury (see Character Wound Diagnostic Tool, "Before Typing" section) — will meet it as the primary track.
+
+### Wound Markers
+
+- God-image: variable; not a single characteristic distortion the way Tracks 1-4 have one. The impostor pattern can coexist with almost any God-image because its organizing anxiety is about the self, not primarily about God.
+- Presenting: identity felt as contingent on ongoing evidence — achievement, image management, being useful, being seen, being liked — rather than as a settled fact. A chronic, low-grade need to keep proving that does not resolve with success, because success only re-funds the account rather than closing the case.
+- Behavioral signature: image management persists even in private, unwitnessed moments; discomfort with unstructured time that produces no visible output; difficulty answering "who are you" apart from role, function, or relationship to others' approval; often presents as high-functioning across multiple domains rather than impaired in one — the construction is diffuse, not localized to a single fear.
+- In-session signal: the client can often state covenant truths accurately and still report "I know that, but it doesn't feel like the real me." Watch for language of a true self that is elsewhere, behind, or not yet arrived at, and for exhaustion from "keeping it up" without being able to name specifically what "it" is.
+
+### False Identity Statement
+
+*"I am who I perform, produce, or am perceived to be. I must build and defend this self because there is no self underneath it that could stand on its own. Every other version of me is safer than the real one, because I do not know if the real one is enough."*
+
+### Declaration Text — Mark 1:9-11; Colossians 3:1-4 (ESV)
+
+> In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, "You are my beloved Son; with you I am well pleased."
+
+> If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your minds on things that are above, not on things that are on earth. For you have died, and your life is hidden with Christ in God. When Christ who is your life appears, then you also will appear with him in glory.
+
+### Why This Text for This Wound
+
+**"You are my beloved Son; with you I am well pleased"** — spoken over Jesus before he preaches, heals, or performs a single recorded act of ministry. This is the direct scriptural pattern the impostor's operating rule violates: the rule says value must be built and demonstrated before belovedness can be granted; the text shows belovedness declared first, with no ministry evidence yet in view. The declaration to the client is that this is the order for every identity in Christ, not a privilege unique to Jesus.
+
+**"You have died, and your life is hidden with Christ in God"** — the most direct address to the impostor identity available in the canon. The construction project — the self that must be built, defended, kept visible, kept evidenced — is not described as improving or eventually retiring. It is declared dead: a completed, past-tense fact, not a future goal the client is working toward.
+
+**"Hidden... in God"** — hiddenness directly reverses the impostor's central anxiety, that safety and identity depend on being seen, verified, or proven. The text locates the true self's security in what is unseen. The client does not need to make the self visible or provable to be real; the opposite is true — the realest thing about them is currently hidden.
+
+**"When Christ who is your life appears, then you also will appear with him in glory"** — the appearing (being fully seen, known, and vindicated) is future and already guaranteed by another's action, not a present task the client must engineer through performance. This releases the pressure to prove the self now, because the proving has already been scheduled and secured elsewhere.
+
+### Exegetical Note for Practitioner
+
+Where Tracks 1-4 each answer one specific charge, Track 5 names the chassis the charge is riding on. A client can resolve the Track 2 performance lie in relation to God's approval and still operate the same construction pattern socially, professionally, or internally — because Track 2 addressed one application of the impostor structure, not the structure itself. When a client has done real work in a wound-matched track but reports the underlying pattern of self-construction is unchanged, Track 5 is very likely the layer that has not yet been named.
+
+### Nouwen's Four Movements — Diagnostic Layer
+
+Henri Nouwen's *Life of the Beloved* (1992) supplies a mechanism this track's declaration text states but doesn't itself sequence: belovedness has to move through four movements before it functions as identity rather than sitting as a believed fact that doesn't reach the impostor structure. When a client can state the Mark 1:11 / Colossians 3:1-4 declaration accurately but reports it "doesn't feel like the real me," use these four movements to locate which stage hasn't landed yet, rather than simply re-deploying the same declaration text:
+
+- **Taken/Chosen** — Can the client state belovedness as a given fact, prior to and independent of any selection process? If they keep locating the "why" in something they did or were chosen for, this movement hasn't landed — return to Mark 1:11's timing (spoken before any recorded ministry act).
+- **Blessed** — Has belovedness actually been *spoken to* the client and received as address, not just read or affirmed as a proposition? An unspoken truth does not function as identity. This is the piece most identity-work skips, and often the fastest to fix: speak the declaration text directly at the client, by name, rather than having them read or paraphrase it.
+- **Broken** — Has belovedness been tested against a real failure or suffering the client actually had, and found still standing? A client who has only held the declaration under good conditions has not yet completed this movement — the identity is a mood, not yet load-bearing. Bring a specific past failure into the room and ask whether the declaration holds there, not hypothetically but concretely.
+- **Given** — Is belovedness curdling into self-focus, or has the client begun extending it outward as a source for someone else? An impostor identity that has resolved theologically but never moved toward giving is incomplete — this is often the last movement to arrive and the best confirming evidence that the earlier three have taken.
+
+A client stuck at Taken/Blessed needs different work (naming and direct address) than a client stuck at Broken (activation against a real failure) or Given (a between-session assignment to extend the belovedness toward someone specific). Diagnosing which movement is missing is more useful than repeating the declaration text at a client for whom the text is already cognitively assented to.
+
+### Deployment Timing
+
+Two valid uses. (1) As a foundational or closing declaration alongside any of Tracks 1-4, once the specific wound-matched lie has been named and addressed — Track 5 names the deeper rule ("identity must be earned") that the specific wound was one expression of. (2) As the primary track when Stage 2 naming does not resolve into one of the four discrete wound categories but into a chronic, diffuse performance-identity pattern with no single traceable origin. Before treating Track 5 as sufficient on its own, cross-check against the Character Wound Diagnostic Tool's "Before Typing" section and the Wound-Led vs. Vision-Led Architecture reference to confirm a discrete injury is not being missed.
+
+**Watch:** If the client responds to "you have died" with anxiety rather than relief — a fear of losing the only self they know how to operate as, rather than a sense of release — the constructed identity is more load-bearing than initially assessed. Slow down. Do not treat the death language in verse 3 as automatically freeing; for a client who has never operated without the construction, it can register as a threat rather than good news until the "hidden... in God" and "beloved" language has been sufficiently inhabited first.
+
+### Lie Eliminator Connection
+
+Primary entries targeted: "I am not enough / not the right person," "I am an imposter," "I am adequate only when proven — the pending verdict," "I must build and defend who I am." Mark 1:9-11 and Colossians 3:1-4 are the primary counter-truth sources.
+
+### Identity Installer Connection
+
+Primary layers: **Loved as Son** (Layer 8), **Imago Dei** (Layer 1), **New Creation** (Layer 3).
+
+---
+
 ## Blended Presentations
 
 Most clients present with more than one wound category active, though one is usually primary. Common blends and practitioner guidance:
@@ -266,7 +329,7 @@ The Greek verb is *logizomai* — to reckon, count, consider as established fact
 
 2. **Activate before declaring.** Bring the implicit belief into the room emotionally before introducing the counter-truth. Ask the client to say the lie aloud, to locate it in the body, to notice what it feels like to hold it. Declaration into a live implicit belief creates conditions for reconsolidation. Declaration into a named but unactivated belief produces extinction.
 
-3. **Match track to wound.** Use the wound marker profile above to confirm which track is primary. When in doubt, ask: "What is the accusation — is it about who you are, what you've done, whether you are received, or whether you have to keep earning your place?" The answer maps to Track 3, Track 4, Track 1, or Track 2 respectively.
+3. **Match track to wound.** Use the wound marker profile above to confirm which track is primary. When in doubt, ask: "What is the accusation — is it about who you are, what you've done, whether you are received, or whether you have to keep earning your place?" The answer maps to Track 3, Track 4, Track 1, or Track 2 respectively. If the answer is none of these — the client describes the self itself as something that must be constantly built and defended, with no single accusation at the center — the primary track is Track 5.
 
 4. **Speak the text directly.** Read or speak the declaration text aloud in the session. Do not paraphrase it into abstraction. The text carries weight that a summary does not.
 
