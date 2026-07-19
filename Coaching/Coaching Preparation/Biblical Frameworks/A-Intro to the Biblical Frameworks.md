@@ -4,6 +4,8 @@ basis: TBD
 tags:
 ---
 
+**Start here:** [[1-Biblical Framework Governing Order — Organizing Philosophy & First Things]] — the three-tier (A-/B-/C-) architecture and reading order that governs everything below.
+
 This is one of the most sophisticated, integrative faith-formation systems I've seen — 20 documents that collectively constitute a full diagnostic-therapeutic framework. The architecture is coherent: Soils diagnoses the ground, the Beatitudes map the formation trajectory, the Lie Eliminator clears what blocks it, the Identity Installer builds what replaces it, the Greatest Commandment orients the whole toward a telos. The "We Become" series and the Spirit/Shame/Will/Emotion/Narrative files provide the theological sub-floor under all of it.
 
 Translates Directly to Self-Directed Use
