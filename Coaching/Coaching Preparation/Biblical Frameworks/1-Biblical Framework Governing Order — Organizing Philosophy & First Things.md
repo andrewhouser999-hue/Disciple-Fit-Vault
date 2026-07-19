@@ -218,23 +218,23 @@ What is not yet built:
 
 The lived response to the A- commands. The how of walking in the kingdom.
 
-| # | Posture | Scripture | Note |
-|---|---|---|---|
-| 1 | Walk by the Spirit / Be filled with the Spirit | Galatians 5:16–25; Ephesians 5:18 | |
-| 2 | Fix your eyes on Jesus | Hebrews 12:1–2 | The governing attention of the Christian walk |
-| 3 | Pray without ceasing / unbroken communion with God | 1 Thessalonians 5:17; Luke 18:1 | |
-| 4 | Feed on the Word / meditate on Scripture | Psalm 1:2–3; Joshua 1:8; Matthew 4:4 | |
-| 5 | Sabbath rhythm | Genesis 2:2–3; Exodus 20:8–11; Hebrews 4:9–11 | Rest as spiritual discipline and trust |
-| 6 | Community / one another life | Romans 12:10; Hebrews 10:24–25; John 13:34–35 | |
-| 7 | Confession and repentance as ongoing practice | 1 John 1:9; James 5:16 | |
-| 8 | Forgiveness as a practiced posture | Ephesians 4:32; Colossians 3:13; Matthew 6:14–15 | |
-| 9 | Humility as a practiced posture | Philippians 2:3–5; James 4:6–10; 1 Peter 5:5–6 | |
-| 10 | Gratitude / thankfulness in all things | 1 Thessalonians 5:18; Philippians 4:6; Colossians 3:15 | |
-| 11 | Suffering as formation / cruciformity | Romans 5:3–5; James 1:2–4; 2 Corinthians 4:17 | |
-| 12 | Service / others-first living | Mark 10:43–45; Philippians 2:3–4; Galatians 5:13 | |
-| 13 | Stewardship / faithfulness with what is entrusted | Matthew 25:14–30; Luke 16:10 | |
-| 14 | Witnessing / bearing fruit outward | John 15:16; Acts 1:8 | |
-| 15 | Solitude and silence | Mark 1:35; Luke 5:16; Matthew 6:6 | Withdrawing to be with the Father |
+| #   | Posture                                            | Scripture                                              | Note                                          |
+| --- | -------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
+| 1   | Walk by the Spirit / Be filled with the Spirit     | Galatians 5:16–25; Ephesians 5:18                      |                                               |
+| 2   | Fix your eyes on Jesus                             | Hebrews 12:1–2                                         | The governing attention of the Christian walk |
+| 3   | Pray without ceasing / unbroken communion with God | 1 Thessalonians 5:17; Luke 18:1                        |                                               |
+| 4   | Feed on the Word / meditate on Scripture           | Psalm 1:2–3; Joshua 1:8; Matthew 4:4                   |                                               |
+| 5   | Sabbath rhythm                                     | Genesis 2:2–3; Exodus 20:8–11; Hebrews 4:9–11          | Rest as spiritual discipline and trust        |
+| 6   | Community / one another life                       | Romans 12:10; Hebrews 10:24–25; John 13:34–35          |                                               |
+| 7   | Confession and repentance as ongoing practice      | 1 John 1:9; James 5:16                                 |                                               |
+| 8   | Forgiveness as a practiced posture                 | Ephesians 4:32; Colossians 3:13; Matthew 6:14–15       |                                               |
+| 9   | Humility as a practiced posture                    | Philippians 2:3–5; James 4:6–10; 1 Peter 5:5–6         |                                               |
+| 10  | Gratitude / thankfulness in all things             | 1 Thessalonians 5:18; Philippians 4:6; Colossians 3:15 |                                               |
+| 11  | Suffering as formation / cruciformity              | Romans 5:3–5; James 1:2–4; 2 Corinthians 4:17          |                                               |
+| 12  | Service / others-first living                      | Mark 10:43–45; Philippians 2:3–4; Galatians 5:13       |                                               |
+| 13  | Stewardship / faithfulness with what is entrusted  | Matthew 25:14–30; Luke 16:10                           |                                               |
+| 14  | Witnessing / bearing fruit outward                 | John 15:16; Acts 1:8                                   |                                               |
+| 15  | Solitude and silence                               | Mark 1:35; Luke 5:16; Matthew 6:6                      | Withdrawing to be with the Father             |
 
 > [!info] Addition Worth Considering
 > A posture of perpetual and skilled self-examination — identifying what is blocking a disciple from living these out. Scriptural support for this belongs under C- Diagnostic Lenses.
