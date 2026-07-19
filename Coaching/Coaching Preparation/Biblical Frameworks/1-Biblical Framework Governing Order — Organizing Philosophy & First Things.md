@@ -45,6 +45,8 @@ The Biblical Frameworks are organized into three tiers, each answering a distinc
 > **Why → How → Where am I.**
 > You cannot operate (B-) without first orienting (A-). You cannot diagnose (C-) meaningfully without a standard to measure against (A- and B-). The tiers build on each other in that order, and discipleship coaching follows that sequence.
 
+[[#Contents|↑ Back to Contents]]
+
 ---
 
 ## This as Discipleship Training Order
@@ -60,6 +62,8 @@ The same three tiers that organize this folder organize a complete discipleship 
 > [!note] Why the Order Matters
 > A disciple who cannot answer the A- question has no organizing center. A disciple who knows the A- answer but lacks B- formation tools has conviction without traction. A disciple who bypasses A- and B- and jumps to C- has diagnostics without a destination.
 
+[[#Contents|↑ Back to Contents]]
+
 ---
 
 ## A- First Things — Complete List
@@ -68,23 +72,27 @@ These are the biblical commands, priorities, and illustrations that Scripture it
 
 ### Commands Jesus Explicitly Named as First or Greatest
 
-**The Shema / Greatest Commandment** *(Matthew 22:37–38; Deuteronomy 6:4–5)*
-> "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment."
+**The Shema / Greatest Commandment**
+> [!quote] Matthew 22:37–38; Deuteronomy 6:4–5
+> You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment.
 
 The singular organizing loyalty of the entire Christian life. Jesus did not merely quote it — he named it first among all commands.
 
-**Love Your Neighbor as Yourself** *(Matthew 22:39–40)*
-> "And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets."
+**Love Your Neighbor as Yourself**
+> [!quote] Matthew 22:39–40
+> And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.
 
 Inseparable from the first. The entire moral architecture of Scripture hangs on this pair.
 
-**Seek First the Kingdom** *(Matthew 6:33)*
-> "But seek first the kingdom of God and his righteousness, and all these things will be added to you."
+**Seek First the Kingdom**
+> [!quote] Matthew 6:33
+> But seek first the kingdom of God and his righteousness, and all these things will be added to you.
 
 The organizing priority of daily life. Not seek also, seek eventually — seek *first*.
 
-**The New Commandment** *(John 13:34–35)*
-> "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples."
+**The New Commandment**
+> [!quote] John 13:34–35
+> A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples.
 
 Jesus called it his own. Love calibrated to the cross, not natural affection. The community's primary witness.
 
@@ -92,23 +100,27 @@ Jesus called it his own. Love calibrated to the cross, not natural affection. Th
 
 ### Commands That Name the Cost and Condition of Discipleship
 
-**Repent and Believe the Gospel** *(Mark 1:15)*
-> "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel."
+**Repent and Believe the Gospel**
+> [!quote] Mark 1:15
+> The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.
 
 The first word of Jesus' public ministry. The entry point into everything. There is no discipleship without this first movement.
 
-**Deny Yourself, Take Up Your Cross, Follow Me** *(Matthew 16:24; Mark 8:34; Luke 9:23)*
-> "If anyone would come after me, let him deny himself and take up his cross and follow me."
+**Deny Yourself, Take Up Your Cross, Follow Me**
+> [!quote] Matthew 16:24; Mark 8:34; Luke 9:23
+> If anyone would come after me, let him deny himself and take up his cross and follow me.
 
 The condition of discipleship stated plainly. Self-renunciation is not a discipline — it is the first requirement.
 
-**Abide in Me** *(John 15:4–5)*
-> "Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me... apart from me you can do nothing."
+**Abide in Me**
+> [!quote] John 15:4–5
+> Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me... apart from me you can do nothing.
 
 The source command. Not a posture among postures — the governing condition of all fruitbearing. Nothing downstream works if this one fails.
 
-**The Great Commission** *(Matthew 28:18–20)*
-> "Go therefore and make disciples of all nations, baptizing them... teaching them to observe all that I have commanded you."
+**The Great Commission**
+> [!quote] Matthew 28:18–20
+> Go therefore and make disciples of all nations, baptizing them... teaching them to observe all that I have commanded you.
 
 The final command of Jesus becomes the first ongoing mandate of the church. Mission is not an add-on — it is the shape of a disciple's life in the world.
 
@@ -116,33 +128,39 @@ The final command of Jesus becomes the first ongoing mandate of the church. Miss
 
 ### Foundational Orientations from the Whole Canon
 
-**Fear of the Lord** *(Proverbs 9:10; Psalm 111:10)*
-> "The fear of the Lord is the beginning of wisdom."
+**Fear of the Lord**
+> [!quote] Proverbs 9:10; Psalm 111:10
+> The fear of the Lord is the beginning of wisdom.
 
 Not anxiety — awe, reverence, holy sobriety before the living God. Wisdom does not begin with knowledge or skill. It begins with this posture. The canon names it the *beginning*.
 
-**Trust the Lord, Not Your Own Understanding** *(Proverbs 3:5–6)*
-> "Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."
+**Trust the Lord, Not Your Own Understanding**
+> [!quote] Proverbs 3:5–6
+> Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.
 
 The counter to autonomy. The first thing lost in the fall — the conviction that one's own judgment is sufficient. The first thing recovered in discipleship.
 
-**Be Holy as I Am Holy** *(1 Peter 1:16; Leviticus 11:44)*
-> "You shall be holy, for I am holy."
+**Be Holy as I Am Holy**
+> [!quote] 1 Peter 1:16; Leviticus 11:44
+> You shall be holy, for I am holy.
 
 The telos of the sanctified life. Not behavioral compliance — becoming what God is by nature. The governing aim of all formation.
 
-**Present Yourselves as Living Sacrifices** *(Romans 12:1)*
-> "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
+**Present Yourselves as Living Sacrifices**
+> [!quote] Romans 12:1
+> I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.
 
 Paul's "therefore" — the first practical response to the entire doctrinal foundation of Romans 1–11. All of Christian ethics follows from this first act of surrender.
 
-**Be Transformed by the Renewing of Your Mind** *(Romans 12:2)*
-> "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect."
+**Be Transformed by the Renewing of Your Mind**
+> [!quote] Romans 12:2
+> Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
 
 The mechanism of formation named plainly. The mind is the battleground; renewal is the work.
 
-**Glorify God in Everything** *(1 Corinthians 10:31; cf. Romans 11:36)*
-> "So, whether you eat or drink, or whatever you do, do all to the glory of God."
+**Glorify God in Everything**
+> [!quote] 1 Corinthians 10:31; cf. Romans 11:36
+> So, whether you eat or drink, or whatever you do, do all to the glory of God.
 
 The comprehensive telos. No domain of life is exempt from this organizing purpose.
 
@@ -150,25 +168,43 @@ The comprehensive telos. No domain of life is exempt from this organizing purpos
 
 ### First Things Illustrated by Jesus
 
-**The Lord's Prayer** *(Matthew 6:9–13; Luke 11:1–4)*
+**The Lord's Prayer**
+> [!quote] Matthew 6:9–13; Luke 11:1–4
+> Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven.
+
 The governing framework for prayer — and for priorities. The sequence is itself a first-things list: God's name, God's kingdom, God's will — all before human need is named. A disciple who prays this way is being trained in what comes first.
 
-**The Two Builders** *(Matthew 7:24–27)*
+**The Two Builders**
+> [!quote] Matthew 7:24–27
+> Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock.
+
 Everyone builds. The first thing is what you build on. The man who hears Jesus' words and *does* them builds on rock. The man who hears and does not act has no foundation regardless of what he constructs above ground. First things as foundation — not optional architecture.
 
-**Reconciliation Before Worship** *(Matthew 5:23–24)*
-> "So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift."
+**Reconciliation Before Worship**
+> [!quote] Matthew 5:23–24
+> So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift.
 
 Jesus used the word *first* — relational repair precedes religious act. Relationship priority is a first thing, not a preference.
 
-**The Vine and the Branches** *(John 15:1–17)*
+**The Vine and the Branches**
+> [!quote] John 15:1–17
+> I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit.
+
 The architecture of fruitbearing life. The branches do not produce fruit by effort — they bear it by remaining connected to the source. The entire teaching is an illustration of why abiding (A-) must precede and govern all operating postures (B-).
 
-**The Great Banquet** *(Matthew 22:1–14; Luke 14:15–24)*
+**The Great Banquet**
+> [!quote] Matthew 22:1–14; Luke 14:15–24
+> Come, for everything is now ready.
+
 The kingdom runs on invitation and response, not merit. The governing reality is the Father's initiative, not human qualification. Grace as first principle — the kingdom is not earned into but entered.
 
-**Salt and Light** *(Matthew 5:13–16)*
+**Salt and Light**
+> [!quote] Matthew 5:13–16
+> You are the salt of the earth... You are the light of the world.
+
 Identity precedes function. Jesus did not say *become* salt and light — he said *you are* salt and light. The declaration of identity is the first thing. Function flows from being, not the reverse.
+
+[[#Contents|↑ Back to Contents]]
 
 ---
 
@@ -227,6 +263,8 @@ Frameworks for reading where a person is in their formation. Not prescriptive �
 | 14 | Comprehensive Discipleship Markers | *(already built — see _Index folder)* | 15-category diagnostic |
 | 15 | Holistic formation diagnostic | — | Body, soul, spirit, relationships, vocation, rest — a biblical whole-person assessment grid; not yet fully built |
 
+[[#Contents|↑ Back to Contents]]
+
 ---
 
 ## Discipleship Sequencing Map
@@ -246,28 +284,40 @@ Discipleship is not linear — it is spiral. A disciple cycles through A-, B-, a
 
 Within any coaching session or discipleship conversation the movement follows **A → C → B → A:**
 
-1. **Anchor (A-)** — Begin with first things. What is God calling this person toward? What does the telos say about the presenting situation? This prevents the session from becoming purely problem-focused or behaviorally managed.
-2. **Locate (C-)** — Use a diagnostic lens to assess where the person actually is. What does the soil look like? Where on the Beatitudes arc? What fruit is being borne? The diagnostic creates an honest starting point without shame.
-3. **Equip (B-)** — Identify the operating posture or practice that addresses the current gap. What is the one B- move that, if practiced this week, would move the needle? Keep it singular and specific.
-4. **Return (A-)** — Close by reconnecting the B- practice back to A- telos. Why does this posture matter? How does it serve the person's calling, their love of God, their mission? The session ends with the person oriented to first things, not just equipped with a technique.
+| Step | Tier | Move | Guiding Question |
+|---|---|---|---|
+| 1 | A- | **Anchor** | What is God calling this person toward? What does the telos say about the presenting situation? |
+| 2 | C- | **Locate** | What does the soil look like? Where on the Beatitudes arc? What fruit is being borne? |
+| 3 | B- | **Equip** | What is the one B- move that, if practiced this week, would move the needle? |
+| 4 | A- | **Return** | Why does this posture matter? How does it serve the person's calling, their love of God, their mission? |
+
+1. **Anchor (A-)** — Begin with first things. This prevents the session from becoming purely problem-focused or behaviorally managed.
+2. **Locate (C-)** — Use a diagnostic lens to assess where the person actually is. The diagnostic creates an honest starting point without shame.
+3. **Equip (B-)** — Identify the operating posture or practice that addresses the current gap. Keep it singular and specific.
+4. **Return (A-)** — Close by reconnecting the B- practice back to A- telos. The session ends with the person oriented to first things, not just equipped with a technique.
 
 ### Movement Between Stages
 
 A person moves from one stage to the next not by completing a checklist but by demonstrating integration — that the previous stage's A- priorities have become operative convictions (not just known truths), the B- postures have become practiced rhythms (not just good intentions), and the C- diagnostics show sustained trajectory.
 
-**Entry → Foundation:** The soil is receptive. The person has genuinely repented and is organized around the Greatest Commandment. They are practicing the basic postures (prayer, Scripture, community). The presenting soil type is shifting.
-
-**Foundation → Growth:** The person is walking consistently in the Spirit. They are facing the cost of discipleship (denial of self) and not retreating from it. The Beatitudes diagnostic shows movement past poverty of spirit into hungering and thirsting.
-
-**Growth → Maturity:** The fruit test is producing others-focused fruitbearing. The person is not only growing — they are beginning to carry others. The Rich Young Ruler question can be asked honestly. Spiritual gifts are being identified and deployed.
+| Transition | What Integration Looks Like |
+|---|---|
+| **Entry → Foundation** | The soil is receptive. The person has genuinely repented and is organized around the Greatest Commandment. They are practicing the basic postures (prayer, Scripture, community). The presenting soil type is shifting. |
+| **Foundation → Growth** | The person is walking consistently in the Spirit. They are facing the cost of discipleship (denial of self) and not retreating from it. The Beatitudes diagnostic shows movement past poverty of spirit into hungering and thirsting. |
+| **Growth → Maturity** | The fruit test is producing others-focused fruitbearing. The person is not only growing — they are beginning to carry others. The Rich Young Ruler question can be asked honestly. Spiritual gifts are being identified and deployed. |
 
 ### How the Tiers Interact
 
 The tiers are not sequential layers — they are concentric. A- is always the center; B- and C- orbit it.
 
-- **A-** is visited at every session and every stage. It is not graduated past. The deepest disciples are the most A- anchored.
-- **B-** postures are cumulative. Early postures (prayer, Scripture, community) are never outgrown — later postures (suffering, witnessing, disciple-making) are added to them, not substituted for them.
-- **C-** diagnostics are revisited seasonally. The same lens (the Soils, the Beatitudes) will reveal something different at year one than at year five. Depth, not newness, is the goal.
+> [!important] A- — Always the Center
+> Visited at every session and every stage. It is not graduated past. The deepest disciples are the most A- anchored.
+
+> [!tip] B- — Cumulative
+> Early postures (prayer, Scripture, community) are never outgrown — later postures (suffering, witnessing, disciple-making) are added to them, not substituted for them.
+
+> [!question] C- — Revisited Seasonally
+> The same lens (the Soils, the Beatitudes) will reveal something different at year one than at year five. Depth, not newness, is the goal.
 
 **The failure modes at each tier:**
 
@@ -276,6 +326,8 @@ The tiers are not sequential layers — they are concentric. A- is always the ce
 | **A-** | The person has correct behavior but no organizing loyalty. They are doing discipleship without a disciple's heart. |
 | **B-** | The person knows first things but has no practiced rhythms. Conviction without traction. |
 | **C-** | The person has postures and practices but no honest self-assessment. Growth without accountability. |
+
+[[#Contents|↑ Back to Contents]]
 
 ---
 
