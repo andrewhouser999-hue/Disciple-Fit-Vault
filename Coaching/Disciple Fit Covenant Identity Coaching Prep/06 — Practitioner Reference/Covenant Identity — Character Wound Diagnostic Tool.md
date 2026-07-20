@@ -1,6 +1,6 @@
 ---
 created: 2026-05-11
-basis: "Allender (*The Wounded Heart*; *The Healing Path*) — character wound types as the primary framework; deepened with attachment classification (Ainsworth/Main), schema coping modes (Young), and IPNB shame architecture (Thompson); updated 2026-07-14 to add explicit optionality scope — the tool applies only when an injury-shaped wound is actually present, correcting an undocumented assumption (in [[Covenant Identity — Diagnostic Lens Transition Logic]]) that it applied universally to every client, including Vision-Led and non-injury Wound-Led entries — see [[Sunday-Monday Christian]] for the market evidence that this population is common, not rare"
+basis: "Allender (*The Wounded Heart*; *The Healing Path*) — character wound types as the primary framework; deepened with attachment classification (Ainsworth/Main), schema coping modes (Young), and IPNB shame architecture (Thompson); updated 2026-07-14 to add explicit optionality scope — the tool applies only when an injury-shaped wound is actually present, correcting an undocumented assumption (in [[Covenant Identity — Diagnostic Lens Transition Logic]]) that it applied universally to every client, including Vision-Led and non-injury Wound-Led entries — see [[Sunday-Monday Christian]] for the market evidence that this population is common, not rare; updated 2026-07-20 to cross-link [[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]], which extends the wound-sin notes with per-type scriptural anchors"
 tags:
   - character-wound
   - diagnostic-tool
@@ -13,7 +13,7 @@ tags:
 # Covenant Identity — Character Wound Diagnostic Tool
 *Practitioner Reference — secondary diagnostic layer for identifying character wound type and deepening the false identity picture*
 
-*Related: [[Covenant Identity — Whole-Person Identity Framework]]; [[Covenant Identity — Affections Discovery — In-Session Protocol]]; [[Covenant Identity — Diagnostic Lens Transition Logic]]*
+*Related: [[Covenant Identity — Whole-Person Identity Framework]]; [[Covenant Identity — Affections Discovery — In-Session Protocol]]; [[Covenant Identity — Diagnostic Lens Transition Logic]]; [[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]]*
 
 ---
 
@@ -23,7 +23,7 @@ tags:
 
 **Type identification is a provisional hypothesis, not a diagnosis.** Hold it lightly until multiple behavioral, story, and emotional signals confirm it across sessions. Behavioral markers in sessions 1-2 are often managed presentations — the type becomes clearest when the coaching relationship has enough trust to produce unguarded moments.
 
-**Wound and sin are both present in every type.** Each pattern began as a survival response to harm — and has been cultivated through repeated choice until it operates automatically. The coach who reads identity distortion as exclusively wound-produced will miss the moral agency dimension. The coach who reads it as exclusively sinful will miss the compassion the wound requires. Both are true.
+**Wound and sin are both present in every type.** Each pattern began as a survival response to harm — and has been cultivated through repeated choice until it operates automatically. The coach who reads identity distortion as exclusively wound-produced will miss the moral agency dimension. The coach who reads it as exclusively sinful will miss the compassion the wound requires. Both are true. For the theological account of what "sin" means at this level (not the act, the cultivated disposition itself) and how repentance engages it without collapsing into either denial of agency or shame that erases the wound's compassion claim, see [[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]] — it also supplies a scriptural anchor per type (Warrior/Hermit/False Noble) for how each pattern's wound-sin note functions as sin specifically.
 
 **God-image data takes time.** The God-image distortions listed below typically become visible in sessions 2-3, not session 1. They confirm type identification — they rarely initiate it. Hold them as confirmatory, not primary.
 

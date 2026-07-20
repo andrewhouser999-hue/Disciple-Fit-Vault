@@ -6,7 +6,7 @@ tags: [between-session, client-facing, psychoeducation, prayer, formation]
 
 # Covenant Identity — What Blocks Hearing God's Voice
 
-*Practitioner reference with embedded client-facing guide. Section II is assigned reactively — when a client names, in session, that they feel they aren't hearing from God or that prayer feels like it isn't landing — not deployed on a fixed phase schedule. Full exegetical basis: Ps 66:18; Isa 59:1-2; Prov 28:9; 1 Pet 3:7; Matt 5:23-24; Heb 3:7-4:2; Zech 7:11-13; Ezek 14:1-5; James 1:22-25; 1 John 3:21-22; Eph 4:30-31; 1 Thess 5:19-20; James 4:6-10.*
+*Practitioner reference with embedded client-facing guide. Section II is assigned reactively — when a client names, in session, that they feel they aren't hearing from God or that prayer feels like it isn't landing — not deployed on a fixed phase schedule. Full exegetical basis, framing notes, and interpretive debate: [[Covenant Identity — What Blocks Hearing God's Voice — Biblical Research]].*
 
 ---
 
