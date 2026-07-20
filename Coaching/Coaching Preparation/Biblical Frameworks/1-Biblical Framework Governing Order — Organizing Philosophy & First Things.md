@@ -262,6 +262,10 @@ Frameworks for reading where a person is in their formation. Not prescriptive �
 | 13 | Spiritual gifts inventory | Romans 12:6–8; 1 Corinthians 12; Ephesians 4:11–12 | How has God wired me to serve? Diagnostic of calling and deployment |
 | 14 | Comprehensive Discipleship Markers | *(already built — see _Index folder)* | 15-category diagnostic |
 | 15 | Holistic formation diagnostic | — | Body, soul, spirit, relationships, vocation, rest — a biblical whole-person assessment grid; not yet fully built |
+| 16 | Love-in-Action diagnostic (Love Languages alternative) | Matthew 22:39; 1 Corinthians 13:4–7; 1 John 3:18 | Not how a person prefers to *receive* love — how well they are actually *giving* it in observable practice, plus a follow-up plan to grow the gap areas. Flagged 2026-07-19, not yet built — see [[Diagnostic Lens Tools — Future Development Queue]] |
+
+> [!info] Flagged for Future Development
+> Andrew has queued four items from this catalog for the diagnostic-build pipeline: #16 (Love-in-Action), #3 (Parable of the Soils), #4 (Prodigal/Elder Brother), and further catalog items beyond those three. See [[Diagnostic Lens Tools — Future Development Queue]] for scope, build order, and the design pattern to follow.
 
 [[#Contents|↑ Back to Contents]]
 

@@ -4,11 +4,15 @@ basis: TBD
 tags:
 ---
 
+# The Business Notes
+
+## Professional Training & Consultation Options (Optional — Not in Running Total)
+
 ### Professional Training Investment — Trauma Recovery Coach Certification (Optional, Not in Running Total)
 *Researched July 2026. Certified Trauma Recovery Coach (CTRC) — International Association of Trauma Recovery Coaching (IAOTRC), founded 2017 by Bobbi L. Parish, MA, CTRC-S. This is a **recovery** model (individual, remedial, retrospective — Herman's stages of recovery / SAMHSA recovery-oriented care), distinct from **resilience** models (systemic, preventive, prospective) — see naming-collision note below. Not yet decided whether to pursue, and not yet decided whether one credential should serve both RPA and CIC or whether RPA needs a separate resilience-focused credential instead — kept separate from the required startup tally above.*
 
 | Program                             | Length                | Format                                                                                                | Tuition                                                                                                                                            | Notes                                                                                                                                                                                                                                                                                                                                                                                       |
-| ----------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | IAOTRC Initial Certification (CTRC) | 18 months to complete | Fully online — recorded weekly classes + bi-weekly live Q&A + observation/practice/supervision groups | $2,700 (early enrollment, by July 31, 2026) / $3,100 (standard) — $700 non-refundable deposit, or 6 monthly installments of $425 if paid over time | Next cohort starts Aug 18, 2026. Requires: 4 observation + 9 participation practice groups, 5 group supervision sessions, 5 triad practicum sessions (7.5 hrs total), written exam (80%+ pass), portfolio (video coaching session + case studies), and "demonstrate ethical compliance and recovery stability" — confirm directly with IAOTRC what this last item requires before enrolling |
 
 **Renewal:** Year 2 requires 25 group + 5 individual supervision hours (or 35 group hours alone) + 15 CE credits; every 2 years after, 15 CE credits + ethics review. $50 renewal fee.
@@ -47,34 +51,6 @@ tags:
 
 ---
 
-## Startup Expense Estimate (Running Tally)
-*Rough estimates, updated as real numbers replace guesses. Model assumption: work from home, no office/lease, stay small until volume forces a change.*
-
-### One-Time / Setup Costs
-| Item                                                     | Estimate       | Notes                                                                           |
-| -------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------- |
-| LLC — Articles of Organization                           | $100           | Nebraska SOS, online filing — see [[How to Start an LLC in Douglas County, NE]] |
-| LLC — Publication notice (Douglas County requirement)    | $150–$300      | 3 consecutive weeks, Daily Record or approved paper — unique to Nebraska        |
-| LLC — Proof of publication filing                        | $25            |                                                                                 |
-| LLC — Name reservation (optional)                        | $30            | Skip unless reserving before filing                                             |
-| EIN                                                      | $0             | Free via irs.gov                                                                |
-| Domain name (first 3 years) covenantidentitycoaching.com | $31            | Cloudflare.com registered                                                       |
-| **Subtotal (one-time)**                                  | **~$287–$475** | Excludes optional name reservation                                              |
-
-### Recurring Costs (Annual — Work-from-Home, Stay-Small Model)
-| Item                             | Estimate                            | Notes                                                                                                 |
-| -------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Professional liability insurance | $190–$600/yr                        | Virtual-only practice should land low end; get direct quote from CPH & Associates or Insurance Canopy |
-| Domain renewal                   | $10/yr                              | Cloudflare.com                                                                                        |
-| Google Workspace Business Email  | $7/yr                               | Google Workspace for @covenantidentitycoaching.com                                                    |
-| Tally.so                         | $0                                  | Free tier sufficient at alpha volume                                                                  |
-| Airtable                         | $0                                  | Free tier sufficient at alpha volume                                                                  |
-| Calendly                         | $0–$144/yr                          | Free tier may suffice; paid (~$12/mo) only if you need more event types/reminders                     |
-| Stripe                           | $0 base + ~2.9% + $0.30/transaction | Not a fixed cost — scales with revenue once charging begins                                           |
-| Business bank account            | $0                                  | Assume free business checking; verify with bank                                                       |
-| Bookkeeping (Wave, free tier)    | $0                                  | Upgrade to paid (QuickBooks ~$15–35/mo) only if volume demands it                                     |
-| **Subtotal (recurring, annual)** | **~$202–$764/yr**                   | Excludes Stripe per-transaction fees                                                                  |
-
 ### Professional Training Investment — Allender Center NFTC (Optional, Not in Running Total)
 *Researched July 2026. Narrative Focused Trauma Care® track — Story Workshop is the entry-point/personal-work experience (no certification); Levels I–III + Certification is the actual credentialing pathway. Not yet decided whether to pursue — kept separate from the required startup tally above.*
 
@@ -94,7 +70,7 @@ tags:
 *Researched July 2026. Confessional Community® model — Intensive is the entry-point/personal-work experience (no certification, no clinical prerequisite); Training Program is the actual leader-credentialing pathway, open to both clinicians and qualified non-clinicians. Delivered through New Story Behavioral Health / The Center for Being Known — not a standalone "Being Known LLC" program (that entity handles Curt Thompson's broader IPNB/spiritual-formation education and speaking work, not counselor credentialing). Not yet decided whether to pursue — kept separate from the required startup tally above.*
 
 | Program                                 | Length           | Format                                                                    | Tuition                                            | Notes                                                                                                                                                                                                                                                                                        |
-| --------------------------------------- | ---------------- | ------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------------- | ---------------- | ------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Confessional Community Intensive        | 3 days (Wed–Fri) | In-person, Falls Church, VA                                               | $1,750                                             | Not therapy, not certification; small group (6–8) story work + large group teaching led by Curt Thompson MD. Includes Thu/Fri lunch only; travel, lodging, other meals not included                                                                                                          |
 | Confessional Community Training Program | 12 months        | Hybrid — 2 in-person events (Falls Church, VA) + monthly virtual sessions | $525 application fee + $525/mo × 12 ≈ $6,825 total | Opening event Nov 11–13, 2026; closing event Sept 2027 (TBD); remote CC sessions 1st/3rd Tuesdays + core-issues teaching 2nd Tuesdays, Dec 2026–Aug 2027; CEUs via Seattle School of Theology & Psychology (amount TBD); requires online application + screening interview before acceptance |
 
@@ -117,6 +93,34 @@ But none of the certificate tracks above (Allender, Thompson, MI/MINT) actually 
 
 ---
 
+## Startup Expense Estimate (Running Tally)
+*Rough estimates, updated as real numbers replace guesses. Model assumption: work from home, no office/lease, stay small until volume forces a change.*
+
+### One-Time / Setup Costs
+| Item                                                     | Estimate       | Notes                                                                           |
+| -------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------- |
+| LLC — Articles of Organization                           | $100           | Nebraska SOS, online filing — see [[How to Start an LLC in Douglas County, NE]] |
+| LLC — Publication notice (Douglas County requirement)    | $150–$300      | 3 consecutive weeks, Daily Record or approved paper — unique to Nebraska        |
+| LLC — Proof of publication filing                        | $25            |                                                                                 |
+| LLC — Name reservation (optional)                        | $30            | Skip unless reserving before filing                                             |
+| EIN                                                      | $0             | Free via irs.gov                                                                |
+| Domain name (first 3 years) covenantidentitycoaching.com | $31            | Cloudflare.com registered                                                       |
+| **Subtotal (one-time)**                                  | **~$287–$475** | Excludes optional name reservation                                              |
+
+### Recurring Costs (Annual — Work-from-Home, Stay-Small Model)
+| Item                             | Estimate                            | Notes                                                                                                 |
+| -------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Professional liability insurance | $190–$600/yr                        | Virtual-only practice should land low end; get direct quote from CPH & Associates or Insurance Canopy |
+| Domain renewal                   | $10/yr                              | Cloudflare.com                                                                                        |
+| Google Workspace Business Email  | $7/yr                               | Google Workspace for @covenantidentitycoaching.com                                                    |
+| Tally.so                         | $0                                  | Free tier sufficient at alpha volume                                                                  |
+| Airtable                         | $0                                  | Free tier sufficient at alpha volume                                                                  |
+| Calendly                         | $0–$144/yr                          | Free tier may suffice; paid (~$12/mo) only if you need more event types/reminders                     |
+| Stripe                           | $0 base + ~2.9% + $0.30/transaction | Not a fixed cost — scales with revenue once charging begins                                           |
+| Business bank account            | $0                                  | Assume free business checking; verify with bank                                                       |
+| Bookkeeping (Wave, free tier)    | $0                                  | Upgrade to paid (QuickBooks ~$15–35/mo) only if volume demands it                                     |
+| **Subtotal (recurring, annual)** | **~$202–$764/yr**                   | Excludes Stripe per-transaction fees                                                                  |
+
 ### Excluded by Design (work-from-home, stay-small)
 Office lease/rent, utilities beyond existing home costs, furniture/equipment, staff/contractors — all $0.
 
@@ -127,36 +131,45 @@ Office lease/rent, utilities beyond existing home costs, furniture/equipment, st
 
 ---
 
-**AI Tools**
-Claude for authorship and productivity, video production/editing
-NotebookLM Learning and Studying anything
-Perplexity for Research
-Grok Build for coding (exceptionally better than Claude)
-Emergent for building apps and websites; consider Hostingers
-Blotato for content creation
-Claude for making money and for coding
-NanoBanana2 Generate AI imaging
-Voice Dictation
-Canvas for Social media carrasels
-Emergent good for creating websites
-Searchable for creating SEO
-Otter.ai for meeting notes
-www.biotato.com/agent - best AI app to humanize your blog posts generating leads
+## AI Tools
 
-# Revenue Models — Paid Challenge & Group Coaching
-*Researched and processed: May 2026*
+- **Claude** — authorship and productivity, video production/editing
+- **NotebookLM** — learning and studying anything
+- **Perplexity** — research
+- **Grok** — build for coding (exceptionally better than Claude)
+- **Emergent** — building apps and websites; consider Hostinger
+- **Blotato** — content creation
+- **Claude** — making money and for coding
+- **NanoBanana2** — generate AI imaging
+- **Voice Dictation**
+- **Canva** — social media carousels
+- **Emergent** — good for creating websites
+- **Searchable** — creating SEO
+- **Otter.ai** — meeting notes
+- [Blotato Agent](https://www.biotato.com/agent) — best AI app to humanize your blog posts, generating leads
 
 ---
-Core Competency: *identity integration* (growing into who the client already is before God, closing the gap between declared reality and lived experience)
-## The Paid Challenge Model
 
-### What It Is
+## Names
+
+- Formed & Free Advisory
+
+---
+
+## Revenue Models — Paid Challenge & Group Coaching
+*Researched and processed: May 2026*
+
+Core Competency: *identity integration* (growing into who the client already is before God, closing the gap between declared reality and lived experience)
+
+### The Paid Challenge Model
+
+#### What It Is
 A short, cohort-based paid experience (5–14 days) delivering real, visible transformation around one specific problem. Not a course. Not a free lead magnet. A paid, action-driven experience with a clear daily structure and a built-in conversion path to higher-ticket offers.
 
-### Why Paid, Not Free
+#### Why Paid, Not Free
 Paying filters out freebie-seekers. A $47 entry creates a buyer identity — these people show up, do the work, and convert to higher-ticket offers at 3–5x the rate of non-paying participants. Free challenges average 10–15% completion. Paid challenges hit 40–80%.
 
-### Structure
+#### Structure
 **Duration:** 5–14 days. Seven days is the sweet spot. Completion drops sharply after Day 9.
 
 **Each day has three components:**
@@ -168,12 +181,12 @@ Paying filters out freebie-seekers. A $47 entry creates a buyer identity — the
 
 **Delivery platform:** WhatsApp and Telegram produce the highest completion rates (70–80%) because participants already check them daily. CommuniPass is the platform built specifically for challenges — participants choose their delivery channel (WhatsApp, Telegram, email, or Discord) at signup. This choice alone improves completion by 35%.
 
-### Engagement Mechanics (Streak + AI-Assisted Nudge)
+#### Engagement Mechanics (Streak + AI-Assisted Nudge)
 7+ day streak participants complete at 6x the rate of non-streak participants; AI-integrated learning support shows roughly a 70% completion boost (2026 online-course completion data). Neither is currently built into the challenge structure.
 
 **Adjustment:** Add a visible streak counter to each daily post ("Day 3/7"), and use an AI-assisted daily reminder to personalize the task nudge based on the participant's prior-day reflection — the AI handles the reminder layer only; the coach still delivers the one daily personal response. This fits inside the existing ~30 min/day coach-time budget.
 
-### Pricing
+#### Pricing
 | Stage | Price Range | Purpose |
 |---|---|---|
 | First challenge | $27–$47 | Fill seats, generate testimonials, prove concept |
@@ -185,7 +198,7 @@ Paying filters out freebie-seekers. A $47 entry creates a buyer identity — the
 **Math on a modest first run:**
 $47 × 60 participants = $2,820 challenge revenue. 20% convert to $1,200 group program = $14,400. Total from one 7-day challenge: ~$17,220.
 
-### Conversion Mechanism
+#### Conversion Mechanism
 - Days 5–6: Plant the seed ("many of you are asking what comes next")
 - Day 6: Make the offer — specific price, specific start date, enrollment closes in 48 hours
 - Do not improvise the offer after the challenge ends; the offer must be ready before Day 1
@@ -195,7 +208,7 @@ $47 × 60 participants = $2,820 challenge revenue. 20% convert to $1,200 group p
 - 1–3% move directly to 1:1 coaching
 - Completers convert at 3–5x the rate of non-completers
 
-### Differentiation Against AI Substitution
+#### Differentiation Against AI Substitution
 *Trend note added July 2026*
 
 Nearly 1 in 3 U.S. adults — 2 in 5 among Gen Z/Millennials — now say AI spiritual advice is as trustworthy as advice from a pastor (Barna, 2026). The challenge's cheapest layer (video → task → reflection prompt) is information delivery — the exact thing AI can replicate. The CBC framework (CBT + Coaching + Biblical) is a content claim; content alone is what's most exposed to AI substitution.
@@ -205,7 +218,7 @@ Nearly 1 in 3 U.S. adults — 2 in 5 among Gen Z/Millennials — now say AI spir
 - Reflection prompts should ask for something only a human can receive well (a named struggle, a vulnerable disclosure) — this reinforces that a person, not a bot, is on the other end
 - Testimonials should highlight being seen/known, not just information gained
 
-### Common Fatal Mistakes
+#### Common Fatal Mistakes
 - Duration over 14 days
 - Polished long videos (kills completion — authenticity outperforms production)
 - Upsell introduced before Day 5
@@ -213,7 +226,7 @@ Nearly 1 in 3 U.S. adults — 2 in 5 among Gen Z/Millennials — now say AI spir
 - No peer accountability mechanism
 - Vague outcome ("mindset shift" does not convert; "identify and rewrite 3 specific limiting beliefs" does)
 
-### High-Converting Topics for a Faith-Based Niche
+#### High-Converting Topics for a Faith-Based Niche
 The formula: **specific pain + specific outcome + named framework.**
 
 - "7 Days to Breaking Free From People-Pleasing"
@@ -225,12 +238,12 @@ The CBC combination (CBT + Coaching + Biblical framework) is rare in the market.
 
 ---
 
-## The Group Coaching Model
+### The Group Coaching Model
 
-### What It Is
+#### What It Is
 A cohort-based transformation program (8–12 weeks) with weekly live group coaching calls, async community between calls, and limited individual touchpoints. Structured curriculum, fixed start/end dates, 8–15 participants. The second tier in the product ladder — fed by challenge graduates.
 
-### Structure Options
+#### Structure Options
 | Type | How It Works | Verdict |
 |---|---|---|
 | **Cohort-based** | Fixed start/end, everyone moves together | Best fit — mirrors covenant, accountability |
@@ -241,13 +254,13 @@ A cohort-based transformation program (8–12 weeks) with weekly live group coac
 
 **Caution — commitment fatigue:** 72% of consumers report "too many subscription services" (Netguru, 2026). For a cold or first-time list, a hard fixed-date commitment can be the friction point that kills conversion before the covenant framing ever lands. If the first cohort is filling from a cold or unproven list, consider a short rolling/hybrid on-ramp (2–4 week enrollment window feeding into one shared start date) rather than a single hard deadline. Reserve pure fixed-cohort rigidity for warm, challenge-qualified audiences.
 
-### Group Size
+#### Group Size
 **Optimal: 10–12 participants.**
 - Below 6: insufficient peer energy, harder to fill
 - Above 15: coach cannot facilitate real individual coaching moments; psychological safety breaks down
 - For vulnerable work (shame, stuck patterns, spiritual identity), safety requires small groups
 
-### Weekly Call Format (90 minutes)
+#### Weekly Call Format (90 minutes)
 1. Opening / prayer — 5 min
 2. Wins from the week — 10 min
 3. Core coaching block: group coaching one person's stuck point while others learn, or pair breakouts — 45 min
@@ -258,7 +271,7 @@ A cohort-based transformation program (8–12 weeks) with weekly live group coac
 
 **The hybrid model wins on retention:** Weekly group call + monthly 15-min individual check-in + async community. Provides personalization without overwhelming the coach.
 
-### Pricing
+#### Pricing
 Do not position group as "cheaper 1:1." Position it as transformation + community — a different product, not a discounted one.
 
 | Tier | Price | Includes |
@@ -270,7 +283,7 @@ Do not position group as "cheaper 1:1." Position it as transformation + communit
 **Revenue math (Standard, one cohort):**
 $1,197 × 12 participants = $14,364. Four cohorts/year = $57,456 — roughly 12–15 hours of total weekly time investment.
 
-### How to Fill a Group Cohort
+#### How to Fill a Group Cohort
 **The right sequence:** Run 2–3 challenges first. Challenge completers become the first group cohort. Testimonials from challenges fill subsequent cohorts.
 
 **For subsequent launches (30–45 day runway):**
@@ -282,7 +295,7 @@ $1,197 × 12 participants = $14,364. Four cohorts/year = $57,456 — roughly 12�
 
 **Do not launch with fewer than 6 enrolled.** If applications fall short, delay the cohort 2 weeks and run another sequence.
 
-### What Separates 80%+ Retention from 30%
+#### What Separates 80%+ Retention from 30%
 
 **High-retention groups do all of these:**
 - Cohort-based with fixed dates
@@ -299,7 +312,7 @@ $1,197 × 12 participants = $14,364. Four cohorts/year = $57,456 — roughly 12�
 2. Coach disappears from async community
 3. No early wins in Weeks 1–2
 
-### Platforms
+#### Platforms
 | Platform | Best For | Monthly Cost |
 |---|---|---|
 | **CommuniPass** | Challenges + groups combined | $29–$299 |
@@ -312,7 +325,7 @@ For a first group, Slack + Zoom + email is functional and zero risk. Move to Cir
 
 ---
 
-## How the Two Models Work Together
+### How the Two Models Work Together
 
 ```
 Paid Challenge ($47–$97, 7 days)
@@ -328,20 +341,19 @@ The challenge validates content, builds the list, generates testimonials, and pr
 
 ---
 
----
+## Ideas
 
-Create a mastermind disciple training, whereby you get counseled, coached, trained as an ambassador for Christ, equipped to create your own group.  DiscipleFit provides life coaching material for being cognitively informed, theologically grounded, disciple equipped, and more.  Sell to Christian coaches, counselors as a second income and a way to equip and clear the saints for the work of the ministry of Christ.  Transformative Discipleship.  Fills the church gap.  Becomes a community. 
+### Mastermind Discipleship Training Concept
+Create a mastermind disciple training, whereby you get counseled, coached, trained as an ambassador for Christ, equipped to create your own group. DiscipleFit provides life coaching material for being cognitively informed, theologically grounded, disciple equipped, and more. Sell to Christian coaches, counselors as a second income and a way to equip and clear the saints for the work of the ministry of Christ. Transformative Discipleship. Fills the church gap. Becomes a community.
 
+### Kingdom Authority & Alignment Reflections
+Assisting God's people advance, maturity rise, authority increase, alignment fall into place. Removing, clearing a way for the Lord in the hearts of men and women for God to shine through. Obedience becomes consistent, the identity becomes settled, alignment becomes visible, stepping into new patterns, the patterns of the past have fallen.
 
-Assisting God's people advance, maturity rise, authority increase, alignment fall into place. Removing, clearing a way for the Lord in the hearts of men and women for God to shine through. Obedience becomes consistent the identity becomes settled, alignment becomes visible, stepping into new patterns, the patterns of the past have fallen. 
+Clarity I now have exposes resistance. Obedience carries weight. *Exousia*, delegated authority, backed by Heaven, not forcing advancement, I am authorized for it. I've been carried into it. Surrounded by Heavenly Angels, as I participate with the Holy Spirit advancing the Kingdom. Isaiah 46:10 *"I make known the end from the beginning, from the ancient times, what is still to come."* [Oliver Lee — this video lands perfectly and completely](https://youtu.be/TKj4lf5-P9I?si=xDUCiopJZ0l0w34f)
 
-Clarity I now have exposes resistance. Obedience carries weight. *Exoucia*, delegated authority, backed by Heaven, not forcing advancement, i am authorized for it. I've been carried into it. Surrounded by Heavenly Angels, as I participate with the Holy Spirit advancing the Kingdom. Isaiah 46:10 *"I make known the end from the beginning, from the ancient times, what is still to come."*  Oliver Lee This video lands perfectly and completely https://youtu.be/TKj4lf5-P9I?si=xDUCiopJZ0l0w34f 
+**Kadem** — Ancient and already established. God does not discover the future, He prepares the future.
 
-*Kadem* Ancient and already established, God does not discover the future, He prepares the future.
+### Possible Models, Concepts, Competencies & Names
+**"Run with the Bulls"** — a Spirit directed, mastermind, coaching circle of Christian men assigned to one another to work through the soils, lie work, identity work, Great Commission/commandment alignment, Seeking Kingdom state, measure one another and self by Beatitudes, train in discipleship markers, hold accountable to do the work, Biblical Worldview testing, with 1-1 coaching, etc. This is running with the Bulls. Comes with a certification, graduation, invitation as alumni to get trained to lead groups and deepen their growth. Bull Leaders get leader training.
 
-
-
-**Possible Models, Concepts, Competencies & Names**
-"Run with the Bulls" a Spirit directed, mastermind, coaching circle of Christian men assigned to one another to work through the soils, lie work, identity work, Great Commission/commandment alignment, Seeking Kingdom state, measure one another and self by Beatitudes, train in discipleship markers, hold accountable to do the work, Biblical Worldview testing, with 1-1 coaching, etc.  This is running with the Bulls. Comes with a certification, graduation, invitation as alumni to get trained to lead groups and deepen their growth.  Bull Leaders get leader training. 
-
-Holy Spirit Presence Coaching
+- Holy Spirit Presence Coaching
