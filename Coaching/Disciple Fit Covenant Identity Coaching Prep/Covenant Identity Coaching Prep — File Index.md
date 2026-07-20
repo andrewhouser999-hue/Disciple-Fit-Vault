@@ -8,6 +8,10 @@ tags:
 
 One-sentence descriptions of every file, organized by subfolder.
 
+> [!tip] Live Pages — Quick Access
+> 🔗 **[Covenant Identity Coaching — Foundation, Mechanism & Distinctives](https://claude.ai/code/artifact/05d05db3-fc9c-457d-bf5a-c68d8e2507b5)** — Peer Practitioner Briefing companion page
+> 🔗 **[Witnessing Repentance — Session Guide](https://claude.ai/code/artifact/b532cd10-2315-4eb4-ba77-667ba39225ae)** — in-session coach tool
+
 ---
 
 ## 01 — Model Foundation

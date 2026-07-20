@@ -85,6 +85,37 @@ Insight operates at the explicit level. The implicit belief is not accessible to
   The "moment of meeting" (BCPSG / Fosha) is also a reconsolidation event — the relational disconfirmation ("I am not alone / I am not too much") meets the activated implicit belief in a live felt experience.
 
 ---
+**CIC Formation Authors:** You have an expertise that can answer, What experts, authors, theologians would you call 'formative?'  Provide an answer to this question
+
+● I'll pull the relevant memory files on formative contributors before answering, since this spans both the CIC theological stack and the RPA evidence base.
+
+Read 1 file, listed 1 directory, recalled 7 memories (ctrl+o to expand)
+
+● Based on what's built up across your practice, "formative" splits cleanly by track — here's the map:
+
+Covenant Identity Coaching — Theological/Formation Stack
+
+  This is the practitioner-formation layer (why the framework is true, how change actually works), distinct from the CIC session-tool author seating:
+
+  - Covenant structure: Gentry & Wellum (Kingdom Through Covenant), Goldsworthy — grounds "covenant" as biblical-theology category, not Reformed systematics
+  - Telos: Christopher Wright (Mission of God), Plantinga (Not the Way It's Supposed to Be)
+  - Anthropology: Bavinck (practitioner-only, dense)
+  - Formation methodology — the single most load-bearing figure: Dallas Willard (Renovation of the Heart, Spirit of the Disciplines, Divine Conspiracy). His VIM framework (Vision → Intention → Means) and "disciplines as conditions, not causes" is the reason your tools (Lie Eliminator, Identity Installer) work the way they do.
+  - Grace-forward change theory: Keller (Prodigal God, Counterfeit Gods), Bridges (Discipline of Grace), Fitzpatrick Miller/Serge Sonship
+  - Operational change: Powlison (theoretically primary) and Tripp (operationally seated in your actual worksheets — but flagged for a legalistic tendency, always paired with the grace-forward names above)
+  - Affections: Jonathan Edwards (Religious Affections), Thomas Chalmers (Expulsive Power of a New Affection — most undervalued, single-sermon, highest client-facing applicability)
+  - Psychological mechanism (subordinate): Ed Welch, Curt Thompson, Siegel (mechanism only, not telos)
+  - Character diagnostic: Dan Allender
+  - Epistemological bridge: Eric Johnson (Foundations for Soul Care)
+
+  Session-tool-specific (different system, direct client-facing seating): N.T. Wright, Sinclai Ferguson, O.P. Robertson, plus Henri Nouwen (Life of the Beloved — Taken/Blessed/Broken/Given as the mechanism under Manning's "beloved is the true self" one-liner) and Gendlin/McMahon & Campbell (Focusing → Bio-Spiritual Focusing, seated as Stage 4b's body/felt-sense route).
+
+  RPA (Relational Performance Advisory) Evidence Base
+
+  Named directly in your CLAUDE.md governing protocol — secular, non-clinical, organizational context: Perry (neurosequential/trauma-informed), Siegel (interpersonal neurobiology), Rock (SCARF/neuroleadership), Kegan & Lahey (adult development, immunity to change), Miller & Rollnick (motivational interviewing), Kolb (experiential learning), Prochaska (stages of change), Bloom/SAMHSA (trauma-informed care), plus hospitality-industry research.
+
+
+---
 **within the non-clinical population I'm scoped to serve, a skilled practitioner with a well-designed relational container may produce comparable benefit to what a psychologist would produce with the same population — that's testable and plausible.**
   
 ---
