@@ -1,6 +1,6 @@
 ---
-created: 
-basis: TBD
+created: 2026-04-28
+basis: primary-source
 tags:
 ---
 
@@ -173,6 +173,8 @@ Eight approaches, rated by purpose:
 **For Andrew:** This is practitioner-level depth, not client-facing. It answers "why does the covenant have this structure?" with exegetical precision rather than intuition.
 
 **Verdict: High value for credibility and precision; not urgent for initial deployment. Medium priority.**
+
+**Extended 2026-07-21 — Layer 11, "Covenant Identity Coaching — Theological-Formation Contributor Stack.md" (same folder):** That document carries this approach further, into the doctrine of canon itself and the mechanism of felt (not just asserted) authority — Kline's own words ("Biblical canon is covenantal canon"), Mendenhall's framing of the prophets as covenant-lawsuit prosecutors, and Frame/Vanhoozer/Packer on why a declaration is an act of authority, not just a report about God. It also carries a standing caution worth noting here: the treaty form's "no standing to contest" language must not be read as excluding the lament and protest Scripture itself sanctions within the covenant (Abraham, Moses, Job, the lament Psalms, Habakkuk) — read that document's caution note before using this material with a client, not just for the historical background.
 
 ---
 
