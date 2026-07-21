@@ -3,7 +3,12 @@ created:
 basis: TBD
 tags:
 ---
+
 Unusually complete theoretical architecture — ten contributor layers, diagnostic transition logic, crisis protocols, a six-level simulated practice system
+
+**Belief Statement**
+The Belief Statement (the thing a cause brand states flatly, like Patagonia's "in business to save our home planet") Something close to: "Transformation happens when truth is spoken into the specific place still ruled by a lie — not  when more truth is added to what a person already knows." That's a compressed, public-facing version of your actual Theory of Change. It's not marketing copy invented for the brand — it's your mechanism, stated as a conviction.
+
 
 **CIC Core Coaching Translation**
 
