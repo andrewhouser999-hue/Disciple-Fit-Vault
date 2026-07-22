@@ -123,6 +123,8 @@ Formation does not complete in a single session. What is received in session nee
 
 **Tools:** The Identity Installer and Lie Eliminator both include "Receptive Return vs. Affirmation Repetition" notes in their "Before You Begin" and practice rhythm sections. Draw the client's attention to this explicitly when assigning between-session work — do not assume they will read it unprompted.
 
+**For the exact wording of this assignment, wound-calibrated:** → [[Covenant Identity — Assigning Receptive Return — Practitioner Technique]] — a five-part instruction formula and worked example, built to be spoken aloud at the point of assignment rather than left to a workbook note.
+
 ---
 
 ## The Transition Signal: When to Move from Conditions 1–2 into Reception
