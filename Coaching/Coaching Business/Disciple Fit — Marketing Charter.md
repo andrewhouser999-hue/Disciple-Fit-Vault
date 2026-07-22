@@ -89,8 +89,31 @@ These hold across both segments and should show up in content before any ask is 
 
 ---
 
+## Brand Type Rule — Covenant Identity Coaching Naming
+
+CIC (Covenant Identity Coaching) is in an active rename exploration; leading candidate is **Word Within**. This rule is scoped to CIC's own name only — it does not apply to Disciple Fit's name, which is a separate, later decision with its own logic when that work happens.
+
+**The Rule: any CIC rename must be a functional/authority brand, not an identity or cause brand.**
+
+The practice has no capacity to sustain a continuous publishing cadence, and that constraint is decisive between brand types, not a minor preference:
+- **Identity brands** (aspirational, "who you become") require constant narrative reinforcement — the aspirational self has to be re-proven in every piece of content or the brand reads as vague and hollow.
+- **Cause brands** (recruit against a named status quo) require even more — a movement has to keep proving itself against that status quo continuously or it reads as abandoned.
+- **Functional/authority brands do their work once.** The name describes the mechanism; trust is earned through referral relationships and demonstrated rigor (a sourced, precise system) rather than through ongoing storytelling.
+
+This also reinforces two rules already established above rather than adding a new risk: identity and cause brands drift toward **generic Christian growth language** over time as they run out of new things to say — already named as a universal trust-killer. **Precision of language** and **peer proof of change** — the two strongest trust-builders — are both native to a functional/authority brand and don't depend on content velocity to keep working.
+
+**Standing guardrails for any CIC rename, non-negotiable:**
+- **No Word-of-Faith adjacency** — never implies verbal declaration alone produces change. Any "word/truth spoken" language must sit next to diagnosis and relationship, never stand alone as technique.
+- **No institutional critique** — church, sermons, and pastoral teaching are framed as companion, never as insufficient. This directly enforces the Governing Rule above: the felt cost stays personal and internal, never externalized onto an institution.
+- **No clinical language** — CIC is non-clinical; scope stays behavioral and operational.
+
+Full messaging architecture (positioning statement, message pillars, audience-specific translation, voice/tone, draft homepage copy) lives in [[Branding & Core Competency]] under "Word Within — CIC Messaging Architecture" — that document executes voice and positioning; this rule is what it must not violate.
+
+---
+
 ## Standing Rules
 
+- **Any CIC rename must choose a functional/authority brand type, never identity or cause** — see Brand Type Rule above; low content-capacity makes sustained-narrative brand types unsustainable.
 - **Only one segment holds Target Market status at a time** (see Segment Registry above and [[_Segment Index]]).
 - **This Charter governs [[Branding & Core Competency]] and [[Disciple Fit — Differentiation Document]]** — those documents execute voice and positioning; this one sets the rules they must not violate.
 - **A spiritual problem is only marketing-ready once it's anchored to a named felt cost.** "Not growing spiritually" never leads; the felt cost always leads, and the spiritual root follows once trust is earned (see The Governing Rule, above).
@@ -101,6 +124,7 @@ These hold across both segments and should show up in content before any ask is 
 
 This Charter states principles only. For the full research behind any rule above:
 
+- [[Branding & Core Competency]] — Word Within CIC messaging architecture: positioning statement, message pillars, voice/tone, draft homepage copy
 - [[Sunday-Monday Christian]] / [[Wilderness Christian]] — full segment profiles: psychographics, trigger moments, channels, trust dynamics
 - [[_Segment Index]] — segment status registry and promotion criteria
 - [[Pain Point Research — Web & Christian Media (June 2026)]] — external validation against Barna, Christianity Today, Lifeway, and others

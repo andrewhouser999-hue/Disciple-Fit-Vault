@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21"
 tags:
 ---
 
@@ -533,3 +533,96 @@ Pipeline
   - Build relationships with licensed somatic therapists
   - Create a clear referral pipeline
   - Position Disciple Fit as the post-stabilization coaching layer (identity, covenant, forward movement)
+
+---
+
+## Word Within — CIC Messaging Architecture (2026-07-21)
+
+*Working section. "Word Within" is the leading candidate name for a Covenant Identity Coaching (CIC) rename — scoped to CIC only, not to Disciple Fit's own name. The brand-type decision and its governing logic (functional/authority, not identity or cause) live in [[Disciple Fit — Marketing Charter]]; this section holds the execution — voice and positioning that must not violate that rule.*
+
+### Positioning Statement (internal compass, not public copy)
+> For the Christian who already knows the truth about who they are in Christ but doesn't feel it govern how they actually live, Word Within is covenant identity coaching that speaks that truth into the exact place still ruled by an old story — through diagnosis, not repetition.
+
+Every other piece of messaging below should trace back to this sentence. If a headline, testimonial, or social post doesn't restate some piece of it, it's drifting.
+
+### Message Pillars
+
+1. **Diagnosis before declaration.** Truth spoken generically doesn't move anything — it has to land on the specific place it's needed. *"Not more truth. The truth you already have, finally aimed at the right place."*
+2. **The gap is real and nameable, not vague.** Believed in the head; hasn't reached what governs reactions, relationships, rest. *"You know the verses. You don't feel true yet."*
+3. **Covenant content, not self-help positivity.** The truth applied has real theological weight — what Scripture actually says about who you are in Christ, not a mood talked into you. *"Identity spoken from Scripture, not affirmed into you."*
+4. **Precision over program.** One person, one diagnosed pattern, one process — not a curriculum everyone runs through identically. *"Coaching built around your specific pattern, not a course everyone takes the same way."*
+
+### Audience-Specific Translation
+
+- **To the client:** "You don't need to learn more truth. You need the truth you already believe to finally reach the place still living like it isn't true."
+- **To a referring pastor:** "This isn't competing with your pulpit — it's the one-on-one diagnostic layer a sermon structurally can't deliver: finding exactly where a specific truth needs to land in a specific person's specific wound, then walking with them through it." Non-adversarial by design — see Brand Type Rule guardrails in the Charter.
+- **To a peer practitioner:** lead with rigor, not warmth — the diagnostic sequence, the sourcing, the mechanism. Credibility register, not invitational register.
+
+### Voice and Tone
+
+Calm, precise, unhurried. No exclamation points, no "become who you were made to be!" sloganeering — that's identity-brand voice and pulls back into the brand type this name was chosen to avoid. Closer to how a good diagnostician talks: specific, confident, warm but not effusive. If a line could appear on a fitness-influencer's Instagram post, cut it.
+
+### Guardrails
+
+Non-negotiable, per the Brand Type Rule in [[Disciple Fit — Marketing Charter]]:
+- No Word-of-Faith adjacency — never implies verbal declaration alone produces change; "word/truth spoken" language always sits next to diagnosis and relationship, never stands alone as technique.
+- No institutional critique — church, sermons, and pastoral teaching framed as companion, never insufficient.
+- No clinical language — CIC is non-clinical; language stays behavioral and operational.
+
+### Draft Homepage Copy
+
+**HERO**
+*You know the truth. It hasn't reached where you live yet.*
+
+Word Within is covenant identity coaching for Christians who believe the right things and still feel ruled by the old ones — built to close that gap with precision, not repetition.
+
+**[ Book a Discovery Call ]**
+
+---
+
+**THE GAP YOU ALREADY FEEL**
+
+You've read the verses. You've heard the sermons. You could recite who God says you are in Christ. And still — under pressure, in conflict, alone with your thoughts — you find yourself governed by an old story instead: not enough, not safe, not wanted, not able.
+
+That gap between what you know and what you feel isn't a failure of faith or effort. It's a sign the truth hasn't yet reached the place that actually runs your life.
+
+---
+
+**DIAGNOSIS BEFORE DECLARATION**
+
+Truth spoken generically doesn't move what's stuck. This starts by locating exactly where the gap lives in you — which specific belief, tied to which specific pattern — before any truth is spoken into it.
+
+What follows isn't a program everyone runs through the same way. It's coaching built around your particular pattern: naming it precisely, meeting it with the specific covenant truth that answers it, and returning to that truth until it becomes what actually governs you — not just what you know.
+
+---
+
+**COVENANT TRUTH, NOT SELF-HELP**
+
+The truth at the center of this work isn't a mood you're talked into or a mantra you repeat until it feels real. It's what Scripture actually says about who you are in Christ — spoken with precision, into the place it's needed, and returned to until it takes hold.
+
+This is coaching, not therapy, and not a substitute for your church community or your pastor's teaching — it's the one-on-one, diagnostic layer of formation neither is built to deliver.
+
+---
+
+**WHAT I'M NOT PROMISING**
+
+- Not a quick fix — formation takes the time formation takes.
+- Not a replacement for your church or your pastor — a companion to both.
+- Not clinical treatment — if what you're carrying needs a therapist or physician, I'll tell you and help you find one.
+- Not a technique that works by effort alone — the Spirit does what only the Spirit can do. This creates the conditions.
+
+---
+
+**START WITH A CONVERSATION**
+
+A discovery call is a conversation, not a pitch — we'll talk through what you're carrying and whether this is the right next step.
+
+**[ Book a Discovery Call ]**
+
+---
+
+*"The word is very near you, in your mouth and in your heart." — Deuteronomy 30:14 (ESV)*
+
+### Channel Footprint (low-maintenance, not a content calendar)
+
+Three fixed assets, written once, revisited rarely: the homepage above (positioning + pillars 1–2), a one-page pastor referral sheet (pillar 3 + pastor translation), and the discovery-call opening line (pillar 2, spoken live, not written). Growth comes from those three doing their job consistently, not from a publishing schedule.
