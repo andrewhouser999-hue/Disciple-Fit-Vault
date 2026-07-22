@@ -121,13 +121,13 @@ Document it briefly: date, what the client reported, your assessment (Tier 2 con
 
 ## 6. Connection Map
 
-| Document | Direction | What flows |
-|---|---|---|
-| [[Covenant Identity — Post-Session Integration Guide]] | → inbound | Adjacent tool; the Integration Guide covers the 24–48 hours after a heavy session; Distress Protocol covers the acute between-session window when the Integration Guide practices are not sufficient |
-| [[Covenant Identity — Crisis & Referral Protocol]] | → outbound | Escalation destination. Any Tier 3 presentation exits this protocol and enters the Crisis Protocol immediately |
-| [[Covenant Identity — Between-Session Support Materials]] | ↔ bidirectional | Wound-type practices in the Support Materials are the coach's primary recommendation for what the client does while waiting for the bridge call or next session |
-| [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] | → inbound | Phase 2 is the primary deployment context; Phase 2 opens wound material that most commonly produces Tier 2 activation |
-| [[Covenant Identity — Character Wound Diagnostic Tool]] | → inbound | Wound type calibrates how the client will respond to distress and what practices to recommend |
+| Document                                                      | Direction       | What flows                                                                                                                                                                                           |     |
+| ------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [[Covenant Identity — Post-Session Integration Guide]]        | → inbound       | Adjacent tool; the Integration Guide covers the 24–48 hours after a heavy session; Distress Protocol covers the acute between-session window when the Integration Guide practices are not sufficient |     |
+| [[Covenant Identity — Crisis & Referral Protocol]]            | → outbound      | Escalation destination. Any Tier 3 presentation exits this protocol and enters the Crisis Protocol immediately                                                                                       |     |
+| [[Covenant Identity — Between-Session Support Materials]]     | ↔ bidirectional | Wound-type practices in the Support Materials are the coach's primary recommendation for what the client does while waiting for the bridge call or next session                                      |     |
+| [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] | → inbound       | Phase 2 is the primary deployment context; Phase 2 opens wound material that most commonly produces Tier 2 activation                                                                                |     |
+| [[Covenant Identity — Character Wound Diagnostic Tool]]       | → inbound       | Wound type calibrates how the client will respond to distress and what practices to recommend                                                                                                        |     |
 
 ---
 
