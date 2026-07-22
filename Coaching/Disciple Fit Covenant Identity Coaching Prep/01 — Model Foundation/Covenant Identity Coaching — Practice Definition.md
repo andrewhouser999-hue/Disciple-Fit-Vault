@@ -122,7 +122,7 @@ Disciplines assigned between sessions do not cause transformation — they creat
 | Posture | Partner / questioner | Authority / diagnostician | Witness / accompany | Formation partner |
 
 **Spiritual baseline required at entry:**
-- Active or genuine opening faith in Jesus Christ
+- Active or genuine opening faith in Jesus Christ — tested at intake, not assumed from self-report; see [[Covenant Identity — Salvation-Clarity Checkpoint & Gospel Bridge Protocol]]
 - Willingness to receive Scripture as authoritative
 - Willingness to engage formation disciplines between sessions
 - Sufficient stability for formation work — acute crisis triggers referral protocol, not this practice
@@ -280,7 +280,7 @@ A structured, Spirit-cooperating coaching practice that surfaces false identity,
 
 ## Open Precision Gaps — Resolve Before Full Deployment
 
-1. **Client qualifier:** "Followers of Jesus" is the stated entry condition. If the practice serves pre-Christians or early-faith clients, covenant identity language requires a client-facing translation layer. Define the target client with precision.
+1. **Client qualifier — RESOLVED 2026-07-21:** "Followers of Jesus" is the stated entry condition. See [[Covenant Identity — Salvation-Clarity Checkpoint & Gospel Bridge Protocol]] for the operational answer: intake probes that test (rather than assume) the "genuine opening faith" bar below, mid-arc trigger signals if a profession turns out not to reflect genuine faith, a single-conversation gospel-bridge structure, and the three possible outcomes. That document also resolves why this cannot be a client-facing translation layer inside CIC content — the identity-formation tools presuppose a positional identity that is not yet true of a pre-Christian client, so the correct fix is a boundary/branch, not softened language.
 
 2. **Formation arc scope:** "Structured formation arc" is unspecified. Define the standard engagement length (number of sessions, formation goal-setting process, completion criteria) in a separate container document.
 

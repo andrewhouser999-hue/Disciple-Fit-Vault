@@ -101,6 +101,7 @@ The five-part formula is constant; the risk each wound type brings to the practi
 
 ## Connects To
 
+- **[[Covenant Identity — Node 7 Consolidation Vehicles — Practitioner Map]]** — where this instruction fits in the full causal sequence of vehicles (declaration → immediate window → daily practice → attentiveness → relational channel → theological frame); this document is the wording for vehicle 3 specifically.
 - **[[Covenant Identity — Consolidation Through Receptive Return — Mechanism]]** — the Node 7 mechanism this technique operationalizes; that document explains *why* posture consolidates and names the generic template distinction this document turns into a wordable, wound-calibrated instruction.
 - **[[Covenant Identity — What Moves Covenant Truth from Registration to Reception]]** — Condition 3 (receptive posture) and the Between-Session Dimension section this document elaborates into assignment language.
 - **[[Covenant Identity — Matched Declaration Architecture]]** — supplies the declaration text this instruction is built around; this document does not generate declarations, only the instruction for engaging one already produced.

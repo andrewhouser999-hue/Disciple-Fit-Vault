@@ -1,6 +1,6 @@
 ---
 created: 2026-05-11
-basis: "Allender (*The Wounded Heart*; *The Healing Path*) — character wound types as the primary framework; deepened with attachment classification (Ainsworth/Main), schema coping modes (Young), and IPNB shame architecture (Thompson); updated 2026-07-14 to add explicit optionality scope — the tool applies only when an injury-shaped wound is actually present, correcting an undocumented assumption (in [[Covenant Identity — Diagnostic Lens Transition Logic]]) that it applied universally to every client, including Vision-Led and non-injury Wound-Led entries — see [[Sunday-Monday Christian]] for the market evidence that this population is common, not rare; updated 2026-07-20 to cross-link [[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]], which extends the wound-sin notes with per-type scriptural anchors"
+basis: "Allender (*The Wounded Heart*; *The Healing Path*) — character wound types as the primary framework; deepened with attachment classification (Ainsworth/Main), schema coping modes (Young), and IPNB shame architecture (Thompson); updated 2026-07-14 to add explicit optionality scope — the tool applies only when an injury-shaped wound is actually present, correcting an undocumented assumption (in [[Covenant Identity — Diagnostic Lens Transition Logic]]) that it applied universally to every client, including Vision-Led and non-injury Wound-Led entries — see [[Sunday-Monday Christian]] for the market evidence that this population is common, not rare; updated 2026-07-20 to cross-link [[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]], which extends the wound-sin notes with per-type scriptural anchors; updated 2026-07-21 to add a second Before Typing check — confirming the client's positional identity in Christ is actually established before deepening a wound type, since a vivid wound narrative is not evidence of it — sourced from [[Covenant Identity — Salvation-Clarity Checkpoint & Gospel Bridge Protocol]] and the parallel Salvation-Clarity Signal added the same day to [[Covenant Identity — Diagnostic Lens Transition Logic]]"
 tags:
   - character-wound
   - diagnostic-tool
@@ -13,7 +13,7 @@ tags:
 # Covenant Identity — Character Wound Diagnostic Tool
 *Practitioner Reference — secondary diagnostic layer for identifying character wound type and deepening the false identity picture*
 
-*Related: [[Covenant Identity — Whole-Person Identity Framework]]; [[Covenant Identity — Affections Discovery — In-Session Protocol]]; [[Covenant Identity — Diagnostic Lens Transition Logic]]; [[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]]*
+*Related: [[Covenant Identity — Whole-Person Identity Framework]]; [[Covenant Identity — Affections Discovery — In-Session Protocol]]; [[Covenant Identity — Diagnostic Lens Transition Logic]]; [[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]]; [[Covenant Identity — Salvation-Clarity Checkpoint & Gospel Bridge Protocol]]*
 
 ---
 
@@ -38,6 +38,12 @@ This tool identifies which of three injury-origin archetypes is presenting — e
 **What to do when no type fits:** do not force a label. The confirmation-bias risk named above (typing too early) runs the same direction here — a coach fluent in this typology will be tempted to reach for the closest-fitting type rather than conclude that none actually fits. Resist it. Proceed directly to Stage 2 (False Identity Named) using the affections or appetite picture Stage 1 already produced. A false identity — *"I am only safe when I am accepted," "I need to be in control to feel safe"* — can be named with full precision without a wound-type deepening layer underneath it. See [[Covenant Identity — Diagnostic Lens Transition Logic]], Stage 2, for how naming proceeds without this secondary layer.
 
 **Why this matters:** treating this tool as universally applicable — which earlier cross-referencing documentation asserted without checking — produces exactly the failure this document warns against elsewhere: a client pressured to fit a wound narrative they don't actually have, in order to be legible to the diagnostic. See [[Covenant Identity — Diagnostic Lens Transition Logic]], "What breaks if Wound-Led and Vision-Led are misrouted" — this is the same corrosion, one layer deeper than the Stage 1 entry fork it was originally named at.
+
+**Second check — before typing, confirm a positional identity actually exists to deepen (added 2026-07-21):** All three types describe how a wound shaped the false identity *of someone whose positional identity in Christ is genuinely secured* (see Practice Definition, Dimension 1) — the deepening this tool performs presupposes that foundation. A vivid, specific wound narrative is not evidence the foundation is there: genuine betrayal, terror, and ambivalence happen to non-believers too, and a client can describe their formative wound with total precision while never having actually trusted Christ.
+
+**Signal to watch for:** any of the Salvation-Clarity Signals named in [[Covenant Identity — Diagnostic Lens Transition Logic]] ("Salvation-Clarity Signal" section) surfacing during wound-type deepening — most commonly, wound material that is sharp and specific alongside an account of trusting Christ that is vague, present-tense ("I'm working on my faith"), or absent altogether.
+
+**What to do:** If a Salvation-Clarity Signal is present, stop before typing. Route to [[Covenant Identity — Salvation-Clarity Checkpoint & Gospel Bridge Protocol]] first. Typing a wound for a client whose foundation is unconfirmed is the same category error the Diagnostic Lens Transition Logic names in "What breaks if Stage 4b and the Salvation-Clarity Signal are conflated" — the coach becomes meticulously precise about the shape of a wound while missing that there is no covenant identity yet for the deepening to serve.
 
 ---
 
@@ -417,6 +423,8 @@ Once a type is identified or suspected, these affections probes are most likely 
 **Scope boundary:** These wound types are descriptive archetypes for coaching use — not formal psychological diagnoses, personality disorder categories, or assessment instruments. Clinical presentations that superficially resemble these types (narcissistic PD in Warrior/False Noble range; avoidant PD in Hermit range; borderline features in Fearful-Avoidant presentations) require clinical assessment, not coaching deepening. The referral triggers per type mark where coaching scope ends. The tool provides a working frame for formation work with functioning adults — it is not a clinical instrument.
 
 Nor is this tool a universal deepening layer applicable to every client. It applies only when an actual injury-shaped wound is present — see "Before Typing," above. A client without one is not a coverage gap in this tool; they are outside its intended scope, and belong in Stage 2 naming without it.
+
+Nor does an injury-shaped wound alone qualify a client for typing. The tool also presupposes the client's positional identity in Christ is actually established — see "Before Typing," second check, above. A client with a real, specific wound but an unconfirmed profession of faith is outside this tool's scope for a different reason: not because the wound doesn't fit one of the three shapes, but because there may be no covenant identity yet for the typing to deepen.
 
 **Client summary:** Practitioner-only reference. Not shared with clients.
 

@@ -20,6 +20,8 @@ This document exists for three purposes:
 
 **Evaluation prompt:** [[AI Prompt — Between-Session Tool Evaluation]] — eight criteria for vetting any new between-session tool before building.
 
+**Node 7 (receptive return / consolidation) specifically:** [[Covenant Identity — Node 7 Consolidation Vehicles — Practitioner Map]] — pulls four tools from this library (Post-Session Integration Guide, Spiritual Disciplines Guide, Phase-Specific Reflection Guide, Accountability Companion Guide) plus two Practitioner Reference documents outside this library's scope (Matched Declaration Architecture, John 15 Abide) and resequences them by causal order around a single session event, rather than by phase or tool category as this document does.
+
 **Full tool inventory (in-session + between-session):** [[Covenant Identity — Tool Library]] — for deployment context, depth layer classification, and how between-session tools fit within the broader model tool architecture.
 
 **Full file index:** [[Covenant Identity — System Document Master List]] and the memory file `covenant_identity_file_index.md`.

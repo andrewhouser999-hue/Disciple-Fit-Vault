@@ -123,6 +123,7 @@ If the false covenant object is still considered viable — if the client has no
 ## Connects To
 
 - `Covenant Identity — Assigning Receptive Return — Practitioner Technique.md` — compressed practitioner walkthrough for wording the between-session instruction this document's mechanism requires, with wound-type calibration; use this document for the mechanism, that one for the exact wording
+- `Covenant Identity — Node 7 Consolidation Vehicles — Practitioner Map.md` — the six specific tools that carry this mechanism, resequenced by causal order around a single session event rather than by tool inventory or phase
 - `Covenant Identity Coaching — Theory of Change.md` — this document elaborates Node 7
 - `Covenant Identity — What Moves Covenant Truth from Registration to Reception.md` — receptive return/affirmation repetition distinction first named here; this document provides the consolidation mechanism underlying it
 - `Covenant Identity — John 15 Abide Formation Posture Reference.md` — between-session posture; abiding as the frame for receptive return
