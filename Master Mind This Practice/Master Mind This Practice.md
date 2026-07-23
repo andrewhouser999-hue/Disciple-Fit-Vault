@@ -383,5 +383,15 @@ Speak these 4 verses over what needs healed, redeemed followed by declaration.
 
 When a demonic spirit has been cast out, Mental, physical, spiritual. Speak healing into life. Speak the Word into what needs healing. *He will perfect that which concerns you . Ps 138:8*  Deliverance first then healing. Death is the Mountain to move.  The true name it and claim it is declaring the Word. We are speaking spirits. Jesus Christ is the same. *Don't let the Word of God depart from your sight but keep it in the midst of your heart... Prov 4:20*  
 
+---
 
 Real titrated trauma work depends on a practitioner's real-time capacity to track window-of-tolerance and pull back the moment someone destabilizes, plus a closure protocol so nobody leaves the room more open than they can hold
+
+---
+From the Character Wound Diagnostic Tool's attachment mapping:
+
+  - Warrior ↔ dismissing-avoidant (self-reliance, emotional deactivation, minimizing need)
+  - Hermit ↔ fearful-avoidant / disorganized (threat response + desire for closeness simultaneously)
+  - False Noble ↔ anxious-preoccupied (hyperactivation to signals of adequacy/approval)
+
+  Note the file flags this mapping as "modifiable" — it's supplementary theoretical support (Ainsworth/Main), not structural to the typology itself.
