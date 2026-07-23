@@ -114,7 +114,7 @@ You're not just learning automation — you're building the operational backbone
 | Workflow engine | Make.com | Start here. Fastest path to live automations |
 | AI brain | Claude API | You already use it. Stay in one ecosystem |
 | Knowledge base | Obsidian | Your notes become inputs to automations |
-| Client CRM | Airtable | Spreadsheet-like but automation-ready |
+| Client CRM + notes | Airtable | Clients table + linked Session Notes table — notes live here, not Obsidian |
 | Forms/intake | Tally.so | Free, clean, connects to Make.com easily |
 | Email | Gmail | Good enough to start |
 | Scheduling | Calendly | Triggers workflows on booking |
@@ -147,7 +147,7 @@ Tally intake form submitted
 - Airtable data structure (fields, records, views)
 - Make.com scenario builder
 
-**Obsidian connection:** Install the Local REST API plugin in Obsidian. This lets Make.com read and write your notes. You won't use it yet — but install it now.
+**Obsidian connection:** Install the Local REST API plugin in Obsidian. This lets Make.com read and write your notes. Session notes will NOT go here (see Phase 2A — they go to Airtable, linked to the client record) — this plugin is for Phase 2C (content repurposing) instead. Install it now anyway.
 
 **Deliverable:** A live intake form that automatically creates a client record and sends a welcome email without you touching anything.
 
@@ -159,15 +159,21 @@ Tally intake form submitted
 
 **Three workflows to build:**
 
-**2A — Session notes → structured summary → Obsidian**
+**2A — Session notes → structured record → Airtable (linked to client)**
 ```
 You paste raw session notes into a Tally form (or email yourself)
   → Make.com triggers
   → Claude API: "Turn these coaching notes into:
-     1) Key themes 2) Client commitments 3) My follow-up actions"
-  → Formatted note written to Obsidian via REST API
+     1) Key themes 2) Affections surfaced 3) False identity named (if any)
+     4) Covenant truth spoken (if any) 5) Client commitments
+     6) Coach follow-up actions"
+  → New row created in Session Notes table, linked to the matching Clients record
   → Follow-up email drafted to client via Gmail drafts
 ```
+
+**Not automated — coach-entered fields:** Stage Worked and Stage 4b Route (Relational vs. Body/Felt-Sense) are diagnostic judgment calls, not something Claude should infer from raw notes. Andrew sets these fields himself in Airtable after reviewing the Claude-generated summary — same principle as never auto-sending client replies.
+
+**Table structure (Clients + Session Notes, linked):** full field spec not yet written into the vault — currently tracked in Claude's memory only (`project_cic_airtable_notes_system`, decided 2026-07-23). Bring it into this vault as a proper doc once the Airtable base is actually built.
 
 **2B — Inquiry email → Claude draft response**
 ```

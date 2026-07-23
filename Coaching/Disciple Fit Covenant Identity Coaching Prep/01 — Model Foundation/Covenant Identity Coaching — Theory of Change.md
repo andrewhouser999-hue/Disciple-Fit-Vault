@@ -14,6 +14,27 @@ tags:
 
 ---
 
+## Table of Contents
+
+- [[#Purpose|Purpose]]
+- [[#The Foundational Problem: The Gap and What Drives It|The Foundational Problem: The Gap and What Drives It]]
+- [[#The Causal Chain|The Causal Chain]]
+  - [[#Node 1 — Entry: Disordered Affections Produce the Gap|Node 1 — Entry: Disordered Affections Produce the Gap]]
+  - [[#Node 2 — Diagnostic Precision: The False Structure Surfaced|Node 2 — Diagnostic Precision: The False Structure Surfaced]]
+  - [[#Node 3 — Felt Inadequacy: The False Structure's Insufficiency Experienced|Node 3 — Felt Inadequacy: The False Structure's Insufficiency Experienced]]
+  - [[#Node 4 — Receptive Posture: The Person Opened|Node 4 — Receptive Posture: The Person Opened]]
+  - [[#Node 5 — Covenant Truth Spoken into an Activated Implicit Belief|Node 5 — Covenant Truth Spoken into an Activated Implicit Belief]]
+  - [[#Node 6 — The Spirit Bears Witness|Node 6 — The Spirit Bears Witness]]
+  - [[#Node 7 — Between-Session Consolidation|Node 7 — Between-Session Consolidation]]
+  - [[#Node 8 — Telos: Transformed Interior Life|Node 8 — Telos: Transformed Interior Life]]
+- [[#Where the Chain Breaks: Failure Mode Map|Where the Chain Breaks: Failure Mode Map]]
+- [[#Tool Anchoring|Tool Anchoring]]
+- [[#What This Requires of the Practitioner|What This Requires of the Practitioner]]
+- [[#Document Provenance|Document Provenance]]
+- [[#Connection Map|Connection Map]]
+
+---
+
 ## Purpose
 
 **What it is:** The causal explanation of how Covenant Identity Coaching produces transformation — from the presenting condition through each necessary node to the transformed interior life. Every tool in the system is anchored to a specific node in this chain.
