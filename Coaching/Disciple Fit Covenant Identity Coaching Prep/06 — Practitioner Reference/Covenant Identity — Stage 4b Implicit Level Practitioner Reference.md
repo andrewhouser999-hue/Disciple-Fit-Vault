@@ -324,6 +324,7 @@ At Stage 4b, implicit material that has been blocked may become accessible. This
 | **Secured in Father — Practitioner Design Notes** | Coach's own formation as prerequisite; the design notes address formation work at the implicit level that builds the coach's capacity for Stage 4b |
 | **Whole-Person Identity Framework** | Anthropological grounding — the implicit level is located in the soul's body and habituated will; this document's mechanism layer (Thompson) supports Stage 4b's neurobiological framing |
 | **Covenant Identity — Tool Library** | The Route B "Ask" step (Section IV) bridges into In-Session Prayer, already listed there as a coaching-safe implicit-layer tool |
+| **Covenant Identity — Route B Experiencing Depth Rating** | Post-session, coach-only tracking instrument for Route B specifically — an adaptation of Klein/Mathieu/Gendlin/Kiesler's Experiencing Scale that rates how far a Route B session actually reached into felt-sense contact, tracked across sessions. Complements the AEDP State Model (Section VI) rather than replacing it — that model reads broad affective state across all Stage 4b work; this reads felt-sense depth within Route B specifically |
 
 ---
 

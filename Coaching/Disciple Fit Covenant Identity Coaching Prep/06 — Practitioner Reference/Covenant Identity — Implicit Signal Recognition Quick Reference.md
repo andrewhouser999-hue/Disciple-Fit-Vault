@@ -93,3 +93,4 @@ If this split is present with no counter-argument, you are almost certainly look
 - [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — full mechanism, theological frame, skill taxonomy, scope boundary, referral signals. This document condenses only Section I, IV, V-Category 1, and VI of that reference.
 - [[Covenant Identity — Practitioner Competency Framework]] — in-session implicit engagement as a named competency domain
 - [[Covenant Identity — Self-Supervision Template]] — where this quick reference is meant to be used: post-session reflection, not in-session
+- [[Covenant Identity — Diagnostic Calibration Log]] — reuses this document's six-channel signal vocabulary in its "Signal(s) driving the call" column; log the specific channel and signal here fed the actual call, then track whether that call was later confirmed or revised

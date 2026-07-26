@@ -8,6 +8,8 @@ tags: [practitioner-reference, research-foundation, identity, behavioral-change]
 
 **Purpose:** This document provides the research basis for a load-bearing premise of the Covenant Identity model: that durable behavioral change is preceded by — and requires — identity alignment, not the reverse. It is for practitioner use when articulating the model's rationale, explaining why session work targets identity before behavior, or evaluating the evidence base behind the design. It is not a reading list; for author tiers and framework mappings see [[Covenant Identity — Author & Resource Reference]] and [[Covenant Identity — Author-Framework Mapping]].
 
+**Related:** [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] gives fuller treatment of the Kegan & Lahey subject-object shift and McAdams narrative identity theory referenced below, specifically as they explain why a single triggered state is not evidence about identity — the conceptual floor underneath why identity work must precede behavior work at all.
+
 ---
 
 ## The Central Claim

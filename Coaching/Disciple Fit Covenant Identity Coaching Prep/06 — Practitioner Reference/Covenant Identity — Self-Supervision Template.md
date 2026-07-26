@@ -217,5 +217,9 @@ _______________________________________________
 
 ---
 
+**If a Stage 4a/4b or Route A/B call was made this session,** also log it in [[Covenant Identity — Diagnostic Calibration Log]] — this document tracks what the session did in you; that one tracks whether the diagnostic read itself was accurate. They are sibling instruments, not substitutes for each other.
+
+---
+
 *"Formation precedes and sustains technique."*
 *— [[Covenant Identity — Practitioner Competency Framework]]*

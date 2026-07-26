@@ -360,6 +360,7 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
+must/have to/if-then
 > *(Write it here.)*
 
 **Who God Is:**

@@ -200,7 +200,7 @@ tags: [intake, practitioner-reference, coach-documentation, template]
 | Primary schema (hypothesis) | |
 | Primary covenant identity layer gap | |
 | Narrative type | |
-| God-attachment pattern | |
+| God-attachment pattern *(populate via [[Covenant Identity — Attachment Pattern Screener]], Form G — added 2026-07-25)* | |
 | Lament capacity | |
 | Motivation quality | |
 | Immunity to Change signal | |

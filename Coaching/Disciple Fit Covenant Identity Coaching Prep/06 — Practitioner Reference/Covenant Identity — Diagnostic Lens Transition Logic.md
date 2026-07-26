@@ -150,6 +150,8 @@ Declaration spoken into an activated implicit belief — one that is emotionally
 
 **Return signal:** Once the blocking distortion is surfaced and partially loosened, return to Stage 3 — covenant truth. CBT tools serve the covenant work; they do not replace it.
 
+**Theoretical background:** [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] gives the fuller account of Beck's cognitive model behind these tools, including the full four-element Cognitive Conceptualization Diagram (core belief → intermediate belief → compensatory strategy → automatic thought) — useful when a client's compensatory strategy (not just the automatic thought) needs to be named explicitly.
+
 ---
 
 ## Stage 4b — Relational and Attentive Response

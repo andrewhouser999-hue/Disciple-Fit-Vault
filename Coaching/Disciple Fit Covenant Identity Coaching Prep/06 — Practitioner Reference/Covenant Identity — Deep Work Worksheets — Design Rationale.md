@@ -21,6 +21,8 @@ Without schema-level intervention, lie work produces declarations that don't hol
 
 These two worksheets extend the existing tools into that layer.
 
+**Related:** [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] gives the fuller psychological grounding for Young, Kegan & Lahey, and McAdams below, framed around why schema-level activation is not evidence about the client's identity — the theoretical case for why lie work alone (Tier 1 content) doesn't reach what these worksheets are built to reach.
+
 ---
 
 ## Theoretical Foundation

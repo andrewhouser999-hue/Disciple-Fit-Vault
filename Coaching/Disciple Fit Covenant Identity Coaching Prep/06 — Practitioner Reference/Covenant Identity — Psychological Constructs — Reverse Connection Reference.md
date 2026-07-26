@@ -13,6 +13,8 @@ tags:
 
 *This document does not provide clinical definitions. It maps recognized psychological constructs to their CIC equivalents and connection points — so that encountering a psychological term in a client, in reading, or in supervision produces immediate orientation within the CI system.*
 
+*Companion document: [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] gives the fuller theoretical treatment behind the Dysfunctional Core Beliefs, Precision-Forcing Naming Techniques, and Cognitive Distortions entries below — nine converging frameworks (trait/state, self-schema, Beck's full model, attachment, polyvagal, mood-congruent processing, IFS, subject-object, narrative identity) on why a triggered state is not evidence about identity.*
+
 ---
 
 ## How to Use
@@ -163,7 +165,7 @@ When you encounter a construct in intake language, session material, reading, or
 **How CIC engages:** Stage 4a deploys CBT-informed tools specifically when a cognitive distortion is actively blocking covenant truth reception — the client engages the truth but pushes back through reasoning. The Lie Eliminator directly addresses the cognitive content of false core beliefs with covenant counter-truth. Stage 4a serves Stage 3; it does not replace it — the goal remains covenant truth landing, not distortion correction for its own sake.
 **Theory of Change Node:** Node 2 (naming the specific lie) → Node 5 (activation is required; the belief must be emotionally live before truth can land at the implicit level)
 **Primary tools:** Lie Eliminator; Stage 4a CBT tools (Socratic questioning, downward arrow, thought record)
-**Key files:** [[Covenant Identity — Diagnostic Lens Transition Logic]], [[Covenant Identity — Phase 3 Session Tools (Identity Installation)]], [[Covenant Identity — Deep Lie Work Worksheet]]
+**Key files:** [[Covenant Identity — Diagnostic Lens Transition Logic]], [[Covenant Identity — Phase 3 Session Tools (Identity Installation)]], [[Covenant Identity — Deep Lie Work Worksheet]], [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]]
 
 ---
 
