@@ -51,6 +51,21 @@ tags:
 
 ---
 
+### Professional Training Investment — QPR (Question, Persuade, Refer) Suicide Prevention Training (Required Before First CIC Client — Low-Cost, Add to Startup Tally)
+*Researched July 2026. Unlike every other entry in this section, this one is not optional — [[Covenant Identity — Crisis & Referral Protocol]] Section 9 states plainly: "QPR training is not optional. Complete it before your first engagement." It's a single short course, not a credentialing pathway, so it's charted here for cost/format comparison rather than as a pursue/don't-pursue decision.*
+
+| Program | Length | Format | Tuition | Notes |
+|---|---|---|---|---|
+| QPR Institute — Individual Online Gatekeeper Training | ~60 min, self-paced | Fully online, individual | $29.95 one-time | The specific option named in the Crisis & Referral Protocol (qprinstitute.com). Certificate active 1 year. Includes the e-book *Suicide: the Forever Decision* (Paul Quinnett, Ph.D.), electronic QPR booklet + printable wallet card, and periodic recap/review emails. Not NBCC CE-eligible. Student/military/government discounts available |
+| Nebraska Regional Behavioral Health — In-Person Group Training | ~1.5 hrs | In-person, live trainer, group format | Free | Scheduled through one of six Nebraska behavioral-health-region youth suicide prevention coordinators (contact map at youthsuicideprevention.nebraska.edu/training). Framed as group/organization training ("appropriate for all group sizes") rather than a standing individual signup — confirm directly with the regional coordinator whether a solo practitioner can join an existing session |
+| QPR Certified Gatekeeper Instructor Training (not needed for this use case) | Online prerequisite + 1-day in-person workshop | Hybrid | $595 (+ $85 recertification every 3 yrs) | Trains you to train *other* gatekeepers — an instructor credential, not a practitioner requirement. Only relevant if Andrew later wants to teach QPR to other CIC-affiliated coaches |
+
+**Recommended path:** the $29.95 individual online course — cheapest, fastest, no scheduling dependency, and the exact option the Crisis & Referral Protocol already names. The free Nebraska regional option is worth a call only if a live Q&A format is preferred or if training a group of future CIC-affiliated coaches later; not worth chasing down for a single individual certification right now. The Instructor tier is out of scope entirely unless training other coaches becomes a goal.
+
+**Recertification:** the individual certificate is active for 1 year — retake ($29.95) or complete whatever recertification path QPR Institute specifies to stay current. The $85 recertification fee found in research applies to the *Instructor* tier, not the individual gatekeeper certificate — confirm the individual-certificate renewal mechanism directly with QPR Institute before assuming a cost.
+
+---
+
 ### Professional Training Investment — Allender Center NFTC (Optional, Not in Running Total)
 *Researched July 2026. Narrative Focused Trauma Care® track — Story Workshop is the entry-point/personal-work experience (no certification); Levels I–III + Certification is the actual credentialing pathway. Not yet decided whether to pursue — kept separate from the required startup tally above.*
 
@@ -105,7 +120,8 @@ But none of the certificate tracks above (Allender, Thompson, MI/MINT) actually 
 | LLC — Name reservation (optional)                        | $30            | Skip unless reserving before filing                                             |
 | EIN                                                      | $0             | Free via irs.gov                                                                |
 | Domain name (first 3 years) covenantidentitycoaching.com | $31            | Cloudflare.com registered                                                       |
-| **Subtotal (one-time)**                                  | **~$287–$475** | Excludes optional name reservation                                              |
+| QPR Individual Online Gatekeeper Training                | $29.95         | qprinstitute.com — required per Crisis & Referral Protocol Section 9; see Professional Training Investment section below for the free Nebraska in-person alternative |
+| **Subtotal (one-time)**                                  | **~$317–$505** | Excludes optional name reservation                                              |
 
 ### Recurring Costs (Annual — Work-from-Home, Stay-Small Model)
 | Item                             | Estimate                            | Notes                                                                                                 |
@@ -125,7 +141,7 @@ But none of the certificate tracks above (Allender, Thompson, MI/MINT) actually 
 Office lease/rent, utilities beyond existing home costs, furniture/equipment, staff/contractors — all $0.
 
 ### Running Total
-**Year 1 estimate, all-in (setup + recurring):** roughly **$490–$1,240**, before Stripe transaction fees once paid clients begin.
+**Year 1 estimate, all-in (setup + recurring):** roughly **$519–$1,269**, before Stripe transaction fees once paid clients begin.
 
 *Note: AI tool subscriptions (Claude, Perplexity, Grok, Canva, Otter.ai, etc.) are tracked in the AI Tools section directly below and intentionally not duplicated here — confirm which are business vs. personal expenses before folding them into this tally.*
 

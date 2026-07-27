@@ -19,14 +19,19 @@ There is a persistent and consequential confusion, both in lay self-understandin
 ```mermaid
 flowchart TB
     subgraph ID["IDENTITY — stable, cross-situational, trait-level"]
+        direction TB
+        A0[" "]
         A1["Trait <br/>(Spielberger)"]
         A2["Self-concept architecture <br/>(Markus)"]
         A3["Self — 8 C's <br/>(IFS / Schwartz)"]
         A4["Developmental structure held as 'object' <br/>(Kegan & Lahey)"]
         A5["Life story / narrative identity <br/>(McAdams)"]
+        A0 ~~~ A1 ~~~ A2 ~~~ A3 ~~~ A4 ~~~ A5
     end
 
     subgraph TR["TRIGGER-ACTIVATED CONTENT — state-dependent, situational"]
+        direction TB
+        B0[" "]
         B1["State <br/>(Spielberger)"]
         B2["Self-schema content <br/>(Markus)"]
         B3["Automatic thought → core belief chain <br/>(Beck)"]
@@ -36,9 +41,13 @@ flowchart TB
         B7["Blended protector / exile part <br/>(IFS / Schwartz)"]
         B8["Fused structure held as 'subject' <br/>(Kegan & Lahey)"]
         B9["Single scene <br/>(McAdams)"]
+        B0 ~~~ B1 ~~~ B2 ~~~ B3 ~~~ B4 ~~~ B5 ~~~ B6 ~~~ B7 ~~~ B8 ~~~ B9
     end
 
     TR ==>|"THE ERROR:<br/>state-to-trait misattribution /<br/>blending / scene-to-story collapse"| ID
+
+    style A0 fill:none,stroke:none
+    style B0 fill:none,stroke:none
 ```
 
 The arrow running from the Trigger-Activated layer up into the Identity layer is the error itself, not a legitimate inference — it is what happens when a triggered state gets mistaken for a disclosure about identity. Every framework below names a version of that same wrongly-drawn arrow from its own vantage point.
