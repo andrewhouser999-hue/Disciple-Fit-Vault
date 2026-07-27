@@ -45,6 +45,9 @@ A record of all saved prompts, their triggers, and purpose.
 | [[#CIC Practice — Level 4 Phase Practice\|CIC Practice — L4: Phase Practice]]                                 | `/cic-l4`                    | *(none)*   | Full vignette, one randomly selected phase per run (Discovery / Stage 1 / Stage 2–3 / Between-Session)                    |     |     |
 | [[#CIC Practice — Level 5 Full Session Integration\|CIC Practice — L5: Full Session Integration]]             | `/cic-l5`                    | *(none)*   | Complete session arc, 15 questions across 5 movements — scope trap embedded, self-rating rubric after answer key          |     |     |
 | [[#CIC Practice — Level 6 Supervision Mode\|CIC Practice — L6: Supervision Mode]]                             | `/cic-l6`                    | *(none)*   | Fictional session transcript with 4–6 embedded errors — identify, type, and rate severity; annotated answer key           |     |     |
+| [[#CIC Practice — Fluency Drill\|CIC Practice — Fluency Drill]]                                               | `/cic-fluency-drill`         | *(none)*   | Speed/automaticity drill for the Stage 1-4a/4b + Referral sequence — rapid recognition plus first line of response; companion to L3, not a replacement |     |     |
+| [[#CIC Practice — Signal Recognition Drill\|CIC Practice — Signal Recognition Drill]]                         | `/cic-signal-drill`          | *(none)*   | Narrow-scope drill on the Stage 4a/4b entry-and-fork decision — Stage 3 holding vs. 4a vs. 4b, then Route A/B if 4b; sibling to the Fluency Drill |     |     |
+| [[#Cognitive & Schema Diagnostic Fluency Drill\|Cognitive & Schema Diagnostic Fluency Drill]]                 | `/cognitive-fluency-drill`   | *(none)*   | General-taxonomy drill (Beck / Young / Burns / Kegan & Lahey) — classification modes plus an Elicitation mode for the downward-arrow pivot technique; not CIC-stage-specific |     |     |
 
 ---
 
@@ -1025,6 +1028,50 @@ Six-level layered practice system for Covenant Identity Coaching knowledge. Each
 **Error types rotated across runs:** (A) Sequence errors — moved too early/late or in wrong direction; (B) Scope boundary errors — continued past the coaching ceiling; (C) Mechanism errors — wrong theory of change in action; (D) Missed signals — observable cues present in transcript that went unseen; (E) Formation posture errors — correctional or performance drift.
 
 *Source of truth: `.claude/commands/cic-l6.md`*
+
+---
+
+### CIC Practice — Fluency Drill
+
+**Trigger (Claude Code):** `/cic-fluency-drill`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Companion to L3 (Diagnostic Judgment), not a replacement — L3 tests depth on a few vignettes per run; this drills speed and automaticity across many short reps: rapid stage/referral recognition plus an actual first line of response, so the language is ready instead of hunted for mid-session.
+
+**When to use:** Between L3 sessions, or any time you want to build recall speed rather than depth. Includes a timed mode and an explicit stopping bar — not meant to run indefinitely.
+
+**What it generates:** One short, realistic client statement (1-3 sentences) per turn — the kind of thing actually said mid-session, not a case summary. Roughly 1 in 5 is a genuine referral-signal statement. Andrew answers, in order: referral check (yes/no + why), stage (1/2/3/4a/4b) if no referral, what it reveals, and a first line back to the client. Scored against the Confirmed Sequence reference logic, not general coaching instinct — a missed referral signal is flagged as more serious than a wrong stage call. Stopping bar: at least one correct identification from each of Stage 1, 2, 3, 4a, 4b, and Referral Signal, zero missed referrals, no more than one stage miscall in the last 10 answers.
+
+*Source of truth: `.claude/commands/cic-fluency-drill.md`*
+
+---
+
+### CIC Practice — Signal Recognition Drill
+
+**Trigger (Claude Code):** `/cic-signal-drill`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Sibling to the Fluency Drill, one level deeper and narrower: builds speed on one specific, high-leverage recognition moment — is this Stage 4a or Stage 4b, and if 4b, Route A (Relational) or Route B (Body/Felt-Sense)? Not the full diagnostic sequence and not the presence/being skills that follow it — entry-and-fork recognition only.
+
+**When to use:** Once the Fluency Drill's full-sequence recognition is solid and you want to sharpen specifically the moment right after covenant truth is spoken. Includes a timed mode and an explicit stopping bar.
+
+**What it generates:** One short vignette (1-3 sentences) per turn describing what the client says and does right after covenant truth is spoken, with verbal content and at least one nonverbal/paraverbal cue. Andrew answers, in order: Stage 3 holding / 4a / 4b, then (if 4b) Route A or B, then the one specific signal the call rests on — a call justified by "it felt like" without naming an actual signal is scored partial credit, not full. Stopping bar: at least one correct call in each of the four categories (Stage 3 holding / 4a / 4b-A / 4b-B), every call in the last 5 answers justified by a named signal, no more than one miscall in the last 10.
+
+*Source of truth: `.claude/commands/cic-signal-drill.md`*
+
+---
+
+## Cognitive & Schema Diagnostic Fluency Drill
+
+**Trigger (Claude Code):** `/cognitive-fluency-drill`
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** General clinical-taxonomy practice drill — not CIC-stage-specific, not anchored to any named personal case. Companion to [[Covenant Identity — Cognitive Diagnostic Fluency Curriculum]] Phases 3-4. Three modes: **Single-framework** and **Interleaved** classify belief content by depth/framework across Beck's Cognitive Conceptualization Diagram, Young's schema coping-style triad, Burns's cognitive distortions, and Kegan & Lahey's Immunity to Change four columns. **Elicitation mode** drills the questioning sequence itself rather than classification — recognizing when a downward-arrow ladder has skipped past the intermediate belief straight to the core belief, producing the corrective lateral pivot question ("what do you do to keep that from being confirmed?"), and reverse-engineering the resulting rule against three diagnostic markers (conditional grammar, cross-situational, explanatory).
+
+**When to use:** After [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] and the Cognitive Diagnostic Fluency Curriculum's Phase 1-2 material. Single-framework mode first (Phase 3), then Interleaved (Phase 4). Elicitation mode any time thereafter — it drills a standalone skill, not a follow-on to the other two.
+
+**What it generates:** Single-framework/Interleaved — one short vignette per turn, full classification + named evidence required, running tally, mode-specific stopping bar. Elicitation — a transcript fragment showing a downward-arrow ladder in one of three states (skipped past Tier 2 / reached cleanly / not yet there); Andrew identifies the state, then either produces the pivot question, defends why no pivot is needed, or continues the ladder correctly; a skipped-case sequence continues into reverse-engineering the rule and checking it against all three markers.
+
+**Sibling to:** `/cic-fluency-drill`, `/cic-signal-drill` (both indexed above, under CIC Practice System) — same drill architecture (vignette → answer → score → stopping bar), applied to the general cognitive/schema taxonomy rather than the CIC diagnostic-stage sequence.
+
+*Source of truth: `.claude/commands/cognitive-fluency-drill.md`*
 
 ---
 

@@ -85,6 +85,43 @@ Apply the classification skill first to your own automatic thoughts — Beck's o
 
 ---
 
+## Elicitation Technique — Running the Downward Arrow Correctly
+
+*This section closes a gap Andrew flagged directly: the taxonomy above and in [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] tells you what layer a belief sits at once you have it in hand. It does not by itself tell you how to get from a surface automatic thought down to an accurate intermediate belief in live conversation — a distinct skill from classification, and the one that actually matters in a session. Practice this alongside Phase 2's worked examples, then drill it directly via `/cognitive-fluency-drill`'s Elicitation mode, which is separate from that skill's Phase 3/4 classification modes and tests the questioning sequence itself rather than classifying content already in hand.*
+
+### The Failure Mode
+
+The downward-arrow technique (Burns) is usually taught as one repeated question: "if that were true, what would it mean?" Asked repeatedly against an automatic thought, this question reliably bottoms out at Tier 3 — the core belief — because it is an *implication* question: it chases the consequence of a thought being true, all the way down to the most global, identity-level consequence available. What it does not reliably do is stop and surface Tier 2 on the way down. A client laddering "I botched that prep" through "what would that mean?" three times in a row typically lands on a core-belief statement without ever putting into words the rule that made the first slip feel so costly in the first place. The rung gets walked past, not found.
+
+This matters diagnostically, not just academically: reaching only Tier 3 leaves only identity-level interventions available (declaration, schema work) — there is no access yet to the one thing that is actually testable behaviorally, which is the Tier 2 rule.
+
+### The Corrective Move: Pivot to Compensatory Behavior
+
+When continued "what would that mean" questioning has clearly reached Tier 3 without a clean Tier 2 statement along the way, stop laddering and ask a different kind of question — lateral, not deeper: **"What do you do — or refuse to do — to keep that from being confirmed?"**
+
+This targets Beck's fourth element (Compensatory Strategy) directly. Once the behavior is named (over-preparing, avoiding visibility, controlling every variable), reverse-engineer the rule that makes that specific behavior necessary: **"For that behavior to feel non-negotiable, what would have to be true?"** The answer returns in exactly the conditional, if-then form Tier 2 requires — because that is the only form a rule can take.
+
+### Why This Is Also Kegan & Lahey's Move
+
+The "what do you do to prevent it" question is not a separate invention — it is Kegan & Lahey's Column 2 question (Behaviors Working Against the Visible Commitment), asked from the opposite direction. Run the full lateral sequence and the two frameworks' vocabularies translate directly onto each other:
+
+| Move | Kegan & Lahey Slot | Beck Slot |
+|---|---|---|
+| "What do you do to prevent X?" | Column 2 — Behaviors Working Against It | Surfaces the Compensatory Strategy |
+| "What is that behavior protecting?" | Column 3 — Hidden Competing Commitment | Names the motive behind the Compensatory Strategy |
+| "For that to feel mandatory, what would have to be true?" | Column 4 — Big Assumption | **= Intermediate Belief (Tier 2)** |
+
+**Practical instruction:** when a pure Beck-style downward arrow stalls — reaches Tier 3 with no clean Tier 2 en route, or the client can state the core belief but not any rule above it — switch frameworks rather than continuing to ladder. Run the Kegan & Lahey lateral sequence instead. The Big Assumption it produces is not a different belief from the missing intermediate belief; it is the same belief, reached by a route that doesn't skip past it.
+
+### Diagnostic Markers — Confirming Tier 2 Has Actually Been Reached
+
+A statement earns Tier 2 classification — rather than being a restated automatic thought, or a restated core belief wearing Tier 2's grammar — when it passes three checks:
+1. **Grammatically conditional** — contains an "if/then," "must," or "have to," not a bare "I am" statement.
+2. **Cross-situational** — the same rule can be shown to operate in at least one unrelated domain, not only the incident at hand. If it only explains this one situation, it is still an automatic thought in Tier 2's clothing.
+3. **Explanatory** — removing it should measurably change the predicted intensity of the automatic thought. If the automatic thought would feel just as intense without this specific rule, the rule actually doing the work has not yet been found.
+
+---
+
 ## Cognitive & Schema Diagnostic Taxonomy — Visual Reference
 
 *The two mappings below fill the gap [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] does not cover. Both are also rendered, alongside recreations of that document's Beck and framework-map diagrams, in the companion artifact linked above.*
