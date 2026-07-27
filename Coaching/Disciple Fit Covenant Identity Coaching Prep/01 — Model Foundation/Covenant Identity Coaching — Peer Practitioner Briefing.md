@@ -1,7 +1,7 @@
 ---
 created: 2026-07-14
 artifact_url: https://claude.ai/code/artifact/05d05db3-fc9c-457d-bf5a-c68d8e2507b5
-basis: "Synthesis document — draws from [[Covenant Identity Coaching — Practice Definition]] (governing definition, three-discipline architecture, boundary testing, positional identity vs. identity formation), [[Covenant Identity Coaching — Manifesto]] (telos, anthropology), [[Covenant Identity Coaching — Theory of Change]] (eight-node mechanism), [[Covenant Identity — Diagnostic Lens Transition Logic]] (Stage 1-4b sequence, Wound-Led/Vision-Led entry fork), [[Covenant Identity — Integration Rationale]] (psychological integration criteria), [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] (four-phase engagement), [[Covenant Identity — The Interior Life as Telos]] (nine qualities), [[Covenant Identity Coaching — Full Model Reference]] (covenant structure, distinctives table), [[Covenant Identity — Identity-Before-Behavior Research Foundation]] (identity-precedes-behavior research corroboration), [[Disciple Fit Covenant Identity Coaching — White Paper]] (four-phase detail). Built for a specific meeting: explaining CIC to a Christian executive coach (Holy Spirit-centered, works with wounded executives) who has no prior exposure to the model. Restructured 2026-07-14 per Andrew's direction to open with Scripture rather than psychology, and to add an identity-precedes-behavior section and 'what this is / is not' contrast charts. Amended 2026-07-17 per Andrew's direction to add a 'Whose mission this is now' subsection to Section 1, arguing CIC's mission continuity from Christ's Luke 4:18 mission statement to the Ecclesia's inherited mission (John 20:21, Acts 1:8, Acts 26:18, 1 Corinthians 12:27, Ephesians 1:22–23), scoped explicitly to the inward register only. Further amended 2026-07-17 to add 'Not Biblical Counseling' and 'Not (Generic) Christian Life Coaching' contrast tables to Section 8, and an Orientation row to the existing Spiritual Formation/Spiritual Direction table — the Biblical Counseling table sourced from [[Covenant Identity Coaching — Full Model Reference]] §IV/§XI/§XII (reactive/proactive distinction); the Christian Life Coaching table is original synthesis, flagged as design judgment rather than a direct source quote, since no prior document contrasted CIC against Christian Life Coaching dimension-by-dimension."
+basis: "Synthesis document — draws from [[Covenant Identity Coaching — Practice Definition]] (governing definition, three-discipline architecture, boundary testing, positional identity vs. identity formation), [[Covenant Identity Coaching — Manifesto]] (telos, anthropology), [[Covenant Identity Coaching — Theory of Change]] (eight-node mechanism), [[Covenant Identity — Diagnostic Lens Transition Logic]] (Stage 1-4b sequence, Wound-Led/Vision-Led entry fork), [[Covenant Identity — Integration Rationale]] (psychological integration criteria), [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] (four-phase engagement), [[Covenant Identity — The Interior Life as Telos]] (nine qualities), [[Covenant Identity Coaching — Full Model Reference]] (covenant structure, distinctives table), [[Covenant Identity — Identity-Before-Behavior Research Foundation]] (identity-precedes-behavior research corroboration), [[Disciple Fit Covenant Identity Coaching — White Paper]] (four-phase detail). Built for a specific meeting: explaining CIC to a Christian executive coach (Holy Spirit-centered, works with wounded executives) who has no prior exposure to the model. Restructured 2026-07-14 per Andrew's direction to open with Scripture rather than psychology, and to add an identity-precedes-behavior section and 'what this is / is not' contrast charts. Amended 2026-07-17 per Andrew's direction to add a 'Whose mission this is now' subsection to Section 1, arguing CIC's mission continuity from Christ's Luke 4:18 mission statement to the Ecclesia's inherited mission (John 20:21, Acts 1:8, Acts 26:18, 1 Corinthians 12:27, Ephesians 1:22–23), scoped explicitly to the inward register only. Further amended 2026-07-17 to add 'Not Biblical Counseling' and 'Not (Generic) Christian Life Coaching' contrast tables to Section 8, and an Orientation row to the existing Spiritual Formation/Spiritual Direction table — the Biblical Counseling table sourced from [[Covenant Identity Coaching — Full Model Reference]] §IV/§XI/§XII (reactive/proactive distinction); the Christian Life Coaching table is original synthesis, flagged as design judgment rather than a direct source quote, since no prior document contrasted CIC against Christian Life Coaching dimension-by-dimension. Extended 2026-07-27 with § 12 Support File Map, generalizing the document from a single-meeting artifact into reusable teaching/demonstration material for orienting any coach to CIC — added at Andrew's direction alongside a sibling document, [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]], built for the opposite audience (a prospective clinical-psychologist consultant) per a /scrutinize finding that the two audiences' information needs are different enough to warrant separate artifacts rather than one shared document."
 tags: [model-foundation, peer-briefing, presentation]
 ---
 
@@ -166,13 +166,13 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    N1["1. Disordered Affections"] --> N2["2. False Structure Surfaced"]
-    N2 --> N3["3. Felt Inadequacy"]
-    N3 --> N4["4. Receptive Posture"]
-    N4 --> N5["5. Covenant Truth Spoken"]
-    N5 --> N6["6. Spirit Bears Witness"]
-    N6 --> N7["7. Between-Session Consolidation"]
-    N7 --> N8["8. Transformed Interior Life"]
+    N1["1 — Disordered Affections"] --> N2["2 — False Structure Surfaced"]
+    N2 --> N3["3 — Felt Inadequacy"]
+    N3 --> N4["4 — Receptive Posture"]
+    N4 --> N5["5 — Covenant Truth Spoken"]
+    N5 --> N6["6 — Spirit Bears Witness"]
+    N6 --> N7["7 — Between-Session Consolidation"]
+    N7 --> N8["8 — Transformed Interior Life"]
 ```
 
 Node 6 is the hinge of the whole model, and it is worth quoting rather than paraphrasing:
@@ -319,6 +319,34 @@ The Spirit is *Paraclete* — "one called alongside" (John 14:16). The coach is 
 ## 11. Where This May Intersect
 
 Offered as a genuine open question, not a claim about overlap: high-functioning, high-explicit-literacy populations — executives fluent in theology and competent in performance — are frequently a **Vision-Led** population in this model's terms. They may present with no obvious crisis and a track record of using effort and information to solve every other problem in their life. The diagnostic risk this model was specifically built to catch in that population is the Lateral Reroute Signal: growth-seeking itself functioning as the false covenant object. Whether and how that maps onto the executives you work with seems like a live and useful question for us to work through together.
+
+---
+
+## 12. Support File Map — Where the Underlying System Lives
+
+*Added 2026-07-27, generalizing this document's use beyond the original 2026-07-14 conversation: a map of the supporting documents behind every section above, organized by function rather than by folder, for a practitioner who wants to go deeper into any specific piece. Full detail — every document, in recommended reading sequence — lives in* Covenant Identity — Document Reading Order *(109 documents, 9 blocks) and* Covenant Identity — System Document Master List*; what follows is a curated entry point, not the complete index.*
+
+```mermaid
+flowchart TD
+    MF["Model Foundation — governing definition, mechanism, doctrinal stack"] --> DA["Diagnostic Architecture — stage sequence, diagnostic tools, referral protocol"]
+    DA --> ST["Session Tools — Phase 1-4, Discovery Call, Designed Alliance"]
+    ST --> BS["Between-Session Library — disciplines, lament, formation practices"]
+    BS --> GT["Growth Tracking — session notes, snapshot, growth report"]
+    PD["Practitioner Development & Safety — competency framework, self-supervision, crisis & referral protocol"] -.governs conduct across.-> DA
+    PD -.-> ST
+    PD -.-> BS
+```
+*Figure 6 — how the document architecture itself is layered. The Practitioner Development & Safety layer is cross-cutting, not sequential: the Crisis & Referral Protocol applies at every phase, not one stage of the arc.*
+
+| Layer | Key documents | What they're for |
+|---|---|---|
+| **Model Foundation** (`01 — Model Foundation`) | Practice Definition · Theory of Change · Manifesto · Full Model Reference · Theological-Formation Contributor Stack · White Paper | The governing layer — every other document answers to the Practice Definition when in conflict |
+| **Diagnostic Architecture** (`06 — Practitioner Reference`) | Practitioner Reference Index (start here) · Diagnostic Lens Transition Logic · Integration Rationale · Whole-Person Identity Framework · Character Wound Diagnostic Tool · God-Representation Deepening Tool · Stage 4b Implicit Level Practitioner Reference · Practitioner Competency Framework · Tool Library · Crisis & Referral Protocol | The full Stage 1–4b diagnostic sequence, the tools that read it, and the scope boundary that governs it |
+| **Session Tools** (`04 — Session Tools`) | Discovery Call Guide · Phase 1 / 2 / 3 / 4 Session Tools · Designed Alliance · Arc Location Diagnostic | Session-by-session structure and language for each phase of the four-phase engagement (Section 6) |
+| **Between-Session Library** (`08 — Between-Session Materials`) | Between-Session Library — Design Rationale (index) · Spiritual Disciplines Guide · Lament Practice Guide · Post-Session Integration Guide · Formation Mechanism Guide · Accountability Companion Guide | What sustains Node 7 consolidation (Section 4) between sessions — where "disciplines as conditions, not causes" actually gets lived out |
+| **Growth Tracking** (`05 — Growth Tracking`) | Session Growth Notes Template · Mid-Engagement Snapshot Template · Growth Report Template | Documents client language and movement across the engagement; feeds the end-of-engagement Growth Report |
+| **Practitioner Development & Safety** (`06 — Practitioner Reference`) | Practitioner Competency Framework · Self-Supervision Template · Pre-Practice Readiness Action Plan · Diagnostic Calibration Log · Crisis & Referral Protocol | Coach formation, scope-of-practice discipline, and the referral architecture that keeps this coaching, not therapy |
+| **Full Navigation** (Root) | Document Reading Order (109 documents, 9 blocks) · System Document Master List · Practitioner Navigation Guide · COMPLETE SYSTEM REFERENCE | The complete index, for anyone building fluency in the whole system rather than orienting to one piece |
 
 ---
 
