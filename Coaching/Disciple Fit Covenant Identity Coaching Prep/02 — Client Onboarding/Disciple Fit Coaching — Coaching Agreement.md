@@ -1,7 +1,10 @@
 ---
-created: 
-basis: TBD
+created: 2026-05-16
+basis: "[[Covenant Identity — Crisis & Referral Protocol]] — non-clinical scope, referral triggers, confidentiality-limits and crisis-carve-out language (Sections 1, 8, 9, 10); [[Scope of Practice]] — coaching-vs-therapy-vs-pastoral-care definition (Section 1); ICF Code of Ethics — governing standard (Section 2, Standard 3.7 referral obligation)"
 tags:
+  - coaching-business
+  - legal
+  - client-onboarding
 ---
 
 # Coaching Agreement
@@ -53,6 +56,7 @@ Sessions are scheduled in advance. The Client is expected to complete the intake
 **Intake component:** $145 of the total engagement fee is allocated to pre-session intake work (intake form review, intake documentation, and session 1 preparation). This work begins before session 1 and is non-refundable once the intake form has been submitted.
 
 **Payment schedule:** Client selects one option at signing:
+
 - **Full payment in advance:** $1,680, due before Tier 2 intake is sent.
 - **Payment plan:** $560/month for 3 months. First installment due before Tier 2 intake is sent; each subsequent installment due on the same date in the following two months. If the engagement continues beyond the initial 12 sessions, additional sessions are billed individually at $140/session, payable per session.
 
@@ -168,5 +172,5 @@ Date: _______________________________________________
 
 ---
 
-*Disciple Fit Coaching | [contact email] | [website if applicable]*
-*Version: [Month Year] — review annually*
+*Disciple Fit Coaching | andrewhouser999@gmail.com*
+*Version: July 2026 — review annually*
