@@ -1,0 +1,111 @@
+---
+created: 2026-07-28
+basis: primary-source
+tags: [job-search, b2b-sales]
+---
+
+# Job Search Routine — B2B Sales 
+
+Standing operating routine for an active, daily job search targeting B2B sales roles (tech sales included, not limited to it). Pairs with [[Job Search Tracker]] for logging every application and follow-up.
+
+## Daily Block Schedule (weekdays)
+
+Treat this as a job. Four blocks, roughly 3–4 hours total — compress or expand based on what else is on the day.
+
+**Block 1 — Source (30–45 min, first thing)**
+- Check **hiring.cafe** — filter to B2B sales / account executive / SDR-BDR-AE ladder roles, sorted by freshness. This is the primary source because it pulls from ATS systems directly, not scraped reposts.
+- Check **LinkedIn Jobs** — sort by "Most recent," filter out Promoted, look for the green "actively recruiting" signal on the hiring manager.
+- Rotate through 3–5 target companies' **direct career pages** (Greenhouse/Lever/Ashby boards) — pick these from your target list below.
+- Log every viable posting into the tracker before moving to Block 2 — don't apply and source in the same pass, it fragments attention.
+
+**Block 2 — Apply (60–90 min)**
+- Work top-down through what you logged in Block 1.
+- Pick resume version per posting: `Andrew Houser — B2B Sales Career Profile.md` as default, `Andrew Houser Resume - Tech Sales v2.md` when the role is explicitly SaaS/tech, `Andrew Houser Resume - Functional.md` only if there's a gap-coverage reason to use it.
+- Target: **5–8 quality applications/day** minimum. Volume without tailoring is wasted motion — a resume mismatch is worse than not applying.
+- Update tracker status to "Applied" with date, source, and resume version used.
+
+**Block 3 — Outreach & Follow-up (30–45 min)**
+- For every application from **7 days ago** with no response: one follow-up touch (email or LinkedIn message to a warm contact/recruiter/hiring manager at that company).
+- Send 2–3 new cold/warm outreach messages to people at target companies — recruiters, sales leaders, or 2nd-degree connections. This is the lever that actually moves B2B sales hiring; postings alone underperform for this role type.
+- Check RepVue and Bravado for postings and any inbound recruiter activity.
+
+**Block 4 — Review & Reset (15 min, end of day)**
+- Update every tracker row touched today.
+- Note any red flags surfaced (comp mismatch on RepVue, bad Glassdoor pattern, no response after 2 follow-ups → mark "Dead").
+
+## Weekly Review (once, e.g. Friday or Sunday)
+
+- Tally: applications sent, responses received, interviews scheduled, dead leads.
+- Response rate under ~10% for 2 straight weeks → the resume/targeting is the problem, not volume. Revisit which resume version and which company tier you're aiming at before adding more sources.
+- Prune the target company list: drop anything with no movement after 3 weeks, add 3–5 new targets.
+- Confirm hiring.cafe / LinkedIn filters are still tuned correctly — sources drift (new junk creeps in, good filters stop working).
+
+## Source Tier List
+
+**Primary (check daily)**
+- hiring.cafe — freshest, lowest junk
+- LinkedIn Jobs (filtered as above)
+- Direct ATS boards for target companies (Greenhouse/Lever/Ashby)
+
+**Sales-specific (check daily in Block 3)**
+- RepVue — cross-check comp/quota data before applying, not after
+- Bravado — sales-community-vetted listings + inbound
+
+**Avoid as primary sources**
+- Indeed, ZipRecruiter, Glassdoor — high rate of expired/scraped/duplicate postings. Fine as a secondary cross-check, never as the first stop.
+
+## Vetting a Company Before Adding It to the Target List
+
+Employee review sites (Glassdoor, Indeed reviews, Comparably) are excluded as a primary signal — reviews cluster at the extremes (disgruntled leavers, incentivized advocates) and long-vest comp (equity, deferred bonus, accelerators) rarely shows up because most reviewers don't stay long enough to realize it. Use revealed-preference and structural data instead. Run every candidate company through this before adding it to the Target Company List below.
+
+**Leadership/org stability (strongest single predictor for sales roles)**
+- LinkedIn tenure of VP Sales / CRO. Under ~18 months average in that seat → comp plans and territories get rebuilt constantly, which is the top driver of sales attrition and unrealized comp.
+- Search the exact title you're targeting at the company, sorted by tenure. Most reps under 12 months in seat = churn machine regardless of what reviews say.
+
+**Revealed hiring behavior**
+- Same req reposted every 2–3 months → the company is telling you directly the role is unfillable at the offered comp or has high early attrition. Fact, not opinion.
+- LinkedIn Alumni tool: where do people who leave go — up in title/comp, or lateral/down — and how long did they stay in your target role on average?
+
+**Financial reality**
+- Public companies: 10-K/10-Q and earnings call transcripts (IR site, or free via Seeking Alpha's transcript archive). Watch for revenue growth trend, guidance cuts, and "sales productivity" / "go-to-market restructuring" language — reorg/layoff language in disguise.
+- Private/VC-backed: Crunchbase for funding history and time since last round. 3+ years past last round with no profitability/new-funding news = runway risk, which is directly a comp-vesting risk.
+- layoffs.fyi for historical record.
+
+**Litigation, not opinion**
+- CourtListener (free) — search company name + "unpaid commission" or "wage and hour." Commission disputes are the sales-specific comp red flag, and litigation is much harder to fake or bias than a review.
+
+**Product reality (proxy for how hard the sales job actually is)**
+- If B2B SaaS: G2/Capterra reviews of the *product*, not the employer. Real customer pull makes quota achievable regardless of internal politics; a lukewarm product means fighting the market, not just the org.
+
+**In interview — ask for numbers, not narrative**
+- Team quota attainment %, average ramp time to full quota, rep tenure distribution. A company confident in its numbers gives them; evasiveness on this specific question is itself the signal.
+
+## Target Company List
+
+*(Companies that have cleared the full vetting checklist above — leadership tenure, financial reality, litigation, product reality, and interview numbers. Empty until a candidate below is fully checked.)*
+
+-
+
+## Candidates Sourced — Pending Manual Vetting
+
+Pulled 2026-07-28 across three lanes matching your actual background (financial services/wealthtech ↔ Schwab, adtech/media ↔ FOX 42 broadcast ad sales, mid-market B2B SaaS ↔ tech sales track). What's listed under "Verified" is only what search sources confirmed — **financial health / layoff history, nothing more.** None of these have cleared VP Sales tenure, litigation search, or repost-frequency checks yet. Those three require your LinkedIn login and CourtListener searches per company — I can't do them for you. Do not skip straight to applying off this list; run it through the checklist above first.
+
+| Company | Sector Fit | Verified (financial/layoff signal only) | Source | Still Needs |
+|---|---|---|---|---|
+| **Stripe** | Fintech/payments — B2B, wealthtech-adjacent | No 2026 layoffs found; 509 open roles as of May 2026; $159B valuation | [jobsbyculture.com](https://jobsbyculture.com/blog/stripe-layoffs-2026) | VP Sales tenure, litigation, repost check, interview numbers |
+| **Ramp** | Fintech — corporate spend/B2B payments | Actively hiring across GTM functions; well-capitalized, no layoff reports surfaced | Growth List / startup hiring roundups | Same as above — treat "no reports found" as unconfirmed, not clean |
+| **Rippling** | Fintech/HR platform — B2B | No 2026 layoff reports surfaced in this pass | Same search pass | Same as above; needs a dedicated check, this was a shallow pass |
+| **Magnite** | AdTech (SSP) — media/advertising sales, direct line to your FOX 42 background | Public company — 10-K/earnings transcripts available for direct financial check | Public filings (not yet pulled) | Pull actual 10-Q before trusting "well funded" label |
+| **AppLovin** | AdTech — public, ~$200B+ valuation, strong momentum as of late 2025 | Public, large market cap | Built In / market cap reporting | Public ≠ safe — pull recent earnings call for sales org commentary |
+| **OpenX** | AdTech (SSP) — privately held | Named among large SSPs; no financial data pulled | Built In roundup | Funding/financial reality entirely unverified — privately held means no filings, treat with more caution than the public names above |
+| **Nextiva** | Mid-market B2B SaaS (UCaaS/CX) — matches tech sales track | Actively hiring Mid-Market AEs as of mid-2026 | Job posting / hiring roundup | Full checklist untouched |
+| **360Learning** | Mid-market B2B SaaS, explicitly targets 250–5,000 employee accounts — matches your consultative/longer-cycle strength (Theme 1) | Actively hiring NA mid-market AEs | Job posting / hiring roundup | Full checklist untouched |
+
+**Explicitly excluded from this pass:** Gusto — a layoff discussion thread surfaced on Blind dated January 2026, unconfirmed. Blind is the same category problem as Glassdoor (self-selected, politicized); I didn't chase it further and I'm not listing Gusto as a candidate until someone runs a real check, not a forum thread.
+
+**Not yet searched:** home-services/field consultative sales (your Ecowater lane) — the searches above were fintech/adtech/SaaS only. Say the word and I'll run a dedicated pass there.
+
+## Related
+- [[Job Search Tracker]]
+- Resume versions: `Me/Work/Resume's/`
+- Interview prep: `Me/Work/Interviews/`
