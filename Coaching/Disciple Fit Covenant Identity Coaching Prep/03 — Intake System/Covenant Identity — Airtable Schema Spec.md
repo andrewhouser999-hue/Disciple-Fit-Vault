@@ -16,27 +16,27 @@ tags:
 
 One row per prospective or active client. This is the table you actually look at day to day; the two response tables feed it but are not where you track pipeline state.
 
-| Field | Type | Notes |
-|---|---|---|
-| Client Name | Single line text (primary field) | |
-| Email | Email | Match key for linking response tables |
-| Phone | Phone number | |
-| Status | Single select | Options: `Discovery Booked` → `Pre-Discovery Complete` → `Discovery Call Done` → `Go – Agreement Sent` → `Go – Tier 2 Sent` → `Active` → `Completing` → `Closed` → `No-Go / Referred` |
-| Discovery Call Date | Date | |
-| Go/No-Go Decision | Single select | `Go` / `No-Go` / `Pending` |
-| Go/No-Go Notes | Long text | Rationale against the 5 criteria in the Two-Tier Protocol |
-| Payment Status | Single select | `Not Invoiced` / `Invoiced` / `Paid` / `Payment Plan Active` / `Refunded`. Check this is `Paid` or `Payment Plan Active` before manually sending Tier 2 — see the Payment Gate in the Two-Tier Intake Protocol. |
-| Payment Plan Selected | Single select | `Full ($1,680)` / `3-Month Plan ($560/mo)` |
-| Amount Paid | Currency | |
-| Payment Date | Date | Date of most recent payment (full payment or latest installment) |
-| Emergency Contact Name | Single line text | Mirrors Q19 once Tier 2 is submitted |
-| Emergency Contact Phone | Phone number | Mirrors Q20 |
-| Emergency Contact Relationship | Single line text | Mirrors Q21 |
-| Current City/State | Single line text | Mirrors Q22 — required before Session 1 for every client, remote or local |
-| Pre-Discovery Response | Link to record → Pre-Discovery Responses | |
-| Intake Response | Link to record → Intake Responses | |
-| Alpha Cohort | Checkbox | Marks the first cohort of clients for tracking purposes (e.g., early feedback, first-cohort testimonials) — alpha clients pay the same rates as later cohorts as of 2026-07-08 |
-| Coach Notes | Long text | Free-form, not part of any client-facing document |
+| Field                          | Type                                     | Notes                                                                                                                                                                                                           |
+| ------------------------------ | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Client Name                    | Single line text (primary field)         |                                                                                                                                                                                                                 |
+| Email                          | Email                                    | Match key for linking response tables                                                                                                                                                                           |
+| Phone                          | Phone number                             |                                                                                                                                                                                                                 |
+| Status                         | Single select                            | Options: `Discovery Booked` → `Pre-Discovery Complete` → `Discovery Call Done` → `Go – Agreement Sent` → `Go – Tier 2 Sent` → `Active` → `Completing` → `Closed` → `No-Go / Referred`                           |
+| Discovery Call Date            | Date                                     |                                                                                                                                                                                                                 |
+| Go/No-Go Decision              | Single select                            | `Go` / `No-Go` / `Pending`                                                                                                                                                                                      |
+| Go/No-Go Notes                 | Long text                                | Rationale against the 5 criteria in the Two-Tier Protocol                                                                                                                                                       |
+| Payment Status                 | Single select                            | `Not Invoiced` / `Invoiced` / `Paid` / `Payment Plan Active` / `Refunded`. Check this is `Paid` or `Payment Plan Active` before manually sending Tier 2 — see the Payment Gate in the Two-Tier Intake Protocol. |
+| Payment Plan Selected          | Single select                            | `Full ($1,680)` / `3-Month Plan ($560/mo)`                                                                                                                                                                      |
+| Amount Paid                    | Currency                                 |                                                                                                                                                                                                                 |
+| Payment Date                   | Date                                     | Date of most recent payment (full payment or latest installment)                                                                                                                                                |
+| Emergency Contact Name         | Single line text                         | Mirrors Q19 once Tier 2 is submitted                                                                                                                                                                            |
+| Emergency Contact Phone        | Phone number                             | Mirrors Q20                                                                                                                                                                                                     |
+| Emergency Contact Relationship | Single line text                         | Mirrors Q21                                                                                                                                                                                                     |
+| Current City/State             | Single line text                         | Mirrors Q22 — required before Session 1 for every client, remote or local                                                                                                                                       |
+| Pre-Discovery Response         | Link to record → Pre-Discovery Responses |                                                                                                                                                                                                                 |
+| Intake Response                | Link to record → Intake Responses        |                                                                                                                                                                                                                 |
+| Alpha Cohort                   | Checkbox                                 | Marks the first cohort of clients for tracking purposes (e.g., early feedback, first-cohort testimonials) — alpha clients pay the same rates as later cohorts as of 2026-07-08                                  |
+| Coach Notes                    | Long text                                | Free-form, not part of any client-facing document                                                                                                                                                               |
 
 ---
 
