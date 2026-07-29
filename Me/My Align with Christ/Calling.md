@@ -37,5 +37,9 @@ Wife receives job offer (perfect) **strengthening** ->
 Encounter - **providence** - unplanned encounter with Jeff, scheduled to show him CIC & Formation, he did not return my offer. 
 **Shift in mindset to Spirit/Prayer** -> 
 
+...Now what? And now...funds are running low. SK is encouraging me to generate income and is supportive of this coaching. 
+
+Persevere, Pray and Search 
+
 
 
