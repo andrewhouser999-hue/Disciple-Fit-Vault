@@ -8,13 +8,15 @@ tags: [job-search, b2b-sales]
 
 Standing operating routine for an active, daily job search targeting B2B sales roles (tech sales included, not limited to it). Pairs with [[Job Search Tracker]] for logging every application and follow-up.
 
+**Location filter: Omaha, NE metro** (plus remote-eligible postings). Applied at the source level in Block 1 below.
+
 ## Daily Block Schedule (weekdays)
 
 Treat this as a job. Four blocks, roughly 3–4 hours total — compress or expand based on what else is on the day.
 
 **Block 1 — Source (30–45 min, first thing)**
-- Check **hiring.cafe** — filter to B2B sales / account executive / SDR-BDR-AE ladder roles, sorted by freshness. This is the primary source because it pulls from ATS systems directly, not scraped reposts.
-- Check **LinkedIn Jobs** — sort by "Most recent," filter out Promoted, look for the green "actively recruiting" signal on the hiring manager.
+- Check **hiring.cafe** — filter to Omaha, NE (include remote-eligible postings) and B2B sales / account executive / SDR-BDR-AE ladder roles, sorted by freshness. This is the primary source because it pulls from ATS systems directly, not scraped reposts.
+- Check **LinkedIn Jobs** — set location to Omaha, NE metro (or remote), sort by "Most recent," filter out Promoted, look for the green "actively recruiting" signal on the hiring manager.
 - Rotate through 3–5 target companies' **direct career pages** (Greenhouse/Lever/Ashby boards) — pick these from your target list below.
 - Log every viable posting into the tracker before moving to Block 2 — don't apply and source in the same pass, it fragments attention.
 
@@ -82,9 +84,11 @@ Employee review sites (Glassdoor, Indeed reviews, Comparably) are excluded as a 
 
 ## Target Company List
 
-*(Companies that have cleared the full vetting checklist above — leadership tenure, financial reality, litigation, product reality, and interview numbers. Empty until a candidate below is fully checked.)*
+*(Normally reserved for companies that have cleared the full vetting checklist above. Entries added directly by instruction, bypassing the checklist, are flagged "Pending" in Vetting Status rather than silently treated as cleared.)*
 
--
+| Company | Sector Fit | Vetting Status | Notes |
+|---|---|---|---|
+| **Mutual of Omaha** | Insurance/financial services — Fortune 500, HQ'd in Omaha; runs mentor-based sales trainee/development programs (Workplace Solutions, Retirement Plan Sales) — structural match to your "pulled off the floor to build training" pattern at Schwab and Ecowater | Pending — added 2026-07-30 per direct instruction; leadership tenure, litigation, and repost-frequency checks not yet run | Strong fit for `Andrew Houser Resume - Sales Enablement.md`; check for internal L&D/enablement openings even if no live enablement req is posted |
 
 ## Candidates Sourced — Pending Manual Vetting
 
@@ -103,7 +107,18 @@ Pulled 2026-07-28 across three lanes matching your actual background (financial 
 
 **Explicitly excluded from this pass:** Gusto — a layoff discussion thread surfaced on Blind dated January 2026, unconfirmed. Blind is the same category problem as Glassdoor (self-selected, politicized); I didn't chase it further and I'm not listing Gusto as a candidate until someone runs a real check, not a forum thread.
 
-**Not yet searched:** home-services/field consultative sales (your Ecowater lane) — the searches above were fintech/adtech/SaaS only. Say the word and I'll run a dedicated pass there.
+## Candidates Sourced — Home Services / Field Sales (Omaha)
+
+Pulled 2026-07-30, filtered to Omaha per the location filter above. Same rigor as the pass above — financial/legal signal only, nothing here has cleared the full checklist.
+
+| Company | Sector Fit | Verified (financial/layoff/litigation signal only) | Source | Still Needs |
+|---|---|---|---|---|
+| **Culligan Heartland** (Omaha) | Water treatment, direct sales/delivery — the exact category as your Ecowater role, same local franchise ("Culligan of Omaha") | 9 Omaha openings incl. sales; reported $80K–$125K+ comp with a 2-month base-support ramp before full commission; no litigation or major stability red flags surfaced; operating since 1936 | ZipRecruiter/Indeed listings, culliganheartland.com | VP/manager tenure, repost check, interview numbers — but this is the strongest lead in this pass |
+| **Renewal by Andersen** (Omaha) | Windows — consultative, appointment-set (not door-knocking), higher ticket, industry reputation for stronger sales training than most home-services players | 3 Omaha openings; but recent reviews report commission structure being lowered (base commission down to 7% on first $2.1M in sales), 100% commission with unpaid meeting attendance, and an active Ninth Circuit case (*Young v. Renewal by Andersen*, No. 24-6095) — details not pulled | RepVue, Glassdoor, Justia case docket | Read the actual *Young v. Renewal by Andersen* filing before going further — do not treat "consultative reputation" as current given the comp-structure and litigation signals above |
+
+**Excluded outright — do not pursue:** **Everlight Solar** (Omaha). The Nebraska Attorney General filed suit against Everlight Solar for unlawful door-to-door sales tactics and misleading consumers — deceptive claims about cost savings and reimbursement checks, alleged violations of the Consumer Protection Act and Uniform Deceptive Trade Practices Act. Paired with reported high turnover (15+ departures in one reviewer's 3.5-year span), abrupt layoffs of long-tenured staff, and 1099 classification for remote roles. This is a live state AG action, not a forum complaint — exactly the kind of thing the litigation-check step in the vetting framework exists to catch, and it caught it.
+
+**Resume note:** none of the current resume versions lead with the Ecowater/home-services angle — it's a supporting bullet in the B2B Sales Career Profile and Functional versions. If Culligan moves forward, worth considering a dedicated version leading with the 48.9% close rate and the Top Tier Achievers Club ranking, the way the Sales Enablement version leads with the training builds.
 
 ## Related
 - [[Job Search Tracker]]
