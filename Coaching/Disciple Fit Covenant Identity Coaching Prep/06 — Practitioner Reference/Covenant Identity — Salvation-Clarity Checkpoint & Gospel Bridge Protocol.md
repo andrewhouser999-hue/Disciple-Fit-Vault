@@ -82,6 +82,8 @@ This is a single, honest conversation — not a program. Structure, parallel to 
 
 *Organized by rhetorical function, in the order they are typically used (the "Romans Road" tradition and its near-relatives). These are commonly and effectively used passages in evangelistic practice — not a claim about the Spirit's internal workings.*
 
+**A note on "believe" and "faith" in these passages:** The English words "believe" and "faith" below translate one underlying concept across both Testaments, not a bundle of separable steps. In the Greek New Testament, *pistis* (πίστις, "faith/trust") and its verb form *pisteuō* (πιστεύω, "to believe/trust") are the operative terms in Rom. 10:9–13, Eph. 2:8–9, and John 1:12 below. In the Hebrew Old Testament, the corresponding term is *emunah* (אֱמוּנָה) — covenant faithfulness/trust, built on the same root as "amen" — used of Abraham's response in Gen. 15:6, *"And he believed the LORD, and he counted it to him as righteousness,"* the OT anchor text Paul draws on directly in Rom. 4:3 to explain what New Testament *pistis* means. Both terms carry the same weight: not mere intellectual acknowledgment that a claim is true, but active reliance — resting one's whole trust on the object of faith, the way a covenant partner rests on the other party's fidelity. This is the actual standard Section 1's and Section 3's probes are testing for: not "does the client know the facts" or "does the client agree the facts are true," but "has the client actually rested their trust on Christ." A client can affirm every fact in this Scripture set and still fail that test if nothing has actually been trusted.
+
 **The problem — universal sin and its consequence:**
 - Rom. 3:23 — *"for all have sinned and fall short of the glory of God"*
 - Rom. 6:23a — *"For the wages of sin is death"*
@@ -162,6 +164,7 @@ Before your first client engagement:
 | "Romans Road" evangelistic tradition | Popular evangelistic method, widely used across evangelical traditions | Source and structure for the Section 4 Scripture set (problem → provision → response → assurance sequence) | Long-standing, widely documented evangelistic practice; not a single formal originating source |
 | ESV (English Standard Version) | Scripture translation | Text of all quoted passages, per standing translation standard for coaching/biblical research files | Primary source (Scripture) |
 | [[Covenant Identity — Crisis & Referral Protocol]] | Internal document | Structural model (referral trigger categories, in-session response steps, referral conversation script, preparation checklist) adapted here for a spiritual-baseline rather than clinical boundary | Internal primary source |
+| Standard Hebrew/Greek lexicons (BDB/HALOT for *emunah*; BDAG for *pistis*) | Biblical language reference | Section 4's note on "believe"/"faith" — grounding the trust-based (not merely intellectual) sense of both terms, and Gen. 15:6 / Rom. 4:3 as the OT-to-NT link | Standard scholarly lexicons |
 
 ---
 
