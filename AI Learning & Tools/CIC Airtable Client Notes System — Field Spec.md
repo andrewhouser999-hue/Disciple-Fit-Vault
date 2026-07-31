@@ -6,6 +6,8 @@ tags:
 
 # CIC Airtable Client Notes System — Field Spec
 
+> **SUPERSEDED 2026-07-31.** This spec was written before discovering that a real, already-in-use Airtable schema doc already existed (`Disciple Fit Covenant Identity Coaching Prep/03 — Intake System/Covenant Identity — Airtable Schema Spec.md`). It duplicated that doc's "Clients" table instead of extending it. The reconciled version — Session Notes as Table 5, linked to the existing Clients table, with three follow-up fixes applied (dropped the invalid per-client Session # field, flagged Raw Notes for an access-control decision, added Created/Last Modified audit fields) — is now written into that file. Treat this doc as historical only; do not build from it.
+
 ## Purpose
 
 Defines the Airtable table structure for storing CIC/Disciple Fit client records and session notes. This replaces the earlier Phase 2A design in the Freelance Automation & Kingdom Coaching Plan, which routed session notes to Obsidian with no link back to the client's CRM record — a gap that would have made "show me everything for Client X" unresolvable as client count grew. Airtable's linked-table model (one Clients record, many linked Session Notes records) solves this directly.

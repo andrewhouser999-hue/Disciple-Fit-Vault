@@ -1,11 +1,11 @@
 ---
 created: 2026-07-06
-basis: "[[Covenant Identity — Two-Tier Intake Protocol]], [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]], [[Covenant Identity Intake — Tally Build Guide]] — field-level schema derived from these three documents' question sets and pipeline logic; no prior schema existed. Table 4 added 2026-07-10 per [[Covenant Identity — Alliance Pulse]]."
+basis: "[[Covenant Identity — Two-Tier Intake Protocol]], [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]], [[Covenant Identity Intake — Tally Build Guide]] — field-level schema derived from these three documents' question sets and pipeline logic; no prior schema existed. Table 4 added 2026-07-10 per [[Covenant Identity — Alliance Pulse]]. Table 5 (Session Notes) added 2026-07-31 — mirrors the CIC diagnostic sequence (affections → false identity → covenant truth → stage work) and the Crisis & Referral Protocol's scope-boundary check; reconciled against the existing schema rather than built as a separate base."
 tags:
 ---
 
 # Covenant Identity — Airtable Schema Spec
-*Field-level base structure for the two-tier intake system. Both Tally Build Guides say "connect to Airtable" but neither specifies fields — this document is that missing layer. Build one Airtable base with the three tables below.*
+*Field-level base structure for the two-tier intake system, now extended to cover ongoing session documentation. Both Tally Build Guides say "connect to Airtable" but neither specifies fields — this document is that missing layer. Build one Airtable base with the five tables below.*
 
 **Who it's for:** Andrew, building the alpha-phase Airtable base by hand.
 **What it is not:** An automation spec. See the Automation Notes at the end for what needs Make.com vs. what Airtable/Tally handle natively.
@@ -13,6 +13,7 @@ tags:
 ---
 
 ## Table 1 — Clients (master pipeline)
+**Airtable tab name (not yet created):** "Clients" — the "(master pipeline)" label is this doc's own descriptor, not part of the tab name to type in Airtable.
 
 One row per prospective or active client. This is the table you actually look at day to day; the two response tables feed it but are not where you track pipeline state.
 
@@ -40,7 +41,8 @@ One row per prospective or active client. This is the table you actually look at
 
 ---
 
-## Table 2 — Pre-Discovery Responses (Tier 1)
+## Table 2 — Pre Discovery Repsonses (Tier 1)
+**Airtable tab name:** "Pre Discovery Repsonses" — matches exactly, including the typo (not "Repsonses" → "Responses," not hyphenated, no "(Tier 1)" suffix in the actual tab). The "(Tier 1)" here is this doc's own clarifying label, not part of the literal Airtable name.
 
 One row per Tally submission of the Pre-Discovery Screen. Field order matches the Tally Build Guide 1:1 so mapping during Tally→Airtable setup is mechanical.
 
@@ -61,6 +63,7 @@ One row per Tally submission of the Pre-Discovery Screen. Field order matches th
 ---
 
 ## Table 3 — Intake Responses (Tier 2)
+**Airtable tab name:** "Intake Responses (Tier 2)" — matches exactly, no change needed.
 
 One row per Tally submission of the full Covenant Identity Intake. Includes the new Section G fields (Q19-22) added to the Tally Build Guide.
 
@@ -95,6 +98,7 @@ One row per Tally submission of the full Covenant Identity Intake. Includes the 
 ---
 
 ## Table 4 — Alliance Pulse Responses
+**Airtable tab name (not yet created):** "Alliance Pulse Responses" — matches the heading exactly, no separate label needed.
 
 One row per Tally submission of the Alliance Pulse, sent after every session starting with the alpha cohort. See [[Covenant Identity — Alliance Pulse]] for pilot status, deployment timing, and rationale — this table exists to support that pilot and is not yet a permanent fixture of the base.
 
@@ -109,6 +113,33 @@ One row per Tally submission of the Alliance Pulse, sent after every session sta
 | Alliance Total | Formula (sum of Bond + Task + Goal) | Auto-calculated |
 | Optional Note | Long text | Optional field, often blank |
 | Client | Link to record → Clients | Match by email |
+
+---
+
+## Table 5 — Session Notes
+**Airtable tab name (not yet created):** "Session Notes" — matches the heading exactly, no separate label needed.
+
+One row per coaching session, linked to the client it belongs to. Unlike Tables 2-4, this table isn't fed by a Tally form — it's populated from raw session notes (pasted or dictated) plus fields the coach sets after reviewing. Requires Table 1 to have a matching `Session Notes` link field pointing back here — not yet added, see note below.
+
+| Field | Type | Notes |
+|---|---|---|
+| Client | Link to record → Clients | Every session note attaches to a client |
+| Session Date | Date | Sort/group views by this field for chronological order |
+| Raw Notes | Long text | Pasted from Tally/dictation, unedited. **Access-control flag:** holds verbatim client disclosure; Airtable's lower tiers have no field-level permission, so anyone with base access sees this in full. Decide deliberately whether this stays in the same base as intake/payment data or gets restricted — not defaulted here. |
+| Key Themes | Long text | Claude-drafted from Raw Notes |
+| Affections Surfaced | Long text | Claude-drafted — what the client is prioritizing, trusting, or relying on this session |
+| False Identity Named | Long text | Optional — only if surfaced this session |
+| Covenant Truth Spoken | Long text | Optional — only if spoken this session |
+| Stage Worked | Single select | `Discovery` / `Stage 1` / `Stage 2-3` / `Stage 4a` / `Stage 4b` / `Completed` — coach-entered, not Claude-inferred |
+| Stage 4b Route | Single select | `Route A – Relational` / `Route B – Body/Felt-Sense` / `N/A` — only populated when Stage Worked = Stage 4b; coach-entered. Route B is not yet field-tested in a live session, so early entries using it are also test data for whether the fork holds up in practice |
+| Client Commitments | Long text | Claude-drafted from Raw Notes |
+| Coach Follow-up Actions | Long text | Claude-drafted from Raw Notes |
+| Scope Boundary Flag | Checkbox | Referral Signal present this session, per the Crisis & Referral Protocol |
+| Note Status | Single select | `Draft` / `Reviewed` — Draft until the coach has checked the Claude-generated fields and entered Stage Worked / Stage 4b Route |
+| Created | Created time | Native Airtable field, auto-populated — basic audit trail independent of note content |
+| Last Modified | Last modified time | Native Airtable field, auto-populated |
+
+**Not built here:** a per-client session sequence number. Airtable's native Autonumber increments across the whole table, not per linked client, so it can't produce "session 1, 2, 3" per client — use the Session Date sort instead rather than building automation around a field that can't do what its name implies.
 
 ---
 
