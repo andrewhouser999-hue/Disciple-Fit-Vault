@@ -1,6 +1,6 @@
 ---
 created: 2026-07-06
-basis: "[[Covenant Identity — Two-Tier Intake Protocol]], [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]], [[Covenant Identity Intake — Tally Build Guide]] — field-level schema derived from these three documents' question sets and pipeline logic; no prior schema existed. Table 4 added 2026-07-10 per [[Covenant Identity — Alliance Pulse]]. Table 5 (Session Notes) added 2026-07-31 — mirrors the CIC diagnostic sequence (affections → false identity → covenant truth → stage work) and the Crisis & Referral Protocol's scope-boundary check; reconciled against the existing schema rather than built as a separate base."
+basis: "[[Covenant Identity — Two-Tier Intake Protocol]], [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]], [[Covenant Identity Intake — Tally Build Guide]] — field-level schema derived from these three documents' question sets and pipeline logic; no prior schema existed. Table 4 added 2026-07-10 per [[Covenant Identity — Alliance Pulse]]. Table 5 (Session Notes) added 2026-07-31 — mirrors the CIC diagnostic sequence (affections → false identity → covenant truth → stage work) and the Crisis & Referral Protocol's scope-boundary check; reconciled against the existing schema rather than built as a separate base. Name fields split into First/Last (with a Full Name formula as primary) across all four person-holding tables (1-4) on 2026-07-31, since no real client data existed yet to disrupt."
 tags:
 ---
 
@@ -56,7 +56,9 @@ One row per Tally submission of the Pre-Discovery Screen. Field order matches th
 
 | Field | Type | Source |
 |---|---|---|
-| Respondent Name | Single line text (primary field) | |
+| Respondent Full Name | Formula (primary field) | `{Respondent First Name} & ", " & {Respondent Last Name}` — matches Table 1's pattern. Changed from a single "Respondent Name" field 2026-07-31. |
+| Respondent First Name | Single line text | Tally's native split-name field type — requires rebuilding this form's Name question in Tally and remapping the Airtable integration |
+| Respondent Last Name | Single line text | Same as above |
 | Submission Date | Date | Auto-populated by Tally |
 | Q1 – Presenting Issue | Long text | Q1 |
 | Q2 – Duration & Prior Attempts | Long text | Q2 |
@@ -77,7 +79,9 @@ One row per Tally submission of the full Covenant Identity Intake. Includes the 
 
 | Field | Type | Source |
 |---|---|---|
-| Respondent Name | Single line text (primary field) | |
+| Respondent Full Name | Formula (primary field) | `{Respondent First Name} & ", " & {Respondent Last Name}` — matches Table 1's pattern. Changed from a single "Respondent Name" field 2026-07-31. |
+| Respondent First Name | Single line text | Tally's native split-name field type — requires rebuilding this form's Name question in Tally and remapping the Airtable integration |
+| Respondent Last Name | Single line text | Same as above |
 | Submission Date | Date | Auto-populated by Tally |
 | Q1 – Reach-Out Trigger | Long text | Q1 |
 | Q2 – Duration & Attempts | Long text | Q2 |
@@ -112,7 +116,9 @@ One row per Tally submission of the Alliance Pulse, sent after every session sta
 
 | Field | Type | Source |
 |---|---|---|
-| Respondent Name | Single line text (primary field) | |
+| Respondent Full Name | Formula (primary field) | `{Respondent First Name} & ", " & {Respondent Last Name}` — matches Table 1's pattern. Changed from a single "Respondent Name" field 2026-07-31. |
+| Respondent First Name | Single line text | Tally's native split-name field type — requires rebuilding this form's Name question in Tally and remapping the Airtable integration |
+| Respondent Last Name | Single line text | Same as above |
 | Submission Date | Date | Auto-populated by Tally |
 | Session Number | Number | Coach fills in when sending the link — not client-reported, so it stays reliable if a submission comes in late or out of order |
 | Bond Score | Number (1-5) | Item 1 |
