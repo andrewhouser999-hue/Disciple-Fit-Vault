@@ -73,5 +73,5 @@ Review this policy annually alongside the Coaching Agreement's own annual review
 
 ## 9. Open Items
 
-- Not yet decided: whether the Coaching Agreement (client-facing) should disclose the specific retention period, or whether "records are kept confidentially per Coach policy" (current Section 7/8 language) is sufficient disclosure
-- Not yet built: the actual scheduled-review process (e.g., an annual calendar reminder) to make Sections 5-6 happen rather than stay theoretical
+- **Decided 2026-07-31:** the Coaching Agreement will not be updated to disclose the specific retention period. Current Section 7/8 language ("records are kept confidentially") stands as sufficient client-facing disclosure.
+- Not yet built, left alone for now (2026-07-31): the actual scheduled-review process (e.g., an annual calendar reminder) to make Sections 5-6 happen rather than stay theoretical

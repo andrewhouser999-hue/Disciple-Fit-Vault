@@ -159,7 +159,7 @@ Tally intake form submitted
 
 **Three workflows to build:**
 
-**2A — Session notes → structured record → Airtable (linked to client)**
+**2A — Session notes → structured record → Airtable Table 5 (Session Notes, linked to client)**
 ```
 You paste raw session notes into a Tally form (or email yourself)
   → Make.com triggers
@@ -167,13 +167,13 @@ You paste raw session notes into a Tally form (or email yourself)
      1) Key themes 2) Affections surfaced 3) False identity named (if any)
      4) Covenant truth spoken (if any) 5) Client commitments
      6) Coach follow-up actions"
-  → New row created in Session Notes table, linked to the matching Clients record
+  → New row created in Table 5 — Session Notes, linked to the matching Table 1 — Clients record
   → Follow-up email drafted to client via Gmail drafts
 ```
 
 **Not automated — coach-entered fields:** Stage Worked and Stage 4b Route (Relational vs. Body/Felt-Sense) are diagnostic judgment calls, not something Claude should infer from raw notes. Andrew sets these fields himself in Airtable after reviewing the Claude-generated summary — same principle as never auto-sending client replies.
 
-**Table structure (Clients + Session Notes, linked):** full field spec not yet written into the vault — currently tracked in Claude's memory only (`project_cic_airtable_notes_system`, decided 2026-07-23). Bring it into this vault as a proper doc once the Airtable base is actually built.
+**Table structure (Table 1 — Clients + Table 5 — Session Notes, linked):** full field spec lives in `Disciple Fit Covenant Identity Coaching Prep/03 — Intake System/Covenant Identity — Airtable Schema Spec.md` — that's the authoritative doc, built alongside Tables 2-4 (the existing two-tier intake system).
 
 **2B — Inquiry email → Claude draft response**
 ```
