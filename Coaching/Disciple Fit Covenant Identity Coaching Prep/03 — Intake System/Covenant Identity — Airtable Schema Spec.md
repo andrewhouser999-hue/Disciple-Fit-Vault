@@ -77,35 +77,35 @@ One row per Tally submission of the Pre-Discovery Screen. Field order matches th
 
 One row per Tally submission of the full Covenant Identity Intake. Includes the new Section G fields (Q19-22) added to the Tally Build Guide.
 
-| Field | Type | Source |
-|---|---|---|
-| Respondent Full Name | Formula (primary field) | `{Respondent First Name} & ", " & {Respondent Last Name}` — matches Table 1's pattern. Changed from a single "Respondent Name" field 2026-07-31. |
-| Respondent First Name | Single line text | Tally's native split-name field type — requires rebuilding this form's Name question in Tally and remapping the Airtable integration |
-| Respondent Last Name | Single line text | Same as above |
-| Submission Date | Date | Auto-populated by Tally |
-| Q1 – Reach-Out Trigger | Long text | Q1 |
-| Q2 – Duration & Attempts | Long text | Q2 |
-| Q3 – Life Arc | Long text | Q3 |
-| Q4 – Childhood Messages | Long text | Q4 |
-| Q5 – God-Relationship Actual | Long text | Q5 |
-| Q6 – God's View at Failure | Long text | Q6 |
-| Q7 – Lament History | Long text | Q7 |
-| Q8 – Failure Meaning | Long text | Q8 |
-| Q9 – Identity Gap Scale (1-10) | Number | Q9 |
-| Q10 – Fear of Discovery | Long text | Q10 |
-| Q11 – Real Motivation | Long text | Q11 |
-| Q12 – Clinical Screen | Single select (Yes/No) | Q12 |
-| Q13 – Anything Else | Long text | Q13, optional |
-| Q14 – Life Going Well Condition | Long text | Q14 |
-| Q15 – First Reach Under Stress | Long text | Q15 |
-| Q16 – Fear of Losing | Long text | Q16 |
-| Q17 – Dependency Source | Long text | Q17 |
-| Q18 – Last Thing to Give Up | Long text | Q18 |
-| Emergency Contact Name | Single line text | Q19 |
-| Emergency Contact Phone | Phone number | Q20 |
-| Emergency Contact Relationship | Single line text | Q21 |
-| Current City/State | Single line text | Q22 |
-| Client | Link to record → Clients | Match by email |
+| Field                           | Type                     | Source                                                                                                                                           |
+| ------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Respondent Full Name            | Formula (primary field)  | `{Respondent First Name} & ", " & {Respondent Last Name}` — matches Table 1's pattern. Changed from a single "Respondent Name" field 2026-07-31. |
+| Respondent First Name           | Single line text         | Tally's native split-name field type — requires rebuilding this form's Name question in Tally and remapping the Airtable integration             |
+| Respondent Last Name            | Single line text         | Same as above                                                                                                                                    |
+| Submission Date                 | Date                     | Auto-populated by Tally                                                                                                                          |
+| Q1 – Reach-Out Trigger          | Long text                | Q1                                                                                                                                               |
+| Q2 – Duration & Attempts        | Long text                | Q2                                                                                                                                               |
+| Q3 – Life Arc                   | Long text                | Q3                                                                                                                                               |
+| Q4 – Childhood Messages         | Long text                | Q4                                                                                                                                               |
+| Q5 – God-Relationship Actual    | Long text                | Q5                                                                                                                                               |
+| Q6 – God's View at Failure      | Long text                | Q6                                                                                                                                               |
+| Q7 – Lament History             | Long text                | Q7                                                                                                                                               |
+| Q8 – Failure Meaning            | Long text                | Q8                                                                                                                                               |
+| Q9 – Identity Gap Scale (1-10)  | Number                   | Q9                                                                                                                                               |
+| Q10 – Fear of Discovery         | Long text                | Q10                                                                                                                                              |
+| Q11 – Real Motivation           | Long text                | Q11                                                                                                                                              |
+| Q12 – Clinical Screen           | Single select (Yes/No)   | Q12                                                                                                                                              |
+| Q13 – Anything Else             | Long text                | Q13, optional                                                                                                                                    |
+| Q14 – Life Going Well Condition | Long text                | Q14                                                                                                                                              |
+| Q15 – First Reach Under Stress  | Long text                | Q15                                                                                                                                              |
+| Q16 – Fear of Losing            | Long text                | Q16                                                                                                                                              |
+| Q17 – Dependency Source         | Long text                | Q17                                                                                                                                              |
+| Q18 – Last Thing to Give Up     | Long text                | Q18                                                                                                                                              |
+| Emergency Contact Name          | Single line text         | Q19                                                                                                                                              |
+| Emergency Contact Phone         | Phone number             | Q20                                                                                                                                              |
+| Emergency Contact Relationship  | Single line text         | Q21                                                                                                                                              |
+| Current City/State              | Single line text         | Q22                                                                                                                                              |
+| Client                          | Link to record → Clients | Match by email                                                                                                                                   |
 
 ---
 
