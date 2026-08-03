@@ -52,6 +52,7 @@ One-sentence descriptions of every file, organized by subfolder.
 - **Covenant Identity — Diagnostic Intake Profile — [Client Name].md** — Per-client diagnostic intake profile generated from the intake form; coach-annotated.
 - **Covenant Identity — Designed Alliance — [Client Name].md** — Per-client designed alliance document; co-created in Phase 1 Session 1.
 - **Covenant Identity — Session Prep Template.md** — Pre-session 5-10 minute readiness checklist: coach check-in, client thread retrieval, phase-specific focus, intention setting.
+- **Covenant Identity — Worked Session Examples — Index.md** — Fictional, composite-client scenarios showing a full session run end to end (dialogue + coach reasoning + post-session documentation); each logged with a companion Artifact link. Started 2026-08-03 with a Session 1 full-pipeline example ("Marcus R.").
 
 ---
 
