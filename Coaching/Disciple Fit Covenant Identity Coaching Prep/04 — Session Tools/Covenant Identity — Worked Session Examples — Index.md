@@ -1,6 +1,6 @@
 ---
 created: 2026-08-03
-basis: "[[Covenant Identity — Two-Tier Intake Protocol]] — pipeline sequence; [[Covenant Identity — Discovery Call Guide]] — Entry Fork, Go/No-Go, Movement 4 goal confirmation; [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]] — Session 1 structure and language; [[Covenant Identity — Intake Addendum (Coach)]] — Part A/B fields; [[AI Prompt — Designed Alliance]] — Co-Active/CTI Designed Alliance structure; Bordin (1979) working alliance model, Wampold common-factors research, Rogers core conditions, Siegel attunement research — relationship-building basis for session design"
+basis: "[[Covenant Identity — Two-Tier Intake Protocol]] — pipeline sequence; [[Covenant Identity — Discovery Call Guide]] — Entry Fork, Go/No-Go, Movement 4 goal confirmation; [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]] — Session 1 structure, language, and spiritual bypassing markers/redirects; [[Covenant Identity — Intake Addendum (Coach)]] — Part A/B fields; [[AI Prompt — Designed Alliance]] — Co-Active/CTI Designed Alliance structure; Bordin (1979) working alliance model, Wampold common-factors research, Rogers core conditions, Siegel attunement research — relationship-building basis for session design; Welwood (1984) — origin of the term spiritual bypassing; Scazzero, *Emotionally Healthy Spirituality* — application to church culture, basis for Example #2's coaching-challenge scenario"
 tags: [session-tool, worked-example, training]
 ---
 
@@ -14,9 +14,10 @@ tags: [session-tool, worked-example, training]
 
 ## Session 1 Examples
 
-| Client (fictional) | Scenario | Pipeline stage dramatized | Link |
-|---|---|---|---|
-| "Marcus R." | 41, married, Regional Operations Director; presenting pattern of shutting down/going cold under relational pressure, traced toward a critical-father-shaped, performance-contingent God-representation. Entry Fork: Named-pattern, non-injury. | Full pipeline — Tier 1 → Discovery Call → signed agreement/payment → Tier 2 → Session 1 (90 min, extended for an explicit verbal Designed Alliance conversation) | [CIC Session 1 — Full Worked Example](https://claude.ai/code/artifact/769ea1da-0987-4fe8-a61d-7e612eef252a) |
+| Client (fictional) | Scenario | Coaching challenge illustrated | Pipeline stage dramatized | Link |
+|---|---|---|---|---|
+| "Marcus R." | 41, married, Regional Operations Director; presenting pattern of shutting down/going cold under relational pressure, traced toward a critical-father-shaped, performance-contingent God-representation. Entry Fork: Named-pattern, non-injury. | General alliance-building and relationship design (no single named challenge — the baseline/reference example) | Full pipeline — Tier 1 → Discovery Call → signed agreement/payment → Tier 2 → Session 1 (90 min, extended for an explicit verbal Designed Alliance conversation) | [CIC Session 1 — Full Worked Example](https://claude.ai/code/artifact/769ea1da-0987-4fe8-a61d-7e612eef252a) |
+| "Renee K." | 36, children's ministry director; presenting pattern of compulsive over-functioning and inability to rest without guilt, traced toward a Self-Sacrifice/Subjugation pattern masking a Defectiveness fear. Entry Fork: Named-pattern, non-injury. | Spiritual bypassing — a fluent, cooperative, biblically articulate client whose polished answers risk being mistaken for genuine engagement; coach has to work to get underneath the fluency without shaming it | Full pipeline — Tier 1 → Discovery Call → signed agreement/payment → Tier 2 → Session 1 (90 min) | [CIC Session 1 — Worked Example #2 (Spiritual Bypassing)](https://claude.ai/code/artifact/895d795b-b8e4-4970-a0e2-284815cefda7) |
 
 ---
 
