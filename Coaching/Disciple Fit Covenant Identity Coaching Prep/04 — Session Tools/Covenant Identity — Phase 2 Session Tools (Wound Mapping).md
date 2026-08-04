@@ -81,7 +81,7 @@ The error in Phase 2 is excavating too many things simultaneously. Choose the hi
 
 Dan Allender's formation arc is the structural guide for this section when an injury-shaped wound is present: *wound → vow → relational style → God-connection absence.*
 
-The wound is the originating experience. The vow is the survival decision — what the child decided to do (or not do) so that would never happen again. The relational style is the behavioral expression of the vow — compliance, aggression, or withdrawal. The God-connection absence is where the arc lands: the wound and the vow, compounded over time, have produced a way of relating to God that keeps the covenant identity from landing.
+The wound is the originating experience. The vow is the survival decision — what the child decided to do (or not do) so that would never happen again. The relational style is the behavioral expression of the vow — compliance, aggression, or withdrawal. **The God-connection absence is where the arc lands: the wound and the vow, compounded over time, have produced a way of relating to God that keeps the covenant identity from landing.**
 
 Move through this arc one layer at a time. Do not skip to God-connection before the wound and the vow have been named clearly.
 
