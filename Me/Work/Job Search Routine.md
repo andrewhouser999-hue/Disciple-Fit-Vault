@@ -108,18 +108,6 @@ Pulled 2026-07-28 across three lanes matching your actual background (financial 
 
 **Explicitly excluded from this pass:** Gusto — a layoff discussion thread surfaced on Blind dated January 2026, unconfirmed. Blind is the same category problem as Glassdoor (self-selected, politicized); I didn't chase it further and I'm not listing Gusto as a candidate until someone runs a real check, not a forum thread.
 
-## Candidates Sourced — Home Services / Field Sales (Omaha)
-
-Pulled 2026-07-30, filtered to Omaha per the location filter above. Same rigor as the pass above — financial/legal signal only, nothing here has cleared the full checklist.
-
-| Company | Sector Fit | Verified (financial/layoff/litigation signal only) | Source | Still Needs |
-|---|---|---|---|---|
-| **Culligan Heartland** (Omaha) | Water treatment, direct sales/delivery — the exact category as your Ecowater role, same local franchise ("Culligan of Omaha") | 9 Omaha openings incl. sales; reported $80K–$125K+ comp with a 2-month base-support ramp before full commission; no litigation or major stability red flags surfaced; operating since 1936 | ZipRecruiter/Indeed listings, culliganheartland.com | VP/manager tenure, repost check, interview numbers — but this is the strongest lead in this pass |
-| **Renewal by Andersen** (Omaha) | Windows — consultative, appointment-set (not door-knocking), higher ticket, industry reputation for stronger sales training than most home-services players | 3 Omaha openings; but recent reviews report commission structure being lowered (base commission down to 7% on first $2.1M in sales), 100% commission with unpaid meeting attendance, and an active Ninth Circuit case (*Young v. Renewal by Andersen*, No. 24-6095) — details not pulled | RepVue, Glassdoor, Justia case docket | Read the actual *Young v. Renewal by Andersen* filing before going further — do not treat "consultative reputation" as current given the comp-structure and litigation signals above |
-
-**Excluded outright — do not pursue:** **Everlight Solar** (Omaha). The Nebraska Attorney General filed suit against Everlight Solar for unlawful door-to-door sales tactics and misleading consumers — deceptive claims about cost savings and reimbursement checks, alleged violations of the Consumer Protection Act and Uniform Deceptive Trade Practices Act. Paired with reported high turnover (15+ departures in one reviewer's 3.5-year span), abrupt layoffs of long-tenured staff, and 1099 classification for remote roles. This is a live state AG action, not a forum complaint — exactly the kind of thing the litigation-check step in the vetting framework exists to catch, and it caught it.
-
-**Resume note:** none of the current resume versions lead with the Ecowater/home-services angle — it's a supporting bullet in the B2B Sales Career Profile and Functional versions. If Culligan moves forward, worth considering a dedicated version leading with the 48.9% close rate and the Top Tier Achievers Club ranking, the way the Sales Enablement version leads with the training builds.
 
 ## Related
 - [[Job Search Tracker]]
