@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
 basis: "[[Covenant Identity — Session Growth Notes Template]] — client thread retrieval and schema identity tracking; coaching presence and readiness standards; ICF pre-session preparation protocol — five-minute coach readiness framework"
+aliases: ["Covenant Identity — Session Prep Template"]
 tags: [session-tools, practitioner-reference, template]
 ---
 

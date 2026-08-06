@@ -43,16 +43,23 @@ One-sentence descriptions of every file, organized by subfolder.
 
 ## 04 — Session Tools
 
-- **Covenant Identity — Phase 1 Session Tools (Covenant Orientation).md** — Sessions 1-2: designed alliance opening, intake review, Gap naming, God-representation surfacing; full session structure and language.
-- **Covenant Identity — Phase 2 Session Tools (Wound Mapping).md** — Sessions 2-4: schema excavation, Immunity to Change process, lament introduction, wound origin tracing; handoff from Phase 1.
-- **Covenant Identity — Phase 3 Session Tools (Identity Installation).md** — Sessions 4-8: installation mechanism, targeted declaration, schema interruption, narrative re-authoring; handoff from Phase 2.
-- **Covenant Identity — Phase 4 Session Tools (Integration & Close).md** — Sessions 8-10: consolidate gains, sustain practices, close engagement; Growth Report presentation; full session structure.
-- **Covenant Identity — Discovery Call Guide.md** — Session tool for running the discovery call; structure, pacing, qualifying questions, and next-step framing.
-- **Covenant Identity — Affections Discovery — In-Session Protocol.md** — Coach-facing in-session execution of Stage 1: five-layer protocol, pre-question observation, stay/move signals, somatic observation (Thompson/Allender), diagnostic signals quick reference, transition logic to Stage 2, connection to Whole-Person Identity Framework.
+*Files are coded by deployment window rather than numbered: `ALL` = used throughout regardless of phase, `DC` = Discovery Call (pre-Phase 1), `P1`–`P4` = that engagement phase, `P2-3` = spans late Phase 2 into Phase 3. Codes are chosen to alphabetize in actual usage order; a trailing letter (a, b, c…) orders files that share a code. Old unprefixed filenames are preserved as frontmatter aliases so existing `[[wikilinks]]` still resolve.*
+
+- **ALLa — Covenant Identity — Session Prep Template.md** — Pre-session 5-10 minute readiness checklist: coach check-in, client thread retrieval, phase-specific focus, intention setting. Used before every session, all phases.
+- **ALLb — Covenant Identity — Arc Location Diagnostic.md** — Fillable self-assessment for locating current position on the covenant identity arc (Stage 1-4b checks + 9 telos quality ratings); pre-session orientation and periodic self-assessment across the whole arc.
+- **ALLc — Covenant Identity — Worked Session Examples — Index.md** — Fictional, composite-client scenarios showing a full session run end to end (dialogue + coach reasoning + post-session documentation); each logged with a companion Artifact link and, where relevant, a specific coaching challenge illustrated. Started 2026-08-03: "Marcus R." (baseline Session 1 example) and "Renee K." (Session 1 example built around spiritual bypassing). Reference/training material, not phase-specific.
+- **DC — Covenant Identity — Discovery Call Guide.md** — Session tool for running the discovery call; structure, pacing, qualifying questions, and next-step framing. Pre-engagement, before Session 1.
+- **P1a — Covenant Identity — Phase 1 Session Tools (Covenant Orientation).md** — Sessions 1-2: designed alliance opening, intake review, Gap naming, God-representation surfacing; full session structure and language.
+- **P1b — Covenant Identity — Affections Discovery — In-Session Protocol.md** — Coach-facing in-session execution of Stage 1: five-layer protocol, pre-question observation, stay/move signals, somatic observation (Thompson/Allender), diagnostic signals quick reference, transition logic to Stage 2, connection to Whole-Person Identity Framework. Deployed within Phase 1 sessions.
+- **P2 — Covenant Identity — Phase 2 Session Tools (Wound Mapping).md** — Sessions 2-4: schema excavation, Immunity to Change process, lament introduction, wound origin tracing; handoff from Phase 1.
+- **P2-3a — Covenant Identity — Witnessing Repentance — Session Worksheet.md** — Coach-facilitated in-session tool (not take-home): five-movement guided repentance arc. Gated to Stage 3+ and established alliance; typically late Phase 2 into Phase 3.
+- **P2-3b — Covenant Identity — Parts & Burden Discovery — Session Worksheet.md** — Stage 4b coached worksheet: 7-section in-session facilitation guide plus between-session formation practice handoff. Typically follows Witnessing Repentance in sequence.
+- **P3 — Covenant Identity — Phase 3 Session Tools (Identity Installation).md** — Sessions 4-8: installation mechanism, targeted declaration, schema interruption, narrative re-authoring; handoff from Phase 2.
+- **P4 — Covenant Identity — Phase 4 Session Tools (Integration & Close).md** — Sessions 8-10: consolidate gains, sustain practices, close engagement; Growth Report presentation; full session structure.
+
+*Per-client instance templates (not folder files with codes — generated fresh per client, filed under each client's own record):*
 - **Covenant Identity — Diagnostic Intake Profile — [Client Name].md** — Per-client diagnostic intake profile generated from the intake form; coach-annotated.
 - **Covenant Identity — Designed Alliance — [Client Name].md** — Per-client designed alliance document; co-created in Phase 1 Session 1.
-- **Covenant Identity — Session Prep Template.md** — Pre-session 5-10 minute readiness checklist: coach check-in, client thread retrieval, phase-specific focus, intention setting.
-- **Covenant Identity — Worked Session Examples — Index.md** — Fictional, composite-client scenarios showing a full session run end to end (dialogue + coach reasoning + post-session documentation); each logged with a companion Artifact link and, where relevant, a specific coaching challenge illustrated. Started 2026-08-03: "Marcus R." (baseline Session 1 example) and "Renee K." (Session 1 example built around spiritual bypassing).
 
 ---
 
@@ -95,31 +102,31 @@ One-sentence descriptions of every file, organized by subfolder.
 
 ## 08 — Between-Session Materials
 
-*Files are numbered 01–23 in deployment order (when each tool is first given to the client across a CIC engagement), per each file's own Deployment section. Old unprefixed filenames are preserved as frontmatter aliases so existing `[[wikilinks]]` still resolve.*
+*Files are coded by deployment window rather than numbered: `ALL` = used throughout regardless of phase, `P1` = Phase 1 only, `P2` = Phase 2 onward (unbounded), `P3` = anchored to Phase 3. Codes alphabetize in actual usage order; a trailing letter (a, b, c…) orders files that share a code, sequenced by how early each is typically introduced within that window. Old unprefixed filenames are preserved as frontmatter aliases so existing `[[wikilinks]]` still resolve.*
 
-- **01 — Covenant Identity — Between-Session Library — Design Rationale.md** — Meta-reference and orientation for the full library; read first when returning to this folder. Purpose, priority verdict, and design decisions per tool.
-- **02 — Covenant Identity — Pre-Session Preparation Guide.md** — Client-facing five-minute pre-session practice card. Given before Session 2; universal across all four phases, assigned once.
-- **03 — Covenant Identity — Post-Session Client Debrief Card.md** — Immediate post-session capture card, completed within an hour or two of every session. Given before Phase 2 begins, alongside the Reflection Guide.
-- **04 — Covenant Identity — Phase-Specific Reflection Guide.md** — Ongoing between-session journaling guide with phase-variant prompts (1–4). Section I given in session before any phase section is assigned.
-- **05 — Covenant Identity — Alliance Pulse.md** — Three-item alliance check completed independently after every session, starting Session 1. Pilot instrument, not yet a permanent system document.
-- **06 — Covenant Identity — Formation Mechanism Guide.md** — Client-facing psychoeducation on how formation works and why it's slow. Given Phase 1, Session 1 or early Session 2, before wound work begins.
-- **07 — Covenant Identity — Calibrated Reading Guide.md** — Bibliotherapy guide organized by wound type. Assigned alongside or shortly after the Formation Mechanism Guide, once the wound type is named.
-- **08 — Covenant Identity — Between-Session Distress Protocol.md** — Three-tier distress/crisis protocol and client card. Given at or before the first Phase 2 session, before excavation begins.
-- **09 — Covenant Identity — Formation Self-Assessment.md** — Periodic 16-item self-assessment. First administered end of Phase 1 / beginning of Phase 2; repeated at phase transitions.
-- **10 — Covenant Identity — Between-Session Support Materials.md** — Practitioner reference with client-facing practice guides; precondition framework (God-rep type + phase), theological frame, and universal base practices. For use from Phase 2 onward.
-- **11 — Covenant Identity — Scripture Saturation & Meditation Guide.md** — Teaches the how of formational Scripture engagement; activation layer for texts already embedded in other tools. Phase 1–4.
-- **12 — Covenant Identity — Spiritual Disciplines Guide.md** — Wound-calibrated discipline library with co-optation risk tables and phase sequencing grid; Phase 4 closes with rule-of-life construction.
-- **13 — Covenant Identity — Character Wound Between-Session Practices.md** — Wound-type (Warrior/Hermit/False Noble) practice guides with Phase 2/3/4 variants. Requires a confirmed, client-acknowledged wound type before assigning.
-- **14 — Covenant Identity — God-Representation Between-Session Practices.md** — God-rep-type practice guides, Phase 1 observational through Phase 3 primary transformation and Phase 4 sustaining.
-- **15 — Covenant Identity — Post-Session Integration Guide.md** — Client-facing guide for the 24–48 hours after a significant session. Appropriate beginning Phase 2, after wound type is identified.
-- **16 — Covenant Identity — Lament Practice Guide.md** — Theological container plus four-movement lament practice, calibrated by wound type and phase. Phase 2 entry, Phase 3 lament-to-trust arc, Phase 4 lifelong rhythm.
-- **17 — Covenant Identity — What Blocks Hearing God's Voice.md** — Reactive client guide assigned when a client names that prayer feels like it isn't landing. Most natural window: Phase 2 onward.
-- **18 — Covenant Identity — Accountability Companion Guide.md** — Guide for identifying and engaging one formation companion. Assigned Phase 2–3, after wound work has begun, before Phase 4.
-- **19 — New Covenant Promise Map — Generation Prompt.md** — AI prompt for generating the New Covenant Promise Map across 7 categories (identity, access, provision, protection, purpose, community, future); feeds the Deep Lie Work Worksheet.
-- **20 — Covenant Identity — New Covenant Promise Map 1.md** — First generated instance of the New Covenant Promise Map; seven-category reference of covenant promises, used alongside Deep Lie Work.
-- **21 — Covenant Identity — Deep Lie Work Worksheet.md** — Three-layer lie work: theological (declaration), psychological (schema), behavioral (Big Assumption experiment); client-facing worksheet. Phases 2–3; run before the Installation Worksheet.
-- **22 — Covenant Identity — Deep Identity Installation Worksheet.md** — Three-part identity consolidation: identity claim, blocking schema, evidence story, and identity vote experiment; client-facing worksheet. Phases 3–4, paired with Deep Lie Work.
-- **23 — What the Part Carries — An Independent Formation Practice.md** — Fully self-guided Stage 4b implicit-level parts-work practice; heavy scaffolding, no coach dependency required.
+- **ALLa — Covenant Identity — Between-Session Library — Design Rationale.md** — Meta-reference and orientation for the full library; read first when returning to this folder. Purpose, priority verdict, and design decisions per tool.
+- **ALLb — Covenant Identity — Pre-Session Preparation Guide.md** — Client-facing five-minute pre-session practice card. Given before Session 2; universal across all four phases, assigned once.
+- **ALLc — Covenant Identity — Post-Session Client Debrief Card.md** — Immediate post-session capture card, completed within an hour or two of every session. Given before Phase 2 begins, alongside the Reflection Guide.
+- **ALLd — Covenant Identity — Phase-Specific Reflection Guide.md** — Ongoing between-session journaling guide with phase-variant prompts (1–4). Section I given in session before any phase section is assigned.
+- **ALLe — Covenant Identity — Alliance Pulse.md** — Three-item alliance check completed independently after every session, starting Session 1. Pilot instrument, not yet a permanent system document.
+- **ALLf — Covenant Identity — Calibrated Reading Guide.md** — Bibliotherapy guide organized by wound type. Assigned alongside or shortly after the Formation Mechanism Guide, once the wound type is named; content spans all four phases.
+- **ALLg — Covenant Identity — Formation Self-Assessment.md** — Periodic 16-item self-assessment. First administered end of Phase 1 / beginning of Phase 2; repeated at phase transitions.
+- **ALLh — Covenant Identity — Scripture Saturation & Meditation Guide.md** — Teaches the how of formational Scripture engagement; activation layer for texts already embedded in other tools. Phase 1–4.
+- **ALLi — Covenant Identity — Spiritual Disciplines Guide.md** — Wound-calibrated discipline library with co-optation risk tables and phase sequencing grid; Phase 4 closes with rule-of-life construction.
+- **ALLj — Covenant Identity — God-Representation Between-Session Practices.md** — God-rep-type practice guides, Phase 1 observational through Phase 3 primary transformation and Phase 4 sustaining.
+- **P1 — Covenant Identity — Formation Mechanism Guide.md** — Client-facing psychoeducation on how formation works and why it's slow. Given Phase 1, Session 1 or early Session 2, before wound work begins.
+- **P2a — Covenant Identity — Between-Session Distress Protocol.md** — Three-tier distress/crisis protocol and client card. Given at or before the first Phase 2 session, before excavation begins.
+- **P2b — Covenant Identity — Between-Session Support Materials.md** — Practitioner reference with client-facing practice guides; precondition framework (God-rep type + phase), theological frame, and universal base practices. For use from Phase 2 onward.
+- **P2c — Covenant Identity — Character Wound Between-Session Practices.md** — Wound-type (Warrior/Hermit/False Noble) practice guides with Phase 2/3/4 variants. Requires a confirmed, client-acknowledged wound type before assigning.
+- **P2d — Covenant Identity — Post-Session Integration Guide.md** — Client-facing guide for the 24–48 hours after a significant session. Appropriate beginning Phase 2, after wound type is identified.
+- **P2e — Covenant Identity — Lament Practice Guide.md** — Theological container plus four-movement lament practice, calibrated by wound type and phase. Phase 2 entry, Phase 3 lament-to-trust arc, Phase 4 lifelong rhythm.
+- **P2f — Covenant Identity — What Blocks Hearing God's Voice.md** — Reactive client guide assigned when a client names that prayer feels like it isn't landing. Most natural window: Phase 2 onward.
+- **P2g — Covenant Identity — Accountability Companion Guide.md** — Guide for identifying and engaging one formation companion. Assigned Phase 2–3, after wound work has begun, before Phase 4.
+- **P2h — New Covenant Promise Map — Generation Prompt.md** — AI prompt for generating the New Covenant Promise Map across 7 categories (identity, access, provision, protection, purpose, community, future); feeds the Deep Lie Work Worksheet.
+- **P2i — Covenant Identity — New Covenant Promise Map 1.md** — First generated instance of the New Covenant Promise Map; seven-category reference of covenant promises, used alongside Deep Lie Work.
+- **P2j — Covenant Identity — Deep Lie Work Worksheet.md** — Three-layer lie work: theological (declaration), psychological (schema), behavioral (Big Assumption experiment); client-facing worksheet. Phases 2–3; run before the Installation Worksheet.
+- **P2k — What the Part Carries — An Independent Formation Practice.md** — Fully self-guided Stage 4b implicit-level parts-work practice; heavy scaffolding, no coach dependency required. Typically follows explicit-level work in Phase 2–3.
+- **P3 — Covenant Identity — Deep Identity Installation Worksheet.md** — Three-part identity consolidation: identity claim, blocking schema, evidence story, and identity vote experiment; client-facing worksheet. Phases 3–4, paired with Deep Lie Work.
 
 ---
 

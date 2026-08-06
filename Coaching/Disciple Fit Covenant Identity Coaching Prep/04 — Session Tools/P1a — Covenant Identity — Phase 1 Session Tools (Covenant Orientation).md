@@ -1,6 +1,7 @@
 ---
 created: 
 basis: TBD
+aliases: ["Covenant Identity — Phase 1 Session Tools (Covenant Orientation)"]
 tags:
 ---
 

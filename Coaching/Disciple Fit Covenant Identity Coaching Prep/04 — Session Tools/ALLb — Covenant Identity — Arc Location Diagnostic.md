@@ -1,6 +1,7 @@
 ---
 created: 2026-06-29
 basis: "[[Covenant Identity — Diagnostic Lens Transition Logic]] — stage sequence and transition signals converted into self-assessment form; [[Covenant Identity — The Interior Life as Telos]] — 9 telos qualities adapted into Part 2 rating table"
+aliases: ["Covenant Identity — Arc Location Diagnostic"]
 tags:
   - diagnostic
   - self-assessment

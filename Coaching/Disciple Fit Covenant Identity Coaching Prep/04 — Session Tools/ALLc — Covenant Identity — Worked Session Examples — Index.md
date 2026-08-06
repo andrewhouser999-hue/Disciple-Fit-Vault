@@ -1,6 +1,7 @@
 ---
 created: 2026-08-03
 basis: "[[Covenant Identity — Two-Tier Intake Protocol]] — pipeline sequence; [[Covenant Identity — Discovery Call Guide]] — Entry Fork, Go/No-Go, Movement 4 goal confirmation; [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]] — Session 1 structure, language, and spiritual bypassing markers/redirects; [[Covenant Identity — Intake Addendum (Coach)]] — Part A/B fields; [[AI Prompt — Designed Alliance]] — Co-Active/CTI Designed Alliance structure; Bordin (1979) working alliance model, Wampold common-factors research, Rogers core conditions, Siegel attunement research — relationship-building basis for session design; Welwood (1984) — origin of the term spiritual bypassing; Scazzero, *Emotionally Healthy Spirituality* — application to church culture, basis for Example #2's coaching-challenge scenario"
+aliases: ["Covenant Identity — Worked Session Examples — Index"]
 tags: [session-tool, worked-example, training]
 ---
 

@@ -1,6 +1,7 @@
 ---
 created: 
 basis: "Original content basis TBD; updated 2026-07-14 per [[Covenant Identity — Diagnostic Lens Transition Logic]]'s Character Wound Deepening correction — added a parallel non-injury excavation arc (formative pattern → felt inadequacy/vision gap → God-connection misdirection) alongside Allender's wound → vow arc, so a client whose Stage 1 material is pattern-based rather than injury-based has a documented path through Phase 2 and a stated completion criterion"
+aliases: ["Covenant Identity — Phase 2 Session Tools (Wound Mapping)"]
 tags:
 ---
 

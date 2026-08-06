@@ -1,6 +1,7 @@
 ---
 created: 2026-07-20
 basis: "[[Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism]] — theological basis, kept coach-side per /scrutinize verdict 2026-07-20 (wound-type sin table, Judas/Peter contrast, Rom 7 exegesis judged too identity-loaded to hand a client directly); client-facing Scripture: Ps 139:23-24; Jer 2:13; Luke 15:17-19; 1 John 1:9"
+aliases: ["Covenant Identity — Witnessing Repentance — Session Worksheet"]
 tags: [session-tool, in-session, stage-3, repentance, sin]
 ---
 

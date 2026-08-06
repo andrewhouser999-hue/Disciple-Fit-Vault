@@ -1,6 +1,7 @@
 ---
 created: 
 basis: "Original content basis TBD; updated 2026-07-14 to add Entry Fork reading support (per [[Covenant Identity — Diagnostic Lens Transition Logic]]) and an alternate, non-injury Model Introduction script (Section 7) — this document was named elsewhere as where the Entry Fork should be read but previously gave no concrete support for doing so. Updated 2026-07-15: the source generation prompt (07 — AI Prompts/AI Prompt — Discovery Call Guide.md) has now been synced to include the same Entry Fork and alternate-framing instructions, plus a Scrutiny Check line guarding against silently dropping them, and to include the Movement 4 alliance-formation revision (Steps 6-7, retitled movement, Post-Call 'Note alliance formation' item) — regenerating this guide from that prompt will no longer overwrite either fix. Remaining known drift: the prompt still lacks this document's affections-layer content (Section 2 Affections Layer read, Movement 2/3 affections framing, Domain 7, Post-Call affections-picture item) — not yet synced."
+aliases: ["Covenant Identity — Discovery Call Guide"]
 tags:
 ---
 

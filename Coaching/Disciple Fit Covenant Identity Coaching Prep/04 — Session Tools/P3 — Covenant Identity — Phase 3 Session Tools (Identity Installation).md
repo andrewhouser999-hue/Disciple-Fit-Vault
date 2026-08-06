@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
 basis: "[[Covenant Identity — Practitioner Reference Index]] — positioned within diagnostic sequence; Kegan & Lahey (*Immunity to Change*) — Big Assumption experiment structure; Brueggemann (*The Message of the Psalms*) — lament arc; Willard (*Renovation of the Heart*) — whole-person installation telos"
+aliases: ["Covenant Identity — Phase 3 Session Tools (Identity Installation)"]
 tags:
   - session-tools
   - phase-3

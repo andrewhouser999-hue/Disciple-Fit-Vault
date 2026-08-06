@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
 basis: "[[Covenant Identity — Phase 3 Session Tools (Identity Installation)]] — session arc continuation into Phase 4; [[Covenant Identity — Growth Report Template]] — Growth Report presentation drives Phase 4 structure; Willard VIM — formation sustainability framework; coaching engagement closure and consolidation methodology"
+aliases: ["Covenant Identity — Phase 4 Session Tools (Integration & Close)"]
 tags: [session-tools, phase-4, practitioner-reference, integration, closure]
 ---
 

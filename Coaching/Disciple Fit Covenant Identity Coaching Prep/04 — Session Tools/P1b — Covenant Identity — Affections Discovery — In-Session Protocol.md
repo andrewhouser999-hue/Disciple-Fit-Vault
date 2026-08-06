@@ -1,6 +1,7 @@
 ---
 created: 2026-05-11
 basis: "[[Affections Discovery Process — Affections, Trust & Priorities]] — in-session execution layer; translates the foundational question bank and five-layer framework into real-time session mechanics, pacing, and transition signals"
+aliases: ["Covenant Identity — Affections Discovery — In-Session Protocol"]
 tags:
   - session-tool
   - affections-discovery

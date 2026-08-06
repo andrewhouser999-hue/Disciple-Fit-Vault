@@ -1,6 +1,7 @@
 ---
 created: 2026-05-22
 basis: "[[IFS — Internal Family Systems Framework]] + [[Memory Reconsolidation — Ecker & Neuroscience Basis]] + [[Covenant Identity — Diagnostic Lens Transition Logic]] — ITC backbone (Kegan & Lahey), IFS curiosity posture (Schwartz), Lie Eliminator format, reconsolidation activation principle (Ecker/LeDoux)"
+aliases: ["Covenant Identity — Parts & Burden Discovery — Session Worksheet"]
 tags:
   - session-tool
   - implicit-level
