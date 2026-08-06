@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: "2 Cor 3:18 (beholding-becoming as formation mechanism); Heb 4:12 (living and active Word); Ps 1:2 / Josh 1:8 (hagah — biblical model of meditation); 2 Tim 3:16 (Spirit-breathed text); Willard VIM / Scripture as primary spiritual discipline; Lectio divina tradition; Ignatian Gospel imagination (adapted)"
+aliases: ["Covenant Identity — Scripture Saturation & Meditation Guide"]
 tags: [between-session, client-facing, scripture, formation, meditation, phase-1, phase-2, phase-3, phase-4]
 ---
 

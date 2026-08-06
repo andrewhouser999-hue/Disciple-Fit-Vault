@@ -1,6 +1,7 @@
 ---
 created: 2026-05-22
 basis: "[[Covenant Identity — Phase-Specific Reflection Guide]] — adjacent tool, noticing frame; [[Covenant Identity — Post-Session Integration Guide]] — adjacent tool, practices frame; [[Covenant Identity — Growth Report Template]] — Phase 4 debrief answers feed this; [[Covenant Identity — Between-Session Library — Design Rationale]] — tool purpose and design decisions"
+aliases: ["Covenant Identity — Post-Session Client Debrief Card"]
 tags: [between-session, client-facing, debrief, immediate-capture, phase-1, phase-2, phase-3, phase-4]
 ---
 

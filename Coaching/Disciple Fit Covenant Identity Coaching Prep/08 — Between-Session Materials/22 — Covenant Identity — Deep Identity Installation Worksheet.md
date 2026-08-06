@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
 basis: "[[Identity Installer/Identity Installer - Personal]] — 22-category identity framework and declaration architecture; Young (Schema Therapy — blocking schema identification); White & Epston (Narrative Therapy — evidence story and re-authoring methodology); Thompson (somatic anchoring mechanism for identity vote practice)"
+aliases: ["Covenant Identity — Deep Identity Installation Worksheet"]
 tags: [between-session, client-facing, worksheet, phases-3-4]
 ---
 

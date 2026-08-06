@@ -2,6 +2,7 @@
 created: 2026-05-22
 updated: 2026-07-17
 basis: "[[Covenant Identity — Author & Resource Reference]] — all book selections and calibration; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type calibration; [[Covenant Identity — Between-Session Library — Design Rationale]] — tool purpose and design decisions. 2026-07-17: added Nouwen (Life of the Beloved) to Universal — not wound-specific, addresses the general false-self construction dynamic (Matched Declaration Architecture Track 5) underneath all three wound types."
+aliases: ["Covenant Identity — Calibrated Reading Guide"]
 tags: [between-session, client-facing, reading-guide, bibliotherapy, phase-1, phase-2, phase-3, phase-4]
 ---
 

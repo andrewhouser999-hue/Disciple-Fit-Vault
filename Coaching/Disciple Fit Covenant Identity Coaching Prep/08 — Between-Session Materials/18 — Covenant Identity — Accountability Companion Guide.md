@@ -1,6 +1,7 @@
 ---
 created: 2026-05-24
 basis: "[[Covenant Identity — Spiritual Disciplines Guide]] — fellowship discipline as the context; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type companion selection patterns; Bonhoeffer (Life Together — real vs. idealized community); [[Covenant Identity — Between-Session Library — Design Rationale]] — tool purpose and design decisions"
+aliases: ["Covenant Identity — Accountability Companion Guide"]
 tags: [between-session, client-facing, accountability, companion, community, phase-2, phase-3]
 ---
 

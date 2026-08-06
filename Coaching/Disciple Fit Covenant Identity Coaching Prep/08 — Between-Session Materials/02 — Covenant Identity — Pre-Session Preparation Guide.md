@@ -1,6 +1,7 @@
 ---
 created: 2026-05-22
 basis: "Ps 131:1–2; Ps 46:10 — arrival posture; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type pre-session failure modes; [[Covenant Identity — Between-Session Library — Design Rationale]] — tool purpose and design decisions"
+aliases: ["Covenant Identity — Pre-Session Preparation Guide"]
 tags: [between-session, client-facing, pre-session, formation, phase-1, phase-2, phase-3, phase-4]
 ---
 

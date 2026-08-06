@@ -1,6 +1,7 @@
 ---
 created: 2026-05-22
 basis: "[[IFS — Internal Family Systems Framework]] + [[Memory Reconsolidation — Ecker & Neuroscience Basis]] + [[Focusing — Gendlin Framework]] — ITC backbone (Kegan & Lahey), IFS parts dialogue (Schwartz), reconsolidation juxtaposition (Ecker), felt sense activation (Gendlin), Lie Eliminator format, Identity Installer anchor"
+aliases: ["What the Part Carries — An Independent Formation Practice"]
 tags:
   - client-tool
   - between-session

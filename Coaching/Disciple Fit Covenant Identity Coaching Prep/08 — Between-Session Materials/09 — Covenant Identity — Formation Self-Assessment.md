@@ -1,6 +1,7 @@
 ---
 created: 2026-05-24
 basis: "[[Covenant Identity — Whole-Person Identity Framework]] — four-area structure maps to model anthropology; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-pattern activity area; [[Covenant Identity — Mid-Engagement Snapshot Template]] — adjacent tool distinction; [[Covenant Identity — Growth Report Template]] — Phase 4 final administration feeds this; [[Covenant Identity — Between-Session Library — Design Rationale]] — tool purpose and design decisions"
+aliases: ["Covenant Identity — Formation Self-Assessment"]
 tags: [between-session, client-facing, self-assessment, formation, periodic, phase-1, phase-2, phase-3, phase-4]
 ---
 

@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: "[[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type response patterns; Curt Thompson implicit memory framework — 24-48 hour processing window; biblical post-encounter precedents (1 Kgs 19, Exod 34, Gen 32, Matt 17)"
+aliases: ["Covenant Identity — Post-Session Integration Guide"]
 tags: [between-session, client-facing, integration, formation]
 ---
 

@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: primary-source
+aliases: ["Covenant Identity — Between-Session Library — Design Rationale"]
 tags: [meta-reference, between-session, orientation, design-rationale]
 ---
 

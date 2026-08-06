@@ -95,11 +95,31 @@ One-sentence descriptions of every file, organized by subfolder.
 
 ## 08 — Between-Session Materials
 
-- **Covenant Identity — Between-Session Support Materials.md** — Practitioner reference with client-facing practice guides; precondition framework (God-rep type + phase), theological frame, and universal base practices.
-- **Covenant Identity — Deep Lie Work Worksheet.md** — Three-layer lie work: theological (declaration), psychological (schema), behavioral (Big Assumption experiment); client-facing worksheet.
-- **Covenant Identity — Deep Identity Installation Worksheet.md** — Three-part identity consolidation: identity claim, blocking schema, evidence story, and identity vote experiment; client-facing worksheet.
-- **New Covenant Promise Map — Generation Prompt.md** — AI prompt for generating the New Covenant Promise Map across 7 categories (identity, access, provision, protection, purpose, community, future).
-- **Covenant Identity — New Covenant Promise Map 1.md** — First generated instance of the New Covenant Promise Map; seven-category reference of covenant promises.
+*Files are numbered 01–23 in deployment order (when each tool is first given to the client across a CIC engagement), per each file's own Deployment section. Old unprefixed filenames are preserved as frontmatter aliases so existing `[[wikilinks]]` still resolve.*
+
+- **01 — Covenant Identity — Between-Session Library — Design Rationale.md** — Meta-reference and orientation for the full library; read first when returning to this folder. Purpose, priority verdict, and design decisions per tool.
+- **02 — Covenant Identity — Pre-Session Preparation Guide.md** — Client-facing five-minute pre-session practice card. Given before Session 2; universal across all four phases, assigned once.
+- **03 — Covenant Identity — Post-Session Client Debrief Card.md** — Immediate post-session capture card, completed within an hour or two of every session. Given before Phase 2 begins, alongside the Reflection Guide.
+- **04 — Covenant Identity — Phase-Specific Reflection Guide.md** — Ongoing between-session journaling guide with phase-variant prompts (1–4). Section I given in session before any phase section is assigned.
+- **05 — Covenant Identity — Alliance Pulse.md** — Three-item alliance check completed independently after every session, starting Session 1. Pilot instrument, not yet a permanent system document.
+- **06 — Covenant Identity — Formation Mechanism Guide.md** — Client-facing psychoeducation on how formation works and why it's slow. Given Phase 1, Session 1 or early Session 2, before wound work begins.
+- **07 — Covenant Identity — Calibrated Reading Guide.md** — Bibliotherapy guide organized by wound type. Assigned alongside or shortly after the Formation Mechanism Guide, once the wound type is named.
+- **08 — Covenant Identity — Between-Session Distress Protocol.md** — Three-tier distress/crisis protocol and client card. Given at or before the first Phase 2 session, before excavation begins.
+- **09 — Covenant Identity — Formation Self-Assessment.md** — Periodic 16-item self-assessment. First administered end of Phase 1 / beginning of Phase 2; repeated at phase transitions.
+- **10 — Covenant Identity — Between-Session Support Materials.md** — Practitioner reference with client-facing practice guides; precondition framework (God-rep type + phase), theological frame, and universal base practices. For use from Phase 2 onward.
+- **11 — Covenant Identity — Scripture Saturation & Meditation Guide.md** — Teaches the how of formational Scripture engagement; activation layer for texts already embedded in other tools. Phase 1–4.
+- **12 — Covenant Identity — Spiritual Disciplines Guide.md** — Wound-calibrated discipline library with co-optation risk tables and phase sequencing grid; Phase 4 closes with rule-of-life construction.
+- **13 — Covenant Identity — Character Wound Between-Session Practices.md** — Wound-type (Warrior/Hermit/False Noble) practice guides with Phase 2/3/4 variants. Requires a confirmed, client-acknowledged wound type before assigning.
+- **14 — Covenant Identity — God-Representation Between-Session Practices.md** — God-rep-type practice guides, Phase 1 observational through Phase 3 primary transformation and Phase 4 sustaining.
+- **15 — Covenant Identity — Post-Session Integration Guide.md** — Client-facing guide for the 24–48 hours after a significant session. Appropriate beginning Phase 2, after wound type is identified.
+- **16 — Covenant Identity — Lament Practice Guide.md** — Theological container plus four-movement lament practice, calibrated by wound type and phase. Phase 2 entry, Phase 3 lament-to-trust arc, Phase 4 lifelong rhythm.
+- **17 — Covenant Identity — What Blocks Hearing God's Voice.md** — Reactive client guide assigned when a client names that prayer feels like it isn't landing. Most natural window: Phase 2 onward.
+- **18 — Covenant Identity — Accountability Companion Guide.md** — Guide for identifying and engaging one formation companion. Assigned Phase 2–3, after wound work has begun, before Phase 4.
+- **19 — New Covenant Promise Map — Generation Prompt.md** — AI prompt for generating the New Covenant Promise Map across 7 categories (identity, access, provision, protection, purpose, community, future); feeds the Deep Lie Work Worksheet.
+- **20 — Covenant Identity — New Covenant Promise Map 1.md** — First generated instance of the New Covenant Promise Map; seven-category reference of covenant promises, used alongside Deep Lie Work.
+- **21 — Covenant Identity — Deep Lie Work Worksheet.md** — Three-layer lie work: theological (declaration), psychological (schema), behavioral (Big Assumption experiment); client-facing worksheet. Phases 2–3; run before the Installation Worksheet.
+- **22 — Covenant Identity — Deep Identity Installation Worksheet.md** — Three-part identity consolidation: identity claim, blocking schema, evidence story, and identity vote experiment; client-facing worksheet. Phases 3–4, paired with Deep Lie Work.
+- **23 — What the Part Carries — An Independent Formation Practice.md** — Fully self-guided Stage 4b implicit-level parts-work practice; heavy scaffolding, no coach dependency required.
 
 ---
 

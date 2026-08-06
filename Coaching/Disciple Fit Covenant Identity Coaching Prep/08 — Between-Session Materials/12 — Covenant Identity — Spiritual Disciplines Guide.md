@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: "Willard — Renovation of the Heart (whole-person model, disciplines as Means); Willard — Spirit of the Disciplines (training vs. trying, abstinence/engagement taxonomy); Foster — Celebration of Discipline (discipline descriptions); [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type architecture and formation needs; [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]] through Phase 4 — phase arc"
+aliases: ["Covenant Identity — Spiritual Disciplines Guide"]
 tags: [between-session, practitioner-reference, client-facing, spiritual-disciplines, formation, rule-of-life, phase-1, phase-2, phase-3, phase-4]
 ---
 

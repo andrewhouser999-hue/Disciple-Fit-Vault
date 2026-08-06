@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: "[[Five Intervention Modalities — Definitions & Deep Elaboration]] — lament-to-trust as named modality; [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] — lament introduction; Brueggemann orientation/disorientation/reorientation framework; Westermann biblical lament structure; Thompson implicit memory mechanism; Psalter as Spirit-breathed lament language (2 Tim 3:16); 2 Corinthians 7:10 — godly vs. worldly grief distinction underlying the Despair vs. Lament section"
+aliases: ["Covenant Identity — Lament Practice Guide"]
 tags: [between-session, client-facing, lament, formation, phase-2, phase-3, phase-4]
 ---
 

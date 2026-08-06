@@ -1,6 +1,7 @@
 ---
 created: 
 basis: TBD
+aliases: ["New Covenant Promise Map — Generation Prompt"]
 tags:
 ---
 

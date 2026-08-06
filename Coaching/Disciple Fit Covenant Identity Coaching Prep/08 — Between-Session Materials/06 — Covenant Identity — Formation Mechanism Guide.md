@@ -1,6 +1,7 @@
 ---
 created: 2026-05-22
 basis: "[[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type resistance patterns; Thompson (Anatomy of the Soul; Soul of Shame — two-layer mechanism, accessible translation); Willard (Renovation of the Heart — training vs. trying, Spirit as agent); 2 Cor 3:18; Ps 1:1–3; Josh 1:8; Phil 1:6; Rom 12:2"
+aliases: ["Covenant Identity — Formation Mechanism Guide"]
 tags: [between-session, client-facing, psychoeducation, formation-mechanism, phase-1]
 ---
 

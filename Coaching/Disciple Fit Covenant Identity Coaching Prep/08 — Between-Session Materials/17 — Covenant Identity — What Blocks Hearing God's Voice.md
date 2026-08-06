@@ -1,6 +1,7 @@
 ---
 created: 2026-07-20
 basis: primary-source
+aliases: ["Covenant Identity — What Blocks Hearing God's Voice"]
 tags: [between-session, client-facing, psychoeducation, prayer, formation]
 ---
 

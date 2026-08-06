@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
 basis: "Scripture (ESV) — primary source; Gentry & Wellum (*Kingdom Through Covenant* — progressive covenantalism hermeneutical architecture); Christopher Wright (*Mission of God* — missional-covenantal methodology); [[Lie Eliminator/Lie Eliminator - Personal]] and [[Identity Installer/Identity Installer - Personal]] — category architecture"
+aliases: ["Covenant Identity — New Covenant Promise Map 1"]
 tags: [between-session, client-facing, practitioner-reference, covenant-promises]
 ---
 

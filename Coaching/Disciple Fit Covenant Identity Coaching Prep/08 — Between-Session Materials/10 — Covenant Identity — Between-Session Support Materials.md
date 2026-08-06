@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
 basis: "[[Covenant Identity — Diagnostic Lens Transition Logic]] — phase structure for practice assignment; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type calibration; [[Covenant Identity — God-Representation — Research Basis & Synthesis]] — God-rep type precondition framework; Willard VIM — spiritual formation mechanism underpinning between-session practice"
+aliases: ["Covenant Identity — Between-Session Support Materials"]
 tags: [between-session, practitioner-reference, client-facing]
 ---
 

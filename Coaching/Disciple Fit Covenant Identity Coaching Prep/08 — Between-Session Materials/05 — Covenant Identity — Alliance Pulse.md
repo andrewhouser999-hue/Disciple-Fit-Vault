@@ -1,6 +1,7 @@
 ---
 created: 2026-07-10
 basis: "[[Covenant Identity — Formation Self-Assessment]] — administration cadence and 1-5 scale convention matched for instrument consistency, and named as the outcome side this instrument is read against; [[Covenant Identity — Airtable Schema Spec]] — Table 4 added to log responses; [[Covenant Identity — Post-Session Client Debrief Card]] — adjacent per-session touchpoint, distinguished in Section I; Bordin (1979) three-factor pantheoretical alliance model (Bond/Task/Goal) — theoretical structure only, not the copyrighted WAI/WAI-SR instrument, which is not used here due to clinical wording and licensing restrictions"
+aliases: ["Covenant Identity — Alliance Pulse"]
 tags: [between-session, client-facing, alliance, pilot-instrument, phase-1, phase-2, phase-3, phase-4]
 ---
 

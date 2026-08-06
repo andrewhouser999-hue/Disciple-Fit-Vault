@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: "[[Covenant Identity — God-Representation Deepening Tool]] — in-session companion; [[Covenant Identity — God-Representation — Research Basis & Synthesis]] — Rizzuto, Hall, Benner, Kirkpatrick; Hall implicit vs. explicit God-image framework (primary mechanism); Thompson implicit memory as relational knowing; Gospel texts as primary encounter source; fifth God-rep type (Overwhelming/Consuming) added 2026-05-19"
+aliases: ["Covenant Identity — God-Representation Between-Session Practices"]
 tags: [between-session, practitioner-reference, client-facing, god-representation, formation, phase-1, phase-2, phase-3, phase-4]
 ---
 

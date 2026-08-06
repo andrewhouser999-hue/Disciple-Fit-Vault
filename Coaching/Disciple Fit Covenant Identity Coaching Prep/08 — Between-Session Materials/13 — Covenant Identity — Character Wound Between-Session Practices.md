@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: "[[Covenant Identity — Character Wound Diagnostic Tool]] — wound type definitions and formation implications; [[Covenant Identity — Between-Session Support Materials]] — precondition framework; Thompson implicit memory mechanism; Willard VIM/disciplines as means; Allender character wound architecture; updated 2026-07-14 to add an explicit redirect for clients with no confirmed wound type, since this document has no universal fallback of its own — points to the already wound-agnostic tools in the between-session library rather than leaving the coach with nothing to assign"
+aliases: ["Covenant Identity — Character Wound Between-Session Practices"]
 tags: [between-session, practitioner-reference, client-facing, character-wound, formation]
 ---
 

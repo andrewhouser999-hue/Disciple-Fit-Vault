@@ -1,6 +1,7 @@
 ---
 created: 2026-05-20
 basis: "[[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]] through [[Covenant Identity — Phase 4 Session Tools (Integration & Close)]] — phase arc and content; [[Covenant Identity — Growth Report Template]] — Phase 4 prompts feed this; [[Covenant Identity — Mid-Engagement Snapshot Template]] — Phase 3 growth tracking; Thompson implicit memory framework — noticing vs. analyzing distinction"
+aliases: ["Covenant Identity — Phase-Specific Reflection Guide"]
 tags: [between-session, client-facing, reflection, journaling, formation, phase-1, phase-2, phase-3, phase-4]
 ---
 

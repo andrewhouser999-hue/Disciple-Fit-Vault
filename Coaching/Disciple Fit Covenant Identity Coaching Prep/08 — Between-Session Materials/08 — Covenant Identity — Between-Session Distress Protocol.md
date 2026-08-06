@@ -1,6 +1,7 @@
 ---
 created: 2026-05-21
 basis: "[[Covenant Identity — Crisis & Referral Protocol]] — scope boundary and escalation threshold; [[Covenant Identity — Between-Session Library — Design Rationale]] — library architecture and tool slot framing; [[Covenant Identity — Post-Session Integration Guide]] — adjacent tool and wound-type framing; [[Covenant Identity — Character Wound Diagnostic Tool]] — wound-type calibration"
+aliases: ["Covenant Identity — Between-Session Distress Protocol"]
 tags:
   - between-session
   - distress-protocol
