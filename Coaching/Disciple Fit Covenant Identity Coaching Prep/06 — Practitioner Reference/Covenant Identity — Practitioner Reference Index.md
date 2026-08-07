@@ -28,7 +28,7 @@ Read them in that order once before your first engagement. The first three estab
 ### Theoretical Foundation
 | Document | Function | When to Use |
 |---|---|---|
-| [[Covenant Identity — Terminology & Language Reference]] | Growing glossary of CIC model vocabulary — short-form entries (also-called, definition, see-also) for quick lookup. Practitioner-only for now, no client-translation tier yet. Seeded with False Covenant Object and False Identity Structure. | Quick-check any CIC term; consult first when a term is being used loosely and needs a precise definition fast |
+| [[Covenant Identity — Terminology & Language Reference]] | Comprehensive CIC glossary in three parts: 92 Hebrew/Aramaic/Greek exegetical terms with pronunciation guides, ~34 psychological/clinical construct clusters organized by contributor (Young, Kegan & Lahey, Schwartz, attachment theory, Thompson/Siegel/Porges, Fosha, Ecker, Gendlin, Allender, McAdams, Beck/Burns, and more), and 37 professional/methodological/organizational terms (ICF, C-SSRS, ACE, FIS, ITC, ANE/LXX, etc.), plus a CIC-Internal Terms section (False Covenant Object, False Identity Structure) and an Editorial Notes section documenting specific corrections made. Practitioner-only for now, no client-translation tier yet. | Quick-check any CIC term — exegetical, clinical, or professional — for a precise, pronounceable, sourced definition; primary teaching/reference document for practitioner vocabulary |
 | [[Covenant Identity — Integration Rationale]] | *Why* these contributors and this framework — governing position, integration criteria, what is and is not imported | Read once for theoretical grounding; consult when integration questions arise |
 | [[Covenant Identity — Whole-Person Identity Framework]] | The anatomy of identity: given/distorted/renewed, soul's faculties, five dimensions, diagnostic layer | Conceptual frame for all sessions; primary reference for what the coach is looking for |
 | [[Covenant Identity — Biblical Foundations Index]] | Single index mapping each architectural/methodological decision in the model (governing frame, diagnostic layer, ten-layer architecture, telos, Identity Installer/Lie Eliminator, Secured in Father) to its scriptural grounding and the document with the full exegetical case | Consult when a design decision is questioned or extended — check here before assuming no grounding exists |
@@ -179,7 +179,9 @@ Full entry criteria, transition signals, and return signals: [[Covenant Identity
 
 ---
 
-*Last updated: 2026-08-07 — added [[Covenant Identity — Terminology & Language Reference]] to Theoretical Foundation and [[Covenant Identity — False Covenant Objects & False Identity Structures — Terms Reference]] to Diagnostic Sequence (immediately after its companion mechanism doc), both built the same day.*
+*Last updated: 2026-08-07 (later same day) — Terminology & Language Reference description updated after a full-corpus sweep expanded it from a 2-term seed into a three-part glossary (92 Hebrew/Greek terms, ~34 psychological/clinical clusters, 37 professional terms).*
+
+*Previously updated: 2026-08-07 — added [[Covenant Identity — Terminology & Language Reference]] to Theoretical Foundation and [[Covenant Identity — False Covenant Objects & False Identity Structures — Terms Reference]] to Diagnostic Sequence (immediately after its companion mechanism doc), both built the same day.*
 
 *Previously updated: 2026-07-26 — added [[Covenant Identity — Cognitive Diagnostic Fluency Curriculum]] to Theoretical Foundation, closing a gap left when it was built earlier the same day but never indexed here.*
 
