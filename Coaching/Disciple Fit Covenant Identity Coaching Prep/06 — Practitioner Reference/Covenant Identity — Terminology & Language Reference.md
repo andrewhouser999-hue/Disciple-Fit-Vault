@@ -1,6 +1,6 @@
 ---
 created: 2026-08-07
-basis: "primary-source — seeded from established CIC model definitions in [[Covenant Identity Coaching — Theory of Change]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]]; expanded 2026-08-07 via full-corpus sweep of Disciple Fit Covenant Identity Coaching Prep (~157 files) for Hebrew/Greek exegetical terms, psychological/clinical constructs, and professional/methodological terms; structure adapted from [[Relational Performance Advisory — Terminology & Language Reference]]"
+basis: "primary-source — seeded from established CIC model definitions in [[Covenant Identity Coaching — Theory of Change]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]]; expanded 2026-08-07 via full-corpus sweep of Disciple Fit Covenant Identity Coaching Prep (~157 files) for Hebrew/Greek exegetical terms, psychological/clinical constructs, and professional/methodological terms; structure adapted from [[Relational Performance Advisory — Terminology & Language Reference]]; Implicit Process (Implicit Level) entry added 2026-08-07, synthesizing [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] to make explicit the content-node-vs-register distinction neither source document states directly"
 tags: [practitioner-reference, terminology, language-reference, cic, hebrew, greek, glossary]
 ---
 
@@ -40,6 +40,14 @@ The functional source of security, significance, or worth that a person's heart 
 **Also called:** the false self, the protecting system, the organizing self-understanding
 The behavioral and relational system a person builds to protect and serve their false covenant object. Not random — coherent and predictable once the false covenant object is known, because every part of it exists to secure or defend that object. Named with precision in Theory of Change Node 2; surfaced in-session via Layer 5 of the Affections Discovery Process (Identity Revelation) and cross-checked against wound type in the Character Wound Diagnostic Tool.
 **See also:** [[Covenant Identity — False Covenant Objects & False Identity Structures — Terms Reference]] · [[Covenant Identity Coaching — Theory of Change]] · [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] · [[Covenant Identity — Character Wound Diagnostic Tool]] · False Covenant Object
+
+---
+
+#### Implicit Process (Implicit Level)
+
+**Also called:** the implicit level, the implicit architecture, the register beneath explicit belief
+Not a fifth item alongside character wound, disordered affections, false covenant object, and false identity structure — the procedural, felt, pre-verbal *register* on which all four of those actually run, beneath conscious/propositional awareness (Curt Thompson/Siegel's implicit vs. explicit memory distinction). A wound, its affections, the false covenant object it produces, and the false identity structure built to protect that object are all implicit-level content; "implicit" names the plane they operate on, not a separate thing they produce. This is why a client can hold correct explicit theology while the implicit process still runs the old wound → affections → object → identity chain under pressure — the gap "I know it in my head but not my heart" describes. **Misdiagnosis pitfall:** treating "implicit process" itself as the diagnostic target — rather than the level at which the four content terms operate — is a category error; it names the register instead of reaching the organizing center running on it.
+**See also:** [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] · [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] · [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] · False Covenant Object · False Identity Structure
 
 ---
 

@@ -22,6 +22,20 @@ This is why the presenting problem rarely resolves when addressed directly. Beha
 
 ---
 
+## Root and Outcome: The Implicit Schema Is the Root; the Disordered Affection Is the Outcome
+
+This mechanism has a direction, and the direction matters diagnostically: the implicit schema is the root cause; the disordered, disorganized, or controlling affection is the outcome it produces. These are not two co-equal problems to address in parallel. One generates the other.
+
+**What the schema is.** The wound (Step 1, below) is the originating event, but the wound does not keep acting on the client directly and continuously — a single betrayal or shame event happened once, in the past. What persists is what the wound left behind: an implicit schema, an encoded, procedural, pre-verbal expectation about how a specific need (safety, belonging, acceptance) will be met or endangered, stored in implicit memory rather than in anything the client could state as a belief if asked. This is the same implicit/explicit distinction already load-bearing above (Thompson/Siegel): the schema is not a memory the client recalls, it is an operating expectation the client runs on. It fires automatically, beneath awareness, every time a relevant situation arises — which is why it produces the same pattern of disordered affection repeatedly and predictably rather than once.
+
+**What the affection is, in this frame.** The disordered affection — what the heart is currently trusting, desiring, and fearing (Step 2, below) — is not a second, independent problem sitting alongside the schema. It is the schema's expression in the currency of trust, desire, and fear. The schema is what determines, moment to moment and outside conscious access, that closeness will end in exposure, or that safety depends on producing enough to be needed. The affection is what that determination feels like and looks like from the inside and in behavior. Change the affection without touching the schema generating it, and the affection re-forms under the next pressure, because the mechanism producing it is still running.
+
+**Why "root" means ongoing, not historical.** Naming the schema as root is not a claim about which event happened first in time. It is a claim about what is actively generating the present-tense problem. The wound is history; the schema built from the wound is present-tense and operative; the affection is what the operative schema is currently producing. This is why affections work (Layers 1–5, below) has to reach the schema and not stop at describing the affection — a precise description of the affection ("I trust competence more than God") names the outcome accurately without yet touching the mechanism producing it.
+
+**Relation to "implicit process" as register.** Elsewhere in this practice's documentation, "implicit process" is described as the register the whole causal chain runs on — wound → disordered affection → false covenant object → false identity — not as an additional node inserted into that chain. This section sharpens that framing rather than revising it: within the implicit register, the schema is the specific encoded structure doing the generative work. Naming the schema as root does not add a node to the chain; it names what the "implicit" register is actually made of at the point where wound-history becomes present-tense affection.
+
+---
+
 ## What Affections Are
 
 Affections are not emotions. Emotions are affective states that rise and fall in response to circumstances. Affections are the deep motivational commitments that orient the person toward what they love, trust, fear, and reach for. They are the settled dispositions of desire — what the heart is organized around, not what the heart is feeling in a given moment.
@@ -115,6 +129,8 @@ Affections work at Nodes 1 and 2 is the preparation for Stage 3 to work. The mor
 **If the practitioner moves to Stage 2 (false identity named) before the affections picture is specific:** The false identity is named at a category level ("I struggle with performance anxiety") rather than at the organizing center level ("I have been treating approval as the condition for my worth, and the Warrior wound organized my entire relational system around producing what would secure that approval"). A category-level naming does not create a specific enough hook for Stage 3 covenant truth to reach.
 
 **If the client's affections work is primarily self-report:** The client describes what they think their affections structure is. Self-report at Layer 1-2 is reliable; self-report at Layer 4-5 is rarely accurate. The five-layer structure is designed so that the deeper layers emerge from the practitioner's diagnostic inference across the full picture, not from the client's self-description.
+
+**If the practitioner treats the affection as the root rather than the outcome:** Work stops at naming and processing the disordered affection itself ("you trust competence more than God") without surfacing the implicit schema generating it. The naming is accurate but not sufficient — the schema continues firing beneath awareness, and the same affection re-forms under the next pressure. This is a category error, not just an incomplete intervention: it treats an outcome as if addressing it were the same as addressing its cause.
 
 ---
 
