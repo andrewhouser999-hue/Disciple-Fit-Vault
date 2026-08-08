@@ -307,6 +307,21 @@ The treaty form's own language is that the vassal has no standing to contest the
 
 **Relationship to the flagged future build:** This addendum bears directly on the still-unbuilt Layer 11/12 session tool (see `project_layer11_12_session_tool_future_dev` memory). If that tool is drafted, the variable list above should inform how it guides verse selection and sequencing, not just which verses it offers as options.
 
+### Addendum — Permission-to-Challenge Protocol for Operating False Doctrine (2026-08-07)
+
+**Function:** Synthesis note, not a new contributor import. Resolves an open practitioner-scope question this stack had not yet addressed: given that CIC's posture toward the client is cooperative, not directive ([[Covenant Identity Coaching — Practice Definition]], Dimension 4), what standing does the coach actually have to name and challenge a doctrine the diagnostic work surfaces as false or harmful — distinct from merely surfacing it?
+
+**The question this answers:** Layer 11 establishes that covenant declarations carry authority independent of the client's ratification. Layer 12 (Ecker) explains why cognitive assent doesn't always reach felt conviction. Neither addresses a prior, practical question: when the functional-theology diagnostic ([[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]]) surfaces a doctrine actively distorting the client's covenant identity — not a minor imprecision, but the operating architecture — what may the coach do about it, and on what basis?
+
+**Resolution, reached in practitioner conversation 2026-08-07:**
+1. **Base-rate correction.** The default hypothesis for any surfaced distortion is an ordinary discipleship gap (untaught or mistaught, not wound-defended) — not a wound-woven schema. Poor doctrine is common; schema-weave is the less frequent case. This makes the low-scope explanation the starting assumption rather than a checked alternative, sharpening (not replacing) Layer 12 Caution 1's existing warning against over-pathologizing formation gaps as trauma.
+2. **Permission is the operative gate.** Discovery of a distorted/harmful doctrine affecting covenant identity is the trigger; explicit client permission is required before the coach moves from diagnostic naming to direct challenge. This is what makes direct doctrinal challenge compatible with CIC's cooperative posture — the client extends standing the coach does not have by default, rather than the coach asserting an authority the practice's own boundary-testing section (Practice Definition, vs. Biblical Counseling) denies it.
+3. **The posture ceiling and lament caution travel with this unconditionally.** Consent to be challenged is never consent to have doubt or grief foreclosed (Layer 11 Standing Caution).
+
+**Full protocol:** [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]], "Permission-to-Challenge Protocol" (Coaching Notes). Short pointer also added to [[Covenant Identity — Practitioner Competency Framework]], Domain 2.
+
+**Relationship to the flagged future build:** Resolves part of the open design space in `project_layer11_12_session_tool_future_dev` memory — specifically, what authorizes the coach to challenge doctrine at all, and the base-rate assumption to hold before diagnosing source. Session-tool format remains open.
+
 ---
 
 ## Not Part of This Stack — Verified Status Elsewhere

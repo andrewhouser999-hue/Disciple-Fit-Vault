@@ -49,6 +49,7 @@ Competencies in this domain are learnable through training, study, and supervise
 - Facilitate lament-to-trust movement in session — not rushing the client from complaint to resolution
 - Assign and debrief Deep Work Worksheets; read the client's response to declarations as diagnostic data, not a report card
 - Hold and deploy covenant truth as the larger reality the false identity is being measured against — not as correction, lecture, or reassurance
+- Before directly challenging a doctrine the functional-theology diagnostic surfaces as distorted or harmful to covenant identity, obtain explicit client permission first — see the Permission-to-Challenge Protocol in [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]]
 
 ---
 

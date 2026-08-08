@@ -162,6 +162,20 @@ Dallas Willard frames the same gap differently: *notional* belief vs. *formed* b
 - **Lie Eliminator:** Many of these are functional lies about God — candidates for formal Lie Eliminator entries, not just identity lies.
 - **Secured in Father:** The entire document is designed to replace these functional distortions with formed, embodied covenant truth.
 
+### Permission-to-Challenge Protocol — When a Functional Distortion Rises to Harmful Operating Doctrine
+
+Not every entry above requires the coach to name and challenge the distortion directly. Most of what this document surfaces is addressed indirectly — through Affections Discovery, the Character Wound Diagnostic, and covenant truth offered in the normal diagnostic-to-truth sequence (see [[Covenant Identity Coaching — Theory of Change]], Nodes 2–5). This protocol governs the narrower case: a functional distortion that is not just present but actively organizing the client's felt relationship with God in a way that blocks covenant identity — e.g., a client whose functional theology of entry 8 (exacting, disappointed-parent God) or entry 2 (conditional love requiring re-earning after failure) is not a background pattern but the operating architecture the engagement keeps running into.
+
+**Step 1 — Diagnose source before acting.** Most operating false doctrine this document surfaces is an ordinary discipleship gap — never taught correctly, or taught wrong, but not defended by anything beneath it. Treat this as the base-rate default, not the exception: poor doctrine is common; a wound-woven doctrinal schema is the less frequent case. Only escalate to the wound-vs-formation-gap check (Layer 12, Caution 1, [[Covenant Identity Coaching — Theological-Formation Contributor Stack]]) — surfacing whether a competing commitment (Kegan/Lahey) is protecting the belief — if the client's response to ordinary correction resists in a way a discipleship gap wouldn't.
+
+**Step 2 — Ask permission before challenging directly.** Discovery of a distorted or harmful doctrine that is affecting covenant identity is the trigger. Permission is the gate. The coach does not move from diagnostic naming to direct doctrinal challenge without it, regardless of how confident the diagnosis is. In practice: *"I'm noticing something in how you're describing God here — would it be alright if I named it and we looked at it together?"* This is a standing rule, not situational discretion.
+
+**Step 3 — Hold the posture ceiling once permission is granted.** Challenge the doctrine, not the person. Offer covenant truth as the larger reality the distortion is being measured against ([[Covenant Identity — Practitioner Competency Framework]], Domain 2) — not correction, lecture, or reassurance. The lament caution (Layer 11 Standing Caution, Contributor Stack) applies without exception: consent to be challenged is not consent to have doubt or grief foreclosed. A client who receives the challenge and responds with grief, protest, or continued doubt is not resisting correctly-applied truth — that response is covenantally sanctioned and should be made room for, not managed past.
+
+**Step 4 — If Step 1 indicates schema-weave, not a formation gap, the Layer 12 scope guardrail governs.** The theory of why explicit teaching doesn't reach an implicit belief is safe practitioner background; the reconsolidation protocol itself is not a session technique to self-administer. Proceed at the ordinary pace of Kegan/Lahey surfacing plus Gendlin felt-sense work already seated in Stage 4b Route B — do not manufacture activation to force the confrontation.
+
+**Step 5 — If permission is declined, don't press.** Treat the decline itself as diagnostic material under Practice Definition Dimension 5 (resistance indicates diagnostically: secondary gain, insufficient baseline, shame/fear of exposure, or wrong-fit) — not as a stall to route around.
+
 ---
 
 ## Source Log
