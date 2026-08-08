@@ -13,6 +13,8 @@ tags:
 # Covenant Identity — Diagnostic Lens Transition Logic
 *Practitioner Reference — how to move between diagnostic frameworks in session*
 
+*Visual aid: [Diagnostic Lens Transition Logic — Schematic](https://claude.ai/code/artifact/91786295-c65a-4aba-bb29-35a7edc8697c)*
+
 *Related: [[Affections Discovery Process — Affections, Trust & Priorities]]; [[Covenant Identity — Affections Discovery — In-Session Protocol]]; [[Covenant Identity — Character Wound Diagnostic Tool]]; [[Covenant Identity — Whole-Person Identity Framework]]; Full Model Reference (Section VII)*
 
 ---
