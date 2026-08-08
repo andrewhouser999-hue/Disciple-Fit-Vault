@@ -287,6 +287,26 @@ The treaty form's own language is that the vassal has no standing to contest the
 
 **Sequencing note — this does not require a new technique:** Kegan/Lahey surfaces the competing commitment (coaching-safe); Gendlin's felt-sense work — already seated in the CIC session-tool architecture's Stage 4b Route B — is where a declaration lands somatically. Ecker's theory explains *why* that matters; it does not call for adopting a new clinical protocol on top of tools already in the system.
 
+### Addendum — The Presenting Scripture Variable (2026-08-07)
+
+**Function:** Synthesis note, not a new contributor import. Extends the mechanism above to answer a diagnostic question raised in practitioner conversation: within Ecker's model, why does one verse function as felt disconfirmation for a given implicit belief while a second, doctrinally equivalent verse does not?
+
+**Reframe:** A verse that isn't felt has not failed as truth. It has failed to meet Ecker's condition (2) above — it stayed propositional instead of becoming the vivid, contradicting experience the schema needs held against it. The diagnostic question is not which verse is more true; it's which verse functions as a felt counter-experience to this schema, in this client, now.
+
+**Contributing variables, each already seated in this stack or the CIC session-tool architecture:**
+
+1. **Register match to the shape of the lie.** Gendlin/McMahon-Campbell's felt-sense mechanism (Stage 4b Route B) responds more reliably to concrete, embodied, narrative material than to abstract proposition. The same truth delivered as declarative claim ("there is no condemnation," Rom 8:1) versus as image with a body in it (the father running, Luke 15:20; God quieting someone with singing, Zeph 3:17) can produce different felt outcomes for identical truth-content.
+2. **Whether the implicit belief was actually reactivated in the room.** Ecker's condition (1) requires felt reactivation before the disconfirming material is introduced. A verse offered before the lie is live is information stacked on an untouched schema, regardless of which verse — easy to misdiagnose as "wrong verse" when the actual issue is sequencing.
+3. **An unsurfaced competing commitment (Kegan/Lahey, above).** If a hidden commitment is still protecting the belief, no verse lands, because the resistance was never about verse content. The sequencing note already in this layer exists partly to rule this variable out before concluding a verse failed.
+4. **Delivery as address versus report (Vanhoozer, Layer 11).** The same verse cited as report ("Scripture says...") versus spoken as live address ("this is being said to you, now") can land differently independent of which verse was chosen.
+5. **Character-wound register mismatch (Allender, Layer 9).** A true, well-timed, well-delivered verse aimed at the wrong wound-shape (Warrior vs. Hermit vs. False Noble) may still not land.
+6. **Wound versus formation gap misdiagnosis (Caution 1, above).** If the gap is discipleship rather than adverse/attachment-based schema, Ecker's framework doesn't apply — the fix is Willard's VIM (repeated exposure and practice), and felt conviction lagging cognitive assent is expected, not a sign the verse or the mechanism failed.
+7. **Client-specific narrative freight on the exact word or image.** Unsourced — a practitioner-formation observation, not tied to a named contributor above. A client's personal history with a specific word ("Father," "beloved," "chosen") can make it the most or least felt-available image in Scripture for that person, independent of every variable above.
+
+**Practical implication:** When a verse doesn't land, the diagnostic move is identifying which of these seven is operative before substituting a different verse. Substitution alone addresses only #1 and #7 — it can mask #2, #3, and #6, each of which requires a different response than "try another verse."
+
+**Relationship to the flagged future build:** This addendum bears directly on the still-unbuilt Layer 11/12 session tool (see `project_layer11_12_session_tool_future_dev` memory). If that tool is drafted, the variable list above should inform how it guides verse selection and sequencing, not just which verses it offers as options.
+
 ---
 
 ## Not Part of This Stack — Verified Status Elsewhere

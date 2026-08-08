@@ -140,3 +140,9 @@ That note already established the causal chain: character wound → disordered a
 **Processed → formalized 2026-08-07 as a new section, "Root and Outcome: The Implicit Schema Is the Root; the Disordered Affection Is the Outcome," added to [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] (06 — Practitioner Reference), plus a corresponding 4th failure-mode bullet in that doc's existing "Failure Mode" section. Confirmed via document check that neither the Mechanism doc, the Practice Definition, nor the three adjacent implicit-themed practitioner-reference docs (Implicit Throughline, Stage 4b Implicit Level Reference, Implicit Signal Recognition Quick Reference) stated this root→outcome direction before this addition. This entry left in place as raw history.**
 
 ---
+
+**Note — 2026-08-07 — Designing the Coaching Relationship with the Client (including Dimensions)**
+
+TO DO: Design the coaching relationship with the client, including its Dimensions. Relates to [[Covenant Identity Coaching — Practice Definition]] (`01 — Model Foundation`) — check whether a "Dimensions of the coaching relationship" section already exists there or needs to be built.
+
+---

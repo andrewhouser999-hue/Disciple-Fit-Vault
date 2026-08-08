@@ -1,6 +1,6 @@
 ---
 created: 2026-07-30
-basis: "[[Disciple Fit — Marketing Charter]] — buyer's journey stages, trust rules, segment targeting, and brand voice guardrails, all applied directly rather than re-derived; [[Branding & Core Competency]] (Word Within — CIC Messaging Architecture section) — positioning statement and draft homepage copy adapted back to the Covenant Identity Coaching name per Andrew's 2026-07-30 decision to launch under the existing name rather than the unfinished rename; [[Disciple Fit Coaching — Coaching Agreement]] — pricing and engagement terms; [[Covenant Identity — Two-Tier Intake Protocol]] — intake/payment sequence; [[Covenant Identity — Discovery Call Guide]] — call structure; [[Covenant Identity — Pre-Practice Readiness Action Plan]] and [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]] — safety-readiness gaps named but not resolved here, per Andrew's explicit instruction to set aside further practitioner education and a slower ramp-up for this specific plan"
+basis: "[[Disciple Fit — Marketing Charter]] — buyer's journey stages, trust rules, segment targeting, and brand voice guardrails, all applied directly rather than re-derived; [[Branding & Core Competency]] (Word Within — CIC Messaging Architecture section) — positioning statement and draft homepage copy adapted back to the Covenant Identity Coaching name per Andrew's 2026-07-30 decision to launch under the existing name rather than the unfinished rename; [[Disciple Fit Coaching — Coaching Agreement]] — pricing and engagement terms; [[Covenant Identity — Two-Tier Intake Protocol]] — intake/payment sequence; [[Covenant Identity — Discovery Call Guide]] — call structure; [[Covenant Identity — Pre-Practice Readiness Action Plan]] and [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]] — safety-readiness gaps named but not resolved here, per Andrew's explicit instruction to set aside further practitioner education and a slower ramp-up for this specific plan. Updated 2026-08-07: Phase 0's Airtable row corrected per [[project_cic_airtable_notes_system]] — base build completed and fully verified 2026-08-03, removing the spreadsheet-workaround note."
 tags:
   - marketing
   - launch-plan
@@ -34,7 +34,7 @@ Everything below assumes these pieces work. Each is a five-minute check against 
 | Tier 1 Pre-Discovery Tally form | Build guide exists | Confirm it's actually built and fires from the Calendly confirmation email — if not, skip it for now and ask the Tier 1 questions live on the discovery call instead |
 | Tier 2 Intake Tally form | Build guide exists | Same check — if not built, fall back to the Intake Addendum as a live Session 1 form |
 | Calendly booking link | Assumed live (Discovery Call Guide references it throughout) | Confirm the link works and triggers the right confirmation email |
-| Airtable Clients table | Spec'd 2026-07-23, not yet built | Not required to launch — track the first clients in a plain spreadsheet and migrate later; do not let this block Phase 1-2 |
+| Airtable base (5 tables: Clients, Pre-Discovery, Intake, Alliance Pulse, Session Notes) | Built and fully verified against the live base 2026-08-03, including the Referral Flag Automation | Ready — log clients directly in Airtable from first inbound reply, no spreadsheet workaround needed |
 
 ---
 
