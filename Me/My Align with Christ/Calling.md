@@ -28,7 +28,8 @@ Encounter - **Equipping** - Software Engineer, AI ->
 Coach-**therapeutic gap** **defined** using AI -> 
 Encounter, Bus. owner w/ adjacent problem - **Marketplace need is defined** resulting in RPA, he did not return my offer ->
 Theme of Assembly defined - **synergy in solution to Marketplace**-> 
-Encounter two young men who work for roofing co ministered to them - 
+Encounter two young men who work for roofing co ministered to them -
+Encounter - Jim Beck an older brother **accused** me of 'not caring' of 'claiming suffering while ignoring his' while I was attempting to share my deep trials. According to Dale Mast this is what happens to the "'**Davids**'''  Maybe this applies. 
 Encounter - **Encouragement** from Coach Jeff -> 
 Inner Resistance - **Overcame with Holy Spirit and CIC tool** -> 
 Encounter - **Discovery** - Dale who is formed holds lead for a small church group that is slightly formative. 
@@ -41,5 +42,7 @@ Encounter - **providence** - unplanned encounter with Jeff, scheduled to show hi
 
 Persevere, Pray and Search 
 
+King David brought Heaven to earth. Until you understand that God fits in you and you fit in God you are not going to change this earth.  
+We must learn to entertain the extraordinary while living in the ordinary.
 
 
