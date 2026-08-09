@@ -152,7 +152,7 @@ Hurry isn't a pace. It's a posture — the physical sensation of believing there
 
 *Imagined, in his voice — tightly bound to this scene, not Scripture:*
 
-> A ruler's daughter was dying and every reasonable urgency in the world was pulling me toward that house, and I stopped anyway, in the middle of the crowd, for a hand I felt more than saw. Twelve years she'd gone unnoticed. I wasn't going to let one more minute of her life pass by unseen, even with a dying girl waiting, because I never once believed I had to choose between the two of them.
+> A ruler's daughter was dying and every reasonable urgency in the world was pulling me toward that house, and I stopped anyway, in the middle of the crowd, for an energy left me, subtle yet valuable. Twelve years she'd gone unnoticed. I wasn't going to let one more minute of her life pass by unseen, even with a dying girl waiting, because I never once believed I had to choose between the two of them.
 
 **Seen in Him — Mark 5:25–34, 35–36 (ESV, selected)**
 
