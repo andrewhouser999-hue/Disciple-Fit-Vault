@@ -23,26 +23,28 @@ I know God works in mysterious ways. In holding this loosely, I can only imagine
 The verse over the last several years that has come up for me the most is *I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.* This is a primary identity verse 
 
 **Pattern of Potential Evidence**
-Post exit, **strong sense** not returning - **compelled** -> 
-Encounter - **Equipping** - Software Engineer, AI -> 
-Coach-**therapeutic gap** **defined** using AI -> 
-Encounter, Bus. owner w/ adjacent problem - **Marketplace need is defined** resulting in RPA, he did not return my offer ->
-Theme of Assembly defined - **synergy in solution to Marketplace**-> 
-Encounter two young men who work for roofing co ministered to them -
-Encounter - Jim Beck an older brother **accused** me of 'not caring' of 'claiming suffering while ignoring his' while I was attempting to share my deep trials. According to Dale Mast this is what happens to the "'**Davids**'''  Maybe this applies. 
-Encounter - **Encouragement** from Coach Jeff -> 
-Inner Resistance - **Overcame with Holy Spirit and CIC tool** -> 
-Encounter - **Discovery** - Dale who is formed holds lead for a small church group that is slightly formative. 
-YouTube Videos as ministry **encouragement** -> 
-Wife receives job offer (perfect) **strengthening** -> 
-Encounter - **providence** - unplanned encounter with Jeff, scheduled to show him CIC & Formation, he did not return my offer. 
-**Shift in mindset to Spirit/Prayer** -> 
+- Post exit, **strong sense** not returning - **strongly compelled** -> *Not returning to what?* I have thoughts of moving to another level. 
+- Encounter - **Equipping** - Software Engineer, AI - It is in front of me.  I move forward in my identity as coach-> 
+- Stopped to observe how God made me and what is most likely *what God would have me pursue?* The answer: I was made for Coaching-***1. therapeutic gap defined*** using AI -> 
+- Encounter, Bus. owner w/ adjacent problem - ***2. Marketplace need is defined*** resulting in RPA, he did not return my offer to get together->
+- ***3. Theme of Assembly defined*** - synergy in solution to Marketplace-> 
+- Encounter two young men who work for roofing co ministered to them -
+- Encounter - Upon sharing what i am pursuing, Jim Beck an older brother **accused** me of 'not caring' of 'claiming suffering while ignoring his' while I was attempting to share my deep trials. He is of course forgiven. According to Dale Mast this is what happens to the "'**Davids**'''  Maybe this applies. 
+- Encounter - **Encouragement** and example from Coach Jeff -> 
+- Inner Resistance - **Overcame with Holy Spirit and CIC tool** -> 
+- Encounter - **Discovery** - Dale who is formed holds a lead for a small church group that is slightly formative. 
+- YouTube Videos as ministry **encouragement** -> 
+- Wife receives job offer (perfect for her and provisional) **strengthening** -> 
+- Encounter - **providence** - unplanned encounter with Jeff, scheduled to show him CIC & Formation, he did not return my offer to get together. 
+- **Shift in mindset to Spirit/Prayer** -> 
+- **Made myself Open** to whatever God wants, employment and/or CIC
 
 ...Now what? And now...funds are running low. SK is encouraging me to generate income and is supportive of this coaching. 
 
 Persevere, Pray and Search 
 
+Identity Wisdom
 King David brought Heaven to earth. Until you understand that God fits in you and you fit in God you are not going to change this earth.  
 We must learn to entertain the extraordinary while living in the ordinary.
-
-
+I accept this responsibility. I am responsible for living out my identity, calling to make life better around me. 
+Believe this: I am God's one shot at something. My gifting makes me uniquely special. It will make me interface with Father God in a way that's meaningful to my purpose. There will never be another me. Unwrapping the Gift God has made me, I will then be able to unwrap my Destiny and my identity which unwraps other's identity.  Win this identity within me i will then help others win within their identity. There is no one else like me. No one else can take my place. No one else can steel my thunder, my destiny because no one is made like me. Worship Him for how He made me, starts a conversation with Father God that need or help does not. Now i am relating to Him out of identity rather than need, help.  Until I can see my face in His face, which is the mirror of my identity I cannot enter into the greatness my Father has for me.  I look like my Father in a certain way. 
