@@ -42,6 +42,12 @@ Operations-focused financial services professional with 8+ years inside a highly
 
 ---
 
+## Additional Experience
+
+- Independent Organizational Consultant — Behavioral assessment & leadership development consulting *(2026–Present)*
+
+---
+
 ## Core Skills
 
 - **Data & Record Integrity** — CRM/database record maintenance, high-volume data accuracy, performance under audit conditions

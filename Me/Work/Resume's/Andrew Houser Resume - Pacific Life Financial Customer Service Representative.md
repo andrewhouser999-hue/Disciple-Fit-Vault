@@ -53,6 +53,7 @@ Inbound Call Handling · High-Net-Worth Client Relations · Multi-System Navigat
 
 ## Additional Experience
 
+- Independent Organizational Consultant — Behavioral assessment & leadership development consulting *(2026–Present)*
 - Development Officer — Grace University *(2001–2005)*
 - Business Planning & Development — Aden Enterprises *(1999–2001)*
 - Sales Representative / Trainer — Ecowater Systems *(1996–1997)*
