@@ -1,6 +1,6 @@
 ---
 created: 2026-08-10
-basis: "[[Andrew Houser Resume.md]] + [[Andrew Houser — B2B Sales Career Profile.md]] — real work history and credentials, reframed for Pacific Life Financial Customer Service Representative job posting"
+basis: "[[Andrew Houser Resume.md]] + [[Andrew Houser — B2B Sales Career Profile.md]] + Work/Interviews STAR answers ('What Have You Created That Is Still in Operation?', Historical Q5, Master Reference Q5/Q6) — real work history and sequencing, rewritten at higher sophistication for the Pacific Life Financial Customer Service Representative posting"
 tags:
   - resume
   - job-search
@@ -14,45 +14,56 @@ Omaha, NE | 402-990-0712 | [linkedin.com/in/andrewhouser](https://www.linkedin.c
 
 ## Summary
 
-Financial services customer service professional with 8+ years handling high-volume, phone-based client service in a regulated brokerage environment (Charles Schwab / TD Ameritrade). Already FINRA Series 7 & 63 registered — exceeding the SIE/Series 6 this role sponsors — with a track record of navigating multiple systems in real time while resolving policy, account, and transaction questions accurately and professionally. Trained in the EDGE call-quality coaching framework and built the "World Class Service" skill module for the Onboarding Department to sustain accuracy and service quality well above company benchmarks, call after call.
+Financial services professional entering this role already registered — FINRA Series 7 and 63 in hand, beyond the SIE/Series 6 this position sponsors — with eight years of inbound client contact inside a regulated Charles Schwab/TD Ameritrade call environment. Built personal mastery beyond the company's baseline EDGE communication model through deliberate, self-directed skill sequencing, sustaining a perfect-score call rate roughly 300% above company average. Later translated that same method into a training module for the Onboarding Department, diagnosing the real gap in new-hire communication as identity rather than skill, and building the module to close that gap in that order.
 
 ---
 
-## Relevant Experience
+## Core Competencies
+
+Inbound Call Handling · Multi-System Navigation · Compliance-Governed Documentation · Deliberate Skill Development (EDGE Model) · Identity-First Training Design · Service Recovery & Escalation · Call Monitoring & CRM (NICE Systems, Salesforce, HubSpot) · FINRA Registered (Series 7, 63)
+
+---
+
+## Professional Experience
 
 ### Charles Schwab / TD Ameritrade — Financial Representative *(2017–2026)*
 
-- Handled a high daily volume of inbound client calls covering account activity, transactions, and product questions, in a FINRA Series 7 & 63-licensed, compliance-governed brokerage environment.
-- Navigated multiple internal systems in real time while assisting clients on the call, documenting every interaction accurately per company and regulatory standards.
-- Trained in and applied the EDGE call-quality coaching framework to structure feedback and maintain consistency across client interactions.
-- Built the "World Class Service" skill module for the Onboarding Department and applied it to my own calls, using it to drive the rate of calls earning a perfect score across all satisfaction dimensions to roughly 300% above the company average — a stricter, self-tracked measure of the rate of perfect scores to total calls taken, rather than the standard company index — in a call environment using NICE Systems for quality monitoring.
-- Partnered daily across service, compliance, and leadership teams to research, resolve, and escalate account and process issues.
+- Fielded a high daily volume of inbound brokerage calls — account activity, transactions, product questions — inside a FINRA Series 7/63-licensed, compliance-governed environment, navigating multiple systems live while documenting every interaction to regulatory standard.
+- Built personal mastery beyond Schwab's baseline EDGE communication model through deliberate, self-directed skill sequencing rather than settling at "comfortable," sustaining a perfect-score call rate — measured against total calls taken, not the company's index — roughly 300% above average, monitored via NICE Systems.
+- Appointed to the Onboarding Department; met with managers to diagnose the real gap in new-hire communication as identity rather than skill, then built the "World Class Service" training module around that diagnosis — establishing the professional identity first, then sequencing skill complexity on top of it.
+- Delivered the module across three cohorts of 75 new hires, who averaged 30% more calls scoring 100% client satisfaction than all prior classes; the module remained active in the onboarding curriculum for four additional classes.
+- Partnered daily across service, compliance, and leadership teams to research, resolve, and escalate issues outside standard procedure.
 
 ### Select Comfort — Sales Representative *(2012–2013)*
 
-- Direct, in-person customer service and sales role; outpaced the regional top rep in bed sales by 7.5% and bedding sales by 5.3% while running at 75% of their total volume.
-- Built rapport quickly with a wide range of customers, diagnosing needs and matching solutions in a fast-paced retail environment.
+- Outperformed the regional top rep in bed sales by 7.5% and bedding by 5.3% at 75% of their volume — diagnosing customer needs quickly in a fast-paced, direct-contact retail environment.
 
 ### US Bank — Mortgage Loan Officer *(1997–1999)*
 
-- Guided customers by phone and in person through mortgage applications and financial decisions, managing full document workflow from application through closing.
-- Grew production 20–30% per quarter while maintaining the accuracy standards required for loan sale and audit.
+- Guided customers by phone and in person through mortgage decisions, owning the full document workflow from application to closing under audit-grade accuracy standards.
+- Grew production 20–30% per quarter, producing $2.1M in mortgages and refinances in 1999.
 
 ### KPTM FOX 42 — Marketing Specialist / B2B Sales *(2005–2008)*
 
-- Managed a portfolio of 23 client accounts, providing ongoing account service, problem resolution, and relationship management across 12–18 month contracts.
+- Managed a 23-account portfolio, providing ongoing service, issue resolution, and relationship management across 12–18 month contracts.
 
 ---
 
-## What I Bring
+## Additional Experience
 
-- **FINRA Series 7 & 63** registered — already exceeds the SIE/Series 6 required for this role
-- 8+ years of high-volume, phone-based customer service inside a regulated financial services environment
-- Proven ability to navigate multiple systems simultaneously while assisting customers live
-- Built a service-quality skill module for the Onboarding Department, applied to sustain accuracy and service quality well above company benchmarks
-- Comfortable in structured, fast-paced, metrics-driven environments
-- Strong written and verbal communication with customers and internal teams
-- Bachelor's degree
+| Role | Organization | Years |
+|---|---|---|
+| Development Officer | Grace University | 2001–2005 |
+| Business Planning & Development | Aden Enterprises | 1999–2001 |
+| Sales Representative / Trainer | Ecowater Systems | 1996–1997 |
+| Professional Life Coach / Owner | Independent Practice | 2013–2017 |
+
+---
+
+## Awards & Achievements
+
+- **President's Club Award** — Leadership and Client Satisfaction, Charles Schwab / TD Ameritrade
+- **State of Iowa Army Outstanding Achievement Award** — Iowa Army National Guard
 
 ---
 
@@ -65,7 +76,6 @@ Financial services customer service professional with 8+ years handling high-vol
 
 ---
 
-## Awards & Achievements
+## Technical Skills
 
-- President's Club Award — Leadership and Client Satisfaction, Charles Schwab / TD Ameritrade
-- State of Iowa Army Outstanding Achievement Award — Iowa Army National Guard
+NICE Systems · CRM (Salesforce, HubSpot) · Microsoft Office Suite · Microsoft Teams · Database Management
