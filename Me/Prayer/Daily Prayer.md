@@ -45,6 +45,16 @@ Bring Righteousness Into it
 ## Marketplace & Ministry
 Kingdom Marketplace - Joseph's mantle is the ability to negotiate the world, cause them to see their own interest in the business of the kingdom. There are kingdom solutions that will never come until you touch the ambience of political power. There are wars that can end with negotiation that 5 intercessors will not be able to end. Do you know what the mantle of Joseph of Arimathea is and the mangle of the Kingdom of the Entrepreneur is? 
 
+### 7 Spiritual Disciplines that protect from Witchcraft
+1. confess sin daily
+2. pray in tongues
+3. apply the blood of Jesus
+4. praise God in the middle of the trials
+5. live in the fear of the Lord
+6. give generously
+7. forgive everyone who hurt me
+8. Pray and declare the Word to the Courts of Heaven pray these and more, i declare, i seal, i commit to, thank you Father. Declare the enemy has no legal rights in my life.
+
 ### Scripture Declarations — Occupational Opportunities
 - Deuteronomy 8:18 — "You shall remember the Lord your God, for it is he who gives you power to get wealth."
 - Psalm 1:1-3 — planted by streams of water; whatever he does prospers.
