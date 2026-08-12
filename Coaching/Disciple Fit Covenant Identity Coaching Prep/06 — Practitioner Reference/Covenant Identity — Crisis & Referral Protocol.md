@@ -1,6 +1,6 @@
 ---
 created: 2026-05-20
-basis: "ICF scope of practice standards; C-SSRS (Columbia Suicide Severity Rating Scale) — crisis severity framework; coaching ethics and documentation literature; [[Covenant Identity — Coaching Agreement]] — scope of practice definition"
+basis: "ICF scope of practice standards; C-SSRS (Columbia Suicide Severity Rating Scale) — crisis severity framework; coaching ethics and documentation literature; [[Covenant Identity — Coaching Agreement]] — scope of practice definition; Judith Herman (Trauma and Recovery, 1992) and Bessel van der Kolk (The Body Keeps the Score, 2014) — complex trauma domain framework for Section 5a's pre-disclosure listening layer"
 tags: [practitioner-reference, crisis-protocol, scope-of-practice]
 ---
 
@@ -266,6 +266,38 @@ Response: *"You don't have to tell them everything. You start where you are. And
 
 ---
 
+## 5a. Recognizing Complex Trauma Before the Client Names It
+
+Section 2's "Trauma requiring clinical processing" trigger assumes a client who already recognizes their own PTSD symptoms — flashbacks, hypervigilance, avoidance. Most complex trauma does not present this way. Complex, chronic, relational trauma disrupts the very faculties a person would need to notice it in themselves — memory continuity, self-observation, the ability to name an internal state — so it gets stored as baseline rather than as a discrete, flagged event. The client experiences their own hypervigilance as "being careful," their numbness as "being low-maintenance," their self-blame as "being honest about my flaws." They are not concealing anything. They have no contrast group.
+
+This is not a diagnostic instrument — the coach does not diagnose (Section 1). It is a listening layer for the harder case Section 2's symptom list misses: the client who reports "normal" and means it. What it produces is enough confidence to open the referral conversation in Section 5, or to hold the pattern through Phase 2 titration — not license to name "complex trauma" to the client, and not a substitute for the coach's own judgment.
+
+**Six domains to listen for** (Herman's complex trauma framework, later folded into ICD-11 CPTSD; van der Kolk on implicit/somatic storage). Each includes what tends to get *said* in ordinary conversation — not a symptom to test for — and a non-leading question that surfaces it without requiring the client to already know what happened to them.
+
+1. **Affect regulation.** Listen for: descriptions with no middle range — "I just snap," "I go numb," "zero to a hundred" — or the opposite, flat affect narrating painful content with no matching tone.
+   Ask: *"How do you usually know when you're upset?"* A person with intact affect regulation can answer specifically. A person who can't often looks genuinely stuck on the question — that stuck quality is the signal, not any particular answer.
+
+2. **Self-concept.** Listen for: reflexive, disproportionate self-blame stated as fact, not complaint — "that's just how I am," "I probably deserved it" — with no visible search for evidence. Also identity described only in relation to others' needs.
+   Ask: *"When something goes wrong between you and someone else, how do you usually explain it to yourself?"*
+
+3. **Relational patterns.** Listen for: all-or-nothing language about people ("everyone leaves eventually," "you can't really trust anyone") or a string of relational ruptures narrated as isolated incidents, each someone else's fault, with no thread drawn between them.
+   Ask: *"Tell me about a time things went wrong in a relationship."* Listen for whether they can hold their own contribution and the other person's without collapsing into all-blame or no-blame.
+
+4. **Consciousness and dissociation.** Listen for: unflagged time gaps in a narrative ("and then I don't really remember much until..." said casually), depersonalized language ("you just kind of check out," "I watch myself do things"), or unusual affect-free fluency reciting childhood facts, like someone else's biography.
+   Ask: *"What was it like growing up in your house?"* Listen for minimizing language ("normal," "fine," "nothing special") paired with content that isn't.
+
+5. **Somatic.** Listen for: chronic, medically unexplained physical complaints — tension, gut issues, headaches — mentioned in passing, disconnected from the emotional content they're adjacent to in the conversation.
+   No separate question needed — this domain is read from what surfaces unprompted alongside the other five.
+
+6. **Meaning-making.** Listen for: a foreshortened future ("I don't really plan that far ahead," said with resignation, not contentment), or a worldview that is globally cynical or globally over-idealized with no nuance.
+   Ask: *"Where do you see this part of your life in a few years?"*
+
+**Why not ask directly.** *"Did something traumatic happen to you"* requires the self-awareness this section exists because the client doesn't have, and will usually return a flat "no" that closes the door rather than opening it. The six questions above are open and low-inference — they ask about the present-tense mechanics of emotion, relationship, and memory, not about a past event the client may have no frame for naming.
+
+**What this earns you.** A pattern across two or more domains, held over more than one session, is grounds to move Section 2's "Trauma requiring clinical processing" trigger from watch to action — begin the Section 5 referral conversation. It is not grounds to tell the client they have complex trauma; that label, if it is ever spoken, belongs to the clinician they're referred to, not to the coach.
+
+---
+
 ## 6. Concurrent Coaching and Therapy
 
 Coaching and therapy can operate concurrently. When they do:
@@ -346,6 +378,8 @@ Before your first client engagement:
 | C-SSRS (Columbia Suicide Severity Rating Scale) | Clinical assessment tool | Four-level severity framework for triaging suicidal ideation (passive ideation → active without plan → active with plan, no intent → active with plan and intent); informs the response table in Section 3 | Empirically validated clinical instrument (Columbia University Psychiatry) |
 | QPR (Question, Persuade, Refer) — qprinstitute.com | Suicide prevention training | Protocol for asking directly about suicidal ideation without increasing risk; preparation checklist item | Evidence-based gatekeeper training; research base confirms direct questioning does not increase risk |
 | 5-4-3-2-1 Grounding | Clinical technique | In-session grounding protocol for acute dissociation/trauma response; standard evidence-based technique in trauma-informed care | Widely used in trauma-informed practice; no single originating source |
+| Judith Herman | Clinical trauma theory | Six-domain complex trauma framework (affect regulation, self-concept, relational patterns, consciousness/dissociation, somatic, meaning-making) — basis for Section 5a's pre-disclosure listening layer, later folded into ICD-11 CPTSD | Foundational clinical text (*Trauma and Recovery*, 1992); widely adopted, not a validated screening instrument |
+| Bessel van der Kolk | Clinical trauma theory | Implicit/somatic storage of trauma as distinct from explicit narrative memory — basis for why complex trauma often isn't self-recognized and surfaces as somatic/behavioral pattern rather than reported symptom | Widely cited clinical synthesis (*The Body Keeps the Score*, 2014) |
 | [[Covenant Identity Coaching — Coaching Agreement]] | Internal document | Scope of practice definition given to client at onboarding; this protocol gives the coach the operational language and criteria behind that scope statement | Internal primary source |
 | National Domestic Violence Hotline (1-800-799-7233) | Crisis resource | Named referral resource in Section 3 and 4 | — |
 | 988 Suicide & Crisis Lifeline; Crisis Text Line (741741) | Crisis resource | Named referral resources in Sections 4 and 9 | — |
