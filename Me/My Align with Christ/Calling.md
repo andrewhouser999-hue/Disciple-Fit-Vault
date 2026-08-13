@@ -6,6 +6,12 @@ tags:
 
 # Calling
 
+What would bless others:
+- Sharing the Word God has shared with me in the theme He has shared.   He leads me to the Word that relates to what I am thinking, experiencing and witnessing. 
+- Sharing CIC subjects
+
+
+**Transition**
 Following my resignation to Schwab. I strongly and deeply sensed something is very different. That I am not going back. Back to Schwab for sure. Back to employment as well, as I could best interpret. 
 
 After maybe three weeks in met a software Engineer who introduced me to AI-Obsidian, helped me get it set up with necessary plugins I could not have done myself or would have had a very difficult time with.  I immediately thought what do I want to do with this?  What do I see in my life as an undeniable theme that I can bring to the world of people? Who do I want to be for this world? My answer: A skilled, biblically informed Life Coach who equips the saints for the the work of Christ. To do this believed I needed to resolve the gap of the client need for therapy as a non-clinically trained life coach. I set out to start a trauma informed coaching business and began to learn about coach-safe (non clinical skilled therapy for coaching).  I spent a month or so creating documentation that would work as structure, session tools, etc. for the coaching practice.
