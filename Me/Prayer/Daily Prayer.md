@@ -22,6 +22,23 @@ I am a Truth Intruder
 # Prayer
 A whole nether level of detail in prayer
 
+## Areas Scripture Calls Us to Pray For
+Checklist so prayer covers what Scripture calls for, not just what's on my mind. Sections below (Land, Provision, Hindrances) already carry the detail for their categories — this is the full map.
+
+- **Worship & Kingdom** — God's name hallowed, His kingdom advancing, His will done (Matt 6:9-10)
+- **Confession** — daily confession of sin (Matt 6:12; 1 John 1:9) — see Hindrances to Prayer below
+- **Deliverance** — from temptation and the evil one (Matt 6:13; John 17:15)
+- **Provision** — daily bread, needs made known with thanksgiving (Matt 6:11; Phil 4:6) — see Provision below
+- **Government & Authority** — those in power, for a peaceful and quiet life (1 Tim 2:1-2)
+- **Enemies & Persecutors** — those who oppose me, not just those who bless me (Matt 5:44; Luke 6:28)
+- **Fellow Believers** — spiritual insight, strengthened inner being, love abounding in knowledge and discernment (Eph 1:15-19; 3:14-19; Col 1:9-12; Phil 1:9-11); "pray for one another, that you may be healed" (James 5:16)
+- **Gospel Workers** — laborers sent into the harvest (Matt 9:38); boldness and open doors for those preaching (Eph 6:19-20; Col 4:3-4)
+- **The Sick** — elders praying, anointing with oil, the prayer of faith (James 5:14-15)
+- **Wisdom** — ask the generously-giving God (James 1:5)
+- **The Land / Nation** — humbling, seeking His face, turning from wicked ways so He heals the land (2 Chron 7:14) — see Land below
+- **Thanksgiving** — in everything, in all circumstances, not just after answers (Phil 4:6; 1 Thess 5:18)
+- **Unity & Protection of the Church** — as Christ prayed for His own: sanctified in truth, unified, protected from the evil one (John 17:15-24)
+
 ## Family Life
 
 
