@@ -17,6 +17,11 @@ The same way the script got there is the same way it will leave, repetition with
 ---
 
 Wendy Backlund
+"The church is so busy trying to learn how to die that we are not teaching them how to live. I think that people think that when they are born again that we are modeling ourselves after an earthly Jesus who hasn't been resurrected yet. When scripture actually says '*As He is so are we...' (1 John 4:17) He is resurrected, seated in heavenly places. We are apathetic because a deep part of us knows we are something more than human. You are a whole new creation, a whole different species. And this is where it gets dangerous. I think we resemble more of God. And the church isn't telling them what they are."
+He is resurrected, and so are we. 
+He is love, and so are we. 
+
+
 - What beliefs you defend is a stronghold in your life
 - Any area of your life that doesn't glisten with hope means you are believing a lie and that area is a stronghold in your life.  It's old software. 
 - What do I need to believe to have hope in that?

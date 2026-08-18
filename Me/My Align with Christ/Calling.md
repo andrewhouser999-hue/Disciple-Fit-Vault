@@ -50,7 +50,6 @@ My plan is to build the CIC practice. Put on my heart for pursuing what is in Yo
 Who should I meet with? put them on my heart repeatedly. 
 
 
-
 What would bless others:
 - Sharing the Word God has shared with me in the theme He has shared.   He leads me to the Word that relates to what I am thinking, experiencing and witnessing. 
 - Sharing CIC content
