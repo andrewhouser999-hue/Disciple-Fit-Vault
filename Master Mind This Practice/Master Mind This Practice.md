@@ -3,6 +3,8 @@ created:
 basis: TBD
 tags:
 ---
+I am sough out by people who are wrestling with their inner life and struggling with livelihoods.  People who work with me change the very scaffolding designed to defend the lies they are living by and false identities they are beholding so they are equipped to transform into the person they hope to become and build the life they wish to live. 
+
 
 Unusually complete theoretical architecture — ten contributor layers, diagnostic transition logic, crisis protocols, a six-level simulated practice system
 

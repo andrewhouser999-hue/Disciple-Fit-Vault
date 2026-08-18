@@ -59,6 +59,39 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 
 ---
 
+## Table of Contents
+
+- [[#Before You Begin]]
+- [[#How to Use This Workbook]]
+- [[#The Excavation Questions]]
+- [[#The Spirit's Role]]
+- [[#Part 1 — The Core Lies]]
+  - [[#Lie 1 — God as Distant Authoritarian]]
+  - [[#Lie 2 — I Cannot Do It]]
+  - [[#Lie 3 — Hopelessness]]
+  - [[#Lie 4 — Scarcity]]
+  - [[#Lie 5 — Giving Up]]
+  - [[#Lie 6 — False Risk / I Will Fail]]
+  - [[#Lie 7 — Abandoned by God]]
+  - [[#Lie 8 — It Cannot Be Done Through Me]]
+  - [[#Lie 9 — I Am Not Enough / Imposter]]
+  - [[#Lie 10 — Too Connected to Sinful Heritage]]
+  - [[#Lie 11 — Rejectable]]
+  - [[#Lie 12 — Disgust of Others in Gross Sin]]
+  - [[#Lie 13 — I Am the Judge (Lawful Thinking / Resentment)]]
+- [[#Part 2 — The Beatitude Lies]]
+  - [[#Beatitude Lie 1 — Meekness Means Weakness]]
+  - [[#Beatitude Lie 2 — Mourning Means I Lack Faith]]
+  - [[#Beatitude Lie 3 — Mixed Motives Don't Matter]]
+  - [[#Beatitude Lie 4 — Peace Means Avoiding Conflict]]
+  - [[#Beatitude Lie 5 — Suffering Means I'm Doing Something Wrong]]
+  - [[#Beatitude Lie 6 — I Need People to Understand Me Before I Can Have Peace]]
+- [[#Part 3 — Blank Lie (Identified In Session)]]
+  - [[#Lie 14 — [Name the Lie]]]
+- [[#A Final Note]]
+
+---
+
 ## Part 1 — The Core Lies
 
 ---
@@ -1032,6 +1065,60 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 - Isaiah 53:7 — *"He opened not his mouth."*
 - 2 Timothy 4:16–17 — *"No one came to stand by me...But the Lord stood by me and strengthened me."*
 - Psalm 37:6 — *"He will bring forth your righteousness as the light."*
+
+---
+
+## Part 3 — Blank Lie (Identified In Session)
+
+*Use this form when a lie surfaces in session that isn't one of the named lies above. Name it precisely, then work it the same way.*
+
+### Lie 14 — [Name the Lie]
+
+**What God Says:**
+
+*Who God Is:*
+>
+
+*Who I Am:*
+>
+
+*His Promise:*
+>
+
+**Who Has Witnessed This Truth:**
+> *(A person whose words, presence, or response confirmed what God says here. Name the person and moment if you can.)*
+
+**The Lie:**
+> *(State the lie exactly as it runs in your head — first person, specific, no softening.)*
+
+**Reflection:**
+- Does this describe a belief you've carried? Rate 1–5: ____
+- When did you first believe this? How old were you? What was happening in your life?
+- Who lived this in front of you? Not who said it — whose life demonstrated it?
+- What made it logical? What would have had to be true about you for this conclusion to make sense?
+- Can you locate the moment of agreement — when you stopped just hearing it and started believing it?
+
+**Your Renunciation:**
+*Write it, then say it out loud.*
+"I renounce the belief that..."
+
+>
+
+**Your Declaration:**
+*2–3 sentences, first person, present tense. What is true instead?*
+*(Speak aloud — in Jesus' name.)*
+
+>
+
+**Therefore I Will:**
+*One specific action this week that flows from the truth:*
+
+>
+
+**Scripture to Carry:**
+*Write out the one verse that hits hardest for you this week:*
+
+>
 
 ---
 

@@ -14,7 +14,7 @@ This workbook is a **formation tool**, not a reading exercise. The difference ma
 
 Identity is not discovered in a moment — it is **installed over time** through repeated exposure to truth, honest personal reflection, spoken declaration, and consistent action. This workbook is designed to support all four.
 
-It works. The result, increased faith, grounding, connection with the Lord, reduced anxiety, dropping the idols, freedom and much more.  Tend to the garden of your heart. Increase the fertile soil actively.  Utilize proven biblical and evidence-based work that answers how to keep the Word like meditation/murmuring, imagination, feeling fully, making verbal agreements and taking action.  These practices are what brings your heart, mind, soul & strength to life!  
+It works. The result, increased faith, grounding, connection with the Lord, reduced anxiety, dropping the idols, enhanced capacity for holding Joy, freedom and much more.  Tend to the garden of your heart. Increase the fertile soil actively.  Utilize proven biblical and evidence-based work that answers how to keep the Word like meditation/murmuring, imagination, feeling fully, making verbal agreements and taking action.  These practices are what brings your heart, mind, soul & strength to life!  
 
 Nothing is more effective than God's divine truths, as promised, altering your life according to His riches and purposes.  We achieve at far greater heights when our inner work aligns our thoughts, emotions and nervous system with His Word in seeking first the Kingdom of heaven.  When we seek we will find. When we plant seeds, God will grow.  When we sew even in tears we will come out with sheaths.  
 
