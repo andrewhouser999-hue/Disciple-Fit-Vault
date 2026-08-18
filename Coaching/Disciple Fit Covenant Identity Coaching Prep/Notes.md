@@ -10,7 +10,7 @@ We were created as Son's of God.  *But to all who did receive him, who believed 
 
 *Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.* 2 Chor 5:17
 
-Satan's largest attack is through identity. We are free from every lie we give power to by believing it. 
+Satan's largest attack is through identity. We are free from every lie we give power to, by believing it. 
 
 The same way the script got there is the same way it will leave, repetition with emotional intensity. you have to install a new one.  Same requirements repetition, emotional charge and authority. The subconscious only updates only when the signal is strong enough.  An audit will tell you the code that could be running.  
 
