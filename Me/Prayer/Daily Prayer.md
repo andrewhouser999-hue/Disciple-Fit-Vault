@@ -17,7 +17,7 @@ Salvation for Aunt Kathleen and SK to visit her before her death-price flights
 
 
 # Identity
-I am a Truth Intruder
+I am a Truth Intruder. Intruding into the inner man bringing life giving gifts of the Word to operating structures, beliefs and thinking processes of the old man for the purpose of transformation.
 
 # Prayer
 A whole nether level of detail in prayer

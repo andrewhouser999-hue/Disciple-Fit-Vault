@@ -6,10 +6,57 @@ tags:
 
 # Calling
 
+If I heard from God I heard:
+I am not going back
+
+I said in my heart
+I cannot rely on employment only or possibly at all going forward.
+
+I committed to 
+Building a coaching structure and launching a coaching practice
+
+**Situation**
+*Weakness*
+Very low on operating capital and existing connections and relationships
+Practically, too short on income and will run out
+Heavenly, God, not money is our provider
+Sk is currently not in support of launching
+Sk and I have low communication and trust although greatly improving
+Universe is losing buying power and income stability
+Proven modalities, unproven practice
+
+*Opportunity*
+High demand, shifting market
+Open Heavens
+
+*Threats*
+Longer ramp up to income than money allows
+Sk having reduced interest in supporting as money runs out
+
+*Strengths*
+I can do all things through Christ who strengthens me. 
+Coaching architecture is built with biblical scaffolding
+
+*Prayer*
+I asked for forgiveness charging forward based on my own scripts. Only, maybe by divine guidance. 
+I choose not to rush out and 'get a job'  
+I need to hear from You Lord. I repent from not listening for your still small voice. 
+I am listening for instructions.
+I prayed for next steps. If You want me to run with CIC then find me one paying client and divinely help coach them with CIC through me.  
+Give me your heart for transformation
+Give me strength for this journey
+Give me direction and understanding of where we are going
+My plan is to build the CIC practice. Put on my heart for pursuing what is in Your plan for next things. 
+Who should I meet with? put them on my heart repeatedly. 
+
+
+
 What would bless others:
 - Sharing the Word God has shared with me in the theme He has shared.   He leads me to the Word that relates to what I am thinking, experiencing and witnessing. 
-- Sharing CIC subjects
+- Sharing CIC content
 
+If CIC is my calling then here is what I do.
+I am sough out by people who are wrestling with their inner life and struggling with livelihoods.  People who work with me change the very scaffolding designed to defend the lies they are living by and false identities they are beholding so they are equipped to transform into the person they hope to become and build the life they wish to live. 
 
 **Transition**
 Following my resignation to Schwab. I strongly and deeply sensed something is very different. That I am not going back. Back to Schwab for sure. Back to employment as well, as I could best interpret. 
