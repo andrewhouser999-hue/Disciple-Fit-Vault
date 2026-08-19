@@ -17,6 +17,7 @@ tags: [practitioner-reference, terminology, language-reference, cic, hebrew, gre
 ## Navigation
 
 - [[#CIC-Internal Terms]]
+- [[#Explanatory Terminology]]
 - [[#Part I — Hebrew, Aramaic & Greek Terms]]
 - [[#Part II — Psychological & Clinical Constructs]]
 - [[#Part III — Professional, Methodological & Organizational Terms]]
@@ -48,6 +49,36 @@ The behavioral and relational system a person builds to protect and serve their 
 **Also called:** the implicit level, the implicit architecture, the register beneath explicit belief
 Not a fifth item alongside character wound, disordered affections, false covenant object, and false identity structure — the procedural, felt, pre-verbal *register* on which all four of those actually run, beneath conscious/propositional awareness (Curt Thompson/Siegel's implicit vs. explicit memory distinction). A wound, its affections, the false covenant object it produces, and the false identity structure built to protect that object are all implicit-level content; "implicit" names the plane they operate on, not a separate thing they produce. This is why a client can hold correct explicit theology while the implicit process still runs the old wound → affections → object → identity chain under pressure — the gap "I know it in my head but not my heart" describes. **Misdiagnosis pitfall:** treating "implicit process" itself as the diagnostic target — rather than the level at which the four content terms operate — is a category error; it names the register instead of reaching the organizing center running on it.
 **See also:** [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] · [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] · [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] · False Covenant Object · False Identity Structure
+
+---
+
+## Explanatory Terminology
+
+#### Noetic
+
+Relating to deep inner understanding that feels known without needing explanation; a knowing that comes from insight rather than logic. e.g. Some lessons become noetic only after you've lived through them.
+
+---
+
+#### Occhiolism
+
+*oh-KEE-oh-liz-um*
+The humbling realization that your view of reality is only a tiny window into something infinitely larger. e.g. Gazing into the stars, he felt occhiolism — a beautiful ache wrapped in wonder. The more we see.
+**Wisdom:** "The more we realize how little we truly see."
+
+---
+
+#### Pernicious
+
+Having a harmful effect, especially in a way that is subtle or gradual. e.g. The pernicious habit of procrastination slowly stole his dreams.
+**Wisdom:** Just like poisons that don't kill instantly; they just change you quietly.
+
+---
+
+#### Nugatory
+
+*NOO-guh-tor-ee*
+Having little or no importance, value, or effect; ultimately pointless or insignificant. e.g. After years of chasing approval, he realized how many of his worries had been nugatory.
 
 ---
 
