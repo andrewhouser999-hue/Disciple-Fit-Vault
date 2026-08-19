@@ -3,8 +3,14 @@ created:
 basis: TBD
 tags:
 ---
-I am sough out by people who are wrestling with their inner life and struggling with livelihoods.  People who work with me change the very scaffolding designed to defend the lies they are living by and false identities they are beholding so they are equipped to transform into the person they hope to become and build the life they wish to live. 
+ELEVATORE PITCH
+"I work with people who are stuck — not for lack of effort, but because the story they believe about who they are is quietly running the show. I help them find that story, take it apart, and replace it with one that actually lets them become who they want to be and build the life they want to live."
 
+Shortest version (for a verbal answer at a networking event, where you have one breath):
+
+"I help people find the lie they've been living by and the false identity built on top of it — then rebuild from there, so they can finally become who they want to be."
+
+---
 
 Unusually complete theoretical architecture — ten contributor layers, diagnostic transition logic, crisis protocols, a six-level simulated practice system
 
