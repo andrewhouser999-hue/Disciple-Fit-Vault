@@ -11,6 +11,19 @@ Shortest version (for a verbal answer at a networking event, where you have one 
 "I help people find the lie they've been living by and the false identity built on top of it — then rebuild from there, so they can finally become who they want to be."
 
 ---
+**Sanctification can by via coaching vs trial/trauma**
+Sanctification isn't merely informational — knowing true doctrine — it's transformational: being changed. Scripture's own vocabulary for this process ("fear and trembling," Phil. 2:12) is affect-laden, not propositional. Contemporary work on implicit/procedural memory (Gendlin's felt sense — already a CIC contributor per [[contributor_gendlin_focusing]]) converges on the same point: identity-beliefs laid down through felt experience can only be revised through felt re-encounter, not correction of the proposition alone. That's Gendlin's actual founding claim, and it's why CIC already routes through felt-sense work at Stage 4b. Historically, felt confrontation with truth has most reliably happened via trial and trauma — suffering strips defenses and forces the affective intensity belief-revision requires, which is why James 1, Romans 5, and Hebrews 12 tie trials to formation. But if felt confrontation is the actual causal mechanism — not suffering per se — then a practice that can reliably and safely evoke felt confrontation with covenant truth in a coaching container is doing the same work trials do, without waiting for one to happen. That's a real, non-trivial synthesis. It's also not fully what you wrote.
+
+If Coaching as a proactive mechanism to bring the word to the implicit to align the programs of thinking and the beliefs with what is true of Christ as a replacement to trials and trauma then what else is also true?  Are trials/trauma then by and large avoidable? Why?  Could it be that any misalignment gives the demonic license to destroy, possibly God reason to choose as a necessary and second choice for sanctification? Does scripture tell us there is an alternative to trials? (One thing that comes to mind is working out your salvation with fear and trembling for the reason of avoiding , avoidable trials.)
+
+Solid: Gendlin's claim that felt shift (not cognitive recognition) is what constitutes real change, and that felt access to remembered/imagined experience — not just live trauma — can reach the same implicit structures. This is literally what focusing-oriented work claims to do. If you cite this instead of Phil. 2:12, the mechanism argument gets much stronger.
+
+Unexamined: the claim assumes a safe, voluntary, coach-elicited felt encounter is formatively equivalent to an unchosen, high-stakes, real trial. That equivalence is asserted, not established. Trials work partly because they're involuntary and costly — the stakes are real. Whether a safe container can generate comparable formative intensity without real stakes is the actual empirical bet CIC is making, and it should be named as a bet (a design judgment, per your own evidence-tagging standard) rather than treated as settled.
+
+
+
+---
+
 
 Unusually complete theoretical architecture — ten contributor layers, diagnostic transition logic, crisis protocols, a six-level simulated practice system
 
