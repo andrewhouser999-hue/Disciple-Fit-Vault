@@ -103,6 +103,14 @@ Disciplines assigned between sessions do not cause transformation — they creat
 
 ---
 
+### Interpretive Commitment — How "Beholding" Is Held
+
+Layers 3–4 name diagnostic work and covenant truth as *conditions* for transformation, not its cause. The mechanism 2 Cor. 3:18 actually names is beholding — *"we all, with unveiled face, beholding the glory of the Lord, are being transformed"* — and the agent is explicitly "the Lord who is the Spirit," not the practitioner's diagnostic precision. Interpreters diverge on how beholding cashes out practically. A Reformed/monergist reading holds that even the human act of beholding is itself the fruit of a prior sovereign work, and treats "conditions" language as risking technique-ism. A purely contemplative reading treats beholding as unstructured, pace-of-the-Spirit gaze with no diagnostic content. This model holds neither pole — it stands in the Wesleyan/means-of-grace stream (see [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]], Section III): beholding is genuinely conditional, because God has bound himself to work through appointed channels, without being causal or technique-guaranteed.
+
+Concretely, that resolves into two commitments. Beholding here is **Word-mediated, not open contemplative gaze**: covenant truth is spoken into a specifically named, activated false structure (Layers 3–4), and reception happens as the client turns attention toward the Person speaking that truth — not toward an unstructured sense of presence. And it is **disciplined, not spontaneous**: per Willard's VIM framework, the disciplines of solitude, silence, and receptive return (Layer 5) train the posture of sustained attention that beholding requires; they do not produce the transformation themselves. Diagnostic work (Layer 3) creates the conditions under which beholding can happen with precision — it names what the client's gaze needs to turn from — but it is not itself the mechanism. Collapsing that distinction is the model's most persistent risk: a practitioner who trusts diagnostic precision to do what only the Spirit's sustained beholding does will either force the moment of transformation or conclude the model isn't working. See [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] for the full exegetical grounding and [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] for the session-level application (Condition 4 / Node 6).
+
+---
+
 ## Dimension 3 — Container: What Holds This Work
 
 **In-session:** A coaching conversation organized around formation goals, not presenting problems alone. Uses diagnostic tools to surface false identity, applies covenant truth, and designs between-session formation work. The governing question is not "what do you want to achieve?" but "what is the Spirit doing here, and how do we cooperate with it?"

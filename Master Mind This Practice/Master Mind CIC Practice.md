@@ -20,7 +20,20 @@ Solid: Gendlin's claim that felt shift (not cognitive recognition) is what const
 
 Unexamined: the claim assumes a safe, voluntary, coach-elicited felt encounter is formatively equivalent to an unchosen, high-stakes, real trial. That equivalence is asserted, not established. Trials work partly because they're involuntary and costly — the stakes are real. Whether a safe container can generate comparable formative intensity without real stakes is the actual empirical bet CIC is making, and it should be named as a bet (a design judgment, per your own evidence-tagging standard) rather than treated as settled.
 
+---
+ **Reoccurring Core Four Mechanism for Transformation**
+ Across neuroscience, attachment/somatic research, habit science, and Christian formation theology, the mechanisms that actually change implicit (automatic, non-verbal, procedural) patterns converge on something much smaller than CIC's five-layer, diagnostically-precise architecture. The recurring core, as minimum psychological conditions, named differently in each field, is:
 
+  1. Bring the implicit pattern into felt awareness — not analyzed, just noticed and named
+  2. In a context of relational/spiritual safety — the nervous system has to be regulated enough for new learning to register
+  3. Juxtapose it with something truer, in the same moment the old pattern is active — not information delivered afterward
+  4. Repeat the embodied experience over time — implicit change is not insight-triggered, it's practice-triggered
+
+  That's it. No taxonomy of affections, no character-wound diagnostic, no stage logic required to begin. This is genuinely something a spouse, friend, or small group could do without training. This does not reference the essential element of co-regulation and work of the Holy Spirit as major character in transformation. 
+
+This simplified version of the core mechanism, stripped of diagnostic taxonomy, is real, defensible, and could function as a genuinely lay-employable tool. That's not a hypothetical — it's precisely the gap already flagged in [[project_reckoning_pattern_future_dev]] (needs a client-facing/between-session version) and adjacent to [[project_layer11_12_session_tool_future_dev]]. This research question basically answers "what would the simplified version rest on." It must be clear that mistargeted juxtaposition doesn't revise the schema, it just gets ignored or produces temporary relief. A lay version needs an honest scope boundary stated up front.
+
+2 Corinthians 3:18 — ***"we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit"*** (ESV). This is worth taking seriously as data, not just proof-text: the mechanism named is sustained beholding, not diagnostic labor, and the agent is explicitly the Spirit, not the practitioner's analytical precision. Romans 12:2's "renewing of the mind" is durative/ongoing, not event-based. Solid exegetical ground that Scripture locates real transformation in a simpler, sustained-attention mechanism — this is not a contested reading; it's the plain sense of the passage. Where interpreters diverge is on how beholding cashes out practically (contemplative traditions vs. Reformed emphasis on Word-mediated beholding) — that's a live fault line, not something to flatten.
 
 ---
 

@@ -114,7 +114,7 @@ Read them in that order once before your first engagement. The first three estab
 
 > **Note on the parent document:** *[[Secured in Father — Attachment Formation & Encounter Preparation]]* and *[[Secured in Father — Entry Guide]]* are located in `Coaching Me/` — they are self-coaching and client between-session formation tools, not practitioner references. The Design Notes here is the practitioner reference layer for those documents.
 
-| [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] | Practitioner-facing exegetical reference: scriptural basis for the claim that participants create conditions for the Spirit's sanctifying work — four condition categories, governing text Phil 2:12-13, theological fault-line note (Reformed/Wesleyan/Orthodox) | Grounds the Sanctification Module immediately below theologically; also connects to the Spiritual Disciplines Guide and Formation Mechanism Guide (both in 08 — Between-Session Materials) |
+| [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] | Practitioner-facing exegetical reference: scriptural basis for the claim that participants create conditions for the Spirit's sanctifying work — four condition categories, governing text Phil 2:12-13, theological fault-line note (Reformed/Wesleyan/Orthodox). This document's Section III fault-line note and 2 Cor 3:18 mechanism (Section I.B) are now also applied at the model-foundation level — see [[Covenant Identity Coaching — Practice Definition]], Dimension 2, "Interpretive Commitment — How 'Beholding' Is Held" | Grounds the Sanctification Module immediately below theologically; also connects to the Spiritual Disciplines Guide and Formation Mechanism Guide (both in 08 — Between-Session Materials); read alongside the Practice Definition's Interpretive Commitment subsection when a practitioner or theologically literate client presses on how beholding actually works |
 
 ---
 
@@ -182,7 +182,9 @@ Full entry criteria, transition signals, and return signals: [[Covenant Identity
 
 ---
 
-*Last updated: 2026-08-07 (later same day) — added [[Covenant Identity — Disordered Affections as Idolatry — Biblical Case & Practitioner Defense]] to Theoretical Foundation, filling the general-idolatry defense gap the God-Exclusion Map explicitly declines to cover.*
+*Last updated: 2026-08-20 — cross-linked [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]]'s entry to the new "Interpretive Commitment — How 'Beholding' Is Held" subsection added to [[Covenant Identity Coaching — Practice Definition]] (Dimension 2), which applies that document's Reformed/contemplative fault-line note at the model-foundation level. No new row added — Model Foundation documents remain outside this cluster's scope (see "What Is Not in This Cluster"); this is an outbound pointer from the existing exegetical-reference entry.*
+
+*Previously updated: 2026-08-07 (later same day) — added [[Covenant Identity — Disordered Affections as Idolatry — Biblical Case & Practitioner Defense]] to Theoretical Foundation, filling the general-idolatry defense gap the God-Exclusion Map explicitly declines to cover.*
 
 *Previously updated: 2026-08-07 (earlier same day) — Terminology & Language Reference description updated after a full-corpus sweep expanded it from a 2-term seed into a three-part glossary (92 Hebrew/Greek terms, ~34 psychological/clinical clusters, 37 professional terms).*
 
