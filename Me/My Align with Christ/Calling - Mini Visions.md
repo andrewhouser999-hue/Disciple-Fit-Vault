@@ -3,6 +3,24 @@ created: 2026-07-16
 basis: primary-source
 tags:
 ---
+## Mini Visions are My Life before the Lord
+**Ministering the Word of Truth to my inner man**
+Self Coaching the Lie Eliminator and Identity Installer
+Commitment: Daily am/pm or immediate examination
+
+**Dietary Health** 
+Calorie restriction & selection with supplementation and detox
+Commitment: keep commitment in front of me.
+
+**Physical Conditioning Health** 
+Moderate strength, conditioning, sprints
+Commitment: Timeframe of day:  third item after making bk and my quiet time, 
+
+**Relational Health & Life Management as one** 
+Skill Practice - Imagine seeing myself from third person, calling him Andy. Ask, what would the person I admire do for this relationship?
+Commitment: Keep a priority prayey rfully, seek instruction, guidance and wisdom here.
+
+
 
 # Calling
 
@@ -15,9 +33,11 @@ With solid conviction I said in my heart
 
 I committed to 
 *"Building a coaching structure and launching a coaching practice."*
+"Staying completely out of the way of God's provision for income and transportation vs asking for specific provision. Honor not receiving direction from the Lord on income."
 
 Thrown off by
 Sk approaching me for the third time for the need for generating more income in the mean time.  I am taking the time to rest my brain from the race to launch to evaluate this situation by listening for the clarity of God's voice. 
+I reset to following God solely, considering Sk, hearing from her yet holding boundaries, keeping to following God. It may or may not include Sk's input.
 
 Quick Situation Analysis:
 - Coaching architecture is viable, effectual.  My readiness is at 25%. Business readiness is dependent on marketing, lacking alpha phase clients and God's definitive lead as I can tell. 
@@ -84,20 +104,21 @@ The verse over the last several years that has come up for me the most is *I hav
 
 **Pattern of Potential Evidence**
 - Post exit, **strong sense** not returning - **strongly compelled** -> *Not returning to what?* I have thoughts of moving to another level. 
-- Encounter - **Equipping** - Software Engineer, AI - It is in front of me.  I move forward in my identity as coach-> 
+- Encounter - **Equipping** - Software Engineer, AI is in front of me.  I move forward in my identity as coach-> 
 - Stopped to observe how God made me and what is most likely *what God would have me pursue?* The answer: I was made for Coaching-***1. therapeutic gap defined*** using AI -> 
 - Encounter, Bus. owner w/ adjacent problem - ***2. Marketplace need is defined*** resulting in RPA, he did not return my offer to get together->
 - ***3. Theme of Assembly defined*** - synergy in solution to Marketplace-> 
 - Encounter two young men who work for roofing co ministered to them -
-- Encounter - Upon sharing what i am pursuing, Jim Beck an older brother **accused** me of 'not caring' of 'claiming suffering while ignoring his' while I was attempting to share my deep trials. He is of course forgiven. According to Dale Mast this is what happens to the "'**Davids**'''  Maybe this applies. 
-- Encounter - **Encouragement** and example from Coach Jeff -> 
+- Encounter - Upon sharing what i am pursuing, Jim Beck an older brother **accused** me of 'not caring' of 'claiming suffering while ignoring his' while I was attempting to share my deep trials. He is of course forgiven. According to Dale Mast this is what happens to the "'**Davids'**'''  Maybe this applies. 
+- Encounter - **Encouragement** and example from Coach Jeff Cook-> 
 - Inner Resistance - **Overcame with Holy Spirit and CIC tool** -> 
 - Encounter - **Discovery** - Dale who is formed holds a lead for a small church group that is slightly formative. 
 - YouTube Videos as ministry **encouragement** -> 
 - Wife receives job offer (perfect for her and provisional) **strengthening** -> 
-- Encounter - **providence** - unplanned encounter with Jeff, scheduled to show him CIC & Formation, he did not return my offer to get together. 
+- Encounter - **providence** - unplanned encounter with Jeff, scheduled to show him CIC & Formation, he did not return my offer to get together. Jeff did not reschedule.
 - **Shift in mindset to Spirit/Prayer** -> 
-- **Made myself Open** to whatever God wants, employment and/or CIC
+- **Made myself Open, holding loosely** to whatever God wants, employment and/or CIC and to get completely out of the way of God showing me His provision without my begging.  He has several requests and knows my inclinations to feel scarcity and abandonment. I am using this time to address both.  
+- Although I seek extraordinary living, i accept ordinary life.
 
 ...Now what? And now...funds are running low. SK is encouraging me to generate income and is supportive of this coaching. 
 
