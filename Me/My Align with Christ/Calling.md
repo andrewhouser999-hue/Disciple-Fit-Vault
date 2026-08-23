@@ -6,21 +6,29 @@ tags:
 
 # Calling
 
+**POST SCHWAB**
 If I heard from God I heard:
-I am not going back
+*"I am not going back"*
 
-I said in my heart
-I cannot rely on employment only or possibly at all going forward.
+With solid conviction I said in my heart
+*"I cannot rely on employment only or possibly at all going forward."*
 
 I committed to 
-Building a coaching structure and launching a coaching practice
+*"Building a coaching structure and launching a coaching practice."*
+
+Thrown off by
+Sk approaching me for the third time for the need for generating more income in the mean time.  I am taking the time to rest my brain from the race to launch to evaluate this situation by listening for the clarity of God's voice. 
+
+Quick Situation Analysis:
+- Coaching architecture is viable, effectual.  My readiness is at 25%. Business readiness is dependent on marketing, lacking alpha phase clients and God's definitive lead as I can tell. 
+- Income and a vehicle is needed to slow up bleeding of cash.
 
 **Situation**
 *Weakness*
 Very low on operating capital and existing connections and relationships
 Practically, too short on income and will run out
 Heavenly, God, not money is our provider
-Sk is currently not in support of launching
+Sk is currently not in support of launching without income
 Sk and I have low communication and trust although greatly improving
 Universe is losing buying power and income stability
 Proven modalities, unproven practice
