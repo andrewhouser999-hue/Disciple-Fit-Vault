@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-basis: "Tripp — Instruments in the Redeemer's Hands; Welch — Running Scared; Willard — Renovation of the Heart; Powlison — Seeing with New Eyes; Thompson — Anatomy of the Soul"
+basis: "Tripp — Instruments in the Redeemer's Hands; Welch — Running Scared; Willard — Renovation of the Heart; Powlison — Seeing with New Eyes; Thompson — Anatomy of the Soul; James 1:22-24 scripture anchor added 2026-08-23 via /bible research, closing [[Covenant Identity — Biblical Foundations Index]] Section 2 Row 5 Gap"
 tags:
   - practitioner-reference
   - functional-theology
@@ -139,6 +139,18 @@ tags:
 ---
 
 ## Coaching Notes
+
+### Scripture Anchor for the Gap Itself — James 1:22-24
+
+The 20 contrasts above have always rested on a psychological mechanism (Tripp's functional/confessional language, Willard's notional/formed belief, Thompson's explicit/implicit memory) without a scripture text anchoring the *existence* of the gap itself. James 1:22-24 fills that role:
+
+> "But be doers of the word, and not hearers only, deceiving yourselves. For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. For he looks at himself and goes away and at once forgets what he was like." (ESV)
+
+**What the text establishes:** The operative Greek term is παραλογιζόμενοι (*paralogizomenoi*, v.22) — "deceiving yourselves" through faulty reasoning, a present participle describing an ongoing self-deception the hearer performs on himself. The illustration (vv.23-24) is precise: the man *looks intently* (κατανοοῦντι, *katanoounti* — careful, fixed observation, not a casual glance) at his own reflection, then walks away and immediately forgets (ἐπελάθετο, *epelatheto*, aorist) what he saw. James's point is not primarily "he forgot a body of content" — commentators (Davids, McKnight) read the mirror as showing the man *himself*, so the forgetting is self-knowledge that fails to travel into action. That is a close biblical parallel to the Tripp/Willard/Thompson gap: a truth can be genuinely heard, even genuinely seen, without becoming operative.
+
+**Honest scope of the anchor:** James supplies the *phenomenon* — hearing/knowing without doing constitutes self-deception, not mere incompleteness — and does so on largely uncontested exegetical ground (the hearer/doer contrast is well-established; cf. Ezek 33:30-32, Matt 7:24-27, Rom 2:13 as intertextual parallels). It does **not** supply the *mechanism* for why the gap persists. That remains the psychological layer (Thompson's explicit/implicit memory, Willard's notional/formed belief) already doing that work below. Status: **Developed** for the gap's existence; the mechanism explanation stays Assumed/psychological, consistent with how this document already treats the Thompson/Willard material.
+
+*Cross-reference: this closes Section 2, Row 5 (footnote 3) of [[Covenant Identity — Biblical Foundations Index]]. The same text was also flagged there as a candidate for Section 5's Lie Eliminator "belief without formational landing" gap — held to this document only, not double-added, per the index's Open Items note.*
 
 ### What these are diagnostically
 Each entry is a false covenant object (what the heart is actually trusting) or a God-image distortion (what the heart actually believes about God's character) operating beneath confessional belief. Paul Tripp calls this the gap between *functional theology* and *confessional theology*. Willard calls it the gap between *notional belief* and *formed belief* — a belief can be held intellectually without having been formed into the whole person.
