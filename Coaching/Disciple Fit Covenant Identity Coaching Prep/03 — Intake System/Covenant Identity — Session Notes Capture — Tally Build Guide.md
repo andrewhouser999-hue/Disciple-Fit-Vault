@@ -1,6 +1,6 @@
 ---
 created: 2026-07-31
-basis: "[[Freelance Automation & Kingdom Coaching Plan]] Phase 2A — workflow this form triggers; [[Covenant Identity — Airtable Schema Spec]] Table 5 — fields this form feeds; [[Disciple Fit Coaching — Coaching Agreement]] Section 7 — 24-hour Session Growth Notes commitment this form supports"
+basis: "[[Freelance Automation & Kingdom Coaching Plan]] Phase 2A — workflow this form triggers; [[Covenant Identity — Airtable Schema Spec]] Table 5 — fields this form feeds; [[Disciple Fit Coaching — Coaching Agreement]] Section 7 — 24-hour Session Growth Notes commitment this form supports. Updated 2026-08-23: added a Make.com de-identification step ahead of the Claude API call, per Andrew's requirement that AI processing of session notes carry no client name, address, or email — a lookup translates the Tally-selected client to their `Client Code` (added to Airtable Schema Spec Table 1 the same day) before the Claude prompt is assembled, and Raw Notes itself must stay free of identifying detail, since that field is the one channel the lookup step can't scrub."
 tags:
 ---
 
@@ -59,7 +59,17 @@ tags:
 **Make.com webhook (not native Airtable integration):**
 1. In Make.com, create the Phase 2A scenario with a Webhooks trigger; copy its webhook URL
 2. In Tally, go to Integrations → Webhooks, paste the Make.com webhook URL
-3. Confirm the scenario's next steps: Claude API drafts the summary fields → new row created in Table 5, linked to the matching Table 1 record by client name/email → Note Status set to `Draft`
+3. Confirm the scenario's next steps: **Airtable search step** looks up the Clients record matching the Tally submission's client name → retrieves that record's `Client Code` (Table 1, added 2026-08-23) → **Claude API call is built using only the Client Code, Session Date, and Raw Notes** — the real name never enters the prompt, even though it's what you selected in the Tally dropdown → Claude drafts the summary fields → new row created in Table 5, linked to the matching Table 1 record (this link is set from the Airtable search step's own match, not from anything in the Claude response) → Note Status set to `Draft`
+
+---
+
+## De-Identification Before the Claude API Call
+
+This form's own **Client** dropdown stays on real names, deliberately — you need to recognize who you're documenting in the moment, right after a session, and a code you'd have to look up would just be friction. The privacy boundary sits one step downstream, inside Make.com:
+
+- **What Claude actually receives:** Client Code + Session Date + Raw Notes text. Nothing else — no name, no email, no address, no field pulled in "for context."
+- **What you're responsible for:** Raw Notes is the one channel the Make.com lookup step can't scrub automatically, because it's free text you wrote. Never type the client's real name, a family member's name, their address, employer, or other identifying detail into Raw Notes — refer to them generically ("the client," "his wife") the same way you would in the summary fields Claude drafts back. If a detail slips in while dictating in the moment, catch it on the read-back before submitting, or in the Airtable review pass described below before marking the row `Reviewed`.
+- **Also confirm in Tally's form settings:** this form does not have "Collect respondent email" or similar identity-capturing settings turned on — there's no reason submitter identity should ride along in the webhook payload Make.com receives, even though only Andrew ever submits this form.
 
 **Form access:**
 - Keep this form private — do not publish a public link. Access it directly (bookmark the edit/fill URL) or embed it in a personal shortcut, since it's for Andrew's use only, not shared with clients or the public.

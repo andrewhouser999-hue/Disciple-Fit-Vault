@@ -6,6 +6,37 @@ tags:
 
 # Daily Fitness
 
+## Table of Contents
+
+- [[#Lies vs. Truth in Scripture (ESV)]]
+- [[#Embedded Theological Questions (Lie of Hopelessness)]]
+- [[#Before You Begin]]
+  - [[#Research Basis — Why Each Field Exists (Annotated Sample Entry)]]
+- [[#The Lies with ESV Counterparts]]
+  - [[#Lie of God as Disconnected Authoritarian and Adversary]]
+  - [[#Lie of I Cannot Do It]]
+  - [[#Lie of Hopelessness]]
+  - [[#Lie of Scarcity]]
+  - [[#Lie of Giving Up]]
+  - [[#Lie of False Risk / I Will Fail]]
+  - [[#Lie of Abandoned by God]]
+  - [[#Lie of It Cannot/Will Not Be Done Through Me]]
+  - [[#Lie of I Am Not Enough / Not the Right Person / Imposter]]
+  - [[#Lie of Too Connected to Sinful Heritage and Sin]]
+  - [[#Lie of Rejectable]]
+  - [[#Lie of Disgust of Others in Gross Sin]]
+  - [[#Lies Birthed from Lawful Thinking, Ego, Resentment, Anger, Disgust, Frustration]]
+  - [[#Lie of the Coaching Imposter]]
+  - [[#Lie of Hidden Light / I Have Too Little to Offer]]
+  - [[#Lie of People Are Surface Only — Loyalty Is Not Real]]
+  - [[#Lie of Essentially Alone — No One Will Truly Know Me]]
+  - [[#Lie of the Outsider — I Am Fundamentally Different and Don't Belong]]
+  - [[#Lie of the Pending Verdict — Adequate Only When Proven]]
+  - [[#Lie of the Intruder — Unwanted, Inconveniencing, Not Enough to Belong]]
+- [[#How This Document Works]]
+
+---
+
 ## Lies vs. Truth in Scripture (ESV)
 
 ---
@@ -427,19 +458,25 @@ must/have to/if-then
 ### Lie of Scarcity
 
 **This activates when:**
+> When income cannot be accumulated into savings; when the markets are unreliable, & inconsistent. When doing new things. When faced with unknown opportunities. During transition and loss. When faced with the idea of giving. When I have not been giving but exercising the muscle of scarcity by not giving, holding tightly to what I have, justifying monetary retention in the name of recipients are failed institutions.
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
 **The Lie I've Believed:**
-> *"There is not enough — of provision, of grace, of time, of opportunity."*
+> God will not provide. 
+> I am left to my striving. "If its to be, its up to me." This settled as shame in the case I do not operate by conventional wisdom of being responsible as hard working which is reasonable. 
+> There is not enough — of provision, of grace, of time, of opportunity.
+> Opportunity, purpose, meaning is not in view, has failed and therefore unattainable. 
 
 **The Rule This Lie Writes:**
 > *(The if-then rule, standing order, or "must" this lie hands me to live by — the compensatory strategy that keeps the lie from being tested directly. Common forms: "I must ___ or ___ will happen" / "If I ___, then ___" / "I should never ___" / "I have to ___ to be safe, acceptable, or enough" / "As long as I ___, I don't have to find out if the lie is true.")*
+> 
 
 **What Others Observe**
 > *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 Be honest. The lie is still operating because you are getting something from it. Name it.
+Met Needs - see declaration. 
 > *(Write it here.)*
 
 **Who God Is:**
@@ -456,7 +493,9 @@ Be honest. The lie is still operating because you are getting something from it.
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
-> "I live under an open heaven. My Shepherd lacks nothing and withholds nothing good from those who walk with him. Scarcity is not my portion — abundance of grace, provision, and opportunity flows from my Father who owns everything."
+>Scarcity you are a program of worry and abandonment in disguise or reasonable need. It opposes operating faith.  I feel you, but I do not live by you. 
+>"I live under an open heaven. My Shepherd lacks nothing and withholds nothing good from those who walk with him. Scarcity is not my portion — abundance of grace, provision, and opportunity flows from my Father who owns everything." 
+> 
 
 **Holding Both — In the Body**
 > Where does *"there is not enough"* live in my body — even now? (Often a clenching or grasping — tight hands, tight gut.)
@@ -520,6 +559,13 @@ Be honest. The lie is still operating because you are getting something from it.
 *(Speak aloud — in Jesus' name.)*
 > "Weariness is real, but it is not final. God's promise is not to remove the race — it is to renew my strength to run it. The harvest is coming. I will not abandon what God has planted in me because the season feels long."
 
+**Holding Both — In the Body**
+> Where does *"it's not worth continuing, I'm too tired"* live in my body — even now? (Often heavy limbs, a slump in the shoulders, a drained and sagging quality.)
+>
+> Where does *"he renews my strength"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been drained, now that renewal is present with it — not after it?
+
 **Therefore I Will:**
 > Stay. Keep doing the good work. Trust that what I cannot see is being cultivated beneath the surface by God's faithful hand.
 
@@ -566,6 +612,13 @@ Be honest. The lie is still operating because you are getting something from it.
 *(Speak aloud — in Jesus' name.)*
 > "Fear is not my inheritance. I have been given a spirit of power, love, and self-control. When I commit my steps to God, he establishes them. The outcome is in his hands — my responsibility is obedience, not success."
 
+**Holding Both — In the Body**
+> Where does *"if I step out, I will fail"* live in my body — even now? (Often a tightening in the chest or throat, a held breath before moving.)
+>
+> Where does *"I have been given a spirit of power, love, and self-control"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been tight, now that power and love are present with it — not after it?
+
 **Therefore I Will:**
 > Step out when God calls, commit the outcome to him, and trust that his covering is greater than any risk I face.
 
@@ -581,22 +634,27 @@ Be honest. The lie is still operating because you are getting something from it.
 ### Lie of Abandoned by God
 
 **This activates when:**
-> I have a need for direction and guidance and He is not speaking.
+> I have a need for direction and guidance and He is not speaking nothing that I perceive needs to happen is happening in the time it needs to happen.
 > *(The situation, thought, or moment that brings this lie to the surface — name it specifically, so I recognize it next time it's running.)*
 
 **The Lie I've Believed:**
 > *"God has left. He doesn't see me. He's moved on." "He will remain aloof while I am crushed and suffering alone."*
 
 **The Rule This Lie Writes:**
-> *(The if-then rule, standing order, or "must" this lie hands me to live by — the compensatory strategy that keeps the lie from being tested directly. Common forms: "I must ___ or ___ will happen" / "If I ___, then ___" / "I should never ___" / "I have to ___ to be safe, acceptable, or enough" / "As long as I ___, I don't have to find out if the lie is true.")*
+> *(The if-then rule, standing order, or "must" this lie hands me to live by — the compensatory strategy that keeps the lie from being tested directly. Common forms: "I must ___ or ___ will happen" / "If I _, then ___" / "I should never ___" / "I have to ___ to be safe, acceptable, or enough" / "As long as I ___, I don't have to find out if the lie is true.")* 
+> The Rules: 
+> 1. If God doesn't give me clear direction for providing income, then I will get crushed no matter what options I choose. As long as He doesn't direct I will choose to succumb to my trauma and let my life be destroyed so i can then, say, "See i was abandoned and now i can be abandoned and prove the feelings inside are true."
+
 
 **What Others Observe**
->Stress, sadness, 
+>Stress, sadness, anger, confusion, directionless, lack of energy and drive, feeling sorry for myself, like a failure. They may hear me say. I have suffered too much. I don't have it in me. Elevation or shut down. 
 *(What does a trusted person who knows me well see — a recurring reaction, a behavioral pattern, a consistent response — that suggests this lie is running? What have they named, noticed, or reflected back, even before I recognized it?)*
 
 **What Does That Lie Give You?**
 *Be honest. The lie is still operating because you are getting something from it. Name it.*
-> Comfort of familiarity. I can explain why I have to solution in my own understanding and strive.  This is playing it safe. I can experience safety this way. 
+> Comfort of familiarity -  I can explain why I have to solution in my own understanding and strive.  This is playing it safe. I can experience safety this way. 
+> I can finally prove that either i am Abandonable or God abandons. 
+> Met psychological needs - See Personal Declaration. 
 > *(Write it here.)*
 
 **Who God Is:**
@@ -609,11 +667,21 @@ Be honest. The lie is still operating because you are getting something from it.
 > "I will never leave you nor forsake you." — Hebrews 13:5b
 
 **Who Has Witnessed This Truth:**
-> *(A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
+> Darrell Houser (Dad)*
+> (A person whose words, presence, or response confirmed what God says here. Name the moment if you can.)*
 
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > "I am not abandoned. God has engraved me on the palms of his hands. Nothing in all creation can separate me from his love. His presence is not earned, withdrawn, or conditional — it is the covenant promise of a Father who does not leave his children."
+> Scarcity you are a program of worry and abandonment in disguise as reasonable need. It opposes operating faith. You do not meet my needs for accepting His promises. I get the privilege of not feeling Him and yet trusting my Dad is here and He's got me. This is my pure worship of Him, purely pleasing to Him in pure faith.  This is for purpose and destiny. Because I matter, I get to grow in this way  and please Him by trusting Him as a Dad who is near. This is were it is personal when it seems impersonal. Thank you for this situation.
+> I no longer choose distance when the pressure is off. 
+
+**Holding Both — In the Body**
+> Where does *"God has left, he will remain aloof while I am crushed and suffering alone"* live in my body — even now? (Often a hollow ache, a bracing against being unseen.)
+>
+> Where does *"I am engraved on his hands, nothing separates me from his love"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been aching, now that his nearness is present with it — not after it?
 
 **Therefore I Will:**
 > Bring my fears, loneliness, and disconnect to God first, trusting that he sees me, knows me, and is present — even when I cannot feel him.
@@ -660,6 +728,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > "It was never going to be done by my capacity — it was always going to be done by his Spirit working through my availability. I am not disqualified by my weakness; I am the exact vessel God chooses to display his power through. Not by might, not by power, but by his Spirit."
+
+**Holding Both — In the Body**
+> Where does *"this cannot/will not be done through me"* live in my body — even now? (Often a shrinking, a sense of disqualification in the chest or gut.)
+>
+> Where does *"not by might, not by power, but by his Spirit"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been shrinking, now that his sufficiency is present with it — not after it?
 
 **Therefore I Will:**
 > Stop waiting until I feel qualified. Abide, remain available, and let the fruit be God's business.
@@ -708,6 +783,13 @@ Be honest. The lie is still operating because you are getting something from it.
 *(Speak aloud — in Jesus' name.)*
 > "God does not call the equipped — he equips the called. My sufficiency comes from him, not from my résumé. He chose the weak, the foolish, and the lowly on purpose, so that no human being would boast. I am exactly the kind of person God has always chosen to work through."
 
+**Holding Both — In the Body**
+> Where does *"God needs someone more qualified, more holy, more gifted — not me"* live in my body — even now? (Often a dropping in the stomach, a wish to disappear or shrink from view.)
+>
+> Where does *"my sufficiency comes from him, not my résumé"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been dropping, now that his sufficiency is present with it — not after it?
+
 **Therefore I Will:**
 > Stop disqualifying myself before God has the chance to use me. Step into what he is calling me to with his sufficiency, not mine.
 
@@ -753,6 +835,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > "I am not my bloodline. I am not my history. Christ redeemed me from every curse, pattern, and chain. The old has passed — not partially, but completely. I am a new creation, transferred into a new kingdom, under a new covenant, with a new name."
+
+**Holding Both — In the Body**
+> Where does *"I'm too wired into this — it cannot be broken"* live in my body — even now? (Often a heaviness carried in the shoulders or gut, a sense of being bound.)
+>
+> Where does *"the old has passed — I am a new creation"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been bound, now that newness is present with it — not after it?
 
 **Therefore I Will:**
 > Refuse to identify with the sin patterns of my past or family as if they are permanent. I will declare what God has declared: I am free.
@@ -800,6 +889,13 @@ Be honest. The lie is still operating because you are getting something from it.
 *(Speak aloud — in Jesus' name.)*
 > "I was chosen before the foundation of the world — not because of what I would do, but because of who God is. He does not cast out those who come to him. He sings over me. My acceptance is not based on my performance; it is sealed in Christ before I drew my first breath."
 
+**Holding Both — In the Body**
+> Where does *"I am to be rejected — eventually even God will turn away"* live in my body — even now? (Often a braced chest or a flinch, anticipating withdrawal before it happens.)
+>
+> Where does *"I was chosen before the foundation of the world — he will never cast me out"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been braced, now that being chosen is present with it — not after it?
+
 **Therefore I Will:**
 > Stop hiding and performing for acceptance. I will come as I am to God and to others, knowing that my security is in being chosen — not in being perfect.
 
@@ -844,6 +940,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > "I was once exactly where they are. Christ did not wait for me to clean up before he died for me. I carry his mercy — not as a luxury, but as a mandate. No one is beyond the reach of the God who came for sinners, and I am his ambassador to them."
+
+**Holding Both — In the Body**
+> Where does *"these people are beyond reach, unworthy of compassion"* live in my body — even now? (Often a hardening — a clenched jaw, a recoil.)
+>
+> Where does *"I was once exactly where they are — I carry his mercy"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been hardened, now that mercy is present with it — not after it?
 
 **Therefore I Will:**
 > Approach those in sin with the same gentleness Christ approached me — with truth, with compassion, and without contempt.
@@ -891,6 +994,13 @@ Be honest. The lie is still operating because you are getting something from it.
 *(Speak aloud — in Jesus' name.)*
 > "I am not the judge. God is. My sense of justice, however justified it feels, is still filtered through a fallen perspective. I trust God to handle what I cannot — and to do it with perfect righteousness. My calling is not to avenge but to love, not to condemn but to restore."
 
+**Holding Both — In the Body**
+> Where does *"I am right, they are wrong, justice demands my response"* live in my body — even now? (Often heat in the chest or face, clenched hands, a readiness to strike back.)
+>
+> Where does *"I am not the judge — vengeance belongs to him"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been heated, now that his justice is present with it — not after it?
+
 **Therefore I Will:**
 > Lay down the gavel. Hand the case to God. Choose gentleness over vindication and trust that his justice is better than mine.
 
@@ -937,6 +1047,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > "God never called the finished to minister to the broken — he called the comforted to comfort, the healed to heal, and the still-healing to walk alongside. My unfinished places are not disqualifications; they are credentials. Paul wrote about peace from a prison cell. David wrote the Psalms mid-chaos. Jesus himself was made perfect through suffering. My wounds do not undermine my authority — they are the very thing that give me access to the places in others that polished performance never could reach. I am not a vending machine dispensing answers. I am a vessel being poured out by a God who is not waiting for me to be finished before he works through me."
+
+**Holding Both — In the Body**
+> Where does *"I have no business coaching anyone while I'm still this unfinished"* live in my body — even now? (Often a tightness behind the sternum, a bracing before being seen or found out.)
+>
+> Where does *"my unfinished places are not disqualifications — they are credentials"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been bracing, now that his sufficiency is present with it — not after it?
 
 **Therefore I Will:**
 > Show up to coaching not as a finished product presenting a curriculum, but as a fellow traveler who knows the road — and let my own honest process be credibility, not concealment.
@@ -987,6 +1104,13 @@ Be honest. The lie is still operating because you are getting something from it.
 **Personal Declaration:**
 *(Speak aloud — in Jesus' name.)*
 > "I am the light of the world — not because I generated it, but because Christ's light is already in me. He said, 'I am the light of the world; whoever follows me will not walk in darkness, but will have the light of life' (John 8:12), and that same light has been shone into my heart (2 Corinthians 4:6). My life reflecting God is not something I have to produce — it is something I have to stop covering. I do not have too little to offer; I have a light already burning, and my part is to stop hiding it, not to create it."
+
+**Holding Both — In the Body**
+> Where does *"I have too little to offer, nothing about me shows him"* live in my body — even now? (Often a dimming or shrinking sensation, a pulling inward before speaking.)
+>
+> Where does *"his light is already in me — I only have to stop hiding it"* land when the declaration above is spoken aloud?
+>
+> One hand on each place. Hold both. Breathe. What happens at the place that's been dim, now that light is present with it — not after it?
 
 **Therefore I Will:**
 > Stop waiting until I feel like I have more to offer. Let what Christ has already placed in me be seen — uncover it instead of managing it.
