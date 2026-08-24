@@ -114,7 +114,7 @@ The verse over the last several years that has come up for me the most is *I hav
 - Inner Resistance - **Overcame with Holy Spirit and CIC tool** -> 
 - Encounter - **Discovery** - Dale who is formed holds a lead for a small church group that is slightly formative. 
 - YouTube Videos as ministry **encouragement** -> 
-- Wife receives job offer (perfect for her and provisional) **strengthening** -> 
+- Sarah Kate receives job offer (perfect for her and provisional) **strengthening** -> 
 - Encounter - **providence** - unplanned encounter with Jeff, scheduled to show him CIC & Formation, he did not return my offer to get together. Jeff did not reschedule.
 - **Shift in mindset to Spirit/Prayer** -> 
 - **Made myself Open, holding loosely** to whatever God wants, employment and/or CIC and to get completely out of the way of God showing me His provision without my begging.  He has several requests and knows my inclinations to feel scarcity and abandonment. I am using this time to address both.  
