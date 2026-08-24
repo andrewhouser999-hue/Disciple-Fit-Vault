@@ -82,6 +82,13 @@ Having little or no importance, value, or effect; ultimately pointless or insign
 
 ---
 
+#### Nidus
+
+*NAHY-dus*
+A place where something begins, grows, or is carefully nurtured; a nest or resting place. e.g. The safety of the coaching relationship became a nidus where the client's newly named true identity could take root before it had to withstand the pressure of daily life.
+
+---
+
 ## Part I — Hebrew, Aramaic & Greek Terms
 
 *Exegetical vocabulary cited across CIC's biblical-theological documents. Pronunciation guides are simplified, English-reader phonetic approximations (caps = stressed syllable) — not IPA and not identical to Modern Hebrew or Erasmian Greek pronunciation systems, though closest to standard seminary Erasmian/Biblical Hebrew academic convention. Alphabetized by transliteration.*
