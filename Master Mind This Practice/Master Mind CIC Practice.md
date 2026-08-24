@@ -3,12 +3,23 @@ created:
 basis: TBD
 tags:
 ---
+**Memorize**
+
+BRAND MESSAGE
+Most coaching stops at goals, habits, and accountability. Those tools work — until the same pattern shows up again in a new situation, and you realize the goal was never the real problem.
+
+Covenant Identity Coaching starts where most coaching ends. It combines the relational, forward-moving structure of life coaching with the diagnostic depth of biblical counseling and the whole-person formation lens of spiritual formation — three disciplines that, on their own, each reach part of the problem. Coaching alone assumes you already have the answers inside you. Counseling alone diagnoses the problem but doesn't build a forward path. Formation alone describes growth without naming what's actually stuck. Covenant Identity Coaching integrates the three so the work reaches past behavior and into the identity underneath it — because change that doesn't reach identity tends not to last.
+
+This isn't therapy, and it isn't generic life coaching with a spiritual theme added on. It's a structured coaching practice built to find the false identity or pattern driving the goal you keep missing, and walk a defined process toward change that holds.
+
+
 ELEVATORE PITCH
 "I work with people who are stuck — not for lack of effort, but because the story they believe about who they are is quietly running the show. I help them find that story, take it apart, and replace it with one that actually lets them become who they want to be and build the life they want to live."
 
 Shortest version (for a verbal answer at a networking event, where you have one breath):
 
 "I help people find the lie they've been living by and the false identity built on top of it — then rebuild from there, so they can finally become who they want to be."
+
 
 ---
 **Sanctification can by via coaching vs trial/trauma**

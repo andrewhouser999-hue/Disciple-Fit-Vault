@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21"
+basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24"
 tags:
 ---
 
@@ -626,3 +626,49 @@ A discovery call is a conversation, not a pitch — we'll talk through what you'
 ### Channel Footprint (low-maintenance, not a content calendar)
 
 Three fixed assets, written once, revisited rarely: the homepage above (positioning + pillars 1–2), a one-page pastor referral sheet (pillar 3 + pastor translation), and the discovery-call opening line (pillar 2, spoken live, not written). Growth comes from those three doing their job consistently, not from a publishing schedule.
+
+---
+
+## Covenant Identity Coaching — Messaging Architecture, Name Retained (2026-08-24)
+
+*Built under the decision to keep the business name "Covenant Identity Coaching" rather than rename it — explored and rejected on 2026-08-24 was a rename to a "Transformative Self-Leadership"-style name (reasoning below). This section has not been reconciled with the "Word Within — CIC Messaging Architecture" section above, which was written under a different candidate name before the 2026-07-30 Quick Launch Plan reverted messaging back to the CIC name. Both sections describe the same practice from different angles; pick one messaging direction (or merge them) before either goes live — do not run both at once.*
+
+### Why the Name Stays "Covenant Identity Coaching"
+"Coaching" is the category noun that makes the offer legible to a stranger — it's what a first-time prospect, a referring pastor, or a search engine can file the service under before any differentiation has a chance to land. Dropping it for a broader label like "Transformative Self-Leadership" trades away that legibility for language that is generic and easily confused with unrelated corporate leadership-development or self-help offerings, and doesn't on its own signal three-discipline integration to a reader encountering it cold. "Covenant Identity" is the unusual, ownable half of the current name and already carries the differentiation; the three-discipline case belongs in positioning statements and supporting messaging, not in a longer or vaguer business name.
+
+### Positioning Statement (homepage hero / opening — public copy)
+> Coaching toward who you're becoming, not just what you're doing.
+>
+> Most coaching stops at goals, habits, and accountability. Those tools work — until the same pattern shows up again in a new situation, and you realize the goal was never the real problem.
+>
+> Covenant Identity Coaching starts where most coaching ends. It combines the relational, forward-moving structure of life coaching with the diagnostic depth of the biblical counseling tradition and the whole-person formation lens of spiritual formation — three disciplines that, on their own, each reach only part of the problem. Coaching alone assumes you already have the answers inside you. Counseling alone diagnoses the problem but doesn't build a forward path. Formation alone describes growth without naming what's actually stuck. Covenant Identity Coaching integrates the three so the work reaches past behavior and into the identity underneath it — because change that doesn't reach identity tends not to last.
+>
+> This isn't therapy, and it isn't generic life coaching with a spiritual theme added on. It's a structured coaching practice built to find the false identity or pattern driving the goal you keep missing, and walk a defined process toward change that holds.
+
+### How This Works (homepage explainer, placed directly below the Positioning Statement)
+> Coaching built on three disciplines most coaches use one of.
+>
+> Most coaching draws on one discipline and stretches it to cover the whole problem. Covenant Identity Coaching draws on three, because each one reaches something the others can't:
+>
+> - **Life coaching** supplies the relationship and the structure — a forward-moving process, a partnership where you set the agenda, and the accountability that turns insight into action.
+> - **The biblical counseling tradition** supplies the diagnostic depth — tools for identifying the specific belief, wound, or misplaced trust driving a pattern, not just the pattern's surface behavior.
+> - **Spiritual formation** supplies the frame the other two are missing on their own — the understanding that you're not a problem to be solved or a set of goals to hit, but a person being formed, over time, toward a defined character and identity.
+>
+> None of the three, alone, is built for the whole job. Life coaching alone can leave the real driver of a pattern unnamed. The biblical counseling tradition alone can diagnose accurately without offering a forward-moving process for change. Spiritual formation alone can describe the destination without ever pinpointing what's currently in the way. Covenant Identity Coaching is built at the intersection of the three — using each for what it's actually good at.
+
+**Wording caution:** describe biblical counseling as a *tradition drawn from* for its diagnostic methodology, never as a credential held or a service offered — this practice is coaching, not counseling, and the language should never imply otherwise.
+
+### Supporting Angle (warm-touchpoint copy — discovery calls, mid-page callouts, warm-lead follow-up; not the homepage headline)
+> Coaching that names the false identity behind the goal you keep missing.
+>
+> Life coaching assumes you already have the answers. Covenant Identity Coaching pairs that forward-moving methodology with the diagnostic tools to find out why the same pattern keeps resurfacing — and a formation process for actually changing it.
+
+This is the highest-converting of the three lines, but it presumes the reader already agrees ordinary coaching hasn't worked for them and that they have a specific recurring pattern in mind — a safe bet once someone is already engaged, but presumptuous as the first thing a cold visitor reads. Reserve it for discovery-call openings, warm-lead email sequences, and mid-page or late-page callouts placed after a visitor has already read the Positioning Statement and How This Works sections above; do not use it as a homepage headline or hero line.
+
+### Deployment Sequence
+1. **Positioning Statement** — homepage hero / opening. Widest net, least confrontational; sets the whole page's premise.
+2. **How This Works** — homepage explainer section directly below the hero, or a standalone "How This Works" page linked from the homepage. Supplies the mechanism once the hero has created curiosity.
+3. **Supporting Angle** — mid-page callout, discovery-call script opening line, or warm-lead follow-up email. Converts once the reader already senses the gap themselves.
+
+### Guardrails
+Same standing guardrails as the Word Within section above apply regardless of which name or messaging direction is used: no Word-of-Faith adjacency (truth/identity language never stands alone as a technique, apart from diagnosis and relationship), no institutional critique (church, pastors, and sermons are framed as companions to this work, never as insufficient), no clinical language (this is non-clinical coaching, and wording should stay behavioral and operational throughout).
