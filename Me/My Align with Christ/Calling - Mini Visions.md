@@ -18,9 +18,13 @@ Commitment: Timeframe of day:  third item after making bk and my quiet time,
 
 **Relational Health & Life Management as one** 
 Skill Practice - Imagine seeing myself from third person, calling him Andy. Ask, what would the person I admire do for this relationship?
-Commitment: Keep a priority prayey rfully, seek instruction, guidance and wisdom here.
+Commitment: Keep a priority prayerfully, seek instruction, guidance and wisdom here.
 
-
+**Wealth Enough - What would I do?**
+- Training in MI, coaching refresh
+- Partner with a qualified therapist to guide and partner with Beholding Together. 
+- Create & strategize brand messaging & video content for Covenant Identity Coaching
+- Launch Beholding Together with a vision to train up 10,000,000 BT Formation Leaders in 13 languages. 2 Corinthians 3:18 *And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another.*
 
 # Calling
 
