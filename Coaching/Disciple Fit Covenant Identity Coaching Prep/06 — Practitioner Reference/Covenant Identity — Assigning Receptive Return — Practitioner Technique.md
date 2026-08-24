@@ -19,6 +19,16 @@ tags: [practitioner-reference, node-7, receptive-return, technique, between-sess
 
 ---
 
+## Definition
+
+**Receptive return** is the practice of bringing a truth already received in session back before God in the same stillness, openness, and orientation that marked its original reception — not to rehearse it as a proposition, but to present it to its Source and wait for the Spirit to deepen it. Its internal logic is *the Spirit began this work; I am returning to the place where the Spirit works and presenting what was received for further deepening* — not *I will make this true through repetition.*
+
+This distinguishes it from **affirmation repetition**: reading or speaking a declaration multiple times on the assumption that repeated exposure is what causes it to become believed. Affirmation repetition engages explicit memory (rehearsal); receptive return engages the implicit level the same way the original in-session reception did (posture, not content-delivery, is the active variable). The two practices can look identical from the outside — a client sitting with the same declaration text — but only one of them is the mechanism Node 7 consolidation actually requires.
+
+*Full mechanism: [[Covenant Identity — Consolidation Through Receptive Return — Mechanism]], "Receptive Return vs. Affirmation Repetition." This document assumes that definition and covers only how a practitioner words the between-session assignment that produces it.*
+
+---
+
 ## Why "Read Your Declaration Daily" Doesn't Work
 
 Naming the distinction between receptive return and affirmation repetition is not the same as knowing how to word an instruction that actually produces the former. A practitioner who understands the mechanism perfectly can still default to generic language under the time pressure of closing a session — "just keep coming back to this truth this week" — which the client will predictably execute as repetition, because repetition is the default mode for engaging with a written statement unless something explicitly redirects it.
