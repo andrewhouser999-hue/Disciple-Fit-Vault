@@ -106,7 +106,7 @@ I know God works in mysterious ways. In holding this loosely, I can only imagine
 
 The verse over the last several years that has come up for me the most is *I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.* This is a primary identity verse 
 
-**Pattern of Potential Evidence**
+**Pattern of Potential Evidence** of God's lead
 - Post exit, **strong sense** not returning - **strongly compelled** -> *Not returning to what?* I have thoughts of moving to another level. 
 - Encounter - **Equipping** - Software Engineer, AI is in front of me.  I move forward in my identity as coach-> 
 - Stopped to observe how God made me and what is most likely *what God would have me pursue?* The answer: I was made for Coaching-***1. therapeutic gap defined*** using AI -> 
