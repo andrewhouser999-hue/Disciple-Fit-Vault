@@ -8,6 +8,9 @@ tags:
 Self Coaching the Lie Eliminator and Identity Installer
 Commitment: Daily am/pm or immediate examination
 
+**Proclamation Health**
+Lord give me a picture of the web of your Word, so that I can speak from that picture and memory of your Word. 
+
 **Dietary Health** 
 Calorie restriction & selection with supplementation and detox
 Commitment: keep commitment in front of me.
