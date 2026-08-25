@@ -196,6 +196,7 @@ This is not a seventh competency domain. It is a stated deepening of two domains
 
 ## Connects To
 
+- `/cic-juxtaposition-drill` (and its portable version, [[AI Prompt — Felt Juxtaposition Verification Drill]]) — practice drill built from this document's Layer 1 and Layer 2 method, for building the cognitive-holding/felt-engagement discrimination to fluency; sibling to `/cic-signal-drill` and `/cic-tracking-drill`, and assumes the latter's six-channel/AEDP-state fluency as a prerequisite
 - [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — the reconsolidation mechanism, AEDP State Model, and Route B sequence this document reads more precisely at the juxtaposition moment specifically
 - [[Covenant Identity — Route B Experiencing Depth Rating]] — the 5-level felt-vs-intellectualized construct this document generalizes from Route B-only to Stage 3 declaration broadly
 - [[Covenant Identity — Implicit Signal Recognition Quick Reference]] — the six-channel signal vocabulary this document reuses without modification
