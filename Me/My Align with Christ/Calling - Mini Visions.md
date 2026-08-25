@@ -29,6 +29,15 @@ Commitment: Keep a priority prayerfully, seek instruction, guidance and wisdom h
 - Create & strategize brand messaging & video content for Covenant Identity Coaching
 - Launch Beholding Together with a vision to train up 10,000,000 BT Formation Leaders in 13 languages. 2 Corinthians 3:18 *And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another.*
 
+**Structured Christian Formation**
+We must build learning around foundational schemas, beginning with the nature of God, and then intentionally layering truth in a way that is coherent, cumulative, and reinforcing.
+AND
+But even that is not enough. Because the second issue remains:\ People don't just lack structure---they bring distortion.  So alongside structured theology, we introduce a second track: Ongoing reflection that helps learners recognize where their perception of God is being shaped by something other than truth. See C:\Users\Andre\Documents\Obsidian Vault\Andy's Life\Coaching\Coaching Business\Communication\Structured Christian Formation.md
+
+**Vision**
+CIC, Beholding Together so that the Body of Christ can participate in a Structured Christian Formation
+
+
 # Calling
 
 **POST SCHWAB**
