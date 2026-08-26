@@ -163,3 +163,16 @@ I accept this responsibility. I am responsible for living out my identity, calli
 
 
 PAIN POINTS TO HAVING PURPOSE? WHAT KIND OF PURPOSE? WHAT 
+
+Psychological Death - I was so tormented mentally I disassociated and was floating untethered towards a line i recognized as the border to insanity with a black ghostly figure waiting behind it seeking to have me. 
+Emotional Death - PTSD
+Physical Death - Suffering 14 yrs under narcissistic abuse at that point
+Spiritual Distance (feels like death)
+Faith Death - Church turning legalistic
+Relational Death - Growing in relational capacity and enhanced need for true intimacy such that all relationships seem to betray reasonable intimacy necessary for being lifegiving.
+
+Total Loss with limits
+Financial
+Dreams
+My personhood
+
