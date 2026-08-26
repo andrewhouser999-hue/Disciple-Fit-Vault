@@ -1,7 +1,7 @@
 ---
 created: 2026-05-21
-updated: 2026-07-17
-basis: "[[Source Library — Trusted Contributors & Frameworks]] — parent contributor reference for the broader coaching practice; practitioner literature survey — annotated reading guide specific to the Covenant Identity model. 2026-07-17: added Nouwen (Life of the Beloved) and Manning (Abba's Child), both already load-bearing in [[Covenant Identity — The Interior Life as Telos]] and [[Covenant Identity — Matched Declaration Architecture]] but previously absent from this index."
+updated: 2026-08-26
+basis: "[[Source Library — Trusted Contributors & Frameworks]] — parent contributor reference for the broader coaching practice; practitioner literature survey — annotated reading guide specific to the Covenant Identity model. 2026-07-17: added Nouwen (Life of the Beloved) and Manning (Abba's Child), both already load-bearing in [[Covenant Identity — The Interior Life as Telos]] and [[Covenant Identity — Matched Declaration Architecture]] but previously absent from this index. 2026-08-26: added Murray Stein (Jung's Map of the Soul: Deeper Explorations) per Andrew — Tier 2, no session-tool integration yet."
 tags: [resource-library, reference, contributors]
 ---
 
@@ -20,7 +20,7 @@ tags: [resource-library, reference, contributors]
 | Tier | Criteria | Authors |
 |---|---|---|
 | **Tier 1 — Read First** | Direct session impact; most framework-critical | Thompson, Willard, Allender, Barton, Anderson (*Victory*), Bonhoeffer, Foster, Nouwen, Manning |
-| **Tier 2 — Read Next** | High value; builds depth and range | Brueggemann, Billings, Ferguson, Crabb, Welch, Tripp, Benner, Murray, Wright, Siegel, Thomas, Tozer, Cloud/Townsend, Payne |
+| **Tier 2 — Read Next** | High value; builds depth and range | Brueggemann, Billings, Ferguson, Crabb, Welch, Tripp, Benner, Murray, Wright, Siegel, Thomas, Tozer, Cloud/Townsend, Payne, Stein |
 | **Reference Only** | Depth when needed; academic or specialized | Robertson, Horton, Volf, Fee, Peterson, Young, Bowen, Anderson (*Bondage Breaker*), Yehuda, C. Wright, Plantinga, Hauerwas, Swann, McAdams |
 
 ---
@@ -70,6 +70,21 @@ Scholarly but accessible. Grounds identity transformation in covenantal union �
 **Sinclair Ferguson — *Children of the Living God***
 Adoption as the central covenant identity — sonship/daughtership as the frame for all Christian living. Practical and pastoral.
 *Priority: Tier 2*
+
+**Murray Stein — *Jung's Map of the Soul: Deeper Explorations***
+Secular depth-psychology treatment of Jung's model of the psyche — ego, personal and collective unconscious, shadow, persona, and individuation as movement toward integration with the Self. Relevant to CIC's false-identity vs. true-identity work as a non-theological analog: Jung's shadow (the disowned, unintegrated parts of the self) and persona (the constructed public self) map loosely onto the false-identity/impostor construct this model addresses through covenant truth rather than individuation. Not a Christian source and not evidentially load-bearing for the framework — read for conceptual range and vocabulary, with the same discernment applied to Bowen and Young elsewhere in this document, not as a doctrinal or clinical authority.
+*Priority: Tier 2 — no session-tool integration yet; flag before citing Jungian concepts (shadow, individuation, archetypes) in any client-facing material, since they carry theological assumptions (a self that completes itself through integration) that differ from covenant identity's Christ-dependent framing.*
+
+> [!note] **Andrew's Reading Note — 2026-08-26**
+> Stein is a Jungian psychoanalyst with a Ph.D. in Religion and Psychological Studies from the University of Chicago. His take on Jung ultimately centers on one simple idea: *the person you consciously believe yourself to be is only a small part of who you actually are.*
+>
+> Early in life we, out of necessity, construct an ego and persona — careers, roles, relationships, reputations, identities — and say "THIS is who I am." In doing so we inevitably exclude other possibilities. Those possibilities don't disappear; they go underground and become shadow, complexes, unrealized capacities, unlived possibilities, and unconscious longings. Eventually, often through disappointment, loss, transition, anxiety, depression, relational conflict, or midlife disruption, the unconscious begins to ask (or demand) for attention — and the question shifts from *"How do I build a successful life?"* to *"Who am I beneath the life I have built?"*
+>
+> Two reflection questions Andrew has been sitting with:
+> 1. Who are you beneath the roles, titles, expectations, and identities you have spent a lifetime building?
+> 2. What part of your identity once served you well but may now be keeping you from becoming who you are meant to be?
+>
+> **Practitioner note:** the ego/persona-construction-then-shadow-emergence arc Stein describes is a plausible secular-psychological analog to the false-identity formation this model addresses theologically — worth tracking as Andrew works through the book for a potential future mapping entry in [[Covenant Identity — Author-Framework Mapping]]. Not yet integrated into any session tool.
 
 ---
 
