@@ -3,6 +3,20 @@ created: 2026-07-16
 basis: primary-source
 tags:
 ---
+## The Way
+
+John 15:7-8 *If you abide in me, and my words abide in you, **ask whatever you wish, and it will be done for you.** By this my Father is glorified, that you bear much fruit and so prove to be my disciples.*
+
+Mark 11:24 *Therefore I tell you, **whatever you ask in prayer, believe that you have received it, and it will be yours.***
+
+John 14:12-14 *Truly, truly, I say to you, **whoever believes in me will also do the works that I do**; and greater works than these will he do, because I am going to the Father. Whatever you ask in my name, this I will do, that the Father may be glorified in the Son. **If you ask me anything in my name, I will do it.***
+
+John 16:23-24 *In that day you will ask nothing of me. **Truly, truly, I say to you, whatever you ask of the Father in my name, he will give it to you.** Until now you have asked nothing in my name. **Ask, and you will receive, that your joy may be full.***
+
+James 4:2-3 *You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask. You ask and do not receive, because you ask wrongly, to spend it on your passions.*
+
+Matthew 7:7-8 ***Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.***
+
 ## Mini Visions are My Life before the Lord
 **Ministering the Word of Truth to my inner man**
 Self Coaching the Lie Eliminator and Identity Installer
@@ -46,6 +60,7 @@ If I heard from God I heard:
 
 With solid conviction I said in my heart
 *"I cannot rely on employment only or possibly at all going forward."*
+"*I seek what God has for me. What have I seen in me? Design that is Pastoral-Coach-beyond what I have seen/experienced.*"
 
 I committed to 
 *"Building a coaching structure and launching a coaching practice."*
