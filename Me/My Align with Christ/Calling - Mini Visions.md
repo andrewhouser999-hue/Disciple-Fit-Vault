@@ -5,6 +5,9 @@ tags:
 ---
 ## The Way
 
+**What I ask, first and foremost for the whole of my remaining life**
+Make me a Disciplemaker, a witness to Christ. 
+
 John 15:7-8 *If you abide in me, and my words abide in you, **ask whatever you wish, and it will be done for you.** By this my Father is glorified, that you bear much fruit and so prove to be my disciples.*
 
 Mark 11:24 *Therefore I tell you, **whatever you ask in prayer, believe that you have received it, and it will be yours.***
