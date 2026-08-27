@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "Original content basis TBD; updated 2026-07-14 per [[Covenant Identity — Diagnostic Lens Transition Logic]]'s Character Wound Deepening correction — added a parallel non-injury excavation arc (formative pattern → felt inadequacy/vision gap → God-connection misdirection) alongside Allender's wound → vow arc, so a client whose Stage 1 material is pattern-based rather than injury-based has a documented path through Phase 2 and a stated completion criterion"
+basis: "Original content basis TBD; updated 2026-07-14 per [[Covenant Identity — Diagnostic Lens Transition Logic]]'s Character Wound Deepening correction — added a parallel non-injury excavation arc (formative pattern → felt inadequacy/vision gap → God-connection misdirection) alongside Allender's wound → vow arc, so a client whose Stage 1 material is pattern-based rather than injury-based has a documented path through Phase 2 and a stated completion criterion; updated 2026-08-27 per [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section IV — the existing 'titrate at the edge of the window of tolerance' language is now operationalized as the scripted Touch-and-Return protocol, using the anchor established in Phase 1 rather than generic grounding"
 aliases: ["Covenant Identity — Phase 2 Session Tools (Wound Mapping)"]
 tags:
 ---
@@ -76,6 +76,14 @@ If they didn't: *"What got in the way? Not logistically — what was happening i
 
 Non-follow-through in Phase 2 almost always has schema content underneath it. The Defectiveness client who committed to a difficult conversation and avoided it is not lazy — they are protecting themselves from anticipated rejection or shame. The Unrelenting Standards client who followed through but added three more tasks onto the commitment is not diligent — they are over-compensating. Read the follow-through data carefully.
 
+**Anchor Accessibility Check (2 minutes, first Phase 2 session only)**
+
+Before excavation opens for the first time, confirm the anchor established in Phase 1 Session 2 is actually retrievable — not just present in the session where it was built. See [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section III.
+
+*"Before we start today, find that anchor again — [name the layer named in Phase 1]. Is it still there?"*
+
+If retrieval is slow, effortful, or absent, treat the anchor as not yet established. Spend a few minutes re-running the Phase 1 rehearsal (name it, locate it somatically, return to it twice) before opening excavation. Do not proceed into Primary Excavation on an untested anchor — Touch and Return below depends on it working.
+
 **Primary Excavation (30-35 minutes)**
 
 The error in Phase 2 is excavating too many things simultaneously. Choose the highest-yield thread — typically the primary schema hypothesis from the Summary Baseline — and stay with it until something real surfaces. Breadth is not the goal. Contact is the goal.
@@ -109,7 +117,19 @@ When wound material surfaces — when the client names something real, makes con
 *"How long have you been carrying that?"*
 *"What does it cost you — daily — to carry it?"*
 
-Titrate. Go toward the wound and then back. The therapeutic principle from Levine applies here: work at the edge of the window of tolerance, not inside overwhelm. The client should be able to make contact with the material without being consumed by it.
+**Touch and Return.** Full protocol: [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section IV. Open a small piece of the material — one question, not a cascade. Watch for the ordinary escalation signals (speech accelerating, rapid subject-changing, tears intensifying, withdrawal) or, if the presentation is severe, the Acute Trauma Response signs in [[Covenant Identity — Crisis & Referral Protocol]] Section 3 (flooding, severe dissociation, somatic crisis — see also Section 4 below).
+
+If activation escalates rather than settles, stop and invite return to the anchor by name — not an improvised calming move:
+
+*"Let's pause there. Come back to the anchor — [name it]. Where's that right now?"*
+
+Do not resume excavation until the return is genuine — the client has actually retrieved the felt anchor, not merely stopped talking about the material. Once settled, check before widening rather than following whatever cracked open next:
+
+*"I'm not going to go toward [the adjacent thread that just surfaced] — not today. I want to sit with what we just touched, and the anchor, both at once. That's enough for now."*
+
+**If the anchor-return doesn't settle the client** — signals persist despite a genuine, invited return — this is not a "try the anchor again" moment. Move immediately to [[Covenant Identity — Crisis & Referral Protocol]] Section 3-4 (Acute Trauma Response protocol). Do not attempt resourcing a third time as a substitute for that hand-off.
+
+This is the same "titrate at the edge of the window of tolerance" principle already named here (Levine), now anchored to something the client actually has rehearsed rather than a generic pause.
 
 **Lament Introduction (5-10 minutes, when appropriate)**
 
@@ -223,6 +243,14 @@ Their summary is the next piece of data — listen to what they emphasize, what 
 - *"What would it mean if [covenant identity layer] were already true, right now, in the middle of still doing this — not after the pattern is broken, but inside it?"*
   — The indicative inside the pattern, mirroring the indicative-in-the-wound question. Plants the same Phase 3 seed via a different route.
 
+### Touch and Return
+- *"Before we start today, find that anchor again — [name it]. Is it still there?"*
+  — Opening accessibility check, first Phase 2 session only. See [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section III.
+- *"Let's pause there. Come back to the anchor — [name it]. Where's that right now?"*
+  — The return move. Use at the first sign of escalation, not after it has built. Do not improvise a different calming move — the established anchor is what's been rehearsed and tested.
+- *"I'm not going to go toward [the adjacent thread that just surfaced] — not today. I want to sit with what we just touched, and the anchor, both at once."*
+  — Check-before-widening. Use once the return is genuine, before deciding whether to continue excavating.
+
 ### Somatic and Body
 - *"Where in your body does [wound material] live right now?"*
   — Somatic grounding. Keeps the work from being purely cognitive.
@@ -241,7 +269,7 @@ Their summary is the next piece of data — listen to what they emphasize, what 
 
 Phase 2 generates more activation than Phase 1. The window of tolerance narrows when wound material is near. The coach's primary somatic job is to keep the client in the window — not in overwhelm, not in numbness, but in the zone where real contact is possible.
 
-**Flooding:** The client's narrative accelerates, affect rises, they begin reliving rather than narrating. The story is running them rather than the other way around. Slow it down. *"Stay right here with me. Take a breath. What's happening in your body right now?"* Do not chase the flooded narrative — ground first, then return.
+**Flooding:** The client's narrative accelerates, affect rises, they begin reliving rather than narrating. The story is running them rather than the other way around. This is the escalation signal Touch and Return (above) exists for — invite return to the established anchor by name rather than a generic grounding prompt: *"Let's pause there. Come back to the anchor — [name it]."* Do not chase the flooded narrative. If the anchor-return doesn't settle it, this has crossed into [[Covenant Identity — Crisis & Referral Protocol]] Section 3's Acute Trauma Response territory — ground per that protocol and do not resume excavation this session.
 
 **Freeze:** The client goes flat, stops making eye contact, voice drops to monotone. Often the most significant material — the body has moved into the wound faster than the mind. This is not disengagement. This is deep contact. Do not push. Stay present. *"You went somewhere just now. Where did you go?"* Give time. The client needs to come back to the room before they can speak.
 
@@ -301,6 +329,9 @@ Phase 2 has a thread — the working hypothesis from the Summary Baseline. Many 
 
 **7. Moving to Phase 3 because the calendar says so.**
 If Phase 2 material is still actively surfacing significant content at session 4, stay. The map is not finished. Moving to Phase 3 installation work without a complete map is like prescribing medication before the diagnosis is clear. One extra session in Phase 2 is not a failure — it is precision.
+
+**8. Chasing what cracks open instead of checking before widening.**
+When Touch and Return settles a client and a new, adjacent thread has surfaced in the process, the pull is to follow it — it feels like momentum, like the real material finally showing itself. That pull is exactly what the check-before-widening move (above) exists to interrupt. Compelling is not the same as safe to pursue right now. The thread will still be there next session.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "TBD; Session 2's Anchor Establishment step sourced to [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section II — added 2026-08-27"
 aliases: ["Covenant Identity — Phase 1 Session Tools (Covenant Orientation)"]
 tags:
 ---
@@ -85,7 +85,7 @@ Close with a specific, small commitment for the week — something connected to 
 
 ---
 
-### Session 2 (60-75 minutes)
+### Session 2 (60-80 minutes)
 
 **Follow-Up (10 minutes)**
 
@@ -123,6 +123,22 @@ Share your working hypothesis. Not as a verdict — as a hypothesis offered for 
 *"Based on everything I've heard in our first two sessions, here's what I'm working with as a hypothesis. Tell me if this is close or if I'm missing something: [primary schema hypothesis] is likely what's maintaining the Gap. And I think [specific covenant layer] is where the most significant distance is. Does that land?"*
 
 The client's response to this — agreement, correction, surprise, minimizing — is itself more data. Receive it and adjust. Document the working hypothesis in the Summary Baseline table.
+
+**Anchor Establishment (8-10 minutes)**
+
+*Full protocol: [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section II. This step happens here — after the primary covenant identity layer has just been named above, before Transition Framing announces Phase 2 — and nowhere earlier, because there is no confirmed covenant truth to anchor to until this moment.*
+
+Use the layer just named in Working Hypothesis Naming as the anchor candidate — do not introduce new content. Name it, locate it somatically, and rehearse the return two or three times, in this same low-stakes session, with no difficult material nearby.
+
+*"Before we go further into anything difficult, I want to name something we can come back to anytime. When you hear [the covenant layer just named] — not just agree with it, but let it land — what happens?"*
+
+Wait for a bodily answer, not just agreement. If nothing somatic surfaces: *"Where do you notice that — in your body, right now?"* If still nothing surfaces, don't manufacture one — note it as a cognitively-held anchor (lower strength, still usable) and re-attempt somatic location in a later session. This is common with Hermit-type presentations and is not a failure of the step.
+
+Once something is named — a loosening, a warmth, a stillness — ask the client to let it fade, then find it again. Do this two or three times. Then name what was built:
+
+*"That's the anchor. Not just the words — the [what the client named]. I'm going to ask you to come back to it later, when things get harder."*
+
+Do not test this anchor against difficult material in this session. That happens in Phase 2, per the Resourcing reference's Touch-and-Return protocol — this step only builds and rehearses it in a calm state.
 
 **Transition Framing (10 minutes)**
 
@@ -189,6 +205,14 @@ If the client hesitates — note it and honor it. The hesitation is not a proble
   — Identifies the primary covenant identity layer gap for the engagement.
 - *"Which one feels most dangerous to believe — like something bad might happen if you fully trusted it?"*
   — Surfaces competing commitment material early. The answer to "what's dangerous about this truth" often contains the Big Assumption.
+
+### Anchor Establishment
+- *"Before we go further into anything difficult, I want to name something we can come back to anytime. When you hear [the primary covenant layer] — not just agree with it, but let it land — what happens?"*
+  — Opens the anchor-establishment step. See [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section II for the full sequence.
+- *"Where do you notice that — in your body, right now?"*
+  — Use if the first answer is cognitive agreement only. Naming isn't enough; the anchor needs a somatic marker to be reliably retrievable later.
+- *"Let that settle. Now find it again."*
+  — The rehearsal move. Repeat two or three times in this session, with no difficult material nearby.
 
 ### Landing
 - *"What do you want to remember from today?"*
@@ -282,6 +306,7 @@ Phase 1 should feel warm. It should not be soft. A client's spiritual bypassing 
 - **Intake Addendum Part B** (B1-B4): Must be completed within 24 hours of session 1. B1 (felt-sense), B2 (present-story statement), and B3 (covenant identity self-assessment) are gathered in session. B4 (coach synthesis statement) is written after.
 - **Summary Baseline table** (bottom of Intake Addendum): Complete after session 2 once the working hypothesis is formed. This table is the orientation document for Phase 2.
 - **Session Growth Notes, sessions 1-2:** The language evolution table (Section 4) begins in session 1 even if no shift has occurred yet — capture the baseline language as the "Then" column. Future entries will use it.
+- **A tested, rehearsed covenant-identity anchor** (Session 2): Named and somatically located, feeding directly into Phase 2's and Stage 4b's Touch-and-Return protocol — see [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]]. Note in the coach's own session record which layer was used and whether the anchor was somatic or cognitive-only, so Section III's accessibility check at the start of Phase 2 isn't starting blind.
 
 ---
 
@@ -294,6 +319,7 @@ Phase 1 should feel warm. It should not be soft. A client's spiritual bypassing 
 - The client's functional God-image has been surfaced and is distinct from their theological confession — the coach knows the difference between what the client confesses and what they experience
 - The coaching alliance is strong enough to bear disagreement and emotion
 - The client has demonstrated at least one moment of genuine (not performed) engagement in the session — a moment of real contact with their own material
+- The client's covenant-identity anchor has been named and rehearsed at least twice in-session (somatic if possible, cognitive-only noted if not) — see [[Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference]] Section II
 
 **Phase 1 is not complete when:**
 - The client is still entirely in performed-response mode
