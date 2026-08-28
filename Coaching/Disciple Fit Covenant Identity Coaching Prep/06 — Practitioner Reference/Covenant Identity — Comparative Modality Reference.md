@@ -1,6 +1,6 @@
 ---
 created: 2026-08-28
-basis: "Synthesis document — governing epistemology and contributor-specific boundaries (CBT scope, IFS adaptation, Gendlin/Focusing scope, memory reconsolidation mechanism, what is explicitly not imported from Siegel/Thompson/Schwartz) drawn from [[Covenant Identity — Integration Rationale]]; Schema Therapy and Narrative Therapy scope-of-use positions drawn from [[Five Intervention Modalities — Definitions & Deep Elaboration]]; referral triggers, scope-of-practice line, and concurrent-care model (Section 6) drawn from [[Covenant Identity — Crisis & Referral Protocol]]; the Not Therapy / Not Biblical Counseling / Not Spiritual Direction contrast framing drawn from [[Covenant Identity Coaching — Peer Practitioner Briefing]] §8. Everything else — the individual entries for the ~20 psychotherapy modalities and ~15 Christian counseling/ministry approaches not previously treated in any CIC document, their strengths/weaknesses, and the use-instead/use-CIC/combine judgments for each — is original synthesis from general clinical-psychology and biblical-counseling-movement literature, evaluated against CIC's own governing criteria (Confirmatory/Additive integration test, non-clinical scope boundary, Scripture-governs-psychology-serves architecture) rather than quoted from any single source. Flagged throughout as design judgment, not reproduced citation, per each entry's Evidence note. Built 2026-08-28 at Andrew's request, as a companion piece extending the Peer Practitioner Briefing's high-level contrast (one row each for Therapy, Spiritual Direction, Biblical Counseling, Christian Life Coaching) into modality-by-modality granularity across both the clinical/secular and Christian/ministry landscapes."
+basis: "Synthesis document — governing epistemology and contributor-specific boundaries (CBT scope, IFS adaptation, Gendlin/Focusing scope, memory reconsolidation mechanism, what is explicitly not imported from Siegel/Thompson/Schwartz) drawn from [[Covenant Identity — Integration Rationale]]; Schema Therapy and Narrative Therapy scope-of-use positions drawn from [[Five Intervention Modalities — Definitions & Deep Elaboration]]; referral triggers, scope-of-practice line, and concurrent-care model (Section 6) drawn from [[Covenant Identity — Crisis & Referral Protocol]]; the Not Therapy / Not Biblical Counseling / Not Spiritual Direction contrast framing drawn from [[Covenant Identity Coaching — Peer Practitioner Briefing]] §8. Everything else — the individual entries for the ~20 psychotherapy modalities and ~15 Christian counseling/ministry approaches not previously treated in any CIC document, their strengths/weaknesses, and the use-instead/use-CIC/combine judgments for each — is original synthesis from general clinical-psychology and biblical-counseling-movement literature, evaluated against CIC's own governing criteria (Confirmatory/Additive integration test, non-clinical scope boundary, Scripture-governs-psychology-serves architecture) rather than quoted from any single source. Flagged throughout as design judgment, not reproduced citation, per each entry's Evidence note. Built 2026-08-28 at Andrew's request, as a companion piece extending the Peer Practitioner Briefing's high-level contrast (one row each for Therapy, Spiritual Direction, Biblical Counseling, Christian Life Coaching) into modality-by-modality granularity across both the clinical/secular and Christian/ministry landscapes. Reformatted 2026-08-28 into a heading-per-modality + table structure for skimmability; the first reformat pass over-tightened the analysis prose in the process, so it was reformatted a second time the same day to restore the original authored wording in full inside the new structure — structure changed twice, substantive content unchanged from the original authoring pass."
 tags: [practitioner-reference, comparative-analysis, referral, model-foundation, safety]
 ---
 
@@ -19,6 +19,27 @@ Every entry below answers five questions in the same order: what the modality is
 
 **Evidence note, read once before the entries:** a small number of modalities below (CBT as used in Stage 4a, Schema Therapy, Narrative Therapy, IFS, Gendlin's Focusing, memory reconsolidation) already have an established position within CIC's own system documents, cited in each entry's Evidence line. The remaining ~30 entries are this document's own synthesis — general clinical or biblical-counseling-movement knowledge run through the same Confirmatory/Additive integration test and non-clinical scope boundary the rest of the system uses, not a position CIC has previously taken in writing. Hold those accordingly: theologically and clinically reasoned, not independently vetted the way the cited entries are.
 
+**How to use this document:** open Obsidian's outline pane (or Ctrl+F a name) — every modality below is its own heading, so you can jump straight to it rather than reading top to bottom. The Quick Index just below groups every entry by family for a fast visual scan; the Governing Cautions table near the end is worth reading on its own regardless of which entry brought you here.
+
+---
+
+## Quick Index
+
+**Part 1 — Clinical & Secular Psychotherapy**
+Cognitive & Behavioral: CBT · DBT · ACT · REBT · Behavior Therapy
+Depth & Relational: Psychodynamic · Psychoanalysis · Person-Centered · Existential · Gestalt
+Structured & Emotion-Focused: Schema Therapy · CFT · EFT · IFS
+Systemic, Narrative & Solution: SFBT · Narrative Therapy · IPT
+Trauma-Specific & Mindfulness: EMDR · Exposure/PE/CPT · MBCT/MBSR
+
+**Part 2 — Christian / Biblical Counseling & Ministry**
+Christian Psychology (CIC's own governing position)
+Nouthetic / ACBC / CCEF family
+Broad Christian-Counseling family: Christian Counseling · Integrationist Counseling · Biblical Discipleship Counseling · Pastoral Counseling
+Prayer-Ministry & Inner-Healing family: Theophostic · Inner Healing · Sozo · Deliverance Ministry · Prayer Ministry
+Spiritual Direction
+Christian 12-Step Programs
+
 ---
 
 ## Part 1 — Clinical & Secular Psychotherapy Modalities
@@ -27,15 +48,64 @@ Every entry below answers five questions in the same order: what the modality is
 
 These modalities share a governing assumption: change the thought, the behavior, or the relationship to the thought, and the emotional/functional outcome follows. CIC's own Stage 4a already borrows from this family directly — Socratic questioning, laddering, thought records, and behavioral experiments are named coach-safe tools when a cognitive distortion is actively blocking reception of covenant truth (Diagnostic Lens Transition Logic). The family's shared weakness relative to CIC is structural, not incidental: none of them locate the thought or behavior inside a covenant-object diagnostic. A distorted thought, in this family's own terms, is simply inaccurate — not evidence of what the heart has come to trust instead of God. CIC's own mechanism note (Peer Practitioner Briefing §4) states the sharper version of this critique directly: standard behavioral/cognitive learning produces *extinction* — a new association suppressing the old one, which returns under stress — rather than *reconsolidation*, which requires the belief to be emotionally live and met with felt, not merely argued, disconfirmation. A client who leaves cognitive work able to argue against the old belief but still organized around it underneath has had exactly this happen.
 
-**Cognitive Behavioral Therapy (CBT).** *Strength:* structured, well-evidenced, directly targets distorted thinking patterns with a repeatable technique set. *Weakness relative to CIC:* treats the thought as free-floating rather than rooted in a false covenant object; can produce correct thinking without felt heart change if deployed alone (extinction, not reconsolidation). *Use CBT instead of CIC:* the presenting issue is a genuinely situational distorted-thinking pattern with no identity component, the client wants secular support, or clinical severity (per Crisis & Referral Protocol's referral triggers — e.g., an active anxiety disorder) requires licensed treatment. *Use CIC instead:* the distortion traces back to a false covenant object, not a standalone thinking error. *Combine:* this is not a hypothetical — it is already how CIC works. Stage 4a *is* CBT-informed technique, deployed selectively and returned to Stage 3 once the distortion loosens, never treated as the model's primary mechanism. **Evidence:** established CIC position — [[Covenant Identity — Diagnostic Lens Transition Logic]], Peer Practitioner Briefing §4–5.
+#### Cognitive Behavioral Therapy (CBT)
+*Focuses on the relationship between thoughts, emotions, and behaviors.*
 
-**Dialectical Behavior Therapy (DBT).** *Strength:* the modality specifically built for severe emotion dysregulation, distress tolerance, and self-harm/suicidality — precisely the presentations the Crisis & Referral Protocol requires CIC to refer out. *Weakness:* skills-based; does not address theological identity or the worship-root underneath the dysregulation, and its target population is explicitly outside CIC's non-clinical baseline. *Use DBT instead of CIC:* active self-harm, suicidality, or severe dysregulation is present — this is a hard referral trigger, not a judgment call (Crisis & Referral Protocol §3). *Use CIC instead:* the client is stable enough for identity-formation work and dysregulation is not the presenting issue. *Combine:* once DBT has stabilized emotion-regulation skills, the two can run concurrently on the same model as any clinical-plus-coaching pairing (Crisis & Referral Protocol §6) — DBT holds the skill layer, CIC holds the identity layer.
+| | |
+|---|---|
+| **Strength** | Structured, well-evidenced, directly targets distorted thinking patterns with a repeatable technique set. |
+| **Weakness relative to CIC** | Treats the thought as free-floating rather than rooted in a false covenant object; can produce correct thinking without felt heart change if deployed alone (extinction, not reconsolidation). |
+| **Use CBT instead of CIC** | The presenting issue is a genuinely situational distorted-thinking pattern with no identity component, the client wants secular support, or clinical severity (per Crisis & Referral Protocol's referral triggers — e.g., an active anxiety disorder) requires licensed treatment. |
+| **Use CIC instead** | The distortion traces back to a false covenant object, not a standalone thinking error. |
+| **Combine** | This is not a hypothetical — it is already how CIC works. Stage 4a *is* CBT-informed technique, deployed selectively and returned to Stage 3 once the distortion loosens, never treated as the model's primary mechanism. |
 
-**Acceptance and Commitment Therapy (ACT).** *Strength:* psychological flexibility and acceptance of internal experience without struggle — conceptually adjacent to CIC's Node 4 receptive posture and Stage 4b's non-striving presence; cognitive defusion technique resembles Kegan's subject-object move already load-bearing elsewhere in CIC. *Weakness:* ACT's values are self-authored — the client determines what is meaningful — where CIC's telos is covenant-given, not self-selected; "psychological flexibility" as the aim is a competing telos in the same family as Siegel's neural-integration telos, which Integration Rationale explicitly excludes. *Use ACT instead:* a non-Christian client or a presenting need that is genuinely behavioral avoidance with no identity component. *Use CIC instead:* the felt struggle is functionally a worship-disorder — the client is fused with something other than God as the source of security or worth. *Combine:* ACT's defusion vocabulary ("a thought is not a fact") can enrich Stage 2's false-identity-naming work as additive diagnostic language, the same integration mode already used for IFS's parts language — without adopting ACT's self-authored-values telos.
+**Evidence:** established CIC position — [[Covenant Identity — Diagnostic Lens Transition Logic]], Peer Practitioner Briefing §4–5.
 
-**Rational Emotive Behavior Therapy (REBT).** *Strength:* efficient, direct, well-suited to entrenched irrational-belief patterns ("shoulds," "musts"); CBT's direct predecessor. *Weakness:* Albert Ellis, REBT's founder, was an outspoken atheist who explicitly classified religious absolutism as a category of irrational belief to be disputed — REBT carries a sharper anti-religious philosophical commitment than plain CBT, not just a secular one. *Use REBT instead of CIC:* rarely a first choice given this friction; a client already in REBT treatment for an unrelated issue can reasonably continue it. *Use CIC instead:* essentially always for formation work. *Combine:* not recommended — CIC's Stage 4a Socratic questioning already covers the same functional ground as REBT's disputation technique, without REBT's specific philosophical baggage.
+#### Dialectical Behavior Therapy (DBT)
+*Emphasizes emotional regulation, distress tolerance, mindfulness, and interpersonal skills.*
 
-**Behavior Therapy (classic, Skinner/Wolpe lineage).** *Strength:* direct, evidence-based behavior change through reinforcement and learning principles; effective for narrow habit-level or phobic targets. *Weakness:* by design excludes internal states — belief, meaning, identity — making it the thinnest anthropology of any modality in this document relative to CIC's heart-centered model. *Use Behavior Therapy instead of CIC:* a narrow phobia or discrete habit target with no identity component. *Use CIC instead:* essentially always where identity is actually at stake — CIC's own theory of change predicts behavior-only intervention will not produce durable change without the identity layer underneath it. *Combine:* CIC's between-session disciplines and the Big Assumption Experiment already borrow lightweight behavioral-test logic (a small, bounded, data-generating action) inside the covenant-formation frame — this integration is already in use, not a new proposal. **Evidence (Big Assumption Experiment):** [[Five Intervention Modalities — Definitions & Deep Elaboration]].
+| | |
+|---|---|
+| **Strength** | The only major modality built specifically for emotion dysregulation/distress tolerance at clinical intensity (borderline pathology, self-harm, suicidality) — exactly the crisis categories in CIC's Crisis & Referral Protocol that require referral out. |
+| **Weakness** | Skills-based, doesn't address theological identity or the worship root; secular framework doesn't locate emotion regulation within covenant confidence. Fatal for CIC's scope specifically: DBT's target population (severe emotion dysregulation, self-harm, suicidality) is explicitly outside CIC's non-clinical baseline — this is a hard referral-out case, not a combine case at the acute stage. |
+| **Use DBT instead of/before CIC** | Active self-harm, suicidality, or severe dysregulation present — a referral trigger, not a judgment call. |
+| **Use CIC instead** | The client is stable enough for identity work. |
+| **Combine** | Once DBT has stabilized emotion regulation skills, CIC and DBT can run concurrently — DBT holds the skill layer, CIC holds the identity/formation layer, per the Crisis & Referral Protocol's concurrent-care model (§6). |
+
+#### Acceptance and Commitment Therapy (ACT)
+*Develops psychological flexibility and values-based action.*
+
+| | |
+|---|---|
+| **Strength** | Psychological flexibility, values-based action, acceptance of internal experience without struggle — conceptually adjacent to CIC's "receptive posture" (Node 4) and Stage 4b's non-striving presence. Uses defusion techniques similar to Kegan's subject-object move. |
+| **Weakness** | ACT's values are self-authored (client determines what's meaningful) vs. CIC's covenant-given telos; "psychological flexibility" as the ultimate aim (not conformity to Christ) is a competing telos akin to Siegel's neural-integration exclusion already flagged in Integration Rationale. |
+| **Use ACT instead when** | The client is not Christian / doesn't want a faith-integrated framework, or the specific presenting need is behavioral avoidance unrelated to identity. |
+| **Use CIC instead** | The client's felt struggle is functionally a worship-disorder / false covenant object. |
+| **Combine** | ACT's defusion language ("thoughts are not facts") can enrich Stage 2's false-identity-naming work as coach-safe vocabulary, similar to how IFS's parts language is used — additive integration mode, not adopting ACT's telos. |
+
+#### Rational Emotive Behavior Therapy (REBT)
+*Challenges irrational beliefs and develops more adaptive thinking.* CBT's predecessor — more confrontational and philosophical, disputing irrational beliefs ("shoulds," "musts").
+
+| | |
+|---|---|
+| **Strength** | Efficient, direct, well-suited to entrenched irrational-belief patterns. |
+| **Weakness** | Ellis was an outspoken atheist whose "irrational beliefs" framework explicitly classified religious absolutism as a form of irrational thinking to be disputed — REBT's philosophical commitments are more actively anti-religious than most CBT variants, a sharper anthropological conflict than plain CBT. |
+| **Use REBT instead** | Rarely preferred over CBT specifically for CIC-adjacent work given this friction; a client already in REBT treatment for an unrelated issue can continue it. |
+| **Use CIC instead** | Essentially always for formation work. |
+| **Combine** | Not recommended; the same Stage 4a coach-safe Socratic questioning CIC already uses substitutes for REBT's disputation technique without REBT's anti-religious philosophical baggage. |
+
+#### Behavior Therapy (classic, Skinner/Wolpe lineage)
+*Focuses on changing behaviors through learning principles and environmental interventions.*
+
+| | |
+|---|---|
+| **Strength** | Direct behavior change through reinforcement/learning principles, useful for narrow habit-level goals. |
+| **Weakness** | Explicitly excludes internal states (belief, meaning, identity) by design — the most anthropologically thin of all listed modalities relative to CIC's heart-centered model. Ironically, behaviorism was also the direct historical influence on Jay Adams's nouthetic counseling (Mowrer) — so the most secular-behaviorist and the most "Scripture-only" nouthetic model share a root skepticism of internal/unconscious process, from opposite motivations. |
+| **Use Behavior Therapy instead** | A narrow phobia/habit target with no identity component, or a specific behavioral skill deficit. |
+| **Use CIC instead** | Essentially always when identity is actually at stake, since behavior therapy explicitly won't reach it — the model's own theory of change predicts behavior-only interventions fail to produce durable change without identity-level work underneath. |
+| **Combine** | CIC's between-session disciplines and behavioral experiments (Big Assumption Experiment) already borrow lightweight behavior-therapy logic (bounded behavioral tests) within the covenant-formation frame — additive mode already in use. |
+
+**Evidence (Big Assumption Experiment):** [[Five Intervention Modalities — Definitions & Deep Elaboration]].
 
 ---
 
@@ -43,49 +113,204 @@ These modalities share a governing assumption: change the thought, the behavior,
 
 This family shares an orientation CIC's own contributor stack partially resonates with — attention to what operates beneath conscious awareness, and to the relational conditions under which a person can actually change. Where the family diverges from CIC is anthropology: most of it locates the client's own inner resources, insight, or self-actualizing capacity as sufficient for healing, without a category for sin, worship, or a Spirit who acts. This is the same structural tension Integration Rationale already names for IFS (Self assumed inherently whole and self-generated) and resolves the same way throughout this family: the observational skill is usable, the anthropology governing it is not imported wholesale.
 
-**Psychodynamic Therapy.** *Strength:* genuine depth exploration of unconscious patterns, early relational history, and transference — territory CIC's own implicit/explicit heart distinction (Jeremiah 17:9) and Thompson's implicit-memory mechanism already engage from a different direction. *Weakness:* classical drive theory and object-relations frameworks can carry a naturalistic anthropology in which the unconscious, not the heart before God, is the final explanatory authority; sin and idolatry have no vocabulary in this frame. Open-ended, non-directive, and typically longer-running than CIC's structured four-phase arc. *Use psychodynamic therapy instead of CIC:* entrenched relational or personality-level patterns requiring years of processing beyond coaching scope, or an active clinical diagnosis. *Use CIC instead:* the presenting need is formation-level, not pathology-level, and the client wants theologically governed content. *Combine:* atypical by design — both are deep, slow, transference-sensitive processes better sequenced (psychodynamic first for entrenched pathology, CIC afterward for formation once stabilized) than run in parallel.
+#### Psychodynamic Therapy
+*Explores unconscious patterns, early experiences, relationships, and internal conflicts.*
 
-**Psychoanalysis.** *Strength:* unmatched depth of process for specific, complex, long-standing presentations, delivered multiple sessions per week over years. *Weakness:* least accessible of any modality here (cost, frequency, availability), and theoretically furthest from CIC's covenant framework — classical Freudian anthropology is explicitly naturalistic and has historically treated religious experience as illusion to be explained away, not a category with its own reality. *Use psychoanalysis instead of CIC:* a genuine clinical indication for intensive depth work exists and the client has the resources to sustain it. *Use CIC instead:* nearly always, for CIC's actual population (formation-ready, non-clinical). *Combine:* not typically concurrent — different container, different pace, rarely a natural pairing.
+| | |
+|---|---|
+| **Strength** | Depth exploration of unconscious patterns, early relational history, and transference — genuinely the domain CIC's own theological anthropology (implicit vs. explicit heart, Jeremiah 17:9) resonates with; Thompson's and Gendlin's mechanism descriptions in Integration Rationale already draw on psychodynamically adjacent territory (implicit memory). |
+| **Weakness** | Unconscious drive theory (Freudian id/ego/superego, or object-relations frameworks) can carry a naturalistic anthropology treating the unconscious as the final explanatory authority rather than the heart as understood covenantally — sin and idolatry are theological categories psychodynamic theory has no vocabulary for. Long-term, open-ended, non-directive process — a different container than CIC's structured four-phase arc. |
+| **Use psychodynamic therapy instead** | Entrenched relational/personality patterns requiring years of processing beyond coaching's scope, or a clinical diagnosis (personality disorder) present. |
+| **Use CIC instead** | The presenting need is formation-level rather than pathology-level and the client desires theologically governed content. |
+| **Combine** | Rarely run concurrently by design (both are deep, slow, transference-heavy processes) — more typical to sequence: psychodynamic first for entrenched pathology, CIC afterward for identity formation once stabilized. |
 
-**Humanistic / Person-Centered Therapy (Rogers).** *Strength:* unconditional positive regard, empathy, and authenticity — CIC's own practitioner posture (Peer Practitioner Briefing §10: the coach's own formation as a load-bearing variable, non-contingent safety as the condition for reception) shares surface resemblance to Rogers's core conditions. *Weakness:* Rogers's anthropology holds that human nature is inherently good and self-actualizing, and needs only the removal of externally imposed conditions of worth to flourish — this directly competes with a Christian anthropology of a fallen heart requiring the Spirit's regenerating work, not mere unconditional acceptance, to actually change. This is a load-bearing conflict, not a stylistic one. *Use Person-Centered therapy instead of CIC:* a client needs pure non-directive support with no diagnostic or theological content — for instance, early trust-building before any diagnostic work is appropriate. *Use CIC instead:* whenever diagnostic precision or theological content is wanted, since Person-Centered work offers neither by design. *Combine:* CIC's practitioner posture already borrows the coach-side skill (non-contingent regard as a delivered condition) without importing the humanistic self-actualization anthropology behind it — the same "observation yes, framework no" move used throughout this document.
+#### Psychoanalysis
+*Intensive exploration of unconscious processes and formative experiences.*
 
-**Existential Therapy.** *Strength:* takes meaning, freedom, mortality, and purpose seriously — territory CIC's own telos (§9, Peer Practitioner Briefing) and lament practice also occupy. *Weakness:* existential therapy's answers to those questions are self-constructed (Viktor Frankl's logotherapy is a partial exception, and is already surveyed favorably elsewhere in the system — see the Suffering and Purpose Authorship Survey), where CIC holds that meaning is revealed — imago Dei, covenant purpose — not authored solely by the self. *Use existential therapy instead of CIC:* a non-Christian client wrestling with mortality or meaning who wants secular processing. *Use CIC instead:* a believer, since CIC actually supplies the theological content existential therapy structurally withholds. *Combine:* rare — two different governing frames answering the same question tend to confuse rather than reinforce each other; better to choose one lens per client than blend them.
+Same family as psychodynamic therapy above, but even more intensive (multiple sessions/week, years), classical drive theory.
 
-**Gestalt Therapy.** *Strength:* present-moment awareness and attention to patterns of experience, often somatically — adjacent to Stage 4b's "the coach becomes more present" relational work and to Gendlin's Focusing, already used in CIC. *Weakness:* techniques like the empty-chair exercise are clinical-intensity interventions that can surface intense affect quickly and require trained facilitation to stay safe — this readily exceeds coaching scope. No inherent theological content. *Use Gestalt instead of CIC:* clinical-depth present-moment processing is indicated and a trained Gestalt therapist is available. *Use CIC instead:* the same present-moment-awareness goal, at coaching-safe intensity — Gendlin's Focusing, already deployed in CIC, is functionally the coaching-safe cousin of Gestalt's present-awareness work. *Combine:* not typical — Gestalt's intensity argues for referral rather than co-practice.
+| | |
+|---|---|
+| **Strength** | Unmatched depth for very specific, complex cases. |
+| **Weakness** | Least accessible, most expensive, most theoretically distant from CIC's covenant framework — classical Freudian anthropology is explicitly naturalistic and often irreligious/reductive of religious experience (see Freud's *Future of an Illusion*). |
+| **Use instead** | A clinical indication for intensive depth work exists and the client is resourced and committed. |
+| **Use CIC instead** | Nearly always, given accessibility and theological governance, for CIC's target population (formation-ready, non-clinical). |
+| **Combine** | Not typically concurrent; different container. |
+
+#### Humanistic / Person-Centered Therapy (Rogers)
+*Emphasizes empathy, self-understanding, authenticity, and personal growth.*
+
+| | |
+|---|---|
+| **Strength** | Unconditional positive regard, empathy, authenticity — CIC's practitioner posture (Section 10, Peer Briefing: the coach's own formation, non-contingent safety) shares surface resemblance to Rogerian core conditions. |
+| **Weakness** | Rogers's anthropology assumes an inherently good, self-actualizing human nature requiring only the removal of external conditions of worth to flourish — this directly competes with a Christian anthropology of the fallen heart requiring the Spirit's regenerating work, not mere unconditional acceptance, to change. This is a load-bearing anthropological conflict, similar to the IFS Self-sufficiency exclusion already flagged in Integration Rationale. |
+| **Use Person-Centered instead** | The client needs pure non-directive support without any diagnostic or theological content (e.g., early-stage trust-building before any diagnostic work is appropriate). |
+| **Use CIC instead** | Whenever diagnostic precision or theological content is desired — Person-Centered by design offers neither. |
+| **Combine** | CIC's own practitioner posture already borrows the coach-side unconditional-regard skill (non-contingent safety) as a delivery skill, not the humanistic anthropology. |
+
+#### Existential Therapy
+*Addresses meaning, freedom, responsibility, mortality, and purpose.*
+
+| | |
+|---|---|
+| **Strength** | Addresses meaning, freedom, mortality, and purpose — territory CIC's Telos (Section 9) and lament work also occupy. |
+| **Weakness** | Existential therapy's answers to these questions are self-generated/constructed (Frankl partially excepted) rather than covenant-given; "meaning" in existential therapy is whatever the client constructs, whereas CIC holds meaning is revealed (imago Dei, covenant purpose) not authored solely by the self. |
+| **Use existential therapy instead** | A non-Christian client wrestling with mortality/meaning who wants secular processing. |
+| **Use CIC instead** | A believer, since CIC's telos supplies actual theological content existential therapy structurally withholds. |
+| **Combine** | Rare — different governing frame for the same territory makes blending confusing rather than additive; better to choose one lens per client. |
+
+#### Gestalt Therapy
+*Emphasizes present-moment awareness and patterns of experience.*
+
+| | |
+|---|---|
+| **Strength** | Present-moment awareness, noticing patterns of experience somatically/relationally — adjacent to Stage 4b's "coach becomes more present" relational work and Focusing's felt-sense attention. |
+| **Weakness** | Gestalt's "empty chair" and confrontational present-focus techniques are clinical-intensity interventions requiring trained facilitation to be safe (can surface intense affect quickly) — exceeds coaching scope readily. No inherent theological content. |
+| **Use Gestalt instead** | Clinical-depth present-moment processing is indicated and a trained Gestalt therapist is available. |
+| **Use CIC instead** | For the same present-moment-awareness goal at coaching-safe intensity (Gendlin's Focusing, used within CIC, is the coaching-safe cousin of Gestalt's present-awareness work). |
+| **Combine** | Not typically — Gestalt's intensity argues for referral, not co-practice. |
 
 ---
 
 ### Structured & Emotion-Focused Family (Schema Therapy, CFT, EFT, IFS)
 
-**Schema Therapy (Young).** Already directly used in CIC — Schema Interruption Practice is one of the model's five named intervention modalities. *Strength:* a precise taxonomy of eighteen maladaptive schemas across five domains, and a clear account of why simple cognitive challenge fails to shift deep, chronic patterns (the schema is felt as fact, not belief). *Weakness:* full schema restructuring — working the schema's developmental origin, not just its present-moment activation — is clinical-scope work requiring trained-therapist delivery; it is not something coaching is equipped to do safely. *Use Schema Therapy instead of CIC:* personality-disorder-level entrenchment, or a chronic pattern unresponsive to coaching-scope pause-gap interruption. *Use CIC instead:* schema-awareness and interruption-practice-level work with a formation-ready client — CIC's actual, already-defined scope. *Combine:* not really a combination question — CIC's Schema Interruption Practice already is a scope-bounded borrowing from this modality, not a separate practice run alongside it. **Evidence:** [[Five Intervention Modalities — Definitions & Deep Elaboration]].
+#### Schema Therapy (Young)
+*Works with deeply ingrained emotional and cognitive patterns ("schemas").*
 
-**Compassion-Focused Therapy (CFT, Gilbert).** *Strength:* directly targets shame and self-criticism through self-compassion training and soothing-system activation (Gilbert's threat/drive/soothe model) — highly relevant given how much of CIC's own diagnostic sequence engages shame. *Weakness:* CFT's compassion is self-generated and self-directed — the client learns to be the source of their own soothing — where CIC locates comfort in being known and loved by God (Node 6, the Spirit bearing witness). This is the same anthropological tension already resolved for Person-Centered therapy above: self-as-source versus Spirit-as-source. It also matters that CIC, per Integration Rationale's explicit boundary on Welch and Thompson, treats shame as a *signal* pointing toward the covenant object underneath, not as the identity-disorder root CFT and Thompson both tend to treat it as. *Use CFT instead of CIC:* a clinical shame/self-criticism presentation in a non-faith or faith-neutral context. *Use CIC instead:* shame is being read diagnostically as a signal toward what's actually being worshipped and feared losing, not treated as the terminus of the work. *Combine:* CFT's threat/drive/soothe psychoeducation can enrich a coach's vocabulary for explaining why declaration work must be felt, not merely cognitive — additive integration, not importing CFT's self-as-source telos.
+Already extensively covered by [[Five Intervention Modalities — Definitions & Deep Elaboration]] — CIC uses schema-awareness/pause-gap training (coaching scope), not schema restructuring (clinical scope, requires trained therapist, personality-disorder-oriented).
 
-**Emotion-Focused Therapy (EFT, Greenberg — distinct from Johnson's couples EFT of the same initials).** *Strength:* a sophisticated model for differentiating primary, secondary, and instrumental emotion — a useful parallel to what CIC's own Affections Discovery (Stage 1) is trying to surface: what is actually being felt and trusted underneath the presenting emotion. *Weakness:* EFT's telos is adaptive emotional processing as an endpoint in itself — emotion is treated as self-validating information to be honored and transformed on its own terms, with no covenant reference point for whether the affection is rightly ordered in the first place. A disordered affection, in CIC's frame, needs more than differentiation and validation — it needs to be redirected toward its true object. *Use EFT instead of CIC:* attachment-injury couples work, or an individual emotion-processing need beyond coaching's scope. *Use CIC instead:* the affections need diagnostic reading against covenant truth, not just differentiation. *Combine:* EFT's primary/secondary/instrumental emotion distinction could sharpen a coach's ear during Stage 1 as additive diagnostic vocabulary, without adopting emotion-as-self-validating-telos.
+| | |
+|---|---|
+| **Strength** | Precise taxonomy of 18 maladaptive schemas, explains why cognitive techniques alone don't shift deep patterns. |
+| **Weakness** | Full restructuring is beyond coaching scope, requires clinical training. |
+| **Use Schema Therapy instead** | Personality-disorder-level entrenchment, a chronic pattern not responsive to coaching-scope interruption practice. |
+| **Use CIC instead** | Awareness/pause-gap-level work with a formation-ready client. |
+| **Combine** | CIC's Schema Interruption Practice already is a scope-bounded, coach-safe borrowing from Schema Therapy — the two aren't so much combined as CIC uses a licensed subset. |
 
-**Internal Family Systems (IFS, Schwartz).** Already directly used in CIC, with an explicit theological adaptation. *Strength:* parts language (Manager, Exile, Firefighter) maps onto the false-identity structure with real precision, and the concept of a carried "burden" — an acquired implicit belief formed through painful experience — sharpens Lie Eliminator work by naming the wounded origin a lie emerged from. *Weakness:* IFS assumes Self is inherently whole and self-generated, an unconditioned core — incompatible with a Christian anthropology as-is, and requires CIC's own theological correction: Self is the new self in Christ, Spirit-formed rather than self-generated, so that when Self speaks to a part, it speaks from covenant identity, not an inherent psychological faculty. *Use IFS instead of CIC (full clinical protocol, refer out):* significant exile activation with trauma history, inability to access Self, or Firefighter activity as the primary presenting issue. *Use CIC instead:* coaching-scope parts-awareness inside the covenant-identity frame — CIC's actual default use. *Combine:* CIC already is the combination (an adapted, coaching-scope subset); full clinical IFS is reserved for the referral-level presentations named above, not run in parallel with coaching. **Evidence:** [[Covenant Identity — Integration Rationale]].
+**Evidence:** [[Five Intervention Modalities — Definitions & Deep Elaboration]].
+
+#### Compassion-Focused Therapy (CFT, Gilbert)
+*Develops self-compassion and addresses shame and self-criticism.*
+
+| | |
+|---|---|
+| **Strength** | Directly targets shame and self-criticism via self-compassion training, soothing-system activation (three-circles model: threat/drive/soothe) — highly relevant since CIC's diagnostic sequence deals heavily with shame (though CIC treats shame as signal not root, per Welch/Thompson boundary in Integration Rationale). |
+| **Weakness** | CFT's self-compassion is self-generated/self-directed soothing, not covenant-grounded — the source of comfort in CFT is the client's own compassionate self-relating, whereas CIC locates comfort in being known and loved by God (Node 6, Spirit bearing witness) — the same anthropological tension as Person-Centered's self-generated regard. |
+| **Use CFT instead** | Clinical shame/self-criticism presentation in a non-faith or faith-neutral context. |
+| **Use CIC instead** | Shame is being worked diagnostically as a signal toward the covenant object underneath, not treated as the terminus. |
+| **Combine** | CFT's soothing-system psychoeducation (three-circles model) could enrich coach vocabulary for explaining why declaration work must be felt not just cognitive — additive integration mode, not importing CFT's self-as-source telos. |
+
+#### Rational Emotive Behavior Therapy — see the Cognitive & Behavioral Family above.
+
+#### Emotion-Focused Therapy (EFT, Greenberg)
+*Works directly with emotional experience and emotional patterns.* Distinct from Johnson's couples EFT of the same initials.
+
+| | |
+|---|---|
+| **Strength** | A sophisticated emotion-differentiation model (primary/secondary/instrumental emotions), useful parallel to CIC's Affections Discovery (Stage 1), which also surfaces what's actually being felt/trusted underneath the presenting emotion. |
+| **Weakness** | EFT's telos is emotional processing/adaptive emotion as the endpoint — emotion is treated as self-validating information to be honored and transformed on its own terms, without a covenant reference point for whether the emotion is rightly ordered. Worship-disordered affections need more than being "processed" — they need to be redirected toward the true object, per CIC's diagnostic root. |
+| **Use EFT instead** | Attachment-injury couples work or an individual emotion-processing clinical need beyond coaching scope. |
+| **Use CIC instead** | The affections need diagnostic reading against covenant truth, not just differentiation/validation. |
+| **Combine** | EFT's primary/secondary/instrumental emotion distinction could sharpen a coach's ear during Stage 1 Affections Discovery as diagnostic vocabulary — additive mode, without adopting emotion-as-self-validating-telos. |
+
+#### Internal Family Systems (IFS, Schwartz)
+*Conceptualizes the mind in terms of different "parts" and seeks greater internal integration.*
+
+Already extensively covered by [[Covenant Identity — Integration Rationale]].
+
+| | |
+|---|---|
+| **Strength** | Parts language maps onto the false identity structure with precision. |
+| **Weakness** | Self assumed inherently whole/autonomous, incompatible with Christian anthropology, requires the theological adaptation CIC already makes. |
+| **Use IFS instead** | Significant exile activation with trauma history, inability to access Self, Firefighter activity as primary presenting issue — refer (the clinical threshold stated verbatim in Integration Rationale). |
+| **Use CIC instead** | Coaching-scope parts awareness within covenant identity framing — CIC's actual default. |
+| **Combine** | CIC already is the combination (an adapted, coaching-scope subset), with full clinical IFS reserved for referral-level presentations. |
 
 ---
 
-### Systemic, Narrative & Solution Family (SFBT, Narrative Therapy, Interpersonal Therapy)
+### Systemic, Narrative & Solution Family (SFBT, Narrative Therapy, IPT)
 
-**Solution-Focused Brief Therapy (SFBT).** *Strength:* fast, practical, strengths-based — well-suited to narrow, discrete behavioral goals (the miracle question, scaling questions). *Weakness:* by design brackets the past and the "why" — precisely what CIC's diagnostic sequence exists to surface. Quick behavioral wins produced this way can leave the false covenant object underneath completely untouched — the mirror image of CIC's own "insight without formation" failure mode, but with the terms reversed (behavior without insight, rather than insight without formation). *Use SFBT instead of CIC:* the presenting need is genuinely narrow and practical — a discrete decision, a short-term goal — with no identity component. *Use CIC instead:* the presenting issue is identity- or worship-rooted, which SFBT structurally will not reach. *Combine:* SFBT's scaling questions and strengths-focus can be borrowed as coach vocabulary in Phase 4 (Mission & Fruitfulness) goal-setting work, without adopting SFBT's bracket-the-past stance for the engagement as a whole.
+#### Solution-Focused Brief Therapy (SFBT)
+*Concentrates on desired outcomes, strengths, and practical change.*
 
-**Narrative Therapy (White & Epston).** Already directly used in CIC — Narrative Re-authoring is one of the model's five named intervention modalities. *Strength:* externalization ("anxiety has been telling me," not "I am anxious") and exception-event identification give real precision to re-authoring a client's dominant story. *Weakness:* secular narrative therapy treats the client as the sole author of a self-constructed story — any coherent alternative that serves the client is treated as "true enough." CIC's own Five Intervention Modalities document already names the danger directly: a re-authored story has to be theologically *true*, grounded in Scripture and the specific work of God in the client's life, not merely preferred because it feels better. *Use Narrative Therapy instead of CIC:* a non-Christian client, or an entrenched trauma-organized narrative requiring clinical containment beyond coaching's exception-event-level use. *Use CIC instead:* a formation-ready believer — already CIC's default use of this modality. *Combine:* CIC's practice already is the combination — narrative re-authoring deployed under Scripture's governing constraint on what counts as a true story, not a free-standing secular technique. **Evidence:** [[Five Intervention Modalities — Definitions & Deep Elaboration]].
+| | |
+|---|---|
+| **Strength** | Fast, practical, strengths-based, good for narrow behavioral goals ("miracle question," scaling). |
+| **Weakness** | Doesn't address root cause/identity — by design brackets the past and the "why," which is precisely what CIC's diagnostic sequence exists to surface; can produce quick behavioral wins that don't touch the false covenant object underneath (a parallel risk to CIC's own "insight without formation" failure mode, though inverted — behavior without insight). |
+| **Use SFBT instead** | The presenting need is genuinely narrow and practical (e.g., a discrete decision, a short-term goal) with no identity component. |
+| **Use CIC instead** | The presenting issue is identity/worship-rooted, which SFBT structurally won't reach. |
+| **Combine** | SFBT's scaling questions and strengths-focus can be borrowed as coach vocabulary in CIC's Phase 4 (Mission & Fruitfulness) goal-setting work, without adopting SFBT's bracket-the-past stance. |
 
-**Interpersonal Therapy (IPT).** *Strength:* structured, time-limited (12–16 sessions), with a strong evidence base for depression tied specifically to grief, role transitions, and interpersonal disputes. *Weakness:* its evidence base and diagnostic framing are clinical — this places it on the licensed side of the Crisis & Referral Protocol's scope line, not the coaching side, and it carries no theological content. *Use IPT instead of CIC:* clinical depression triggered by grief or a role transition — an active-major-depressive-episode referral trigger (Crisis & Referral Protocol §2). *Use CIC instead:* relational or transition difficulty is present without clinical depression, and identity formation is the actual need. *Combine:* the same concurrent-care model already described for clinical-plus-coaching pairings (Crisis & Referral Protocol §6) — IPT addresses the depressive episode; CIC resumes or continues once the client is stabilized.
+#### Narrative Therapy (White & Epston)
+*Examines the stories and identities people construct around their lives.*
+
+Already directly used in CIC — see [[Five Intervention Modalities — Definitions & Deep Elaboration]] #3, Narrative Re-authoring.
+
+| | |
+|---|---|
+| **Strength** | Externalization, exception-events, re-authoring — directly imported into CIC. |
+| **Weakness** | Secular narrative therapy treats the client as sole author of a self-constructed story (any coherent alternative story is "true enough" if it serves the client) whereas CIC requires the new story be theologically true, not merely preferred (flagged explicitly in Five Intervention Modalities as "the danger to guard against"). |
+| **Use narrative therapy instead** | A non-Christian client, or an entrenched trauma-organized narrative requiring clinical containment beyond coaching's exception-event-level use. |
+| **Use CIC instead** | Formation-ready believers — this is already CIC's default use. |
+| **Combine** | CIC's practice already is the combination — narrative re-authoring deployed under Scripture's governing constraint on what counts as true. |
+
+**Evidence:** [[Five Intervention Modalities — Definitions & Deep Elaboration]].
+
+#### Interpersonal Therapy (IPT)
+*Focuses on relationships, grief, role transitions, and interpersonal difficulties.*
+
+| | |
+|---|---|
+| **Strength** | Structured, time-limited (12–16 sessions), strong evidence base for depression tied to grief, role transitions, interpersonal disputes. |
+| **Weakness** | Clinical-depression-focused evidence base and diagnostic framing means IPT belongs to the clinical/licensed side of the Crisis & Referral Protocol's line, not coaching; no theological content. |
+| **Use IPT instead** | The presenting issue is clinical depression triggered by grief/role transition (Crisis & Referral Protocol trigger: active major depressive episode → refer). |
+| **Use CIC instead** | Relational/transition difficulty is present without clinical depression, and identity formation is the actual need. |
+| **Combine** | The concurrent-care model already described in Crisis & Referral Protocol §6 — IPT (or any clinical treatment) addresses the depressive episode, CIC resumes/continues the formation work once stabilized. |
 
 ---
 
 ### Trauma-Specific & Mindfulness Family (EMDR, Exposure/PE/CPT, MBCT/MBSR)
 
-This is the family most directly governed by CIC's existing Crisis & Referral Protocol, not by this document's own judgment — every modality here sits on the clinical side of a scope line CIC has already drawn in writing.
+#### Eye Movement Desensitization and Reprocessing (EMDR)
+*Commonly used for trauma and distressing memories.*
 
-**Eye Movement Desensitization and Reprocessing (EMDR).** *Strength:* a strong, specific evidence base for trauma and PTSD, using bilateral stimulation to facilitate adaptive reprocessing of traumatic memory. Worth naming precisely: EMDR is the most clinically mainstream application of the same memory reconsolidation mechanism CIC's own Node 5 mechanism note (Nader & LeDoux; Schiller et al.) is built on — CIC and EMDR share a theory of *why* they work, even though they are not the same practice. *Weakness for CIC specifically:* EMDR is licensed-clinician-only, and the Crisis & Referral Protocol names trauma requiring "EMDR or trauma-focused therapy" as an explicit non-crisis referral trigger. This is a hard scope boundary, not a modality CIC can combine with at will. *Use EMDR instead of CIC:* any trauma-rooted presentation with PTSD symptoms or complex developmental trauma — a mandatory referral under the existing protocol, not a judgment call. *Use CIC instead:* never as a substitute for EMDR where EMDR is clinically indicated. CIC's own Stage 4b is explicitly the scope ceiling that hands off trauma-rooted, somatically dysregulated presentations to EMDR-capable clinicians rather than attempting to hold them. *Combine:* sequential, not parallel processing of the same material — EMDR (or an equivalent trauma therapy) processes the trauma; CIC resumes or continues the identity-formation layer once the client is clinically stabilized, per the same concurrent-care model used for DBT and IPT above. This is arguably the single most consequential entry in this document to get right, given how often it will come up as an actual referral decision. **Evidence:** referral trigger — [[Covenant Identity — Crisis & Referral Protocol]] §2; mechanism parallel — [[Covenant Identity — Integration Rationale]], Theory of Change section.
+| | |
+|---|---|
+| **Strength** | A strong evidence base specifically for trauma/PTSD, uses bilateral stimulation to facilitate adaptive information processing — this is literally memory reconsolidation's most clinically mainstream application (parallel to CIC's own Node 5 reconsolidation mechanism, Nader/LeDoux, cited directly in Integration Rationale and Peer Briefing). |
+| **Weakness for CIC specifically** | EMDR is licensed-clinician-only, trauma-processing technique explicitly named in the Crisis & Referral Protocol as a referral trigger ("PTSD symptoms... requiring EMDR or trauma-focused therapy") — this is a hard scope boundary, not a combine-at-will modality. |
+| **Use EMDR instead** | Any trauma-rooted presentation with PTSD symptoms or complex developmental trauma — mandatory referral per existing protocol. |
+| **Use CIC instead** | Never as a substitute for EMDR where EMDR is clinically indicated; CIC's Stage 4b is explicitly the scope ceiling that refers to EMDR-capable clinicians for trauma-rooted, somatically dysregulated presentations. |
+| **Combine** | Sequential, not concurrent-parallel in the trauma-processing sense — EMDR (or equivalent trauma therapy) processes the trauma; CIC resumes/handles the identity-formation layer once stabilized, per the same concurrent-care model as IPT/DBT above. |
 
-**Exposure Therapy / Prolonged Exposure (PE) / Cognitive Processing Therapy (CPT).** Grouped together as the other major clinical trauma- and anxiety-processing protocols. *Strength:* strong evidence bases for PTSD, phobias, and avoidance-driven anxiety specifically. *Weakness:* clinical-intensity, requiring trained delivery given real re-traumatization risk if handled without that training — squarely covered by the Crisis & Referral Protocol's "trauma requiring clinical processing" trigger. *Use these instead of CIC:* any diagnosable PTSD, phobia, or avoidance disorder — refer. *Use CIC instead:* never for active trauma processing itself; CIC's role begins after clinical stabilization, or runs concurrently addressing identity formation once the clinical work is underway. *Combine:* sequential or concurrent per the same Crisis & Referral Protocol §6 pattern already governing EMDR above.
+**This is arguably the single most important entry in this document to get right, precisely because it's a common referral-out case.**
 
-**Mindfulness-Based Cognitive Therapy (MBCT) / Mindfulness-Based Stress Reduction (MBSR).** *Strength:* strong evidence for depression relapse prevention (MBCT) and general stress reduction (MBSR); attention-training has real resonance with Gendlin's Focusing and Stage 4b's "become more present" posture already in use in CIC. *Weakness:* the contemplative frame underneath most MBCT/MBSR programs is typically secular or Buddhist-adjacent — non-dual awareness or present-moment acceptance as the aim in itself, not a covenant-relational aim. CIC's own use of present-moment attention (via Gendlin's Focusing, adapted through McMahon & Campbell's prayer-native Bio-Spiritual Focusing) is deliberately reframed away from this — borrowing MBSR content directly risks importing a competing telos the same way Siegel's neural-integration telos is already excluded elsewhere in Integration Rationale. *Use MBCT/MBSR instead of CIC:* relapse prevention for clinical depression, or a client who wants secular stress reduction with no faith content. *Use CIC instead:* present-moment attention in service of identity or formation work — CIC's Gendlin-based Focusing already provides a theologically governed equivalent. *Combine:* rarely necessary given CIC's own tool already fills this role; a client already using MBSR for medical stress reduction can continue it alongside CIC without conflict, since the two address different domains (physiological stress regulation versus identity formation). **Evidence (Focusing/Bio-Spiritual Focusing):** [[Covenant Identity — Integration Rationale]]; per user memory, seated in Stage 4b Route B.
+**Evidence:** referral trigger — [[Covenant Identity — Crisis & Referral Protocol]] §2; mechanism parallel — [[Covenant Identity — Integration Rationale]], Theory of Change section.
+
+#### Exposure Therapy / Prolonged Exposure (PE) / Cognitive Processing Therapy (CPT)
+*Gradually confronts feared situations, memories, or sensations to reduce avoidance and fear; structured trauma treatments involving exposure to memories and avoided situations; address trauma-related beliefs and interpretations.*
+
+Grouped together as trauma-and-anxiety clinical protocols.
+
+| | |
+|---|---|
+| **Strength** | A strong evidence base for PTSD, phobias, avoidance-driven anxiety. |
+| **Weakness** | Clinical-intensity, requires trained delivery given re-traumatization risk if mishandled — explicitly outside coaching scope (Crisis Protocol's "trauma requiring clinical processing" trigger covers this whole family). |
+| **Use instead of CIC** | Any diagnosable PTSD, phobia, or avoidance disorder — refer. |
+| **Use CIC instead** | Never for active trauma processing; CIC's role begins after clinical stabilization, addressing identity formation once the clinical work is done, or running concurrently per the concurrent-care model. |
+| **Combine** | Sequential/concurrent per Crisis Protocol §6, same pattern as EMDR. |
+
+#### Mindfulness-Based Cognitive Therapy (MBCT) / Mindfulness-Based Stress Reduction (MBSR)
+*Combines CBT principles with mindfulness practices; a mindfulness-oriented stress-management program.*
+
+| | |
+|---|---|
+| **Strength** | Strong evidence for relapse prevention (depression) and general stress reduction; mindfulness attention-training has some resonance with Gendlin's Focusing and Stage 4b's "become more present" posture already used in CIC. |
+| **Weakness** | MBCT/MBSR's contemplative frame is typically secular/Buddhist-adjacent (non-dual awareness as the aim) rather than covenant-relational — CIC's use of present-moment attention (via Gendlin) is explicitly reframed as prayer-native (McMahon & Campbell's Bio-Spiritual Focusing adaptation) rather than secular mindfulness; a coach borrowing MBSR content directly risks importing a competing telos (non-attachment/non-dual awareness rather than covenant security) the same way Siegel's neural-integration telos was excluded. |
+| **Use MBCT/MBSR instead** | Relapse-prevention for clinical depression, or a client who wants secular stress-reduction without faith content. |
+| **Use CIC instead** | Present-moment attention is being used for identity/formation work, since CIC's Gendlin-based Focusing already provides a theologically governed equivalent. |
+| **Combine** | Rarely needed given CIC already has its own prayer-native present-attention tool; a client already in MBSR for medical stress-reduction can continue it alongside CIC without conflict, since the two are addressing different domains (physiological stress vs. identity formation). |
+
+**Evidence (Focusing/Bio-Spiritual Focusing):** [[Covenant Identity — Integration Rationale]]; seated in Stage 4b Route B per user memory.
 
 ---
 
@@ -93,61 +318,214 @@ This is the family most directly governed by CIC's existing Crisis & Referral Pr
 
 ### Christian Psychology — CIC's Own Governing Position, Not a Comparable Model
 
-This entry is different in kind from every other entry in this document. **Christian Psychology, in Eric L. Johnson's formulation, is not a model CIC is being compared against — it is the epistemological position CIC is built on.** Integration Rationale states this directly: CIC's governing position is Johnson's Christian psychology, distinct from biblical counseling's "Scripture only," from classic integration's "psychology and theology as co-equal sources," and from "levels of explanation." Psychology is evaluated against a Christian anthropology and used only where it confirms or illuminates what Scripture already says — never as a co-equal or independent authority.
+This entry is different in kind from every other entry in this document. **Christian Psychology, in Eric L. Johnson's formulation, is not a model CIC is being compared against — it is the epistemological position CIC is built on.** Integration Rationale states this explicitly: CIC's governing position is Johnson's Christian psychology, distinct from biblical counseling's "Scripture only," from classic integration's "psychology and theology as co-equal sources," and from "levels of explanation." Psychology is evaluated against a Christian anthropology and used only where consistent with or illuminating of what Scripture already says.
 
-*What this means practically:* CIC is an applied instance of Christian Psychology delivered through a coaching (not clinical-therapy) container. There is no separate "use Johnson's approach instead of CIC" judgment to make, because CIC does not sit alongside Christian Psychology as an alternative — it sits inside it. *The one honest caution to name, already logged in Integration Rationale's own Remaining Exposure notes:* Christian Psychology as a category requires a practitioner who is both theologically and psychologically literate enough to recognize, in real time, when a contributor's observation has quietly crossed from describing mechanism into asserting a competing telos. A practitioner without that formation can hold the criteria nominally while framework assumptions travel in undetected — which is precisely why Johnson's architectural role (imago Dei as the foundational identity category governing every other contributor) is treated as load-bearing, not optional, throughout the system. **Evidence:** established CIC position — [[Covenant Identity — Integration Rationale]].
+| | |
+|---|---|
+| **What this means practically** | CIC is an applied instance of Christian Psychology within a coaching (not clinical-therapy) delivery. There is no separate "use Johnson's approach instead of CIC" judgment to make, since CIC does not sit alongside Christian Psychology as an alternative — it sits inside it. |
+| **The "weakness" to flag** | Not a weakness of CIC's use of it, but of the category generally: Christian Psychology requires practitioners with both theological and psychological literacy — the same "Remaining exposure" caution already logged in Integration Rationale. A practitioner without that formation can hold the criteria nominally while framework assumptions travel undetected. |
+
+**Evidence:** established CIC position — [[Covenant Identity — Integration Rationale]].
 
 ---
 
 ### The Nouthetic / ACBC / CCEF Family — Biblical Counseling's Three Generations
 
-These three share a common root — Jay Adams's founding of nouthetic counseling in the early 1970s — and are best understood as three points along one line of development, not three unrelated approaches. CIC's own Peer Practitioner Briefing §8 already contrasts CIC against "Biblical Counseling" as a category (reactive vs. proactive, directive vs. evocative, sin-confrontation arc vs. four-phase formation arc, risk of *performance agreement* if truth is applied ahead of readiness). What follows differentiates the three generations that category actually contains.
+Founded by Jay Adams in the early 1970s (*Competent to Counsel*, 1970; *The Christian Counselor's Manual*, 1973), and best understood as three points along one line of development rather than three unrelated approaches. CIC's Peer Practitioner Briefing §8 already contrasts CIC against "Biblical Counseling" as a category (reactive vs. proactive, directive vs. evocative, sin-confrontation arc vs. four-phase formation arc, risk of *performance agreement* if truth is applied ahead of readiness). What follows differentiates the three generations that category actually contains.
 
-**Nouthetic Counseling (Jay Adams).** *Strength:* doctrinally clear anthropology — people are moral agents, not merely products of environment — resisting the tendency to therapize away genuine responsibility; cheap, scalable, embedded in the local church with no licensure bottleneck; genuinely effective for its actual target: unrepented, willful sin patterns where a person needs someone to name the pattern plainly and call for repentance. *Weakness — stated plainly because it is the most consequential one in this document:* Adams built the model partly on behaviorist psychology (notably O. Hobart Mowrer, who denied the reality of the unconscious), and on principle excludes developmental, attachment, and trauma-neuroscience findings from counseling method. The structural result is a tendency to collapse suffering into sin — treating presenting symptoms like anxiety, dissociation, or defensiveness as evidence of unrepented sin requiring confrontation, rather than distinguishing a wound from a formation gap from an actual sin pattern. For a client with real developmental trauma, this is not merely unhelpful; a confrontational response aimed at a dysregulated nervous system that needed safety and co-regulation first can retraumatize. This is precisely the failure mode [[feedback_tripp_legalistic_tendency]] already exists to guard against in Andrew's own practice — Tripp is the second-generation, more domesticated version of this same root. *Use Nouthetic counseling instead of CIC:* a client explicitly wants Scripture-only counsel with no psychological vocabulary at all, and the presenting issue is a clear, willful, non-trauma-rooted sin pattern. *Use CIC instead:* wound-vs-sin diagnostic precision is needed — CIC's own Character Wound layer and wound-vs-formation-gap distinction (per user memory, an explicit design constraint) exist specifically to avoid this modality's central failure mode. *Combine:* not a natural pairing — the postures (confrontational vs. evocative) are close to opposite; sequencing (nouthetic-style confrontation for a specific, named, willful pattern, CIC for the surrounding identity-formation work) is more workable than concurrent use.
+#### Nouthetic Counseling (Jay Adams)
+*A historically influential biblical-counseling approach; emphasizes confronting, instructing, and encouraging from Scripture.*
 
-**ACBC-style Biblical Counseling (Association of Certified Biblical Counselors).** The institutional continuation of the nouthetic line — successor to NANC, which traces directly back to Adams. *Strength:* a rigorous, consistent certification standard, widely available through churches, low-cost or free, doctrinally predictable. *Weakness:* shares nouthetic's core commitments — Scripture-sufficiency as exclusion of secular psychological method, sin-confrontation as the primary posture — even where an individual ACBC counselor is personally gentler than classic Adams; formal ACBC training does not include clinical trauma or neuroscience content, and ACBC's own position statements have historically expressed skepticism toward trauma-informed frameworks specifically. *Use ACBC instead of CIC:* a client explicitly wants Scripture-sufficiency-only counsel, or a local church requires ACBC-credentialed care as a condition of a membership-discipline process. *Use CIC instead:* the presenting need has a developmental, attachment, or trauma dimension ACBC's framework sets aside by design. *Combine:* rare — the two share the same diagnostic root (idolatry) but differ enough in posture and evidence-inclusion that concurrent use requires both parties to be genuinely comfortable with the framework difference; this is not the natural pairing that clinical-therapy-plus-CIC is.
+Core claims: Scripture is sufficient — not just authoritative, but exhaustively adequate — for addressing personal/behavioral problems, so integration with secular psychology is treated as compromise, not supplement. Most non-organic emotional/behavioral problems are at root sin problems requiring confrontation, repentance, and behavioral change ("put off / put on," Eph. 4). The counselor's job is nouthetic confrontation — lovingly but directly naming sin and calling for repentance, deliberately more directive/confrontational than Rogerian or psychodynamic models of the era. Practiced primarily by pastors and trained lay counselors inside the local church, not credentialed clinicians. Adams leaned on behaviorist psychology (notably O. Hobart Mowrer, who denied the reality of the unconscious) to justify dismissing depth-psychology concepts like repressed trauma or unconscious drives.
 
-**CCEF-style Counseling (David Powlison and successors).** The most theologically serious and pastorally warm point on this line — distinguishes suffering from sin more carefully than classic Adams, with real depth on lament and the theology of suffering (Powlison's own writing on this is extensive). *Strength:* the closest of the biblical-counseling family to CIC's own posture; CIC already draws directly on Welch (CCEF-adjacent) for shame and fear diagnostics, per Integration Rationale. *Weakness:* still Scripture-sufficiency-as-exclusion at the institutional level — CCEF trains counselors, not coaches, and the posture remains counselor-as-wise-guide more than coach-as-evocative-partner; formally, CCEF's tradition has less developed engagement with implicit, somatic, and attachment-level material than CIC's own contributor stack (Thompson, Gendlin, memory reconsolidation) provides. *Use CCEF-style counseling instead of CIC:* a client wants a counselor — a directive wisdom figure — rather than a coach, or the presenting need is squarely sin-and-suffering processing rather than proactive identity formation. *Use CIC instead:* identity-formation focus, proactive engagement not contingent on a presenting crisis, or a need for implicit/somatic-level diagnostic tools CCEF's tradition doesn't formally supply. *Combine:* genuinely workable in sequence — a client could reasonably move from CCEF counseling in a crisis or suffering season into CIC coaching in a subsequent proactive-formation season. **Evidence (Welch):** [[Covenant Identity — Integration Rationale]].
+| | |
+|---|---|
+| **Strength** | Doctrinally clear anthropology — people are moral agents, not just products of environment, resisting over-therapizing responsibility away. Cheap, scalable, embedded in the local church, no licensure bottleneck. Genuinely effective for what it's built for: unrepented, willful sin patterns (addiction, unforgiveness, deceit) where the person needs someone to name the pattern plainly. Forces Scripture to actually govern the counseling room rather than being decorative. |
+| **Weakness — the fatal flaw relative to CIC** | Collapses suffering into sin. Classic nouthetic method treats most presenting symptoms — anxiety, dissociation, numbness, defensiveness — as evidence of unrepented sin requiring confrontation, rather than distinguishing a wound from a formation gap from an actual sin pattern. For anyone with real developmental trauma, that's not just unhelpful — it's re-traumatizing: it hands a shame-based, confrontational response to someone whose nervous system needed safety and co-regulation first. This is precisely the failure mode [[feedback_tripp_legalistic_tendency]] already exists to guard against — Tripp is the domesticated, second-generation version of this same root. Sola-scriptura-as-counseling-epistemology structurally excludes trauma neuroscience, attachment research, and developmental psychology, not because the findings are false, but on principle. |
+| **Use nouthetic counseling instead of CIC** | A client explicitly wants Scripture-sufficiency-only counsel with no psychological vocabulary at all, and the presenting issue is a clear, willful, non-trauma-rooted sin pattern. |
+| **Use CIC instead** | Wound-vs-sin diagnostic precision is needed — CIC's Character Wound layer and explicit wound-vs-formation-gap diagnosis (a design constraint already locked into the Layer 11/12 session-tool work) exist specifically to avoid this modality's central failure mode. |
+| **Combine** | Not a natural pairing — the postures (confrontational vs. evocative) are close to opposite; sequencing (nouthetic-style confrontation for a specific, named, willful pattern, CIC for the surrounding identity-formation work) is more workable than concurrent use. |
+
+#### ACBC-style Biblical Counseling
+*Counseling associated with the Association of Certified Biblical Counselors and its training/certification framework.*
+
+The institutional/certification continuation of the nouthetic tradition (successor to NANC, which itself descended from Adams).
+
+| | |
+|---|---|
+| **Strength** | Rigorous certification standard, ensuring doctrinal and methodological consistency; widely available through churches; cost-accessible. |
+| **Weakness** | Shares nouthetic's core commitments (Scripture-sufficiency-as-exclusion of secular psychology, sin-confrontation posture) even where individual ACBC counselors are gentler in practice than classic Adams. Formal training doesn't include clinical trauma/neuroscience content, and ACBC's official position statements have historically been skeptical of trauma-informed frameworks specifically. |
+| **Use ACBC instead of CIC** | A client explicitly wants Scripture-sufficiency-only counsel and no psychological vocabulary at all, or a local church requires ACBC-credentialed care as a condition of membership-discipline processes. |
+| **Use CIC instead** | The presenting need has a developmental/attachment/trauma dimension ACBC's framework structurally sets aside. |
+| **Combine** | Rare, given the two share the same diagnostic root (idolatry) but differ in posture/evidence-inclusion — a client under ACBC care wanting identity-formation coaching alongside would need both parties comfortable with the framework difference; not the natural concurrent pairing that clinical-therapy-plus-CIC is. |
+
+#### CCEF-style Counseling
+*An influential biblical-counseling tradition emphasizing Scripture, theology, suffering, sanctification, and wise understanding of people.*
+
+Powlison's line — a softer, more relational nouthetic-descendant, wisdom-literature emphasis, "everybody's a theologian and a psychologist" framing, distinguishing suffering from sin more carefully than classic Adams.
+
+| | |
+|---|---|
+| **Strength** | Theologically serious, pastorally warm, good treatment of suffering (Powlison's *God's Grace in Your Suffering* etc.), closest of the biblical-counseling family to CIC's own posture. |
+| **Weakness** | Still Scripture-sufficiency-as-exclusion at the institutional level (CCEF trains counselors, not coaches; posture remains counselor-as-wise-guide more than coach-as-evocative-partner); less developed diagnostic engagement with implicit/somatic/attachment material than CIC's contributor stack (Thompson, Gendlin, memory reconsolidation) provides. |
+| **Use CCEF-style instead of CIC** | A client wants a counselor (directive wisdom figure) rather than a coach, or the presenting need is squarely sin/suffering-processing rather than identity-formation. |
+| **Use CIC instead** | Identity-formation focus, proactive (non-crisis-contingent) engagement, or a need for implicit/somatic-level diagnostic tools CCEF's tradition doesn't formally provide. |
+| **Combine** | CIC's own contributor stack already draws on Welch (CCEF-adjacent) directly (Integration Rationale) — meaningful overlap already exists; a client could plausibly move from CCEF counseling (crisis/suffering season) into CIC coaching (proactive formation season) sequentially. |
 
 ---
 
-### The Broad Christian-Counseling Family (Christian Counseling, Integrationist Counseling, Biblical Discipleship Counseling, Pastoral Counseling)
+### The Broad Christian-Counseling Family
 
-**Christian Counseling (broad/generic label).** *Strength:* wide availability; often delivered by licensed clinicians and billable through insurance. *Weakness:* the label itself guarantees nothing about theological rigor or clinical competence — practitioners range from licensed clinicians with genuine faith integration to lightly trained church volunteers, all using the same name. Quality variance, not a specific methodological flaw, is the actual risk here. *Use instead of CIC:* licensure or insurance coverage matters, or a clinical diagnosis is present. *Use CIC instead:* a specifically architected, theologically governed, non-clinical formation methodology is wanted rather than a variable-quality generalist label. *Combine:* depends entirely on the individual practitioner — evaluate case by case, the same way any referral would be evaluated.
+#### Christian Counseling (broad/generic)
+*A broad category incorporating Christianity with counseling or psychotherapy; approaches vary substantially.*
 
-**Integrationist Christian Counseling.** The classic-integration model Integration Rationale explicitly names and positions CIC against: psychology and theology treated as co-equal sources. *Strength:* often delivered by licensed clinicians with genuine psychological training, able to hold clinical severity CIC cannot. *Weakness:* by CIC's own governing critique, treating psychology and theology as co-equal sources risks either discipline silently overriding the other with no principled arbitration rule — the exact ambiguity CIC's Confirmatory/Additive criteria were built to close. *Use instead of CIC:* a licensed clinical need where the treating therapist happens to integrate faith. *Use CIC instead:* the co-equal-sources ambiguity itself is the concern, and a Scripture-governs/psychology-serves architecture is preferred. *Combine:* the same clinical-plus-coaching concurrent-care pattern applies if the integrationist counselor is treating a diagnosable condition. **Evidence:** [[Covenant Identity — Integration Rationale]].
+Catch-all category; quality/approach varies enormously by practitioner — some are licensed clinicians with private faith integration, others are lightly-trained church counselors.
 
-**Biblical Discipleship Counseling.** A close cousin to CIC in spirit — addresses problems primarily through discipleship and community rather than a formal counseling technique. *Strength:* relationally embedded, low barrier to entry, sustainable indefinitely through ordinary church community rather than a paid, time-bounded engagement. *Weakness:* typically has no formal diagnostic architecture at all — no equivalent to Affections Discovery, Character Wound typology, or a defined stage sequence — meaning it is often well-meaning but imprecise, missing what is actually driving a pattern for lack of diagnostic tools. *Use instead of CIC:* a client already deeply embedded in a healthy discipleship community where no specific false-identity pattern has surfaced that needs naming. *Use CIC instead:* a specific, named pattern needs diagnostic precision discipleship-as-such does not provide. *Combine:* naturally complementary, not competing — CIC's own Section 2 already assumes new birth and operates *within* the church's ongoing discipleship context; CIC functions as a specialized instrument inside a broader discipleship relationship, not a replacement for it.
+| | |
+|---|---|
+| **Strength** | Wide availability, often insurance-billable if the counselor is licensed. |
+| **Weakness** | The label itself guarantees nothing about theological rigor or clinical competence — quality variance is the defining risk, not a specific methodological weakness. |
+| **Use instead of CIC** | Licensure/insurance coverage matters, or clinical diagnosis is present. |
+| **Use CIC instead** | A specifically-architected, theologically-governed, non-clinical formation methodology is wanted rather than a variable-quality generalist label. |
+| **Combine** | Depends entirely on the specific practitioner — no generalizable answer; evaluate case by case same as any referral. |
 
-**Pastoral Counseling.** Counseling by pastors, with wide training variance — some hold clinical counseling credentials, many do not — typically blending prayer, Scripture, and practical guidance without a defined methodology. *Strength:* relational trust is already established through the existing pastor–congregant relationship; spiritually integrated by default; often free. *Weakness:* the same training-variance risk as generic Christian Counseling, compounded by a real dual-relationship complication — the pastor is simultaneously the client's spiritual authority in other contexts (preaching, church discipline, sacraments), a multi-role complexity CIC's coaching container is specifically structured to avoid by keeping the relational container separate (Peer Practitioner Briefing §3, "the relational container" as its own distinct contribution from Christian Life Coaching). *Use instead of CIC:* the existing pastoral relationship itself is the primary value, or a specific pastoral function — church discipline, sacramental care — is what's actually needed. *Use CIC instead:* diagnostic precision or a defined, single-purpose, non-dual-relationship coaching container is preferred over pastoral multi-role complexity. *Combine:* often complementary by design — most CIC clients will also have an ongoing pastoral relationship; the two occupy different functional slots, not competing ones.
+#### Integrationist Christian Counseling
+*Combines Christian theology with psychological theories and clinical methods.*
+
+The classic-integration model explicitly named and positioned against in Integration Rationale's four-way table ("psychology and theology are blended as co-equal sources").
+
+| | |
+|---|---|
+| **Strength** | Often delivered by licensed clinicians with genuine psychological training, can hold clinical severity CIC cannot. |
+| **Weakness** | By CIC's own governing critique, treating psychology and theology as co-equal sources risks either discipline silently overriding the other without a principled arbitration rule — the exact position CIC was built to differ from. |
+| **Use instead of CIC** | Licensed clinical need with a therapist who happens to integrate faith. |
+| **Use CIC instead** | Whenever the co-equal-sources ambiguity itself is the concern, and a Scripture-governs-psychology-serves architecture is preferred. |
+| **Combine** | The concurrent clinical-plus-coaching pattern already established (Crisis Protocol §6) applies here too if the integrationist counselor is providing clinical care for a diagnosable condition. |
+
+#### Biblical Discipleship Counseling
+*Approaches emotional and behavioral problems primarily through discipleship, spiritual formation, and Christian community.*
+
+Close cousin to CIC in spirit — addresses problems primarily through discipleship/community rather than formal counseling technique.
+
+| | |
+|---|---|
+| **Strength** | Relationally embedded, low barrier, sustainable long-term (church community rather than paid engagement). |
+| **Weakness** | Typically has no formal diagnostic architecture at all (no equivalent to CIC's Affections Discovery, Character Wound typology, or Stage sequence) — well-meaning but often imprecise, can miss what's actually driving a pattern for lack of diagnostic tools. |
+| **Use instead of CIC** | A client already deeply embedded in a healthy discipleship community where relational discipleship is sufficient and no specific false-identity pattern has surfaced. |
+| **Use CIC instead** | A specific, named pattern needs diagnostic precision discipleship-as-such doesn't provide. |
+| **Combine** | Naturally complementary — CIC's own Section 2 assumes new birth and operates within the church's ongoing discipleship context; CIC could reasonably be positioned as a specialized instrument within a broader discipleship relationship, not a replacement for it. |
+
+#### Pastoral Counseling
+*Counseling provided by pastors or pastoral counselors, often incorporating prayer, Scripture, theology, and practical guidance.*
+
+Variable training (some pastoral-counseling-degree-holders are clinically trained, others are not), often blends prayer/Scripture/practical guidance without a specific methodology.
+
+| | |
+|---|---|
+| **Strength** | Relational trust already established (existing pastor-congregant relationship), spiritually integrated by default, often free. |
+| **Weakness** | Training variance is extreme — same risk profile as generic "Christian Counseling," compounded by potential dual-relationship complications (the pastor is also the client's spiritual authority in other contexts, which CIC's coaching-relationship boundary — Section 3, "relational container" from Christian Life Coaching — is structured to avoid). |
+| **Use instead of CIC** | The existing pastoral relationship itself is the primary value, or a specific pastoral function (church discipline, sacramental care) is what's actually needed. |
+| **Use CIC instead** | Diagnostic precision or a defined non-dual-relationship coaching container is preferred over pastoral multi-role complexity. |
+| **Combine** | Often complementary by design — many CIC clients will also have an ongoing pastoral relationship; the two are not competing for the same slot. |
 
 ---
 
 ### The Prayer-Ministry & Inner-Healing Family — Where the Real Cautions Live
 
-This is the family requiring the most direct honesty in this document, because the risk profile varies enormously across it — from entirely benign (general prayer ministry) to a genuinely serious, documented safety concern (Theophostic, and by extension the wider inner-healing category it belongs to; deliverance ministry for a different reason). Andrew's own standing preference — grace-forward, doctrinally cautious, not committed to a specific charismatic stream by default — is directly relevant to how these should be weighed for his own referral judgments.
+The risk profile varies enormously across this family — from entirely benign (general prayer ministry) to a genuinely serious, documented safety concern (Theophostic, and by extension the wider inner-healing category it belongs to; deliverance ministry for a different reason). Andrew's own standing preference — grace-forward, doctrinally cautious, not committed to a specific charismatic stream by default — is directly relevant to how these should be weighed for his own referral judgments. **See also the Governing Cautions table near the end of this document.**
 
-**Theophostic Prayer Ministry** (renamed Transformation Prayer Ministry after controversy). Identifies painful memories or beliefs and addresses them through prayer, asking Jesus to reveal truth directly at the site of the wounded memory. *Strength:* aims at something structurally similar to CIC's own Node 6 — truth must be received experientially at the site of the wound, not merely assented to cognitively. *Weakness, stated without softening:* Theophostic has drawn substantial documented criticism, including from within evangelical circles, for relying on subjective "words from God" or images received in a suggestible, emotionally activated prayer state — creating a real risk of false-memory formation and unverifiable claimed revelation functioning as authoritative content in a person's life. This is a genuine, fatal-flaw-level risk, not a stylistic difference from CIC. CIC's own model is built specifically against this risk: covenant truth in CIC is Scripture-sourced and coach-verified before it is spoken (Stage 3 — "verified against the activation requirement"), never a freshly received private revelation taken as self-authenticating. *Use Theophostic instead of CIC:* not recommended as a primary methodology without significant caution, given the documented false-memory and unverifiable-revelation risk; a client who has already had a positive personal experience with it should still be approached with the same caution applied to any unverified inner-healing claim. *Use CIC instead:* whenever the same "meet the wound with truth" aim is needed, delivered through source-verifiable, Scripture-anchored content rather than a private, unfalsifiable revelation. *Combine:* not recommended — the underlying epistemological method (private revelation content, taken as authoritative on its own terms) is in direct tension with CIC's insistence that covenant truth be verifiably Scriptural, not subjectively received.
+#### Theophostic Prayer Ministry
+*A Christian ministry approach centered on identifying and addressing painful beliefs or memories through prayer and perceived guidance from God.*
 
-**Inner Healing / Christian Inner Healing (broader category — includes Theophostic as one variant, alongside Leanne Payne's work and various other practitioners).** *Strength:* takes emotional wounds and memory seriously as a legitimate site of ministry, and forgiveness work within this tradition often has real value. *Weakness:* the same wide quality variance as generic Christian Counseling, plus an added specific risk this category shares to varying degrees with Theophostic — many inner-healing approaches rely on subjectively received guidance or imagery during prayer, without a consistent epistemological check on whether what's received is actually Scripture-consistent. Practice quality here ranges from careful and Scripture-anchored to speculative and unaccountable, and the label alone does not tell you which. *Use instead of CIC:* a specific, well-vetted practitioner personally known to be Scripture-disciplined, for forgiveness or memory work outside CIC's structured arc. *Use CIC instead:* a Scripture-verifiable, structured, non-clinical methodology is wanted instead of a variable-quality prayer-ministry approach. *Combine:* possible with a specific, known-trustworthy practitioner, evaluated case by case — the same caution as generic Christian Counseling, compounded by the revelation-epistemology risk named above.
+Renamed "Transformation Prayer Ministry" after controversy. Identifies painful memories/beliefs and addresses them through prayer, asking Jesus to reveal truth directly to the wounded memory.
 
-**Sozo Ministry** (Bethel Church origin). Identifies "lies" and spiritual obstacles through prayer, often using guided "presenting Jesus" imagery techniques. *Strength:* shares CIC's basic lie/truth diagnostic vocabulary at a surface level. *Weakness:* comes out of a broader charismatic theological stream (Bethel and NAR-adjacent) that a meaningfully large portion of the mainstream evangelical audience CIC is built for would regard as doctrinally concerning — prophetic-practice claims and guided-imagery "presenting Jesus" techniques carry the same revelation-reliance risk profile as Theophostic, layered on top of specific denominational associations. Theological vetting required here is even higher than for generic inner healing. *Use instead of CIC:* only for a client already committed to that theological stream who specifically wants ministry consistent with their own church tradition — not a general recommendation. *Use CIC instead:* the doctrinally cautious, mainstream-evangelical population CIC is actually built for, consistent with [[feedback_covenant_framework_not_reformed]]'s standing preference for grace-forward, Scripture-anchored sourcing without commitment to a specific charismatic or Reformed stream. *Combine:* not recommended, given the theological-stream mismatch — closer to "refer within their own tradition" than to a genuine combine case.
+| | |
+|---|---|
+| **Strength** | Structurally similar aim to CIC's own Node 6 (Spirit bears witness) — both hold that truth must be received experientially, not just cognitively, at the site of the wound. |
+| **Weakness — stated plainly, not softened** | Theophostic has drawn substantial criticism, including from within evangelical circles, for relying on subjective "words from God" received in a suggestible, emotionally activated state, which creates meaningful risk of false-memory formation and unverifiable claimed revelation functioning as authoritative content — a risk profile CIC's model is specifically structured against, since covenant truth in CIC is Scripture-sourced and coach-verified before being spoken (Stage 3, "verified against the activation requirement"), not a freshly-received private revelation. This is a genuine fatal-flaw-level caution, not just a stylistic difference. |
+| **Use Theophostic instead** | Essentially never recommended as a primary methodology without significant caution given the false-memory and unverifiable-revelation risk documented in critical literature; if a client has already had a positive experience with it, treat with the same caution as any unverified inner-healing claim. |
+| **Use CIC instead** | Whenever a client needs the same "meet the wound with truth" aim delivered with source-verifiable, Scripture-anchored content instead of a private, unfalsifiable revelation. |
+| **Combine** | Not recommended — the epistemological method (private revelation content) is in tension with CIC's insistence that covenant truth be verifiably Scriptural, not a subjectively received message. |
 
-**Deliverance Ministry.** Addresses problems through a spiritual-warfare / demonic-oppression framework. *Strength:* takes the spiritual-conflict dimension of Scripture seriously (Ephesians 6, etc.) in a way CIC's psychologically literate, developmental diagnostic framing might underweight for a client whose own tradition expects this vocabulary. *Weakness:* a significant, well-documented risk of misdiagnosis — attributing what is actually psychological or psychiatric (trauma, dissociation, mental illness) to demonic causation, which delays appropriate clinical care and can retraumatize a client through a mismatched intervention frame. This is a genuine pastoral-malpractice risk documented across evangelical literature, not a hypothetical concern. *Use instead of CIC:* only under seasoned, theologically careful pastoral oversight, and only after psychological or psychiatric causes have been appropriately ruled out or are being addressed alongside it. *Use CIC instead:* CIC's own diagnostic architecture (Affections Discovery, false identity naming, Character Wound typology) already accounts for the human/psychological mechanism of bondage without requiring a deliverance frame, and its Crisis & Referral Protocol routes genuinely clinical presentations — psychosis, severe dissociation — to clinical care rather than spiritual-warfare intervention, a structural safeguard deliverance ministry as a category often lacks. *Combine:* not a default recommendation; if a client's own tradition includes deliverance ministry and they want it alongside CIC, this needs an explicit conversation about what each practice is and is not addressing — the same care given to any concurrent-care conversation with clinical therapy, not less.
+#### Inner Healing / Christian Inner Healing
+*Various Christian approaches involving prayer, forgiveness, healing of memories, and spiritual restoration.*
 
-**Prayer Ministry (general, undefined method).** *Strength:* universally accessible, theologically uncontroversial in its basic form — intercession, presence, support. *Weakness:* no diagnostic architecture at all, by design; general and supportive rather than precise. *Use instead of CIC:* as ongoing spiritual support alongside any other modality — always appropriate. *Use CIC instead:* the presenting need requires actual diagnostic precision, not just prayer support. *Combine:* always compatible — general prayer ministry does not compete with CIC for the same function, and CIC's own between-session library already includes prayer-based practices.
+Broader category, includes Theophostic as one variant, also Leanne Payne, Ed Smith's various successors, etc.
+
+| | |
+|---|---|
+| **Strength** | Takes emotional wounds and memory seriously as a legitimate site of ministry, often includes forgiveness work with real value. |
+| **Weakness** | Wide quality variance similar to generic Christian Counseling, but with an added specific risk: many inner-healing approaches share Theophostic's reliance on subjectively received guidance/imagery during prayer, without a consistent epistemological check on whether what's received is actually Scripture-consistent; practices vary from careful and Scripture-anchored to speculative and unaccountable. |
+| **Use instead of CIC** | A specific, well-vetted inner-healing practitioner known personally to be Scripture-disciplined, for forgiveness/memory work outside CIC's structured arc. |
+| **Use CIC instead** | A Scripture-verifiable, non-clinical, structured methodology is wanted instead of a variable-quality prayer-ministry approach. |
+| **Combine** | Possible with a specific known-trustworthy practitioner, evaluated case by case — same caution as generic Christian Counseling, compounded by the revelation-epistemology risk above. |
+
+#### Sozo Ministry
+*A charismatic Christian prayer ministry approach focused on identifying and addressing internal/spiritual obstacles.*
+
+Bethel Church origin. Identifies and addresses "lies" and spiritual obstacles through prayer, often using "presenting Jesus" imagery techniques.
+
+| | |
+|---|---|
+| **Strength** | Shares CIC's basic lie/truth diagnostic vocabulary at a surface level. |
+| **Weakness** | Comes out of a broader charismatic theological stream (Bethel/NAR-adjacent) that a meaningfully large swath of the evangelical world CIC's target audience comes from would regard as doctrinally concerning (prophetic practices, "presenting Jesus" guided-imagery techniques functioning similarly to Theophostic's revelation-reliance risk); theological vetting required is even higher than generic inner healing given the specific doctrinal associations. |
+| **Use instead of CIC** | Only for a client already committed to that theological stream who wants ministry consistent with their own church tradition — not a general recommendation. |
+| **Use CIC instead** | The doctrinally-cautious mainstream evangelical population CIC is actually built for, per [[feedback_covenant_framework_not_reformed]]'s standing preference for grace-forward, Scripture-anchored sources without commitment to a specific stream. |
+| **Combine** | Not recommended given the theological-stream mismatch; closer to a "different tradition, refer within their own stream" situation than a combine case. |
+
+#### Deliverance Ministry
+*Approaches problems partly or primarily through spiritual warfare, demonic oppression, or deliverance.*
+
+| | |
+|---|---|
+| **Strength** | Takes the spiritual-conflict dimension of Scripture seriously (Ephesians 6, etc.) in traditions where CIC's psychologically-literate, developmental framing might underweight it. |
+| **Weakness** | Significant risk of misdiagnosis — attributing what is actually psychological/psychiatric (trauma, dissociation, mental illness) to demonic causation, delaying appropriate clinical care, and potentially re-traumatizing a client through an inappropriate deliverance framework; this is a genuinely serious pastoral-malpractice risk documented across evangelical literature. |
+| **Use instead of CIC** | Only under seasoned, theologically careful pastoral oversight, and only after clinical/psychological causes have been appropriately ruled out or addressed alongside. |
+| **Use CIC instead** | CIC's entire diagnostic architecture (Affections Discovery, false identity, Character Wound) already accounts for the human/psychological mechanism of bondage without needing a deliverance frame, and its Crisis & Referral Protocol routes genuine clinical presentations (psychosis, dissociation) to clinical care rather than spiritual-warfare intervention — a structural safeguard deliverance ministry as a category often lacks. |
+| **Combine** | Not recommended as a default; if a client's own tradition includes deliverance ministry and they want it alongside CIC, treat this as a case requiring explicit discussion of what each is and is not addressing, similar to concurrent-care conversations with clinical therapy. |
+
+#### Prayer Ministry (general, undefined method)
+*Prayer-centered support addressing emotional, relational, spiritual, and life difficulties.*
+
+| | |
+|---|---|
+| **Strength** | Universally accessible, theologically uncontroversial in its basic form (intercession, presence, support). |
+| **Weakness** | No diagnostic architecture at all — by design general and supportive rather than precise. |
+| **Use instead of CIC** | As ongoing spiritual support alongside any other modality, always appropriate. |
+| **Use CIC instead** | The presenting need requires actual diagnostic precision, not just prayer support. |
+| **Combine** | Always compatible — prayer ministry is not competing with CIC for the same function; CIC's own between-session library includes prayer-based practices. |
 
 ---
 
 ### Spiritual Direction
+*Focuses on a person's relationship with God and discernment of spiritual life rather than primarily treating mental disorders.*
 
-Already covered at category level in Peer Practitioner Briefing §8; restated here for completeness of this document's format. *Strength:* attentive, unstructured accompaniment without pressure to resolve a specific pattern — genuinely valuable, low-risk, long-term. *Weakness (stated in the existing CIC document):* "a person can be directed for years without their specific false identity ever named" — spiritual direction has no diagnostic tools and no structured arc by design. *Use instead of CIC:* ongoing, unhurried accompaniment is what's wanted, with no urgency to resolve a specific named pattern. *Use CIC instead:* a named false identity needs closing — the outcome specificity spiritual direction does not aim at. *Combine:* highly compatible, and the more common real-world case — many CIC clients will have an ongoing spiritual director; the two occupy genuinely different functions, not overlapping ones. **Evidence:** established CIC position — [[Covenant Identity Coaching — Peer Practitioner Briefing]] §8.
+Already covered at high level in Peer Practitioner Briefing §8; restated here for completeness of this document's format.
+
+| | |
+|---|---|
+| **Strength** | Valuable long-term accompaniment, low risk, doesn't over-diagnose. Attentive — accompanies without directing toward a specific destination, unstructured, pace-of-the-Spirit. |
+| **Weakness — per the existing CIC document** | "A person can be directed for years without their specific false identity ever named" — spiritual direction has no diagnostic tools and no structured arc by design. |
+| **Use instead of CIC** | Ongoing, unhurried accompaniment without urgency to resolve a specific pattern is what's wanted. |
+| **Use CIC instead** | A named false identity needs to be closed — the outcome specificity spiritual direction does not aim at. |
+| **Combine** | Highly compatible — many CIC clients will have an ongoing spiritual director; the two occupy genuinely different functions, not overlapping ones (Peer Briefing already states this explicitly). |
+
+**Evidence:** established CIC position — [[Covenant Identity Coaching — Peer Practitioner Briefing]] §8.
 
 ---
 
 ### Christian 12-Step Programs
+*Christian adaptations of recovery-oriented 12-step approaches.*
 
-*Strength:* an unmatched track record and community-support structure specifically for addiction, including a peer-accountability model CIC's one-on-one, time-bounded coaching relationship does not replicate. *Weakness:* addiction-specific by design — does not generalize to non-addictive identity-formation needs; the steps-based framework, while theologically compatible, is not built for the same diagnostic precision (naming a specific false covenant object) CIC's Affections Discovery provides. *Use instead of CIC:* active addiction is the presenting issue — the community and accountability structure is likely necessary regardless of what else is happening. *Use CIC instead:* identity-formation needs beyond or after the addiction-specific work. *Combine:* a strong, natural fit — CIC's diagnostic work on the false covenant object underneath an addiction (what the substance or behavior is actually substituting for) complements 12-step's behavioral and community recovery structure directly. Unlike most of the clinical-referral pairings above, this one is often genuinely concurrent rather than strictly sequential, since a 12-step program's meeting structure continues indefinitely alongside a time-bounded CIC engagement.
+Recovery-oriented, addiction-specific, community/accountability-structured, step-based confession and surrender model.
+
+| | |
+|---|---|
+| **Strength** | Unmatched track record and community-support structure specifically for addiction; peer-accountability model CIC's coaching relationship (one-on-one, time-bounded engagement) doesn't replicate. |
+| **Weakness** | Addiction-specific — doesn't generalize to non-addictive identity-formation needs; steps-based framework, while theologically compatible, isn't built for the same diagnostic precision (naming a specific false covenant object) CIC's Affections Discovery provides. |
+| **Use instead of CIC** | Active addiction is the presenting issue — 12-step's community/accountability structure is likely necessary regardless of what else is happening. |
+| **Use CIC instead** | Identity-formation needs beyond or after the addiction-specific work. |
+| **Combine** | Strong natural fit — CIC's diagnostic work on the false covenant object underneath an addiction (what the substance/behavior is actually substituting for) complements 12-step's behavioral/community recovery structure; one of the more natural concurrent pairings, since 12-step's ongoing meeting structure continues indefinitely alongside a time-bounded CIC engagement. |
 
 ---
 
