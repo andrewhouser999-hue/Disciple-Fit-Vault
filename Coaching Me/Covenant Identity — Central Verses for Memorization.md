@@ -20,6 +20,9 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 **Philippians 2:12-13** — "Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling, for it is God who works in you, both to will and to work for his good pleasure."
 *The definitive/progressive frame — God's prior work is the ground and power of ongoing effort, not either/or.*
 
+**Philippians 2:12-13 — CIC working paraphrase** — "Work out your own salvation with the gravity befitting one who cooperates with the living God, whose holiness and purposes are not to be handled casually. For it is God who works in you, both to will and to work for his good pleasure."
+*The Sanctification Module's standing paraphrase, used consistently across the Teacher's Manual, Client Study, Session Facilitation Guide, and Practice Reference Card. "Fear and trembling" (phobos kai tromos) is replaced deliberately: in trauma-prevalent populations, "fear" language tends to activate shame or hypervigilance rather than the sober, reverential posture Paul intends — the weight of knowing who you are cooperating with, not terror at losing standing. The unmodified ESV text above remains the text of record; this is the client-facing/teaching form.*
+
 **Romans 6:11** — "So you also must consider yourselves dead to sin and alive to God in Christ Jesus."
 *Logizomai — the reckoning bridge between positional identity (finished) and identity formation (ongoing). Handle with care: this is not license for self-talk/positive-thinking — the force is "you are dead to sin, stop transacting with it," not "speak it until true."*
 
@@ -82,4 +85,4 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 
 ---
 
-*17 verses total. Wording is ESV, transcribed from the source documents above — cross-check against ESV.org before quoting in client-facing or public material, per the same standing caution on [[Daily Encouragement Scriptures (ESV)]].*
+*17 verses total (18 entries — Philippians 2:12-13 appears twice: the ESV text and the CIC working paraphrase used in client-facing material). Wording is ESV, transcribed from the source documents above — cross-check against ESV.org before quoting in client-facing or public material, per the same standing caution on [[Daily Encouragement Scriptures (ESV)]].*
