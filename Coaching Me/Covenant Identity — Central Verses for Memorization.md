@@ -1,6 +1,6 @@
 ---
 created: 2026-08-25
-basis: "[[Covenant Identity — Biblical Foundations Index]] Sections 1-5 (governing frame, diagnostic layer, content layer, telos, implementation layer); [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]]; [[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]"
+basis: "[[Covenant Identity — Biblical Foundations Index]] Sections 1-5 (governing frame, diagnostic layer, content layer, telos, implementation layer); [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]]; [[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]; [[Covenant Identity Coaching — Peer Practitioner Briefing]] §1 (Category 6 — Inner Man / Christ's mission statement, not yet in the Index); [[Covenant Identity — Whole-Person Identity Framework]] (Matthew 22:37 double-duty note); [[Covenant Identity — The Interior Life as Telos]] (Psalm 42 double-duty note)"
 tags: [coaching-me, covenant-identity, scripture-memory]
 ---
 
@@ -8,7 +8,7 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 
 **What this is:** The load-bearing scripture texts the CIC model's own architecture rests on — one text per structural decision, curated from the Biblical Foundations Index rather than duplicating its full table. Distinct from [[Daily Encouragement Scriptures (ESV)]] (general personal encouragement, 47 verses) and [[Covenant Identity — New Covenant Promise Map - Me]] (the full 35-promise client/coach worksheet across 7 lie categories) — this is narrower and structural: the verses that explain *why the model is built the way it is*, worth carrying by memory for fluency when teaching or defending the model, not for daily devotional variety.
 
-**How to use:** Five categories, mirroring the Index's own sections. Memorize category by category — each category's texts build a single argument, so they hold together better in memory as a set than individually.
+**How to use:** Six categories. The first five mirror the Biblical Foundations Index's own sections. The sixth (Inner Man) draws instead from [[Covenant Identity Coaching — Peer Practitioner Briefing]] §1 — its content has not yet been folded into the Index as its own row; flagged there as an open item, not silently treated as equivalent status to the other five. Memorize category by category — each category's texts build a single argument, so they hold together better in memory as a set than individually.
 
 ---
 
@@ -31,7 +31,7 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 ## 2. Diagnostic Layer — why the model enters through affections, not behavior
 
 **Matthew 22:37** — "You shall love the Lord your God with all your heart and with all your soul and with all your mind."
-*What is loved and treasured reveals functional identity beneath behavior.*
+*What is loved and treasured reveals functional identity beneath behavior. Does double duty: heart, soul, and mind named together as the whole person's love-capacity — the closest single-verse anchor for the Whole-Person Identity Framework's soul-faculties claim (see [[Covenant Identity — Whole-Person Identity Framework]] Part 1), though that document's faculty table itself is psychological synthesis, not individually verse-anchored per faculty.*
 
 **Jeremiah 2:13** — "for my people have committed two evils: they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns that can hold no water."
 *Functional exclusion — self-reliant cisterns that leak.*
@@ -46,7 +46,7 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 *The receptivity precondition — humility, broken self-sufficiency, living under the weight of God's word.*
 
 **James 1:22-24** — "But be doers of the word, and not hearers only, deceiving yourselves. For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. For he looks at himself and goes away and at once forgets what he was like."
-*The functional/confessional gap named scripturally — hearing or even seeing truth without it becoming operative is self-deception (paralogizomenoi), not mere incompleteness.*
+*The functional/confessional gap named scripturally — hearing or even seeing truth without it becoming operative is self-deception (paralogizomenoi), not mere incompleteness. This is the closest documented anchor for "the Word reaching implicit patterns," and its limit should stay in view: the text establishes that the gap between confessional (explicit) and functional (implicit) belief exists — it does not explain the mechanism by which the Word closes that gap. That mechanism is carried by Thompson's explicit/implicit memory distinction, not by this text itself (per [[Covenant Identity — Biblical Foundations Index]] Section 2, Row 5). No scripture text currently in CIC documentation makes a direct claim about the Word operating on implicit memory as such — treat that as an open gap, not a settled claim, until one is deliberately sourced.*
 
 ---
 
@@ -68,14 +68,17 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 ## 4. Implementation Layer — the shared shape of Identity Installer and Lie Eliminator
 
 **Ephesians 4:22-24** — "to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires, and to be renewed in the spirit of your minds, and to put on the new self, created after the likeness of God in true righteousness and holiness."
-*Renounce / Renew / Receive — the three-movement shape both tools are built on.*
+*Renounce / Renew / Receive — the three-movement shape both tools are built on. Note the mind named explicitly here too ("the spirit of your minds") — paired below with Romans 12:2 as the model's two direct mind-renewal texts.*
+
+**Romans 12:2** — "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect."
+*The mind named directly as the site of transformation. Paired with Ephesians 4:22-24 as the model's formational, present-tense, cooperative texts (as distinct from the positional texts in Category 1) — [[Covenant Identity — Biblical Foundations Index]] Section 1, Row 3.*
 
 ---
 
 ## 5. The Biblical Pattern of Self-Declaration — why speaking truth aloud is warranted
 
 **Psalm 42:5** (refrain repeated 42:11, 43:5) — "Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God."
-*Spoken, repeated, first-person self-address — commanded from inside unresolved grief, not from a settled state.*
+*Spoken, repeated, first-person self-address — commanded from inside unresolved grief, not from a settled state. Does double duty: the same psalm's turmoil-named-and-addressed pattern (42:3, 11 — tears, longing, the soul in turmoil) is the supporting text behind the Interior Life telos quality "Moved Without Being Swept" ([[Covenant Identity — The Interior Life as Telos]]) — emotion treated as data to be felt and addressed, not noise to be suppressed. That supporting-text status is "Assumed," not "Developed," per the Biblical Foundations Index Section 4.*
 
 **Psalm 103:1-2** — "Bless the LORD, O my soul, and all that is within me, bless his holy name! Bless the LORD, O my soul, and forget not all his benefits."
 *Self-address bracketing a rehearsal of specific already-true realities — the closest structural parallel to Identity Installer's actual form.*
@@ -85,4 +88,28 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 
 ---
 
-*17 verses total (18 entries — Philippians 2:12-13 appears twice: the ESV text and the CIC working paraphrase used in client-facing material). Wording is ESV, transcribed from the source documents above — cross-check against ESV.org before quoting in client-facing or public material, per the same standing caution on [[Daily Encouragement Scriptures (ESV)]].*
+## 6. The Inner Man — Christ's Own Mission Statement, and the New Covenant Site of Renewal
+
+**Isaiah 61:1-2** — "The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound..."
+*Christ's own mission statement, read first in the Nazareth synagogue. Inward conditions — the brokenhearted, the captive in heart — are named before outward ones. Luke's quotation of this text (below) is a composite, fusing in "set at liberty those who are oppressed" from Isaiah 58:6.*
+
+**Luke 4:18-19** — "The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord's favor."
+*Christ applies Isaiah 61 directly to Himself and declares it fulfilled "today" (v. 21, not quoted here) — at the outset of His public ministry, the inner condition of a person is where He points first, not a secondary concern He gets to eventually.*
+
+**2 Corinthians 4:16** — "So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day."
+*Paul does not treat inner/outer as metaphor — he names them as distinct categories and locates ongoing transformation specifically in the inner one.*
+
+**Ephesians 3:16** — "...that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being..."
+*The Spirit's strengthening work is located in the inner being by name — the same site 2 Corinthians 4:16 names.*
+
+**Ezekiel 36:26-27** — "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules."
+*New heart and new Spirit come first — obedience follows as their result, not their cause. Same covenant grammar as Exodus 20 (Category 1) and the same claim as Isaiah 61: the inner man is where God does His defining work, and behavior follows from there.*
+
+**Jeremiah 31:33** — "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people."
+*The New Covenant relocates the law's site — not new content, but a new place where it takes root: the heart itself, not an upgrade of instruction.*
+
+*This category's full treatment lives in [[Covenant Identity Coaching — Peer Practitioner Briefing]] §1 ("Christ's own mission statement: the inner man, named first" through "The new covenant promise: a new heart, not new information") — a Model Foundation document, not yet cross-referenced as its own row in the Biblical Foundations Index. Worth closing that gap there rather than treating this category's texts as carrying the same "Developed" status as Categories 1-5.*
+
+---
+
+*24 verses total (25 entries — Philippians 2:12-13 appears twice: the ESV text and the CIC working paraphrase used in client-facing material). Wording is ESV, transcribed from the source documents above — cross-check against ESV.org before quoting in client-facing or public material, per the same standing caution on [[Daily Encouragement Scriptures (ESV)]].*
