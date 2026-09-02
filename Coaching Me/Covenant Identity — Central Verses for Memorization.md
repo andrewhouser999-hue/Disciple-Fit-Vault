@@ -1,6 +1,6 @@
 ---
 created: 2026-08-25
-basis: "[[Covenant Identity — Biblical Foundations Index]] Sections 1-5 (governing frame, diagnostic layer, content layer, telos, implementation layer); [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]]; [[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]; [[Covenant Identity Coaching — Peer Practitioner Briefing]] §1 (Category 6 — Inner Man / Christ's mission statement, not yet in the Index); [[Covenant Identity — Whole-Person Identity Framework]] (Matthew 22:37 double-duty note); [[Covenant Identity — The Interior Life as Telos]] (Psalm 42 double-duty note)"
+basis: "[[Covenant Identity — Biblical Foundations Index]] Sections 1-5 (governing frame, diagnostic layer, content layer, telos, implementation layer); [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]]; [[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]; [[Covenant Identity Coaching — Peer Practitioner Briefing]] §1 (Category 6 — Inner Man / Christ's mission statement, not yet in the Index); [[Covenant Identity — Whole-Person Identity Framework]] (Matthew 22:37 double-duty note); [[Covenant Identity — The Interior Life as Telos]] (Psalm 42 double-duty note); 2026-09-01 /bible research — inner man/heart lexical bridge (Eph 3:16-17), Hidden Heart text cluster (Category 7: Ps 19:12, Prov 20:5, Heb 4:12, Heb 4:16), not yet in the Index"
 tags: [coaching-me, covenant-identity, scripture-memory]
 ---
 
@@ -8,7 +8,7 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 
 **What this is:** The load-bearing scripture texts the CIC model's own architecture rests on — one text per structural decision, curated from the Biblical Foundations Index rather than duplicating its full table. Distinct from [[Daily Encouragement Scriptures (ESV)]] (general personal encouragement, 47 verses) and [[Covenant Identity — New Covenant Promise Map - Me]] (the full 35-promise client/coach worksheet across 7 lie categories) — this is narrower and structural: the verses that explain *why the model is built the way it is*, worth carrying by memory for fluency when teaching or defending the model, not for daily devotional variety.
 
-**How to use:** Six categories. The first five mirror the Biblical Foundations Index's own sections. The sixth (Inner Man) draws instead from [[Covenant Identity Coaching — Peer Practitioner Briefing]] §1 — its content has not yet been folded into the Index as its own row; flagged there as an open item, not silently treated as equivalent status to the other five. Memorize category by category — each category's texts build a single argument, so they hold together better in memory as a set than individually.
+**How to use:** Seven categories. The first five mirror the Biblical Foundations Index's own sections. The sixth (Inner Man) draws instead from [[Covenant Identity Coaching — Peer Practitioner Briefing]] §1; the seventh (Hidden Heart) draws from a 2026-09-01 /bible research session. Neither six nor seven has yet been folded into the Index as its own row — flagged there as open items, not silently treated as equivalent status to the other five. Memorize category by category — each category's texts build a single argument, so they hold together better in memory as a set than individually.
 
 ---
 
@@ -39,8 +39,8 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 **Isaiah 31:1** — "Woe to those who go down to Egypt for help and rely on horses, who trust in chariots because they are many and in horsemen because they are very strong, but do not look to the Holy One of Israel or consult the LORD!"
 *God can be functionally excluded from a domain without being denied — practical, not theoretical, atheism.*
 
-**Jeremiah 17:9** — "The heart is deceitful above all things, and desperately sick; who can understand it?"
-*The heart cannot accurately diagnose or heal itself.*
+**Jeremiah 17:9-10** — "The heart is deceitful above all things, and desperately sick; who can understand it? I the LORD search the heart and test the mind, to give every man according to his ways, according to the fruit of his deeds."
+*The heart cannot accurately diagnose or heal itself. Verse 10 completes the thought Category 2 usually stops short of: the heart that can't be understood by the person carrying it is nonetheless fully searched and tested by God — the diagnostic gap has an answer, just not a self-supplied one. See Category 7 for the fuller "hidden heart" text cluster this verse belongs to.*
 
 **Isaiah 66:2b** — "But this is the one to whom I will look: he who is humble and contrite in spirit and trembles at my word."
 *The receptivity precondition — humility, broken self-sufficiency, living under the weight of God's word.*
@@ -99,8 +99,8 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 **2 Corinthians 4:16** — "So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day."
 *Paul does not treat inner/outer as metaphor — he names them as distinct categories and locates ongoing transformation specifically in the inner one.*
 
-**Ephesians 3:16** — "...that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being..."
-*The Spirit's strengthening work is located in the inner being by name — the same site 2 Corinthians 4:16 names.*
+**Ephesians 3:16-17** — "...that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being, so that Christ may dwell in your hearts through faith..."
+*The single strongest textual anchor for "inner man ≈ heart" in Paul's own usage: this is one sentence, not two claims. The Spirit's strengthening of the "inner man" (v.16) and Christ's dwelling in the "heart" (v.17) are joined by hina ("so that") as one continuous thought — Paul moves from inner-man language to heart language describing the same site, not introducing a second, different faculty. (2026-09-01 /bible research.)*
 
 **Ezekiel 36:26-27** — "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules."
 *New heart and new Spirit come first — obedience follows as their result, not their cause. Same covenant grammar as Exodus 20 (Category 1) and the same claim as Isaiah 61: the inner man is where God does His defining work, and behavior follows from there.*
@@ -112,4 +112,22 @@ tags: [coaching-me, covenant-identity, scripture-memory]
 
 ---
 
-*24 verses total (25 entries — Philippians 2:12-13 appears twice: the ESV text and the CIC working paraphrase used in client-facing material). Wording is ESV, transcribed from the source documents above — cross-check against ESV.org before quoting in client-facing or public material, per the same standing caution on [[Daily Encouragement Scriptures (ESV)]].*
+## 7. The Hidden Heart — Self-Opacity, and How It Is Reached
+
+**Psalm 19:12** — "Who can discern his errors? Declare me innocent from hidden faults."
+*The heart's true content (nistarot, "hidden things") is not fully visible to the person carrying it — the psalmist asks God to reveal what his own self-examination cannot find.*
+
+**Proverbs 20:5** — "The purpose in a man's heart is like deep water, but a man of understanding will draw it out."
+*The closest OT text to a coaching claim as such: the heart's content is not surface-accessible, but a skilled other can bring it up. A claim that depth and inaccessibility are not the same as permanent inaccessibility — not a claim about mechanism.*
+
+**Hebrews 4:12** — "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart."
+*The strongest available text for the Word reaching what ordinary self-examination cannot reach — the Word itself does the dividing and discerning, not the person's own insight. See the caution below on what this text does and doesn't establish.*
+
+**Hebrews 4:16** — "Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need."
+*Andrew's own observation (2026-09-01), preserved as a design note: "drawing near" names the human-side posture — the condition the person creates — that the preceding verse's Word-work and the Spirit's work operate within. A live candidate for grounding the Sanctification Module's "the disciplines create the conditions; the Spirit transforms" language (Teacher's Manual §XII; Client Study; Session Facilitation Guide), which currently has no scripture anchor anywhere in the module's own documents.*
+
+*Two cautions on this whole category, carried over from the 2026-09-01 /bible research session that surfaced these texts: **(1) Container vs. aspectival** — these texts support "the heart is opaque, self-inaccessible content requiring external disclosure," which is well warranted. They do not by themselves support a container model where "implicit/subconscious" is a component sitting inside "heart" alongside other components — most contemporary OT/NT anthropology (Wolff, Ladd, Fee) reads "heart" as the whole person named from one angle, not a machine built of separable parts. **(2) Referent vs. concept** — these texts describe the same kind of person modern psychology also describes, but they do not describe a mechanism (encoding, procedural memory, reconsolidation) the way neuroscience does. Treat the correlation as real at the level of the phenomenon, not as proof the biblical authors meant "implicit memory" in the clinical sense. Status in the Biblical Foundations Index: Assumed, not Developed — verses identified, full exegetical write-up not yet built as a standalone document.*
+
+---
+
+*28 verses total (29 entries — Philippians 2:12-13 appears twice: the ESV text and the CIC working paraphrase used in client-facing material). Wording is ESV, transcribed from the source documents above — cross-check against ESV.org before quoting in client-facing or public material, per the same standing caution on [[Daily Encouragement Scriptures (ESV)]].*
