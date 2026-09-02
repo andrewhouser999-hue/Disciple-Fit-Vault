@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "Original content basis TBD; updated 2026-07-15 to add a Pattern Origin (non-injury) row to the Verbal In-Session Follow-Up Areas table, parallel to the existing Schema Origin row — this form previously had zero coverage of the Wound-Led/Vision-Led Entry Fork or the Character Wound Deepening conditionality corrected the same day in [[Covenant Identity — Character Wound Diagnostic Tool]]"
+basis: "Original content basis TBD; updated 2026-07-15 to add a Pattern Origin (non-injury) row to the Verbal In-Session Follow-Up Areas table, parallel to the existing Schema Origin row — this form previously had zero coverage of the Wound-Led/Vision-Led Entry Fork or the Character Wound Deepening conditionality corrected the same day in [[Covenant Identity — Character Wound Diagnostic Tool]]; updated 2026-09-02 to add a Welcome Page instruction inviting the Holy Spirit to search the heart and bring things to mind before the client answers — self-diagnosis is unreliable on its own (Ps 139:23-24); the client's responsibility is honesty with what surfaces, the Spirit's is showing what's true"
 
 # Covenant Identity Intake — Tally Build Guide
 *Tier 2 of the two-tier intake system. Sent after the discovery call confirms fit — not before. For design rationale, diagnostic targets, and full annotations see: Covenant Identity Intake — Design Basis & Annotation.md*
@@ -32,6 +32,8 @@ basis: "Original content basis TBD; updated 2026-07-15 to add a Pattern Origin (
 Before our first session together, I'd like to learn about where you are — not just what you're working on, but what's actually happening beneath the surface.
 
 This form takes about 12-15 minutes to complete. There are no right answers. The goal is honesty, not presentation. Bring the real thing.
+
+Before you start, ask the Holy Spirit to bring these things to mind — self-reflection alone can miss what's really there, but He knows your heart fully (Psalm 139:23-24). Your part is honesty with whatever surfaces; His part is showing you what's true.
 
 Your responses come directly to me and are held in complete confidence. I'll review them before we meet so we can go deeper from the first minute together.
 
