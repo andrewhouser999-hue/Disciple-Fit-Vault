@@ -530,6 +530,21 @@ Portable paste-anywhere drill (not a Claude Code skill) for rapid recall of the 
 **✅ AI Prompt — Biblical Foundations Index.md**
 Generation prompt for the single index mapping each architectural/methodological decision in the CI model to its scriptural grounding and full-exegesis location; six sections; embeds the 2026-06-11 /bible research (Rom 6:11, Isa 28:14-18, James 1:22-24, Deut 6/8 rehearsal pattern); flags one gap and two contested fault lines. Built 2026-06-12.
 
+**✅ AI Prompt — Signal Recognition Drill.md**
+Portable version of `/cic-signal-drill`: narrow-scope drill testing only the entry-and-fork read right after covenant truth is spoken — Stage 3 holding vs. 4a vs. 4b, then Route A vs. Route B if 4b. Built 2026-07-20.
+
+**✅ AI Prompt — Implicit Signal & State Tracking Drill.md**
+Portable version of `/cic-tracking-drill`: drills Category 1 Tracking only (reading raw implicit signals across the six-channel vocabulary and naming the AEDP state indicated), independent of stage or route classification. Built 2026-08-07.
+
+**✅ AI Prompt — Felt Juxtaposition Verification Drill.md**
+Portable version of `/cic-juxtaposition-drill`: tests whether a client's response right after covenant truth is spoken is Cognitive Holding, Felt Engagement, or Insufficient, plus a next-session re-access variant. Built 2026-08-25.
+
+**✅ AI Prompt — The Inner Man — Biblical Foundations and Position Paper.md**
+Generation prompt for a practitioner position paper on what Scripture establishes (and does not establish) about the inner man/heart, man's and God's relationship to it, and a wider biblical-vocabulary survey (nous, human pneuma, psychē/nephesh, syneidēsis, splanchna, sarx) — built from a three-turn 2026-09-01–02 /bible + /scrutinize research thread. Built 2026-09-02. Run same day — see the finished paper below.
+
+**✅ Covenant Identity — The Inner Man — Biblical Foundations and Position Paper.md** (06 — Practitioner Reference)
+Practitioner position paper answering what Scripture establishes and does not establish about the inner man — resolves two open tensions from its own research thread rather than leaving them as caveats: the container-vs-aspectival question (position: aspectival — heart/mind/spirit/soul/conscience are overlapping vocabularies for one person, not stacked components) and the guardable-vs-opaque heart tension (position: partial, culpable, non-exhaustive self-access, not opacity alone — a correction of this thread's own earlier framing). Vocabulary survey of nous, human pneuma, psychē/nephesh, syneidēsis, splanchna, and sarx beyond heart/inner-man. Wider-literature section confidence-graded (confirmed: Willard, Wolff, Green; adjacent: Smith, Thompson; unverified: Johnson, Langberg). Closes Biblical Foundations Index Section 2's new row (Assumed → Developed) and corrects two errors that row's earlier drafts had introduced. Built 2026-09-02.
+
 ---
 
 ---
