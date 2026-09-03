@@ -38,6 +38,7 @@ A record of all saved prompts, their triggers, and purpose.
 | [[#Designed Alliance\|Designed Alliance]]                                                                     | *(none)*                     | *(none)*   | Generates a client-specific Designed Alliance for a Covenant Identity Coaching engagement                                 |     |     |
 | [[#Discovery Call Guide\|Discovery Call Guide]]                                                               | *(none)*                     | *(none)*   | Generates the reusable Discovery Call Guide — behavioral staging + divergent identity detection                           |     |     |
 | [[#Diagnostic Intake Profile\|Diagnostic Intake Profile]]                                                     | *(none)*                     | *(none)*   | Generates a client-specific Diagnostic Intake Profile — pattern recognition working hypothesis                            |     |     |
+| [[#Desired Outcomes of a Biblically Aligned Identity\|Desired Outcomes of a Biblically Aligned Identity]]     | *(none)*                     | *(none)*   | Generates the outward companion to the Interior Life as Telos — fruit-of-the-Spirit outcomes, desired not promised        |     |     |
 | [[#Process Note\|Process Note]]                                                                               | `/process-note`              | *(none)*   | Extract key concepts, decisions, action items, and follow-up questions from raw notes; output structured Markdown summary |     |     |
 | [[#CIC Practice — Level 1 Orientation\|CIC Practice — L1: Orientation]]                                       | `/cic-l1`                    | *(none)*   | Recognition and recall — names, contributors, documents, vocabulary; fresh questions every run                            |     |     |
 | [[#CIC Practice — Level 2 Mechanism\|CIC Practice — L2: Mechanism]]                                           | `/cic-l2`                    | *(none)*   | Explain why each CIC piece works — operating logic, formation theory, source attribution                                  |     |     |
@@ -897,6 +898,20 @@ At the end of any substantial session, a Resumption Briefing is written into the
 **Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Diagnostic Intake Profile.md`
 
 **Documents generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Diagnostic Intake Profile — [Client Name].md`
+
+---
+
+## Desired Outcomes of a Biblically Aligned Identity
+
+**Trigger (Claude Code):** *(none — run once to generate the document; rerun to expand as new source material or field experience becomes available)*
+**Trigger (AutoHotkey):** *(none set)*
+**Purpose:** Generates the direct outward companion to [[Covenant Identity — The Interior Life as Telos]] — desired (not promised) outcomes of a biblically aligned identity, organized as the fruit of the Spirit (Gal 5:22-23), each with 3-5 concrete "how this shows up in a life" markers across marriage/family, work, conflict, money, suffering, and community. A Governing Constraint section (not a performance standard, uneven and non-linear per Mark 4:8, compatible with ongoing struggle per Gal 5:17, not the entry condition, sourced-not-invented) precedes all content instructions, and the output carries an explicit legalism guard against ever being used as a client-measurement checklist. Expert framework stack: Jonathan Edwards (*Religious Affections*) on outward practice as evidence of genuine transformation without demanding sinless performance; N.T. Wright (*After You Believe*) on character formed by practice; Eugene Peterson (*A Long Obedience in the Same Direction*) on ordinary, unglamorous faithfulness; James K. A. Smith (*You Are What You Love*) on habits shaping visible life.
+
+**When to use:** Once, to build the document. Rerun when a new life domain, biblical text, or contributor should be folded in, or when practitioner field experience surfaces a gap in the outward markers.
+
+**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Desired Outcomes of a Biblically Aligned Identity.md`
+
+**Document generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/06 — Practitioner Reference/Covenant Identity — Desired Outcomes of a Biblically Aligned Identity.md`
 
 ---
 

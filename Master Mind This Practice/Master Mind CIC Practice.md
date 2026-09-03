@@ -5,6 +5,16 @@ tags:
 ---
 **Memorize**
 
+PRODUCT
+A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ, and be formed by the Spirit toward faithful image-bearing. Three disciplines, unified. None sufficient alone. Each contributing what the others cannot:
+
+- **Spiritual formation** provides the governing telos, the process frame, and the account of the practitioner's role — cooperating with what the Spirit is already doing.
+- **Biblical counseling** provides diagnostic precision — idolatry and disordered worship as the root of false identity, the heart as the center of human functioning, specific tools for surfacing affections, false identity structures, and character wounds.
+- **Christian life coaching** provides the relational container — forward-oriented partnership, client agency, structured arc, powerful questions, accountability.
+
+**Covenant Identity** provides the specific content of what the person is being formed toward: restored image-bearing as God's covenant person in Christ.
+
+
 BRAND MESSAGE
 Most coaching stops at goals, habits, and accountability. Those tools work — until the same pattern shows up again in a new situation, and you realize the goal was never the real problem.
 
