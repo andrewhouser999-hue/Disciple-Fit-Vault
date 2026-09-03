@@ -89,6 +89,14 @@ A place where something begins, grows, or is carefully nurtured; a nest or resti
 
 ---
 
+#### Pura Vida
+
+*POO-rah VEE-dah*
+A way of life. It means living with gratitude, simplicity, and positive outlook. It's about enjoying the little things, taking life as it comes, and finding joy in the present moment. e.g. She left behind the noise, moved to the coast, and learned to live Pura Vida every single day.
+**Wisdom:** Pura Vida isn't just a phrase, it's a reminder that life doesn't have to be perfect to be beautiful.
+
+---
+
 ## Part I — Hebrew, Aramaic & Greek Terms
 
 *Exegetical vocabulary cited across CIC's biblical-theological documents. Pronunciation guides are simplified, English-reader phonetic approximations (caps = stressed syllable) — not IPA and not identical to Modern Hebrew or Erasmian Greek pronunciation systems, though closest to standard seminary Erasmian/Biblical Hebrew academic convention. Alphabetized by transliteration.*
