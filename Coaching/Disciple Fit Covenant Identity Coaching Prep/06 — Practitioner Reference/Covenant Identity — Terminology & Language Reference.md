@@ -207,11 +207,15 @@ A place where something begins, grows, or is carefully nurtured; a nest or resti
 
 **katergazomai (κατεργάζομαι)** — *kah-ter-GAHD-zoh-my* — "work out; prepare, produce." Present imperative *katergazesthe* in Philippians 2:12; also *katergazetai*, "is preparing," in 2 Corinthians 4:17.
 
+**katharizō (καθαρίζω)** — *kah-thah-RID-zoh* — "to cleanse, purify" — the standard LXX term for ritual/cultic purification. Used of Christ's blood purifying the conscience "from dead works to serve the living God." Hebrews 9:14.
+
 **katharos (καθαρός)** — *kah-thah-ROS* — "pure" — ritually clean, morally unmixed, undivided. Matthew 5:8.
 
 **katēgorōn (κατηγόρων)** — *kah-tay-goh-ROHN* — "accuser." Names the mechanism of using true facts to produce a false conclusion. Revelation 12:10.
 
 **katoptrizomenoi (κατοπτριζόμενοι)** — *kah-top-trid-zoh-MEH-noy* — "beholding" — a genuinely ambiguous middle-voice verb that can also mean "reflecting as a mirror." The governing mechanism-verb for transformation-by-beholding across CIC's sanctification documents. 2 Corinthians 3:18.
+
+**kekautēriasmenōn (κεκαυτηριασμένων)** — *keh-kow-tay-ree-as-MEH-nohn* — "seared, branded, cauterized" — perfect passive participle of *kautēriazō*. A scar-tissue metaphor for a desensitized conscience — dead, insensate tissue, distinct from *sklērunō*'s hardening (progressive stiffening that can still, in principle, be addressed). 1 Timothy 4:2.
 
 **koinōnia tōn pathēmatōn (κοινωνία τῶν παθημάτων)** — *koy-noh-NEE-ah tohn pah-thay-MAH-tohn* — "participation" or "fellowship" in His sufferings. Philippians 3:10.
 
@@ -266,6 +270,8 @@ A place where something begins, grows, or is carefully nurtured; a nest or resti
 **splanchnizomai (σπλαγχνίζομαι)** — *splangkh-NID-zoh-my* — "moved with compassion" — a visceral, gut-level term, from *splanchna*, "inward parts/entrails." Matthew 9:36.
 
 **stoichōmen (στοιχῶμεν)** — *stoy-KHOH-men* — "keep in step" — a marching/formation term. Galatians 5:25.
+
+**syneidēsis (συνείδησις)** — *soon-EE-day-sis* — "co-knowledge, conscience" — from *syn* ("with") + the root of *oida* ("to know"): "knowing-with [oneself]." A witnessing function, not a legislative one — testifies whether conduct matches a standard already held, does not create the standard. Absent from the OT; a Hellenistic term Paul redirects theologically. Romans 2:15; full treatment in [[Covenant Identity — Syneidēsis (Conscience) — Practitioner Exegetical Reference]].
 
 **syschematizesthe (συσχηματίζεσθε)** — *soos-khay-mah-TID-zes-theh* — "be conformed [to this world]" — negative imperative. Romans 12:2.
 

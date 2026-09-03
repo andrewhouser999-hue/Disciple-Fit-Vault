@@ -152,6 +152,8 @@ The 20 contrasts above have always rested on a psychological mechanism (Tripp's 
 
 *Cross-reference: this closes Section 2, Row 5 (footnote 3) of [[Covenant Identity — Biblical Foundations Index]]. The same text was also flagged there as a candidate for Section 5's Lie Eliminator "belief without formational landing" gap — held to this document only, not double-added, per the index's Open Items note.*
 
+**A second scriptural anchor, from a different NT vocabulary:** [[Covenant Identity — Syneidēsis (Conscience) — Practitioner Exegetical Reference]] supplies additional support for the gap's *existence* — 1 Corinthians 8:7-12's weak conscience, defiled by an action even when the belief driving the guilt is factually mistaken, and 1 Timothy 4:2's seared conscience, desensitized to conduct that is actually wrong. Both are conscience-specific instances of the same functional/confessional split James 1:22-24 names generally: what a person confesses (explicit) and what their conscience actually does (functional) can diverge in either direction — over-firing or under-firing — independent of what the person can correctly state. As with James 1:22-24, these texts supply the phenomenon, not the mechanism; Thompson's explicit/implicit memory distinction still does that work.
+
 ### What these are diagnostically
 Each entry is a false covenant object (what the heart is actually trusting) or a God-image distortion (what the heart actually believes about God's character) operating beneath confessional belief. Paul Tripp calls this the gap between *functional theology* and *confessional theology*. Willard calls it the gap between *notional belief* and *formed belief* — a belief can be held intellectually without having been formed into the whole person.
 
