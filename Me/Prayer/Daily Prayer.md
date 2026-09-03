@@ -8,10 +8,12 @@ tags:
 
 # Daily Prayer
 
-I abandon Christiandumb for Biblical Faith
+I abandon Christian-dumb for Biblical Faith
 - Apostle Paul spoke in togues, I will speak in tongues 
 
 Salvation for Aunt Kathleen and SK to visit her before her death-price flights
+
+Fast & Pray for 3 days/mo from 6pm till 6pm for next 6 months, prep for 2027
 
 # Truth over Lies
 
@@ -43,16 +45,19 @@ Checklist so prayer covers what Scripture calls for, not just what's on my mind.
 
 
 ## Wife
-
-
+Healing of the inner man, relatability, lymph system
+Virtue - Forgiveness, Unity, Love
 ## Son
-
+Healing of any Insecure Attachments. 
+Virtue - 
 
 ## Myself
 For my son's self esteem - Assist him in his authenticity of own feelings; Make sure they are held, seen and understood -> Self esteem
 Cut the link between admiration and love.
-
+Faith Integrity and Strength
 ## Ministry 
+CIC
+Beholding Together
 
 # Land 
 Heal the Land
@@ -64,13 +69,14 @@ Kingdom Marketplace - Joseph's mantle is the ability to negotiate the world, cau
 
 ### 7 Spiritual Disciplines that protect from Witchcraft
 1. confess sin daily
-2. pray in tongues
-3. apply the blood of Jesus
-4. praise God in the middle of the trials
-5. live in the fear of the Lord
-6. give generously
-7. forgive everyone who hurt me
-8. Pray and declare the Word to the Courts of Heaven pray these and more, i declare, i seal, i commit to, thank you Father. Declare the enemy has no legal rights in my life.
+2. Fast & Pray
+3. pray in tongues
+4. apply the blood of Jesus
+5. praise God in the middle of the trials
+6. live in the fear of the Lord
+7. give generously
+8. forgive everyone who hurt me
+9. Pray and declare the Word to the Courts of Heaven pray these and more, i declare, i seal, i commit to, thank you Father. Declare the enemy has no legal rights in my life.
 
 ### Scripture Declarations — Occupational Opportunities
 - Deuteronomy 8:18 — "You shall remember the Lord your God, for it is he who gives you power to get wealth."
