@@ -58,9 +58,9 @@ That gap — between what you believe about God with your mind and what you actu
 
 This is not therapy. I'm not treating wounds or diagnosing disorders. If that's what you need, I'll help you find it — but it's not what I do.
 
-This is coaching — which means you drive. You set the agenda. You determine what matters and what you want to work toward. My job is to ask the questions you haven't thought to ask yourself, hold you to what you say matters to you, and refuse to let you settle for less than who you actually are.
+This is coaching, but not coaching in the sense you may be used to — where you set the agenda and my job is simply to help you get where you already said you wanted to go. Here, the agenda isn't yours to set from scratch. It's already been set: by who God has declared you to be. You still bring your real life to the conversation — what you're facing, where you're stuck, what's actually going on — but my job is to hold you to that God-given identity, not to whatever smaller goal you'd default to choosing for yourself. I'll ask the questions you haven't thought to ask yourself, hold you to what God has already declared about you, and refuse to let you settle for less than who you actually are.
 
-What makes this different from most coaching is that we have a reference point beyond your own preferences and goals: who God has already said you are. That's not a ceiling. It's a floor. Everything builds on it.
+That reference point isn't a ceiling. It's a floor. Everything else builds on it.
 
 **Across our work together, we typically:**
 
@@ -77,7 +77,7 @@ This is slow work. It's honest work. It doesn't produce a 30-day transformation.
 
 ## What You Can Expect
 
-**Sessions** are focused conversations — typically 50-60 minutes. You bring what's most alive for you. We work it together. I'll ask hard questions. I'll name things I notice. I'll hold you accountable to what you say matters. I won't give you a sermon, and I won't let you off the hook.
+**Sessions** are focused conversations — typically 50-60 minutes. You bring what's most alive for you. We work it together. I'll ask hard questions. I'll name things I notice. I'll hold you to who God has already said you are. I won't give you a sermon, and I won't let you off the hook.
 
 **Between sessions**, you'll carry something — a commitment, a practice, something to notice, something to try. Not a to-do list. Something that keeps the work moving in real life.
 
