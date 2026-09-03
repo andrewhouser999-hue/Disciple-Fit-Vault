@@ -8,7 +8,7 @@ tags:
 
 # Covenant Identity Coaching Prep — Recommended Reading Order
 
-*Last updated: 2026-09-02 — 110 documents across 9 blocks + appendix (20 AI prompt files in the appendix; added [[Covenant Identity — The Inner Man — Biblical Foundations and Position Paper]] to Block 3 as item 25, renumbering 25-109 to 26-110)*
+*Last updated: 2026-09-03 — 110 documents across 9 blocks + appendix (21 AI prompt files in the appendix, including the not-yet-run [[AI Prompt — Syneidēsis (Conscience) — Practitioner Exegetical Reference]]); [[Covenant Identity — The Inner Man — Biblical Foundations and Position Paper]] added to Block 3 as item 25 (2026-09-02), renumbering 25-109 to 26-110*
 
 The governing principle: every block assumes the previous one. If you want to spot-check a single session tool in Block 6, you'll need Block 3 (diagnostic architecture) in view or you won't be able to evaluate whether it's doing the right thing at the right moment.
 
@@ -228,3 +228,4 @@ Skip during the review pass. Reference each prompt alongside its corresponding t
 - [[AI Prompt — Implicit Signal & State Tracking Drill]]
 - [[AI Prompt — Felt Juxtaposition Verification Drill]]
 - [[AI Prompt — The Inner Man — Biblical Foundations and Position Paper]]
+- [[AI Prompt — Syneidēsis (Conscience) — Practitioner Exegetical Reference]]

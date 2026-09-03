@@ -539,6 +539,9 @@ Portable version of `/cic-tracking-drill`: drills Category 1 Tracking only (read
 **✅ AI Prompt — Felt Juxtaposition Verification Drill.md**
 Portable version of `/cic-juxtaposition-drill`: tests whether a client's response right after covenant truth is spoken is Cognitive Holding, Felt Engagement, or Insufficient, plus a next-session re-access variant. Built 2026-08-25.
 
+**⬜ AI Prompt — Syneidēsis (Conscience) — Practitioner Exegetical Reference.md**
+Not yet run. Generation prompt for a single-term practitioner exegetical reference on conscience (structural sibling to Isaiah 66:2b), covering ~20 NT occurrences — its two genuinely new contributions to the model are Heb 9:9,14/10:22's conscience-cleansed-by-Christ's-blood claim and 1 Cor 8:7-12's weak-conscience dynamic as an implicit/conditioned-pattern analog. Central requirement: fold conscience diagnostic data into the existing functional/confessional-gap architecture rather than building a parallel diagnostic system, to guard against the legalism/moral-compliance drift conscience material naturally pulls toward. Built 2026-09-03.
+
 **✅ AI Prompt — The Inner Man — Biblical Foundations and Position Paper.md**
 Generation prompt for a practitioner position paper on what Scripture establishes (and does not establish) about the inner man/heart, man's and God's relationship to it, and a wider biblical-vocabulary survey (nous, human pneuma, psychē/nephesh, syneidēsis, splanchna, sarx) — built from a three-turn 2026-09-01–02 /bible + /scrutinize research thread. Built 2026-09-02. Run same day — see the finished paper below.
 
