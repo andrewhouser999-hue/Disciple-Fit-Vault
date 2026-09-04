@@ -15,6 +15,7 @@ basis: primary-source
 ## Teaching Lessons/
 
 - **Matthew 6.33 — Seek First the Kingdom.md** — Scholarly biblical research providing exegetical analysis, theological weight, intertextual connections, interpretive debates, and coaching application for Matthew 6:33 with focus on reorientation from anxiety to kingdom priority.
+- **Revelation 3.14-22 — Hot, Cold, or Lukewarm.md** — Scholarly biblical research on the Laodicean hot/cold/lukewarm text: Hemer's water-supply archaeology reframing "hot" as usefulness rather than felt zeal, Edwards/Piper/Willard on genuine vs. counterfeit spiritual affection, and coaching application for a "warm Laodicean" client profile.
 
 ---
 

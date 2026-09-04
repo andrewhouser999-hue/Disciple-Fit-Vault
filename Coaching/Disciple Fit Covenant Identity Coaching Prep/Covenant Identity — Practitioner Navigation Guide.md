@@ -188,6 +188,7 @@ Reach for:
 - [[Covenant Identity — Five Intervention Modalities]] — targeted declaration, schema interruption, narrative re-authoring, lament-to-trust, Big Assumption experiment; deployment criteria per modality
 - [[Covenant Identity — Matched Declaration Architecture]] — four wound-matched declaration tracks (Abandonment/Performance/Shame/Condemnation) with ESV text and exegetical rationale; use once the wound type from Phase 2 is confirmed
 - [[Covenant Identity — Faith, Certainty & the Reckoning Pattern]] — Lie Eliminator/Identity Installer "Reckoning Pattern" template (Rom 6:11) if the client is prone to certainty-as-technique rather than faith anchored in God's word
+- [[Covenant Identity — Faith as a Mustard Seed (Matthew 17:20) — Practitioner Exegetical Reference]] — corrects the "I don't have enough faith" quantity misreading; use when a client's shame is organized around insufficient believing rather than what their trust is actually resting on
 
 **Between-session worksheets:**
 - [[Covenant Identity — Deep Lie Work Worksheet]] — deploy when a specific lie is clearly operative and the client is ready for structured lie work
