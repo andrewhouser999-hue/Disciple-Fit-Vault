@@ -8,7 +8,9 @@ tags:
 
 # Covenant Identity Coaching Prep — Recommended Reading Order
 
-*Last updated: 2026-09-04 — 115 documents across 9 blocks + appendix (22 AI prompt files in the appendix); [[Covenant Identity — Faith as a Mustard Seed (Matthew 17:20) — Practitioner Exegetical Reference]] added to Block 3 as item 36 (immediately after its faith/certainty sibling, item 35, Faith, Certainty & the Reckoning Pattern), renumbering 36-114 to 37-115*
+*Last updated: 2026-09-04 — 116 documents across 9 blocks + appendix (22 AI prompt files in the appendix); [[Covenant Identity — Faith or Fear — Diagnosing Vain Imagination and the Attributes of God]] added to Block 3 as item 37 (immediately after its faith/certainty siblings, items 35-36, Faith, Certainty & the Reckoning Pattern and Faith as a Mustard Seed), renumbering 37-115 to 38-116*
+
+*Previously updated: 2026-09-04 — 115 documents across 9 blocks + appendix (22 AI prompt files in the appendix); [[Covenant Identity — Faith as a Mustard Seed (Matthew 17:20) — Practitioner Exegetical Reference]] added to Block 3 as item 36 (immediately after its faith/certainty sibling, item 35, Faith, Certainty & the Reckoning Pattern), renumbering 36-114 to 37-115*
 
 *Previously updated: 2026-09-04 — 114 documents across 9 blocks + appendix (22 AI prompt files in the appendix); [[Daily Abiding — Practitioner Design Notes]] added to Block 3 as item 48 (immediately after its sibling, item 47, Secured in Father — Practitioner Design Notes), renumbering 48-113 to 49-114*
 
@@ -61,7 +63,7 @@ The Practitioner Reference Index is designed as the entry point for this block �
 ## Block 3 — Diagnostic Architecture
 *06 — Practitioner Reference, Part 2*
 
-Open with the biblical research document — it establishes the exegetical and theological basis for why the heart doesn't heal before the practitioner diagnostic operationalizes it. The Implicit Throughline reads next, before the Transition Logic, per its own design (it is the cross-cutting orientation the Transition Logic assumes). The Transition Logic is then the spine of the entire diagnostic sequence. Isaiah 66:2b follows immediately as the receptivity precondition underlying the whole sequence; The Inner Man position paper reads right after it as the wider biblical-anthropology case both Isaiah 66:2b and Why the Heart Does Not Heal draw on piecemeal — what Scripture establishes and doesn't about the heart/inner-man site the whole diagnostic sequence assumes, including the vocabulary survey beyond "heart" itself. The Syneidēsis reference reads immediately after it as the depth-first follow-up to that survey's conscience entry — a single-term study parallel to Isaiah 66:2b, not a new diagnostic system; its weak/seared-conscience material integrates into the Functional vs. Confessional gap rather than beside it. The Disordered Affections mechanism document then explains why affections is the correct diagnostic entry point — this whole biblical-anthropology cluster belongs before the specific diagnostic tools it grounds. Then work through the tools in deployment order: God-rep research before the deepening tool; Character Wound after the God-rep picture, because it is a secondary diagnostic layer; God-Exclusion Map closes the diagnostic-tool cluster. The Felt Inadequacy mechanism document explains why the diagnostic picture has to be *felt* as failing before intervention lands, so it precedes the intervention/declaration cluster (Five Intervention Modalities, Matched Declaration Architecture, the Reckoning Pattern and its mustard-seed faith companion), which in turn is followed by the two remaining Theory of Change mechanism documents (What Moves Covenant Truth, Consolidation Through Receptive Return) — kept together as a contiguous unit rather than split across blocks, since they trace a single causal chain. The Psalms 22-23-24 triptych cluster and its two companion narrative frameworks (Prodigal Son, John 15 Abide) follow as a supplementary narrative-diagnostic layer that overlays the whole Stage 1–4b sequence; read the phrase reference and developmental framework first, then the practitioner orientation frame, then the two psalm-specific deep dives, then the two standalone narrative devices. Close with the practice, competency, and index documents: Tool Library and COMPLETE SYSTEM REFERENCE are both single-view surveys of the whole system; the three reference/index documents (Category Architecture, Biblical Foundations, Psychological Constructs) follow, with Set Your Mind on Things Above reading immediately after Biblical Foundations Index because it fills a gap that document names. Conditions for the Spirit's Sanctifying Work grounds the Sanctification Module theologically and reads immediately before it; the module itself runs foundation → diagnostic → facilitation → deep-dive reference → client materials. The Interior Life as Telos and its outward companion, Desired Outcomes of a Biblically Aligned Identity, close the block as a capstone vision pair, read immediately after the Sanctification Module — what the whole diagnostic and formation apparatus is ultimately for.
+Open with the biblical research document — it establishes the exegetical and theological basis for why the heart doesn't heal before the practitioner diagnostic operationalizes it. The Implicit Throughline reads next, before the Transition Logic, per its own design (it is the cross-cutting orientation the Transition Logic assumes). The Transition Logic is then the spine of the entire diagnostic sequence. Isaiah 66:2b follows immediately as the receptivity precondition underlying the whole sequence; The Inner Man position paper reads right after it as the wider biblical-anthropology case both Isaiah 66:2b and Why the Heart Does Not Heal draw on piecemeal — what Scripture establishes and doesn't about the heart/inner-man site the whole diagnostic sequence assumes, including the vocabulary survey beyond "heart" itself. The Syneidēsis reference reads immediately after it as the depth-first follow-up to that survey's conscience entry — a single-term study parallel to Isaiah 66:2b, not a new diagnostic system; its weak/seared-conscience material integrates into the Functional vs. Confessional gap rather than beside it. The Disordered Affections mechanism document then explains why affections is the correct diagnostic entry point — this whole biblical-anthropology cluster belongs before the specific diagnostic tools it grounds. Then work through the tools in deployment order: God-rep research before the deepening tool; Character Wound after the God-rep picture, because it is a secondary diagnostic layer; God-Exclusion Map closes the diagnostic-tool cluster. The Felt Inadequacy mechanism document explains why the diagnostic picture has to be *felt* as failing before intervention lands, so it precedes the intervention/declaration cluster (Five Intervention Modalities, Matched Declaration Architecture, the Reckoning Pattern and its two faith/certainty companions), which in turn is followed by the two remaining Theory of Change mechanism documents (What Moves Covenant Truth, Consolidation Through Receptive Return) — kept together as a contiguous unit rather than split across blocks, since they trace a single causal chain. The Psalms 22-23-24 triptych cluster and its two companion narrative frameworks (Prodigal Son, John 15 Abide) follow as a supplementary narrative-diagnostic layer that overlays the whole Stage 1–4b sequence; read the phrase reference and developmental framework first, then the practitioner orientation frame, then the two psalm-specific deep dives, then the two standalone narrative devices. Close with the practice, competency, and index documents: Tool Library and COMPLETE SYSTEM REFERENCE are both single-view surveys of the whole system; the three reference/index documents (Category Architecture, Biblical Foundations, Psychological Constructs) follow, with Set Your Mind on Things Above reading immediately after Biblical Foundations Index because it fills a gap that document names. Conditions for the Spirit's Sanctifying Work grounds the Sanctification Module theologically and reads immediately before it; the module itself runs foundation → diagnostic → facilitation → deep-dive reference → client materials. The Interior Life as Telos and its outward companion, Desired Outcomes of a Biblically Aligned Identity, close the block as a capstone vision pair, read immediately after the Sanctification Module — what the whole diagnostic and formation apparatus is ultimately for.
 
 20. [[Covenant Identity — Why the Heart Does Not Heal — Biblical Research]] — full exegesis: eight barriers with Hebrew/Greek terms, ANE/covenantal context, three-layer theological weight, interpretive debates, and coaching translation basis
 21. [[Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic]] — session-ready tool: eight barriers with signals, questions, and participation moves; diagnostic routing table; read immediately after the biblical research
@@ -80,38 +82,39 @@ Open with the biblical research document — it establishes the exegetical and t
 34. [[Covenant Identity — Matched Declaration Architecture]] — Stage 3 deployment reference: four wound-matched declaration tracks
 35. [[Covenant Identity — Faith, Certainty & the Reckoning Pattern]] — Lie Eliminator/Identity Installer "Reckoning Pattern" template grounded in Romans 6:11, tested against Tony Robbins' certainty framework
 36. [[Covenant Identity — Faith as a Mustard Seed (Matthew 17:20) — Practitioner Exegetical Reference]] — corrects the popular quantity-of-faith misreading of Matt 17:20/Luke 17:6, distinguishing it from Matt 13:31-32's growth parable; reads immediately after the Reckoning Pattern as its companion guardrail against faith-as-self-generated-certainty
-37. [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] — mechanism document for Stage 3: the four conditions for covenant truth to land rather than register as information only
-38. [[Covenant Identity — Consolidation Through Receptive Return — Mechanism]] — Theory of Change Node 7: why implicit reorganization requires repeated receptive return rather than affirmation repetition
-39. [[Covenant Identity — Psalms 22-23-24 That Is Phrase Reference]] — raw phrase-level material for all three psalms; read before the developmental framework that builds on it
-40. [[Covenant Identity — Psalms 22-23-24 Developmental Framework]] — full mapping of the triptych onto the CIC coaching arc
-41. [[Covenant Identity — Psalms 22-23-24 Triptych Practitioner Orientation Frame]] — practitioner-only internal compass; deepens the Developmental Framework
-42. [[Covenant Identity — Psalm 23 Formation Provision Reference]] — deep dive into Psalm 23's 16 formation provisions
-43. [[Covenant Identity — Psalm 24 Redemptive-Historical Telos Frame]] — deep dive into Psalm 24 as telos anchor
-44. [[Covenant Identity — Prodigal Son Diagnostic Narrative Framework]] — standalone client-facing self-locating diagnostic entry (Luke 15:11-32)
-45. [[Covenant Identity — John 15 Abide Formation Posture Reference]] — grounds the client's cooperative formation posture; connects to the Psalm 23 formation zone and to declaration work
-46. [[Covenant Identity — Deep Work Worksheets — Design Rationale]]
-47. [[Covenant Identity — Crisis & Referral Protocol]]
-48. [[Secured in Father — Practitioner Design Notes]]
-49. [[Daily Abiding — Practitioner Design Notes]] — practitioner reference layer behind *Daily Abiding — A Belovedness Practice* (Coaching Me/Daily/); daily-scale compression of Secured in Father, Psalm 23, John 15, and the suffering references; read immediately after Secured in Father's Design Notes; marked pilot/untested as of 2026-09-04
-50. [[Exceptional Coaching Practice — What Is Missed, Meaningful & Important]]
-51. [[Covenant Identity — Practitioner Competency Framework]]
-52. [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — practitioner skill reference for Stage 4b; read after the Competency Framework to understand what working at the implicit level actually requires
-53. [[Covenant Identity — Self-Supervision Template]] — post-session coach reflection tool tracking the coach (not the client): own activation, avoidance inventory, presence quality, wound-pattern intersection, cross-session pattern watch; the formation side of coach development
-54. [[Covenant Identity — Tool Library]] — survey of the full tool set; a good close for the theory block
-55. [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] — single-view practitioner reference for the complete diagnostic and treatment system
-56. [[Covenant Identity — Category Architecture Cross-Reference]] — maps the ten-layer architecture to all 22 Identity Installer categories and all 12 Lie Eliminator lies
-57. [[Covenant Identity — Biblical Foundations Index]] — single index mapping each architectural/methodological decision in the model to its scriptural grounding and full-exegesis location
-58. [[Covenant Identity — Set Your Mind on Things Above — Biblical Case]] — fills the mind-setting/rehearsal gap the Biblical Foundations Index names; read immediately after it
-59. [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]] — 24 psychological constructs mapped back to CIC diagnostic stage, phase, and tool; reverse-lookup direction (construct → CIC system)
-60. [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] — scriptural basis for participant-created conditions for the Spirit's sanctifying work; grounds the Sanctification Module theologically and reads immediately before it
-61. [[Sanctification — Teacher's Manual]] — comprehensive coach-facing module foundation: client portrait, failure modes, biblical framework, soil mapping, formation tools
-62. [[Sanctification — Coach Diagnostic]] — eight-step pre/post-session diagnostic operationalizing the Teacher's Manual's failure-mode taxonomy
-63. [[Sanctification — Session Facilitation Guide]] — scripted coaching language executing the diagnostic in session
-64. [[Sanctification — ITC Practitioner Reference]] — standalone full-protocol reference for Immunity to Change, referenced by the Coach Diagnostic's routing table
-65. [[Sanctification — Client Study]] — client-facing study text
-66. [[Sanctification — Practice Reference Card]] — client take-home card, read last as the between-session artifact
-67. [[Covenant Identity — The Interior Life as Telos]] — vision document naming nine qualities of the sanctified inner life as the coaching telos; closes the block as a capstone, after the Sanctification Module, since participatory sanctification is what moves toward this telos; previously uncaptured in this reading order despite being cross-referenced from item 12 since its creation
-68. [[Covenant Identity — Desired Outcomes of a Biblically Aligned Identity]] — direct outward companion to the Interior Life as Telos; the fruit of the Spirit (Gal 5:22-23) as visible, desired-not-promised outcomes across concrete life domains (marriage, work, conflict, money, suffering, community); read immediately after it
+37. [[Covenant Identity — Faith or Fear — Diagnosing Vain Imagination and the Attributes of God]] — diagnoses fear-driven religious performance masquerading as faith (distinct from the God-representation and character-wound diagnoses that follow it in this block) and supplies a compact seven-attribute Scripture reference to displace it; reads immediately after the two faith/certainty companion documents as the upstream diagnostic they both presuppose — deploy earliest of the three, at Discovery Call/early Phase 1, well before a specific lie or declaration is in view
+38. [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] — mechanism document for Stage 3: the four conditions for covenant truth to land rather than register as information only
+39. [[Covenant Identity — Consolidation Through Receptive Return — Mechanism]] — Theory of Change Node 7: why implicit reorganization requires repeated receptive return rather than affirmation repetition
+40. [[Covenant Identity — Psalms 22-23-24 That Is Phrase Reference]] — raw phrase-level material for all three psalms; read before the developmental framework that builds on it
+41. [[Covenant Identity — Psalms 22-23-24 Developmental Framework]] — full mapping of the triptych onto the CIC coaching arc
+42. [[Covenant Identity — Psalms 22-23-24 Triptych Practitioner Orientation Frame]] — practitioner-only internal compass; deepens the Developmental Framework
+43. [[Covenant Identity — Psalm 23 Formation Provision Reference]] — deep dive into Psalm 23's 16 formation provisions
+44. [[Covenant Identity — Psalm 24 Redemptive-Historical Telos Frame]] — deep dive into Psalm 24 as telos anchor
+45. [[Covenant Identity — Prodigal Son Diagnostic Narrative Framework]] — standalone client-facing self-locating diagnostic entry (Luke 15:11-32)
+46. [[Covenant Identity — John 15 Abide Formation Posture Reference]] — grounds the client's cooperative formation posture; connects to the Psalm 23 formation zone and to declaration work
+47. [[Covenant Identity — Deep Work Worksheets — Design Rationale]]
+48. [[Covenant Identity — Crisis & Referral Protocol]]
+49. [[Secured in Father — Practitioner Design Notes]]
+50. [[Daily Abiding — Practitioner Design Notes]] — practitioner reference layer behind *Daily Abiding — A Belovedness Practice* (Coaching Me/Daily/); daily-scale compression of Secured in Father, Psalm 23, John 15, and the suffering references; read immediately after Secured in Father's Design Notes; marked pilot/untested as of 2026-09-04
+51. [[Exceptional Coaching Practice — What Is Missed, Meaningful & Important]]
+52. [[Covenant Identity — Practitioner Competency Framework]]
+53. [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — practitioner skill reference for Stage 4b; read after the Competency Framework to understand what working at the implicit level actually requires
+54. [[Covenant Identity — Self-Supervision Template]] — post-session coach reflection tool tracking the coach (not the client): own activation, avoidance inventory, presence quality, wound-pattern intersection, cross-session pattern watch; the formation side of coach development
+55. [[Covenant Identity — Tool Library]] — survey of the full tool set; a good close for the theory block
+56. [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] — single-view practitioner reference for the complete diagnostic and treatment system
+57. [[Covenant Identity — Category Architecture Cross-Reference]] — maps the ten-layer architecture to all 22 Identity Installer categories and all 12 Lie Eliminator lies
+58. [[Covenant Identity — Biblical Foundations Index]] — single index mapping each architectural/methodological decision in the model to its scriptural grounding and full-exegesis location
+59. [[Covenant Identity — Set Your Mind on Things Above — Biblical Case]] — fills the mind-setting/rehearsal gap the Biblical Foundations Index names; read immediately after it
+60. [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]] — 24 psychological constructs mapped back to CIC diagnostic stage, phase, and tool; reverse-lookup direction (construct → CIC system)
+61. [[Covenant Identity — Conditions for the Spirit's Sanctifying Work]] — scriptural basis for participant-created conditions for the Spirit's sanctifying work; grounds the Sanctification Module theologically and reads immediately before it
+62. [[Sanctification — Teacher's Manual]] — comprehensive coach-facing module foundation: client portrait, failure modes, biblical framework, soil mapping, formation tools
+63. [[Sanctification — Coach Diagnostic]] — eight-step pre/post-session diagnostic operationalizing the Teacher's Manual's failure-mode taxonomy
+64. [[Sanctification — Session Facilitation Guide]] — scripted coaching language executing the diagnostic in session
+65. [[Sanctification — ITC Practitioner Reference]] — standalone full-protocol reference for Immunity to Change, referenced by the Coach Diagnostic's routing table
+66. [[Sanctification — Client Study]] — client-facing study text
+67. [[Sanctification — Practice Reference Card]] — client take-home card, read last as the between-session artifact
+68. [[Covenant Identity — The Interior Life as Telos]] — vision document naming nine qualities of the sanctified inner life as the coaching telos; closes the block as a capstone, after the Sanctification Module, since participatory sanctification is what moves toward this telos; previously uncaptured in this reading order despite being cross-referenced from item 12 since its creation
+69. [[Covenant Identity — Desired Outcomes of a Biblically Aligned Identity]] — direct outward companion to the Interior Life as Telos; the fruit of the Spirit (Gal 5:22-23) as visible, desired-not-promised outcomes across concrete life domains (marriage, work, conflict, money, suffering, community); read immediately after it
 
 ---
 
@@ -120,8 +123,8 @@ Open with the biblical research document — it establishes the exegetical and t
 
 The client journey begins here.
 
-69. [[Disciple Fit Coaching — Engagement Onboarding Document]]
-70. [[Disciple Fit Coaching — Coaching Agreement]]
+70. [[Disciple Fit Coaching — Engagement Onboarding Document]]
+71. [[Disciple Fit Coaching — Coaching Agreement]]
 
 ---
 
@@ -130,13 +133,13 @@ The client journey begins here.
 
 Read protocol structure first, then annotation tools, then build guides. The Airtable Schema Spec closes the block because it is the infrastructure that receives what the two Tally forms produce.
 
-71. [[Covenant Identity — Two-Tier Intake Protocol]]
-72. [[Covenant Identity Intake — Design Basis & Annotation]]
-73. [[Covenant Identity Intake — Coach Annotation Reference]]
-74. [[Covenant Identity — Intake Addendum (Coach)]]
-75. [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]]
-76. [[Covenant Identity Intake — Tally Build Guide]]
-77. [[Covenant Identity — Airtable Schema Spec]] — field-level schema for the Airtable base backing the two-tier intake system; read after both Tally build guides
+72. [[Covenant Identity — Two-Tier Intake Protocol]]
+73. [[Covenant Identity Intake — Design Basis & Annotation]]
+74. [[Covenant Identity Intake — Coach Annotation Reference]]
+75. [[Covenant Identity — Intake Addendum (Coach)]]
+76. [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]]
+77. [[Covenant Identity Intake — Tally Build Guide]]
+78. [[Covenant Identity — Airtable Schema Spec]] — field-level schema for the Airtable base backing the two-tier intake system; read after both Tally build guides
 
 ---
 
@@ -145,17 +148,17 @@ Read protocol structure first, then annotation tools, then build guides. The Air
 
 Discovery Call first because it is the actual client entry point. The Arc Location Diagnostic follows immediately as a complementary self-assessment for locating current position on the arc, then the in-session diagnostic protocol, then phases in order. Per-client templates at the end.
 
-78. [[Covenant Identity — Discovery Call Guide]]
-79. [[Covenant Identity — Arc Location Diagnostic]] — fillable self-assessment for locating current position on the covenant identity arc; derived from the Diagnostic Lens Transition Logic; used for pre-session orientation and periodic self-assessment
-80. [[Covenant Identity — Affections Discovery — In-Session Protocol]]
-81. [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]]
-82. [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]]
-83. [[Covenant Identity — Phase 3 Session Tools (Identity Installation)]]
-84. [[Covenant Identity — Phase 4 Session Tools (Integration & Close)]]
-85. [[Covenant Identity — Session Prep Template]]
-86. [[Covenant Identity — Parts & Burden Discovery — Session Worksheet]] — Stage 4b coached in-session worksheet; read after the Phase 3 tools and Stage 4b Practitioner Reference; deploy when explicit covenant truth is received but not landing at the felt level
-86. `Covenant Identity — Diagnostic Intake Profile — [Client Name].md` *(AI-generated per-client file — no static template. Generated via [[AI Prompt — Diagnostic Intake Profile]])*
-87. `Covenant Identity — Designed Alliance — [Client Name].md` *(AI-generated per-client file — no static template. Generated via [[AI Prompt — Designed Alliance]])*
+79. [[Covenant Identity — Discovery Call Guide]]
+80. [[Covenant Identity — Arc Location Diagnostic]] — fillable self-assessment for locating current position on the covenant identity arc; derived from the Diagnostic Lens Transition Logic; used for pre-session orientation and periodic self-assessment
+81. [[Covenant Identity — Affections Discovery — In-Session Protocol]]
+82. [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]]
+83. [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]]
+84. [[Covenant Identity — Phase 3 Session Tools (Identity Installation)]]
+85. [[Covenant Identity — Phase 4 Session Tools (Integration & Close)]]
+86. [[Covenant Identity — Session Prep Template]]
+87. [[Covenant Identity — Parts & Burden Discovery — Session Worksheet]] — Stage 4b coached in-session worksheet; read after the Phase 3 tools and Stage 4b Practitioner Reference; deploy when explicit covenant truth is received but not landing at the felt level
+87. `Covenant Identity — Diagnostic Intake Profile — [Client Name].md` *(AI-generated per-client file — no static template. Generated via [[AI Prompt — Diagnostic Intake Profile]])*
+88. `Covenant Identity — Designed Alliance — [Client Name].md` *(AI-generated per-client file — no static template. Generated via [[AI Prompt — Designed Alliance]])*
 
 ---
 
@@ -164,9 +167,9 @@ Discovery Call first because it is the actual client entry point. The Arc Locati
 
 Follow the engagement arc chronologically.
 
-89. [[Covenant Identity — Session Growth Notes Template]]
-90. [[Covenant Identity — Mid-Engagement Snapshot Template]]
-91. [[Covenant Identity — Growth Report Template]]
+90. [[Covenant Identity — Session Growth Notes Template]]
+91. [[Covenant Identity — Mid-Engagement Snapshot Template]]
+92. [[Covenant Identity — Growth Report Template]]
 
 ---
 
@@ -175,27 +178,27 @@ Follow the engagement arc chronologically.
 
 Start with the meta-reference (design rationale) to orient the whole library, then the overview, then tools in the deployment order the Design Rationale document's own "Library at a Glance" table specifies. Worksheets and the two independent-formation-practice documents come near the end because they are the deepest-layer tools; the New Covenant Promise Map generation prompt reads immediately before the promise map it produces.
 
-92. [[Covenant Identity — Between-Session Library — Design Rationale]]
-93. [[Covenant Identity — Between-Session Support Materials]]
-94. [[Covenant Identity — Post-Session Integration Guide]]
-95. [[Covenant Identity — Character Wound Between-Session Practices]]
-96. [[Covenant Identity — Lament Practice Guide]]
-97. [[Covenant Identity — God-Representation Between-Session Practices]]
-98. [[Covenant Identity — Scripture Saturation & Meditation Guide]]
-99. [[Covenant Identity — Phase-Specific Reflection Guide]]
-100. [[Covenant Identity — Spiritual Disciplines Guide]]
-101. [[Covenant Identity — Between-Session Distress Protocol]] — three-tier distinction (Normal/Distress/Crisis); escalation decision tree to the Crisis & Referral Protocol
-102. [[Covenant Identity — Formation Mechanism Guide]] — client-facing psychoeducation on how formation works and why resistance is expected; Phase 1 deploy, re-issuable
-103. [[Covenant Identity — Pre-Session Preparation Guide]] — five-minute pre-session practice card; deploy before Session 2, assign once
-104. [[Covenant Identity — Calibrated Reading Guide]] — wound-type-calibrated bibliotherapy guide
-105. [[Covenant Identity — Post-Session Client Debrief Card]] — immediate post-session capture card; timing is the mechanism
-106. [[Covenant Identity — Formation Self-Assessment]] — periodic 16-item client-autonomous instrument administered at phase transitions and monthly
-107. [[Covenant Identity — Accountability Companion Guide]] — formation companion identification and engagement guide; deploy Phase 2-3
-108. [[Covenant Identity — Deep Lie Work Worksheet]]
-109. [[Covenant Identity — Deep Identity Installation Worksheet]]
-110. [[What the Part Carries — An Independent Formation Practice]] — Stage 4b between-session independent formation practice; read after the Deep Work Worksheets as the implicit-layer counterpart to those explicit-layer tools; deploy in Phase 3 when Stage 4b entry criteria are met and client has sufficient stability for solo parts dialogue
-111. [[New Covenant Promise Map — Generation Prompt]] — AI prompt generating the document immediately below; physically filed in this folder rather than in 07 — AI Prompts
-112. [[Covenant Identity — New Covenant Promise Map 1]]
+93. [[Covenant Identity — Between-Session Library — Design Rationale]]
+94. [[Covenant Identity — Between-Session Support Materials]]
+95. [[Covenant Identity — Post-Session Integration Guide]]
+96. [[Covenant Identity — Character Wound Between-Session Practices]]
+97. [[Covenant Identity — Lament Practice Guide]]
+98. [[Covenant Identity — God-Representation Between-Session Practices]]
+99. [[Covenant Identity — Scripture Saturation & Meditation Guide]]
+100. [[Covenant Identity — Phase-Specific Reflection Guide]]
+101. [[Covenant Identity — Spiritual Disciplines Guide]]
+102. [[Covenant Identity — Between-Session Distress Protocol]] — three-tier distinction (Normal/Distress/Crisis); escalation decision tree to the Crisis & Referral Protocol
+103. [[Covenant Identity — Formation Mechanism Guide]] — client-facing psychoeducation on how formation works and why resistance is expected; Phase 1 deploy, re-issuable
+104. [[Covenant Identity — Pre-Session Preparation Guide]] — five-minute pre-session practice card; deploy before Session 2, assign once
+105. [[Covenant Identity — Calibrated Reading Guide]] — wound-type-calibrated bibliotherapy guide
+106. [[Covenant Identity — Post-Session Client Debrief Card]] — immediate post-session capture card; timing is the mechanism
+107. [[Covenant Identity — Formation Self-Assessment]] — periodic 16-item client-autonomous instrument administered at phase transitions and monthly
+108. [[Covenant Identity — Accountability Companion Guide]] — formation companion identification and engagement guide; deploy Phase 2-3
+109. [[Covenant Identity — Deep Lie Work Worksheet]]
+110. [[Covenant Identity — Deep Identity Installation Worksheet]]
+111. [[What the Part Carries — An Independent Formation Practice]] — Stage 4b between-session independent formation practice; read after the Deep Work Worksheets as the implicit-layer counterpart to those explicit-layer tools; deploy in Phase 3 when Stage 4b entry criteria are met and client has sufficient stability for solo parts dialogue
+112. [[New Covenant Promise Map — Generation Prompt]] — AI prompt generating the document immediately below; physically filed in this folder rather than in 07 — AI Prompts
+113. [[Covenant Identity — New Covenant Promise Map 1]]
 
 ---
 
@@ -204,9 +207,9 @@ Start with the meta-reference (design rationale) to orient the whole library, th
 
 Reference material, not sequential reading. Consult as needed.
 
-113. [[Covenant Identity — Author & Resource Reference]]
-114. [[Covenant Identity — Author-Framework Mapping, Transmission Mechanisms & Community Diagnostic]]
-115. [[Covenant Identity — New Covenant Promises — Comprehensive Reference]] *(Built 2026-05-22 — practitioner-facing promise index organized by the ten covenant identity layers; companion to Promise Map 1)*
+114. [[Covenant Identity — Author & Resource Reference]]
+115. [[Covenant Identity — Author-Framework Mapping, Transmission Mechanisms & Community Diagnostic]]
+116. [[Covenant Identity — New Covenant Promises — Comprehensive Reference]] *(Built 2026-05-22 — practitioner-facing promise index organized by the ten covenant identity layers; companion to Promise Map 1)*
 
 ---
 
