@@ -3,7 +3,10 @@ created: 2026-07-16
 basis: primary-source
 tags:
 ---
-## The Way
+## Christ Experience
+The strong inner feeling of not going back is dissipating. What remains is perfect peace & gratitude in the financial whirlpool. 
+
+The Way
 
 **What I ask, first and foremost for the whole of my remaining life**
 Make me a Disciplemaker, a witness to Christ. 
