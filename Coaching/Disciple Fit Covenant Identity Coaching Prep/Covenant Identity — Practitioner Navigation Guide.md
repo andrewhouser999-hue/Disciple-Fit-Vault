@@ -190,6 +190,7 @@ Reach for:
 - [[Covenant Identity — Faith, Certainty & the Reckoning Pattern]] — Lie Eliminator/Identity Installer "Reckoning Pattern" template (Rom 6:11) if the client is prone to certainty-as-technique rather than faith anchored in God's word
 - [[Covenant Identity — Faith as a Mustard Seed (Matthew 17:20) — Practitioner Exegetical Reference]] — corrects the "I don't have enough faith" quantity misreading; use when a client's shame is organized around insufficient believing rather than what their trust is actually resting on
 - [[Covenant Identity — Faith or Fear — Diagnosing Vain Imagination and the Attributes of God]] — Discovery Call through early Phase 1, recurring lens through Phase 3: diagnoses fear-driven religious performance masquerading as faith and supplies a compact seven-attribute Scripture reference to displace it; use before deep work begins so later interventions don't land as more pressure
+- [[Covenant Identity — Externalization of the Christian Life — Diagnostic & Formation Reference]] — recurring lens, Discovery Call through Phase 4: diagnoses Christian practice collapsing into outward behavior/image while the interior person goes unformed; presupposes no wound and no particular engine (check Faith or Fear and the False Noble type separately rather than assuming either); includes its own covenant-truth answer (abide, not strive) and an explicit guardrail against treating a faithful client's visible practice as suspect
 
 **Between-session worksheets:**
 - [[Covenant Identity — Deep Lie Work Worksheet]] — deploy when a specific lie is clearly operative and the client is ready for structured lie work
@@ -198,6 +199,7 @@ Reach for:
 
 **Between-session practices active in Phase 3:**
 - [[Covenant Identity — God-Representation Between-Session Practices]] — primary Phase 3 between-session tool for God-rep work; Gospel encounter is the mechanism
+- [[Covenant Identity — Externalization Noticing Practice]] — deploy once the externalization pattern is named in session (any phase, not Phase 3-exclusive); Phase 3 abiding practices require John 15 Abide given first; deliberately not a checklist
 - [[Covenant Identity — Scripture Saturation & Meditation Guide]] — approach calibration; text sources from other tools
 - [[Covenant Identity — Phase-Specific Reflection Guide]] — Phase 3 prompts; feeds Growth Report
 - [[Covenant Identity — John 15 Abide Formation Posture Reference]] — grounds the cooperative posture behind declaration work; use if the client is striving with the declarations or treating them as passive quietism

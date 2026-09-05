@@ -48,6 +48,7 @@ This document exists for three purposes:
 | Formation Self-Assessment | 1–4 (phase transitions + monthly) | Universal instrument; no wound-type differentiation | Low (client-autonomous; coach reviews trend) | Low — movement tracking; Spirit-dependency indirect |
 | Accountability Companion Guide | 2–3 (after wound work begins; before Phase 4) | Wound-type selection patterns client-facing | Medium (coach helps identify companion in session) | Medium — companion as fellowship discipline; real community frame |
 | What the Part Carries — Independent Formation Practice | Stage 4b (Phase 3 primary) | Safety stops calibrated to activation risk; no wound-type differentiation | Medium (requires pre-assignment safety review; debrief is primary session material) | High — new self in Christ as source of Declaration; Spirit-formed identity throughout |
+| Externalization Noticing Practice | 1–4 (recurring, not phase-exclusive) | No wound-type differentiation — pattern can appear with or without a wound | Low (single noticing question per phase; no scoring) | High — abiding, not self-generated effort, is the explicit mechanism (John 15:4-5) |
 
 ---
 
@@ -280,6 +281,30 @@ Theologically grounded in covenant presence: Step 2 speaks truth *to* God ("God,
 - [[Covenant Identity — Between-Session Support Materials]] — practices in the Support Materials are the primary coach recommendation for what the client does while waiting for the bridge call or next session
 - [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]] — primary deployment context; Phase 2 opens wound material that most commonly produces Tier 2 activation
 - [[Covenant Identity — Character Wound Diagnostic Tool]] — wound type calibrates the client card notes and what practices to recommend during Tier 2 activation
+
+---
+
+## Tool 9 — Externalization Noticing Practice
+
+**File:** [[Covenant Identity — Externalization Noticing Practice]]
+**Purpose:** Between-session companion to [[Covenant Identity — Externalization of the Christian Life — Diagnostic & Formation Reference]] — helps the client notice, in their own week, moments where Christian activity substituted for actual encounter, without producing a new instance of the same pattern.
+**Priority verdict:** High. Built 2026-09-05. The practitioner diagnostic identifies the pattern in session; without a between-session vehicle, the insight has nowhere to go except the client's own unaided effort — which, for this specific pattern, tends to reproduce the externalization it's meant to address.
+
+### Design Decisions
+- **No scoring, no checklist — the single load-bearing constraint on this tool.** A /scrutinize pass on the original plan found that a self-scoring "signs of externalization" instrument handed to a client between sessions is itself an external, gradeable religious activity — the client performs the audit correctly, generating more externalization under the banner of addressing it. Every practice in the document is a single open question, held loosely, brought back into the room verbally.
+- **Phase 1 mirrors the existing noticing-practice convention exactly** — one sentence, no analysis, brought to session — rather than inventing a new between-session shape. Matches [[Covenant Identity — God-Representation Between-Session Practices]]'s Phase 1 pattern.
+- **Phase 3 gated on John 15 Abide being given in session first.** The abiding practices are meaningless, and risk becoming a new performance standard, without the abide/strive distinction already in place — this precondition is stated as non-negotiable in the document.
+- **Phase 4 check-in is monthly, not weekly** — deliberately lower frequency than most other Phase 4 sustainability practices in this library, because a weekly re-audit of "am I still externalizing" would itself risk becoming the pattern.
+- **Explicit practitioner instruction to watch for the noticing practice itself being performed well** — a client who reports the noticing practice with the same polished, well-organized quality named as a diagnostic signal in the practitioner reference should have that named in session, not taken at face value.
+
+### Key Distinctives
+The only tool in this library whose central design constraint is a formal *absence* — no scoring mechanism — rather than a positive feature. This is a direct consequence of the pattern it addresses: any structured self-assessment instrument would recreate exactly the substitution (outward compliance replacing inward reality) the tool exists to interrupt. Spirit-dependency is architectural via John 15:4-5 — fruit as something abiding produces, not something effort manufactures.
+
+### Connects To
+- [[Covenant Identity — Externalization of the Christian Life — Diagnostic & Formation Reference]] — in-session diagnostic that must precede assignment
+- [[Covenant Identity — John 15 Abide Formation Posture Reference]] — required precondition for Phase 3
+- [[Covenant Identity — Faith or Fear — Diagnosing Vain Imagination and the Attributes of God]] — cross-assign only if fear is confirmed as the engine, not by default
+- [[Covenant Identity — Character Wound Between-Session Practices]] — cross-assign only if a False Noble wound type is separately confirmed
 
 ---
 

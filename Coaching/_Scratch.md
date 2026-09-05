@@ -146,3 +146,20 @@ That note already established the causal chain: character wound → disordered a
 TO DO: Design the coaching relationship with the client, including its Dimensions. Relates to [[Covenant Identity Coaching — Practice Definition]] (`01 — Model Foundation`) — check whether a "Dimensions of the coaching relationship" section already exists there or needs to be built.
 
 ---
+
+**Note — 2026-09-05 — Should Externalization Be a Fifth Axis in the Between-Session Deployment Strategy?**
+
+TO DO / open question, for further consideration.
+
+[[Covenant Identity — Between-Session Library — Phase-by-Scenario Deployment Strategy & Scrutiny]] organizes all between-session deployment around four axes: Entry Fork (Wound-Led/Vision-Led), Wound Type (Warrior/Hermit/False Noble/No Wound Type Applies), God-Representation Type (six canonical types), and Crisis/Distress Tier (Tier 1-3). The full scenario-coverage analysis (Section 1's taxonomy, Section 3's gap list) is built on this four-axis structure.
+
+[[Covenant Identity — Externalization of the Christian Life — Diagnostic & Formation Reference]] and its between-session companion `ALLk — Covenant Identity — Externalization Noticing Practice` (both built 2026-09-05) behave like a fifth cross-cutting axis: the pattern presupposes none of the existing four (can appear with or without a wound, with any God-rep type, independent of crisis tier), and deploys once named in session at any phase — structurally similar to how Crisis Tier is already treated as "cross-cutting, not phase-bound" rather than folded into the wound/God-rep scenario table.
+
+**The actual question:** does externalization deserve formal fifth-axis status — its own row in the scenario taxonomy, its own coverage/gap analysis run through that document's full-text scrutiny method — or does it stay a standalone recurring lens that sits outside the four-axis taxonomy entirely, cross-referenced but not integrated into it (the way, for instance, the Formation Self-Assessment or Alliance Pulse aren't folded into the scenario table either)?
+
+**Why this wasn't decided unilaterally:** integrating it as a real fifth axis would mean re-running a version of the 2026-08-07 full-text scrutiny that produced the existing taxonomy — checking every combination of externalization × wound type × God-rep type × entry fork for genuine coverage gaps, not just asserting it fits. That's a scoped project, not a side-effect of indexing a new file. A placeholder flag was left in the Deployment Strategy doc itself (just above the axis table) pointing back to this question.
+
+**If the answer turns out to be yes:** the next step is the same method Section 3 of that document already uses — full-text read of ALLk plus every tool it might co-deploy with, scenario-by-scenario.
+**If no:** the placeholder note in the Deployment Strategy doc should be removed once this is deliberately decided, rather than left as a permanent unresolved flag.
+
+---
