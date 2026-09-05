@@ -97,6 +97,14 @@ A way of life. It means living with gratitude, simplicity, and positive outlook.
 
 ---
 
+#### Numinous
+
+*NOO-min-us*
+Having a strong spiritual or mysterious quality that evokes a sense of the sacred, awe, and wonder beyond ordinary explanation; the felt sense that something greater than oneself is present. e.g. Standing alone in the empty sanctuary after everyone had left, he felt something numinous settle over the room, as though the silence itself were holy.
+**Wisdom:** Awe is often the doorway to worship, not a substitute for it — what feels numinous is an invitation to seek the God behind the feeling, not to rest in the feeling itself.
+
+---
+
 ## Part I — Hebrew, Aramaic & Greek Terms
 
 *Exegetical vocabulary cited across CIC's biblical-theological documents. Pronunciation guides are simplified, English-reader phonetic approximations (caps = stressed syllable) — not IPA and not identical to Modern Hebrew or Erasmian Greek pronunciation systems, though closest to standard seminary Erasmian/Biblical Hebrew academic convention. Alphabetized by transliteration.*
