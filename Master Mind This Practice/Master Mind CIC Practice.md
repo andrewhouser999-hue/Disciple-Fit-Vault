@@ -30,6 +30,18 @@ Shortest version (for a verbal answer at a networking event, where you have one 
 
 "I help people find the lie they've been living by and the false identity built on top of it — then rebuild from there, so they can finally become who they want to be."
 
+DEFINITION - Dallas Willard, *Renovations of the Heart*
+Spiritual Formation for the Christian basically refers to the Spirit-driven process of forming the inner world of the human self in such a way that it becomes like the inner being of Christ Himself.  Christian spiritual formation CSF is focused entirely on Jesus. Obediance is an essential outcome of Christian spiritual formation (John 13:34-35; 14:21) "Christ be formed within you" is the eternal watchword of CSF (Galatians 4:19.) by the Spirit (2 Cor 3:6)  Your R+ must go beyond the religious outward expressions (Matt 5:20)
+
+CSF is formed by the  Spirit of God and by the spiritual riche of Christ's  continuing incarnation in His people. 
+
+CSF is a way of rest for the weary and overloaded, of the easy yoke and the light burden (Matt 11:28-30), of cleaning the "inside of the cup" and...the dish" (23:26) of the good tree that cannot bear bad fruit (Luke 6:43) And it is the way, the path along which  God's commandments are found to be not "heavy," not "burdensome" (1 John 5:3)
+
+CSF is a way of learning as disciples or apprentices of Jesus, "to do all the things I have commanded you," within the context of his, "I have been given say over everything in heaven and earth," and "look I a with you every minute." (Matt 28:18, 20)
+
+It is who we are in our thoughts, feelings, dispositions and choices--in the inner life-- that counts.  Profound transformation is the only thing that can definitively conquer outward evil. 
+
+It is very hard to keep this straight . Failure to do so is primary cause of failure  gto row spiritually. Love, we hear, is patient and kind. Then we mistakenly try to be loving by acting patiently and kindly---and quickly fail.  My interjection-God can forgive through you and you still have to make it deeply and broadly your forgiveness. You can receive God's love for another and fail the test having to make His love deeply yours.  Acting and receiving are not enough it must become a part of you, fully received within. What constitutes fully receiving?
 
 ---
 **Sanctification can by via coaching vs trial/trauma**
