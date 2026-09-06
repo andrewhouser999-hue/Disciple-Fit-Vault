@@ -206,18 +206,19 @@ Read the index first to get the map, then the numbered tools in order, then the 
 87. `01 — Thought Record.md` through `18 — Legacy Vision Work.md` (18 tools, in numbered order)
 88. `Lie Eliminator — Client Workbook.md`
 89. `Identity Installer - Client Workbook.md`
-90. `Provision or Self-Protection — Somatic Self-Check.md`
+90. `Pattern Interrupter — Client Workbook.md`
+91. `Provision or Self-Protection — Somatic Self-Check.md`
 
 ---
 
 ## Block 11 — Coach Skills (In-Session Reference)
 *Session — Active/Coach Skills*
 
-91. `Integrated Coaching Card — EQ + CBT + Biblical Framework.md`
-92. `Co-Active Accountability — Full Reference.md`
-93. `Tool Procedure Reference — Coaching Guide.md`
-94. `Keeping Eyes on Jesus — Practice Reference Card.md`
-95. `Motivation Workbook — Client & Coach Reference.md`
+92. `Integrated Coaching Card — EQ + CBT + Biblical Framework.md`
+93. `Co-Active Accountability — Full Reference.md`
+94. `Tool Procedure Reference — Coaching Guide.md`
+95. `Keeping Eyes on Jesus — Practice Reference Card.md`
+96. `Motivation Workbook — Client & Coach Reference.md`
 
 ---
 
@@ -226,9 +227,9 @@ Read the index first to get the map, then the numbered tools in order, then the 
 
 Read last in the session tools cluster — these are only useful once you know what you are prepping for.
 
-96. `Attachment Style Diagnostic — Coach Reference & Probe Sequence.md`
-97. `Disciple Fit Session Prep Template — Augustine Beatitude Diagnostic.md`
-98. `Life Coaching Intake Questionnaire.md`
+97. `Attachment Style Diagnostic — Coach Reference & Probe Sequence.md`
+98. `Disciple Fit Session Prep Template — Augustine Beatitude Diagnostic.md`
+99. `Life Coaching Intake Questionnaire.md`
 
 *Note: `Client-Facing Questions — Diagnostic Intake Form.md` (formerly #97 here) was archived 2026-07-06 — superseded by the two-tier intake system in Covenant Identity Coaching Prep/03 — Intake System/. See that cluster instead for current intake procedure.*
 
@@ -237,11 +238,11 @@ Read last in the session tools cluster — these are only useful once you know w
 ## Block 13 — Curriculum
 *Curriculum folder*
 
-100. `Evidence-Based Coaching Framework — Learning Roadmap, Scripture-Tool System & Practice Development.md`
-101. `Pedagogy of Spiritual Formation — What Expert Thought Confirms.md`
-102. `Cognitive Performance Coaching - Application Protocol.md`
-103. `Keeping Eyes on Jesus — Teacher's Manual.md`
-104. `Curriculum Module Build Prompt — Template.md`
+101. `Evidence-Based Coaching Framework — Learning Roadmap, Scripture-Tool System & Practice Development.md`
+102. `Pedagogy of Spiritual Formation — What Expert Thought Confirms.md`
+103. `Cognitive Performance Coaching - Application Protocol.md`
+104. `Keeping Eyes on Jesus — Teacher's Manual.md`
+105. `Curriculum Module Build Prompt — Template.md`
 
 ---
 
@@ -250,7 +251,7 @@ Read last in the session tools cluster — these are only useful once you know w
 
 Read last. These are source summaries and supplemental notes — useful for verification and context, not for building the framework.
 
-105. `Soul Care - Dr Rob Reimer.md`
-106. `Atomic Habits.md`
-107. `Identity Before Outcome — Athlete & Faith Quotes.md`
-108. `Formal Education.md`
+106. `Soul Care - Dr Rob Reimer.md`
+107. `Atomic Habits.md`
+108. `Identity Before Outcome — Athlete & Faith Quotes.md`
+109. `Formal Education.md`
