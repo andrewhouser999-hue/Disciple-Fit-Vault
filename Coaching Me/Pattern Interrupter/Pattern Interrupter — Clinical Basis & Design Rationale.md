@@ -14,6 +14,10 @@ tags:
 
 Neither [[Lie Eliminator - Personal]] nor [[Identity Installer - Personal]] has a separate document like this — their design justification lives embedded inside each personal doc (Lie Eliminator's "Research Basis — Why Each Field Exists"; Identity Installer's "What Psychology Says About Identity Formation"). Pattern Interrupter earns a dedicated treatment for a specific reason: it maps onto one named clinical protocol — Habit Reversal Training — almost component-for-component, more directly than either sibling tool maps onto any single source. That fidelity is worth documenting explicitly rather than folding into a shorter annotation, both so the claim can be checked and so future changes to the tool can be tested against the protocol they're extending.
 
+**Revision note (2026-09-06, post-/scrutinize):** an earlier version of this tool had two real defects, now fixed: (1) it did all its diagnostic work with secular psychological categories and none with biblical counseling's own diagnostic layer — a category error given this system's three-discipline design; (2) the new-behavior field was authored *before* identity was anchored, inverting this system's own five-layer mechanism (Spirit as primary agent → formation context → diagnosis → covenant truth received → disciplines that sustain). Both are addressed below and reflected in the current field order in [[Pattern Interrupter - Personal]] and the Client Workbook. Consolidation note: the full field-by-field annotation that used to live inside [[Pattern Interrupter - Personal]] has been removed from that document — it duplicated this document and [[Pattern Interrupter — Build Prompt]] without adding anything, and made the working document slower to use in the moment it's actually needed. This document and the Build Prompt are now the sole authorities on field rationale; the Personal doc carries only a one-line pointer.
+
+Because this tool is now designed to function as a **standalone client-facing diagnostic** (not strictly downstream of other tools), the biblical-counseling gap below was a must-fix, not an optional deepening.
+
 ---
 
 ## The primary clinical parent: Habit Reversal Training (Azrin & Nunn, 1973)
@@ -42,18 +46,30 @@ This is not an incidental resemblance. It is the reason the tool has the shape i
 
 ---
 
+## The biblical-counseling layer: Functional Savior Diagnostic (Keller; Tripp)
+
+This system's own three-discipline design assigns diagnostic precision to biblical counseling, relational methodology to coaching, and telos/posture to spiritual formation — using coaching-derived tools (HRT, chain analysis) to do diagnostic work is a category error the original version of this tool committed by omission. Tim Keller's functional-savior framework and Paul David Tripp's heart-behavior model both hold that a persistent behavior pattern is rarely just a habit — it's usually serving a functional savior, something trusted or relied on in place of God, even when never named as such. The new field **"What Am I Trusting Instead?"** sits directly after secondary gain (*What This Script Gives Me*) for a reason: secondary gain names the psychological payoff; this field asks the theological question underneath it — not "what does this get me" but "what am I trusting instead of God when I do this." Without this field, a person could behaviorally interrupt the pattern via Habit Reversal Training's mechanics while never repenting of the actual functional idol driving it — the pattern would change; the idolatry underneath it wouldn't be touched. This field is what keeps the tool a formation instrument rather than pure behavior modification with a Bible verse attached. For deeper excavation than one field allows, this tool cross-references [[09 — Functional Savior Audit]] rather than duplicating it in full.
+
+## Mechanism-order fix: identity anchored before the new script is authored
+
+The original field order authored *The Desired Script* before *Anchor Identity* — behaviorally coherent (HRT's competing-response training doesn't require an identity step at all) but theologically backwards for this system, which requires covenant truth to be received before between-session disciplines are asked to sustain anything. The current order moves Anchor Identity immediately before the field it governs, and the Desired Script's own heading now states explicitly that it is authored *from* that identity, not toward it. This is not a cosmetic reorder — it's the difference between "do this instead" (willpower, aimed at the old sin) and "do this because this is who you actually are now" (formation, flowing from a secured identity), and only the second one is consistent with how Lie Eliminator and Identity Installer already work.
+
+---
+
 ## What "Out Loud Rehearsal — With a Witness" specifically closes
 
 The original design had an honest gap: HRT's competing response training is not a read-and-reflect exercise — in clinical practice, the therapist physically trains and corrects the competing response with the client, live, until it is fluent, before it is ever needed under real pressure. A written document cannot do that on its own. The *Out Loud Rehearsal* field closes part of that gap by giving the *Witness* field an actual function beyond after-the-fact observation: the witness becomes the stand-in for the clinician's live coaching role, present while the Desired Script is spoken aloud and practiced to fluency in a calm moment, not only consulted afterward about which script ran in a real one. This does not fully replace supervised clinical practice, but it is the closest a self-directed tool can come to it, and it is a real, not cosmetic, application of the same mechanism HRT relies on.
 
 ---
 
-## Honest limitations
+## Honest limitations (updated 2026-09-06)
 
 1. **This is a synthesis, not a single certified manual.** A clinician would recognize each component's ancestry — HRT, chain analysis, schema mode work, relapse prevention — but would not open this document and identify it as any one of them verbatim. The same is true of Lie Eliminator (Beck + Young + Ecker + Allender) and Identity Installer (McAdams + Steele + Young + ACT); this tool follows the same integrative pattern the whole system already uses, now made explicit rather than left implicit.
-2. **A document structures the work; it does not supervise it.** Even with the Out Loud Rehearsal field added, there is no real-time correction of the competing response the way a clinician provides. The witness can confirm whether the rehearsal sounds right, but cannot diagnose or refine technique the way a trained clinician would.
-3. **No quantified tracking.** Clinical HRT protocols sometimes use frequency counts or urge-intensity ratings to track progress objectively. This tool relies on qualitative phase-shifts (Active → Integrating → Integrated) instead — appropriate for a self-directed formation tool, but a real trade-off against measurable precision.
-4. **The theological layer sits alongside, not inside, the clinical mechanism.** Anchor Identity and the broader Covenant Identity Coaching framing are a deliberate integration point consistent with how this entire system operates (biblical content layered onto empirically-grounded structure), not a claim that the clinical protocols themselves are theological. Where the two layers meet is a design choice, not a research finding.
+2. **HRT's evidence base doesn't transfer automatically.** Habit Reversal Training's actual RCT support is for tics and body-focused repetitive behaviors — discrete, largely non-relational, low-meaning-density behaviors. A parenting discipline reaction is saturated with relationship history and moral stakes in a way a tic isn't. The component mapping above is a structural analogy this document draws, not a validated clinical application to relational scripts — that gap is real and unresolved, not just a caveat.
+3. **A document structures the work; it does not supervise it.** Even with the Out Loud Rehearsal field added, there is no real-time correction of the competing response the way a clinician provides. The witness can confirm whether the rehearsal sounds right, but cannot diagnose or refine technique the way a trained clinician would. The witness is also often an invested party (a spouse affected by the same pattern), not a neutral observer — the tool now names this directly and offers an alternate-witness option for rehearsal specifically.
+4. **No quantified tracking.** Clinical HRT protocols sometimes use frequency counts or urge-intensity ratings to track progress objectively. This tool relies on qualitative phase-shifts (Active → Integrating → Integrated) instead — appropriate for a self-directed formation tool, but a real trade-off against measurable precision.
+5. **Redundancy with existing Client Tools.** [[04 — Decisional Balance]] and [[05 — Competing Commitment Map]] already cover ground this tool's Cost and Anchor Identity fields touch. This tool is not a replacement for either — it's a compressed, pattern-specific version, cross-referenced now (in both the Client Workbook and `_Tool Index.md`) rather than silently duplicated.
+6. **The theological layer is now inside the mechanism, not merely alongside it** — the Functional Savior field sits in the required sequence, not as an optional add-on — but this doesn't make the clinical protocols themselves theological. Where the two layers meet (Anchor Identity, the Functional Savior field, the Scripture in Whose Script This Is and The Repair Step) is a design choice reflecting this system's own three-discipline model, not a claim that Azrin, Linehan, or Marlatt's research has theological content of its own.
 
 ---
 
@@ -63,3 +79,6 @@ The original design had an honest gap: HRT's competing response training is not 
 - Linehan, M. — Dialectical Behavior Therapy behavioral chain analysis (vulnerability factors, prompting event, links, problem behavior, consequences).
 - Young, J. — Schema Therapy mode work and imagery rescripting.
 - Marlatt, G. A., & Gordon, J. R. (1985). *Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors.*
+- Keller, T. — functional-savior / idolatry framework.
+- Tripp, P. D. — heart-behavior model, gospel-to-behavior bridge.
+- Ezekiel 18:20; 1 John 1:9; Luke 15:20 (ESV) — scriptural grounding added to Whose Script This Is and The Repair Step.
