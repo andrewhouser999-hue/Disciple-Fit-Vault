@@ -6,7 +6,7 @@ tags:
 
 # Pattern Interrupter — Build Prompt
 
-*This is a design-proposal/satellite document, like [[Lie Eliminator & Identity Installer — Adaptation Over Time (Design Proposal)]] — not itself a working tool, but the spec behind one. Read this before extending Pattern Interrupter with a new entry type, a new field, or a second client-facing variant.*
+*This is a design-proposal/satellite document, like [[Lie Eliminator & Identity Installer — Adaptation Over Time (Design Proposal)]] — not itself a working tool, but the spec behind one. Read this before extending Pattern Interrupter with a new entry type, a new field, or a second client-facing variant. For the full clinical-protocol mapping (Habit Reversal Training, DBT chain analysis, Schema Therapy mode work, Marlatt's Relapse Prevention Model) and honestly-named limitations, see [[Pattern Interrupter — Clinical Basis & Design Rationale]].*
 
 ---
 

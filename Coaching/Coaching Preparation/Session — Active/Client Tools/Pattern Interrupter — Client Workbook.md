@@ -16,6 +16,8 @@ That gap is the target. A pattern like this was almost always *learned* — watc
 
 **A boundary worth naming up front:** this tool is for patterns rooted in what was modeled to you and reinforced by habit — not for trauma-level material. If naming the old pattern brings up more than discomfort — flashbacks, a sense of danger, material that feels bigger than "a pattern I picked up" — that's worth naming to your coach directly. It may call for support alongside this work, not instead of it.
 
+**Clinical basis, briefly:** this workbook's structure is built primarily on Habit Reversal Training, the established clinical approach for interrupting an automatic behavioral pattern, with supporting structure from behavioral chain analysis and relapse-prevention research. It is not a new or unproven idea — it adapts a well-documented approach to a relational pattern instead of a physical habit. (Your coach can point you to the full basis if you're interested.)
+
 ---
 
 ## How This Workbook Is Structured
@@ -87,19 +89,34 @@ Each pattern you work through has eleven sections. Here is what each one does an
 
 ---
 
-### 9. The Repair Step
+### 9. Out Loud Rehearsal — With a Witness
+**What it is:** Practicing the New Pattern out loud, with another person present, before you need it in the real moment.
+**What to do — basic how-to:**
+1. Pick a calm, low-pressure moment — not in the middle of an actual conflict.
+2. Say the trigger out loud (section 1).
+3. Say the Old Pattern out loud, step by step (section 4), so your witness hears exactly what currently happens.
+4. Say the New Pattern out loud, step by step (section 6), as if it's already happening — actually speak the words you'd say.
+5. Ask your witness one honest question: *does that sound like the person you're trying to become?*
+6. Repeat it two or three times in the same sitting. Fluency comes from repetition, not a single read-through.
+7. Afterward, in real life, ask your witness to tell you honestly which pattern actually showed up.
+
+**Why this matters:** Reading a plan and being able to run it under pressure are two different skills. Reflection alone rarely produces a fluent alternative response — the research behind this workbook found that a practiced, physically or verbally rehearsed alternative is what actually competes with an automatic pattern, and doing it with another person present is part of what makes the rehearsal work, not an optional extra.
+
+---
+
+### 10. The Repair Step
 **What it is:** What you do when the old pattern fires anyway — because it sometimes still will.
 **What to do:** Write out, in your own words, exactly what you'll say to the other person afterward. Naming the misstep directly to them — the same day, if possible — is not damage control. It's often the more important lesson: that you're accountable, not infallible, and that ruptures get repaired rather than left standing.
 
 ---
 
-### 10. Witness
-**What it is:** Someone positioned to tell you honestly which pattern actually ran — the old one or the new one.
+### 11. Witness
+**What it is:** Someone positioned to tell you honestly which pattern actually ran — the old one or the new one, and to practice the out-loud rehearsal in section 9 with you.
 **What to do:** Name a specific person — usually a spouse or close peer, not the person the pattern acts on. Ask them directly to tell you what they notice, even when it's not flattering.
 
 ---
 
-### 11. Practice Rhythm
+### 12. Practice Rhythm
 - **Daily:** Read the New Pattern for whichever entry is most live right now. Picture yourself running it before the triggering situation is likely to occur.
 - **Weekly:** Revisit one full entry, including the Cost fields — add anything new you've noticed.
 - **As it happens:** When the old pattern fires, go straight to the Repair Step the same day.
@@ -128,6 +145,8 @@ Each pattern you work through has eleven sections. Here is what each one does an
 **The New Pattern — Step by Step:** 1) Notice the chest-tightening without acting on it. 2) Take one breath before responding. 3) Say "you're right, that slipped — thank you for naming it" before anything else. 4) Address the task itself once the defensiveness has passed.
 
 **Anchor Identity:** I am secure — my worth isn't determined by never falling short in front of others.
+
+**Out Loud Rehearsal:** Practiced the New Pattern with my spouse on a Tuesday evening, unrelated to any actual incident — said the trigger, the old defensive script, then the new one out loud, twice. She said it sounded stiff but real, and asked me to try it again slower.
 
 **Repair Step:** "I got defensive back there instead of just hearing you — I'm sorry. You were right, and I didn't want to just say that."
 
@@ -169,6 +188,9 @@ Each pattern you work through has eleven sections. Here is what each one does an
 >
 
 **Holding Both — In the Body:**
+>
+
+**Out Loud Rehearsal — With a Witness:**
 >
 
 **The Repair Step:**

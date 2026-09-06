@@ -8,6 +8,8 @@ tags:
 
 > A lie is a false belief. A false identity is a false self-concept. This is neither — it is an **inherited relational script**: an automatic sequence of action, run on another person, learned by watching it modeled rather than by choosing it. It does not live in what you think or in who you believe yourself to be — it lives in your body, activated by a specific trigger, discharging before you've decided anything. That is why believing better and even restraining the behavior has not been enough to change it. This document targets the script itself — its author, its steps, its cost, and its rehearsed replacement — not the belief underneath it (that's [[Lie Eliminator - Personal]]) and not the self-concept it's attached to (that's [[Identity Installer - Personal]]). Use all three together; each works a different layer of the same person.
 
+**Clinical basis, briefly:** this tool's structure is not invented from nothing — it's built primarily on Habit Reversal Training (Azrin & Nunn, 1973), the standard clinical protocol for interrupting an automatic behavioral pattern, with supporting structure from DBT behavioral chain analysis, schema therapy mode work, and Marlatt's relapse-prevention model. Full mapping in [[Pattern Interrupter — Clinical Basis & Design Rationale]].
+
 **How to use this:**
 - **Daily:** Read the Desired Script for the entry most live right now. Rehearse it mentally before the situation that triggers the old one is likely to occur.
 - **Weekly:** Sit with one full entry — including Holding Both and the Cost fields. Update Internal/External Cost with anything new you've noticed.
@@ -57,6 +59,9 @@ The Spirit is the active agent here — not you. What you are doing is creating 
 
 **Holding Both — In the Body:**
 > Same mechanism as both sibling tools: **Ecker/Ticic/Hulley** (reconsolidation requires simultaneous holding, not sequential), **Ogden & Fisher** (dual awareness), **Diana Fosha** (transformational affect as the marker of real integration), **Eugene Gendlin** (felt sense / felt shift).
+
+**Out Loud Rehearsal — With a Witness:**
+> **Azrin & Nunn** — Habit Reversal Training's competing response training is not read-and-reflect; it is practiced, out loud or in motion, repeatedly, ideally with someone else present to confirm it was actually performed correctly — the same social-support/contingency-management component that makes HRT outperform awareness training alone. A document can prescribe the Desired Script; only speaking it out loud, with a witness present, builds the fluency that makes it available under pressure instead of only in calm reflection. This field exists specifically to close that gap.
 
 **The Repair Step:**
 > **Ed Tronick** — the rupture-and-repair research (the "still-face" studies and their replications): what predicts secure attachment is not the absence of misattunement but reliable repair *after* it. This field exists because the desired script will not always win before the old one fires, and because this script — unlike a private belief or self-concept — is performed on another person in real time. A father who names his own misstep to his child directly counter-trains the "distant judge" image the old script would otherwise transmit; the repair is not damage control, it's a second, more direct lesson than the original rupture.
@@ -123,6 +128,11 @@ The Spirit is the active agent here — not you. What you are doing is creating 
 > Where does the desired script — engaged, instructive, connected — land when I picture running it instead?
 >
 > One hand on each place. Hold both. Breathe. What happens at the place that's braced for threat, now that engaged presence is here with it — not after it?
+
+**Out Loud Rehearsal — With a Witness:**
+> Basic how-to: pick a calm moment, not mid-conflict. (1) Say the trigger out loud. (2) Say the Old Script out loud, step by step, so your witness hears exactly what currently happens. (3) Say the Desired Script out loud, step by step, as if it's already happening — actually speak the instructive words you'd say to your child. (4) Ask your witness one honest question: does that sound like the father you want me to be? (5) Repeat two or three times in the same sitting — fluency comes from repetition, not a single read-through. (6) Ask your witness to tell you afterward, in real life, which script actually showed up.
+>
+> *(Schedule this with your wife — not as a crisis conversation, a practice session.)*
 
 **The Repair Step:**
 > When the old script fires anyway — name it to my child directly, same day if possible: *"I reacted like the distant judge just now, not like the dad I actually want to be with you. I'm sorry. Here's what I actually wanted you to understand..."* Owning the misstep to my child is not damage control — it is a second, more direct lesson than the original rupture: that the authority in this house is accountable, not a verdict-giver watching from a distance.
