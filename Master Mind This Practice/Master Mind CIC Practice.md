@@ -6,6 +6,9 @@ tags:
 **Memorize**
 
 PRODUCT
+What does a CIC coach do? 
+I help clients replace false, lie-based identity beliefs with a covenant identity rooted in Scripture, working through implicit belief/felt-sense mechanisms rather than just cognitive reframing.
+
 A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ, and be formed by the Spirit toward faithful image-bearing. Three disciplines, unified. None sufficient alone. Each contributing what the others cannot:
 
 - **Spiritual formation** provides the governing telos, the process frame, and the account of the practitioner's role — cooperating with what the Spirit is already doing.
