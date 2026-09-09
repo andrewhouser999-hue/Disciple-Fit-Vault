@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24"
+basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09"
 tags:
 ---
 
@@ -672,3 +672,134 @@ This is the highest-converting of the three lines, but it presumes the reader al
 
 ### Guardrails
 Same standing guardrails as the Word Within section above apply regardless of which name or messaging direction is used: no Word-of-Faith adjacency (truth/identity language never stands alone as a technique, apart from diagnosis and relationship), no institutional critique (church, pastors, and sermons are framed as companions to this work, never as insufficient), no clinical language (this is non-clinical coaching, and wording should stay behavioral and operational throughout).
+
+---
+
+## Wilderness Christian — Homepage Copy (Doorway Design), 2026-09-09
+
+*Segment: [[Wilderness Christian]] (Target Market). Built from the Common Experiences and Cross-Problem Relationship work added to [[Client Problem & Cost Language]] #2, #3, #7, #10 the same day, and from Andrew's stated website idea: let a visitor "reach for what they can connect to," then converge on the same next step regardless of entry point. Per the CIC Target Market Definition & Messaging Generator's Messaging Mode rules, every section below is labeled by felt-cost problem number and buyer's-journey stage (1–5, per the Marketing Charter).*
+
+**Reconciliation flag:** this draft has not been reconciled with the "Word Within" (2026-07-21) or "Name Retained" (2026-08-24) homepage sections above. This is the first homepage draft built from an actually-promoted Target Market segment and the felt-cost entry-point research behind it — recommend it supersede both for publication. Final call, and the business-name decision it depends on, is Andrew's.
+
+**Business name used below:** Covenant Identity Coaching, per the 2026-08-24 retention decision. If the rename to Word Within (or another candidate) proceeds, swap the name only — the structure and guardrails below don't change.
+
+**Before publishing:** every doorway line below is Hypothesis-level, per the same evidentiary flag on the Common Experiences they're drawn from — patterned from formation/psychology frameworks, not yet tested against real prospect language. Andrew: cut or reword anything that doesn't match what you've actually heard, and treat the "I'm Not Asking You to Trust a Stranger With This" section below as a first draft of a very personal paragraph — it compresses `My Story.md` into public-facing language and needs your explicit sign-off on every phrase before it goes live, not just a skim.
+
+---
+
+### HERO
+**Problem:** none named yet · **Stage:** 1→2 (felt cost, no root)
+
+> **Still Pursuing God. Still Stuck. Still Not Sure Why.**
+>
+> This is for the Christian who never stopped believing — who's tried harder, prayed more, studied deeper — and is still stuck in the same place. You haven't walked away from God. You've kept showing up, kept believing, kept trying — and something in you still isn't moving. If any of that sounds familiar, you're not the only one, and there's a reason for it that isn't "you're not trying hard enough."
+
+**[ Find Your Starting Point ↓ ]** — scrolls to the doorway section below; not a discovery-call ask yet. Per the Marketing Charter, no ask before recognition has landed.
+
+---
+
+### FIND WHAT YOU RECOGNIZE
+**Problems:** #2, #3, #7, #10 (two doors each) · **Stage:** 2 (Recognition)
+
+*Intro line above the doors:*
+> Everyone's version of "stuck" looks a little different. Pick whichever one sounds the most like you — there's no wrong door.
+
+**Door 1 — #2** "You know what you believe. You just can't seem to live from it."
+> You've read the books, sat through the sermons, maybe even taught the class. The truth is in your head — clear, memorized, ready. Then Monday comes, or the pressure hits, and you react the same way you always have. It's not that you don't know enough. Something isn't translating.
+
+**Door 2 — #2** "The gap only shows up when it actually counts."
+> In calm moments, the theology holds. It's the real stress — a hard conversation, a crisis, the moment you needed the truth most — where it goes quiet, and you're left running on the same old patterns instead.
+
+**Door 3 — #3** "You've prayed this away more times than you can count. It keeps coming back."
+> The anxiety, the shame, the same tight-chest feeling — you've repented, you've prayed, you've claimed what's true. And your body hasn't gotten the message yet. That's not a sign your faith is thin.
+
+**Door 4 — #3** "You look fine. Inside, you're not."
+> Nobody around you would guess. You perform well, show up, hold it together. Which makes it worse, somehow — because now even the "I'm okay" looks like one more thing you're managing.
+
+**Door 5 — #7** "You're not walking away from God. You're just... flat."
+> No crisis, no dramatic doubt — just years at the same place. You do the things. Nothing moves. You've wondered if it's discipline, or sin, or something deeper, and none of those answers has actually explained it.
+
+**Door 6 — #7** "You've tried the new plan, the new group, the new book. The flatness comes back."
+> Every fix gives a short bump, then fades. If you've quietly started to suspect the problem isn't which resource you pick next, you're closer to the actual answer than you think.
+
+**Door 7 — #10** "Who you are at church and who you are the rest of the week are starting to feel like two different people."
+> You're not faking it on Sunday. But Monday runs on a different set of rules — sharper, more anxious, more self-protective — and you didn't consciously choose that split. It just runs.
+
+**Door 8 — #10** "You can say what you believe. You can't always say you live it."
+> You could stand in front of your team, your group, your kids, and describe your values clearly. Then a normal Tuesday happens, and your actual decisions don't quite match the speech.
+
+*Closing line beneath all eight doors:*
+> If you found yourself in more than one door — that's the norm here, not the exception. Keep reading.
+
+---
+
+### YOU'RE NOT DESCRIBING FOUR PROBLEMS
+**Problems:** #2, #3, #7, #10 (synthesis) · **Stage:** 3 (Curiosity)
+
+> Whichever door you picked, here's what's actually true: none of these are about missing information. You already have real belief — the kind that's stayed with you through everything. What you're describing is belief that hasn't yet reached the place that actually runs your life: your feelings, your reactions, your sense of being alive, the way you actually show up when no one's grading you.
+>
+> That's not a "try harder" problem. It's worth understanding why.
+
+---
+
+### I'M NOT ASKING YOU TO TRUST A STRANGER WITH THIS
+**Stage:** 3→4 (integrated story; root begins to surface) — *draft only, needs Andrew's sign-off, see note above*
+
+> For most of my life, I built my worth the only way I knew how — by working harder than everyone around me, hoping it would finally be enough. It never quite was. I served faithfully in church after church, and more than once, I was the one asked to leave. I told myself the problem was the fit, or the timing. After enough repetitions, I stopped believing that story.
+>
+> The last time it happened, I didn't just grieve it. I sat with it — really sat with it, before God, without rushing to explain it away — and in that moment, I felt Him closer than I had in years. That's when I stopped trying to fix my life by trying harder, and started asking what was actually running underneath it.
+>
+> What I found wasn't a new technique. It was a gap between what I genuinely believed about God and what actually governed how I showed up — in my marriage, my work, my sense of whether I was worth knowing. Closing that gap is what built the process I now use with clients. I'm not describing a theory. I'm describing the thing that changed how I actually live.
+
+---
+
+### WHAT WAS ACTUALLY IN THE WAY
+**Stage:** 4 (Root Revealed)
+
+> Here's the pattern underneath all four problems above: your identity — who you actually believe you are, at the level that runs your reactions — got shaped by something other than what God says about you. Maybe it was a community that let you down. Maybe it was years of proving your worth through performance. Maybe both. Either way, the truth you know intellectually and the identity that's actually running your life haven't been the same thing for a long time.
+>
+> That's not a discipline gap. It's an identity gap. And it's the thing Covenant Identity Coaching is built to close — not by teaching you more truth, but by finding exactly where the old story is still operating, and working there directly.
+
+---
+
+### WHAT'S ON THE OTHER SIDE OF THIS
+**Problems:** #14–#16 (aspirational destination) · **Stage:** 4→5
+
+> Closing the identity gap isn't the destination — it's what clears the way. On the other side of it is the thing you've probably stopped letting yourself want out loud: the calling you've sensed but haven't pursued, a life that actually adds up to something, the thing you keep almost building before something in you shuts it down.
+>
+> The healing work isn't instead of that. It's what makes it possible.
+
+---
+
+### WHAT THIS IS NOT
+**Stage:** trust / boundary language, all stages
+
+- Not a replacement for the church — a companion to a faith that church, on its own, hasn't fully reached.
+- Not therapy or clinical treatment — if what you're carrying needs a therapist or physician, I'll say so and help you find one.
+- Not a technique or a formula — no verse, exercise, or declaration works by itself; this is a diagnostic, relational process, not a script.
+- Not fast, and not sold as fast — this took me years to work through myself; I won't pretend it's quicker for you.
+- Not a pitch dressed up as a conversation — a discovery call is a real conversation about whether this is the right next step, not a sales call with extra steps.
+
+---
+
+### START WITH A CONVERSATION
+**Stage:** 5 (Willing / the ask)
+
+> If one or more of those doors sounded like your life, the next step isn't a program — it's a conversation. A discovery call is exactly that: we talk through what you're actually carrying, and whether this is the right fit. No pressure, no pitch.
+
+**[ Book a Discovery Call ]**
+
+---
+
+*"The word is very near you, in your mouth and in your heart." — Deuteronomy 30:14 (ESV)*
+
+---
+
+**Self-check against the Messaging Generator's per-piece checklist:**
+- Opening line names a felt cost, not a root — yes (Hero).
+- Urgency, scarcity, or a close implied anywhere — none present.
+- Generic Christian growth language ("become who God made you to be") — avoided throughout; "the thing you were made for" language is reused from [[Wilderness Christian]]'s own aspirational-arc wording, not generic filler.
+- Non-clinical, behavioral, operational scope — maintained; no diagnostic labels, no therapeutic process language.
+- Functional/authority voice, not identity or cause — maintained; no us-vs-them framing against the institutional church, no verbal-declaration-alone claims.
+
+**Not yet built:** #4 ("no self beneath the roles") and #6 ("isolated, known by no one") are also Wilderness Christian felt-cost leads per the segment file, but have no Common Experiences expansion yet — they're absent from the doorway set above for that reason, not by design. Building them out would let the doorway set fully match the segment's stated felt-cost entry points instead of covering four of six.
