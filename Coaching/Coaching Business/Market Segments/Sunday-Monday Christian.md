@@ -7,8 +7,8 @@ tags:
 # Market Segment — The Sunday-Monday Christian
 
 **Status:** Defined
-**Market Role:** Target Market
-**Last updated:** April 2026
+**Market Role:** Secondary Target (moved from Target Market 2026-09-09 — see [[_Segment Index]])
+**Last updated:** 2026-09-09
 
 ---
 

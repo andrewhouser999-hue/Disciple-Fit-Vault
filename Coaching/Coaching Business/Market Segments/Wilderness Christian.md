@@ -7,8 +7,8 @@ tags:
 # Market Segment — The Wilderness Christian
 
 **Status:** Defined
-**Market Role:** Secondary Target
-**Last updated:** April 2026
+**Market Role:** Target Market (promoted 2026-09-09 — CIC's YouTube/Shorts-first content strategy matches this segment's discovery behavior; see [[_Segment Index]])
+**Last updated:** 2026-09-09
 
 ---
 

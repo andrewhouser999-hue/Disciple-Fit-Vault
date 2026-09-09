@@ -59,8 +59,8 @@ Full profiles live in their own documents (linked below). This registry states o
 
 | Segment | Status | How they understand their own problem |
 |---|---|---|
-| **Sunday-Monday Christian** | Target Market | Does **not** self-identify as broken. Searches for growth, formation, and leadership content — not "help" content. Their felt cost is a widening gap between a Sunday self and a Monday self; the trigger is usually a role or scaffolding shifting (empty nest, career change, a marriage that stops running on autopilot), not an injury. |
-| **Wilderness Christian** | Secondary | **Does** self-identify as wounded — specifically by the institutional church. Genuine faith survives an institutional injury; the felt cost is exclusion, unprocessed anger, and isolation alongside real, private pursuit of God. |
+| **Wilderness Christian** | Target Market (promoted 2026-09-09 for CIC — YouTube/Shorts is their primary discovery channel; see [[_Segment Index]]) | **Does** self-identify as wounded — specifically by the institutional church. Genuine faith survives an institutional injury; the felt cost is exclusion, unprocessed anger, and isolation alongside real, private pursuit of God. |
+| **Sunday-Monday Christian** | Secondary | Does **not** self-identify as broken. Searches for growth, formation, and leadership content — not "help" content. Their felt cost is a widening gap between a Sunday self and a Monday self; the trigger is usually a role or scaffolding shifting (empty nest, career change, a marriage that stops running on autopilot), not an injury. |
 
 **Governing rule on status:** only one segment holds Target Market status at a time. New segments enter as Hypothetical and must be fully profiled (persona, problems, trigger, reach, trust) before they can be promoted. Do not split marketing weight evenly across segments — the Target Market gets the resourcing; others are served, not chased. See [[_Segment Index]] for how a segment's status changes.
 

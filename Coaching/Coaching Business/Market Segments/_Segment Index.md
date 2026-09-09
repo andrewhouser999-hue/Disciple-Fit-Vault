@@ -16,8 +16,8 @@ tags:
 
 | Segment | File | Status | Market Role |
 |---|---|---|---|
-| The Sunday-Monday Christian | `Sunday-Monday Christian.md` | Defined | **Target Market** |
-| The Wilderness Christian | `Wilderness Christian.md` | Defined | Secondary Target |
+| The Wilderness Christian | `Wilderness Christian.md` | Partially Defined (trigger/reach/trust sections still in progress) | **Target Market** |
+| The Sunday-Monday Christian | `Sunday-Monday Christian.md` | Defined | Secondary Target |
 
 ---
 
@@ -31,10 +31,10 @@ tags:
 
 ## Target Market
 
-**Current:** The Sunday-Monday Christian
+**Current:** The Wilderness Christian
 
-> High-functioning, theologically literate Christian. Well-off. Performs well across every role. Feels the widening gap between their Sunday self and Monday self. Has knowledge without identity, community without intimacy, and faith without the embodied self to inhabit it. Benefits from coaching + CBT + Biblical framework simultaneously.
+> A sincere, spiritually serious Christian who had a genuine encounter with God, tried to do it right, was failed or wounded by the institutional church, and is still pursuing God — isolated, carrying wounds the church either caused or couldn't touch, stuck in a way that spiritual effort alone has not fixed.
 
 ---
 
-*Last updated: April 2026 — Wilderness Christian segment added*
+*Last updated: 2026-09-09 — Wilderness Christian promoted to Target Market (video/YouTube-first content strategy for CIC matches this segment's discovery behavior more closely than Sunday-Monday Christian's); Sunday-Monday Christian moved to Secondary Target. See [[Wilderness Christian]] for the still-open trigger/reach/trust sections this promotion makes higher priority to complete.*
