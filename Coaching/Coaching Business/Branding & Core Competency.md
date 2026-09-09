@@ -409,7 +409,7 @@ Deep Discipleship *identity integration* (growing into who the client already is
 
 ***God said to me "I want to be your psychologist"  How do I participate with that?***
 
-**Biblical Case for Core Compenency**
+**Biblical Case for Core Competency**
 Isaiah 61:1-3 / Luke 4:18-19 — The Therapeutic Mission as Messianic
 
 > "The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; to proclaim the year of the LORD's favor... to comfort all who mourn... to give them a beautiful headdress instead of ashes, the oil of gladness instead of mourning, the garment of praise instead of a faint spirit..."
