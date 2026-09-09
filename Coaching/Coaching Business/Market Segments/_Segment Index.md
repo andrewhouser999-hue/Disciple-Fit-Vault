@@ -33,7 +33,7 @@ tags:
 
 **Current:** The Wilderness Christian
 
-> A sincere, spiritually serious Christian who had a genuine encounter with God, tried to do it right, was failed or wounded by the institutional church, and is still pursuing God — isolated, carrying wounds the church either caused or couldn't touch, stuck in a way that spiritual effort alone has not fixed.
+> A sincere, spiritually serious Christian, primarily 45–65, who had a genuine encounter with God, tried to do it right, was failed or wounded by the institutional church — either fully leaving or staying while self-protectively disengaged — and is still pursuing God. Content-facing, they experience this as being stuck, plateaued, not enough, and disconnected from God, with an unlived calling or "is this it" ache underneath; the institutional wound is the root, revealed only once trust is earned, not the marketing lead. Pain-away work (healing, realigning identity) clears the way for the actual destination: a full, vibrant Christian life that glorifies God, including the calling they've been carrying and haven't yet pursued.
 
 ---
 

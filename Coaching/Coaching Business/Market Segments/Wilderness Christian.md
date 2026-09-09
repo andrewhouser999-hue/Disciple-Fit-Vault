@@ -1,6 +1,6 @@
 ---
 created: 
-basis: TBD
+basis: "Original profile — Christian counseling intake research, ministry-burnout literature (April 2026, unattributed within-file). Trigger, sub-pattern, reach, and trust sections revised 2026-09-09 from Andrew's own direct account (his church-exit trigger, observed pattern in others who withdrew from or minimized institutional participation) plus his explicit messaging-priority decision to lead with felt cost (not church-hurt language) and to treat [[Client Problem & Cost Language]] #14–16 as the segment's aspirational destination — see [[_Segment Index]] changelog."
 tags:
 ---
 
@@ -21,11 +21,12 @@ tags:
 ## Who They Are
 
 **Demographic:**
-- Primary range: 25–45
+- **Primary range: 45–65.** This is the version of the wound that has had decades to compound — the wound is old, the cost of carrying it has become undeniable, and the person has enough life behind them to know the pattern won't resolve on its own. This is the band that drives CIC's messaging and content decisions.
+- **Secondary variant: 25–45.** A younger, more recently wounded version of the same profile. Real, and worth serving, but not what content or messaging is built around — the tone and urgency of a decades-long compounded wound don't fit someone a year or two out from the injury. Where the two variants would require different content, default to the 45–65 version.
 - Economic range varies — not uniformly well-off; church trauma and life trauma often correlate with economic instability
 - Single, married, or in a relationally damaged marriage
 - Not consistently churchgoing — between churches, church-avoidant, or attending while fundamentally disconnected
-- Working in available employment, not necessarily a chosen career
+- Working in available employment, not necessarily a chosen career; often has spent much of their working life in a wrong-fit environment shaped more by circumstance and identity ambiguity than by deliberate choice
 
 **Psychographic:**
 - Genuine faith — not inherited religion, a real experience with God that preceded or survived the institutional wound
@@ -35,6 +36,12 @@ tags:
 - Carries real wounds: rejection trauma, family of origin patterns, possibly narcissistic abuse in marriage or church authority
 - Suspicious of authority and institutions — not paranoid; earned
 - Feels like they don't fit anywhere: too wounded for the happy churchgoer, too faithful to walk away
+- Understands, at some level, that identity is the load-bearing issue — that a healthy, vibrant life in every domain (marriage, work, faith, parenting) depends on resolving who they actually are, not on managing symptoms one at a time
+
+**Two sub-patterns — both count as "wilderness," not just the fully departed:**
+
+1. **Fully disengaged.** Left institutional church entirely, usually after ministry efforts were repeatedly squelched, hindered, or distorted by church leadership — not merely after a single conflict. Found other ways to minister to people outside institutional structures.
+2. **Present but guarded.** Returned to church, or never fully left, but holds it at a self-protective distance — minimized participation, no real investment, attendance without belonging. This is a quieter version of the same wilderness: physically inside the institution, relationally and spiritually outside it.
 
 ---
 
@@ -42,20 +49,26 @@ tags:
 
 Drawn from the Disciple Fit 17. They rarely present with just one.
 
-**Primary — the entry point:**
+**Felt-cost entry point — what marketing and content lead with (never the wound itself; see the Governing Rule in [[Disciple Fit — Marketing Charter]]):**
 - **#7 — Spiritually stuck, flat, don't know what's in the way** — the persistent flatness they cannot explain or fix
+- **#4 — No self beneath the roles** — the "not enough" experience; identity shaped by institutional approval they no longer have access to
 - **#6 — Isolated, known by no one** — excluded from or left behind by the community that should know them
-
-**Secondary — what drives the stuck:**
 - **#2 — Theology that won't translate** — they know what's true; they cannot make it embodied
 - **#3 — Anxiety and shame faith keeps failing to touch** — the emotional substrate underneath the theology
-- **#4 — No self beneath the roles** — identity shaped by institutional approval they no longer have access to
-- **#13 — Breaking generational patterns** — family of origin wounds compounding the institutional wounds
 
-**Tertiary — the cost accumulating:**
+**Root — revealed only after trust is earned (Stage 4 of the buyer's journey), never the opening message:**
+- The institutional wound itself: excommunication, legalism, spiritual abuse, marginalization, ministry efforts repeatedly squelched or distorted
+- **#13 — Breaking generational patterns** — family-of-origin wounds compounding the institutional wound
 - **#8 — Burned out on ministry or leadership** — for those who served faithfully before the wound
-- **#14 — Unlived calling** — the sense of purpose they've been carrying with nowhere to deploy it
-- **#15 — Life not adding up to anything** — years of motion without the formation that should accompany it
+
+**Aspirational destination — the purpose the whole arc is for, not a side benefit:**
+- **#14 — Unlived calling** — "I sense a calling I haven't had the courage or clarity to pursue"
+- **#15 — Life not adding up to anything** — "I want my life to actually mean something — and I'm not building toward that"
+- **#16 — Launching something, internal resistance is the obstacle** — "Every time I get close to real exposure, something shuts down"
+
+### The Arc: Pain-Away Clears the Way for Gain-Toward
+
+This segment's messaging is not "escape the wound" *or* "pursue the calling" — it is sequential, and both stages are necessary. The wound (institutional rejection, the resulting stuckness/plateau/disconnection) is what has to be healed and realigned before the person has the internal freedom to move toward #14–16. Pain-away work is not the destination; it is what gets out of the way. The destination is a full, vibrant Christian life that actually glorifies God across every domain — marriage, work, calling, presence — which is only reachable once identity, not just behavior, has been realigned. Content and coaching should make this arc explicit: *heal and realign first, so you can actually build the thing you were made for.*
 
 ---
 
@@ -129,14 +142,14 @@ This client has often studied harder than the average churchgoer precisely becau
 
 *What happens in their life that makes them start looking for help.*
 
-> TO FILL IN — based on observed intake patterns and discovery call data.
+**Confirmed pattern (Andrew's own account, 2026-09-09 — the founder's story is itself the primary evidence source for this segment):** The trigger is the failure of what the person had decided would be their *last* real attempt at institutional church. Not the first wound — the final one, after which there is no more "maybe the next church will be different." The sequence: they commit fully one more time, it fails the same way (in Andrew's case, being asked to leave), and rather than producing only devastation, the moment produces a clear, felt decision — sat with it before God, not surprised by the failure, and chose not to return to the institutional system. The decision itself, made in that moment, is what produces the trigger: a felt closeness to the presence of Jesus that seals the choice. **The trigger is not the wound alone — it is the wound plus the decision plus the confirming spiritual experience, together.** This is a different shape than "something bad happened, so I sought help": it is closer to "the door finally, fully closed, and something opened at the same time."
 
-Likely candidates:
-- A fresh institutional wound — new excommunication, rejection, or betrayal that reopens prior wounds
-- A major life transition without community support (job loss, marriage crisis, health event)
-- The realization that years have passed without real movement or real relationship
-- A relationship failure that strips their remaining support structure
-- A season of spiritual re-engagement after a dry period, with the recognition that they cannot do this alone
+**A quieter variant, confirmed by observing others (not yet by Andrew's own discovery-call data):** Some do not fully leave. Their efforts to minister or serve are repeatedly squelched, hindered, or distorted by leadership one time too many, and rather than a single dramatic exit, they find other outlets to minister and quietly reduce their investment in the institution — sometimes returning to church attendance but never fully re-entering. For this variant, the "trigger" is less a single moment and more a threshold of accumulated futility.
+
+**Secondary trigger types, still hypothesis-level pending real intake data:**
+- A major life transition without community support (job loss, marriage crisis, health event) that surfaces how thin the relational support actually is
+- The realization, usually mid-life or later, that years have passed without real movement — the #15 "is this it" moment — often the trigger that actually brings someone to seek coaching even when the institutional wound is old and long since "settled"
+- A renewed sense of calling (#14) that the person can no longer keep suppressing, especially once major roles (parenting, career) that provided cover for not pursuing it begin to loosen
 
 ---
 
@@ -144,13 +157,25 @@ Likely candidates:
 
 *Channel, community, platform, context where this segment self-identifies or can be reached.*
 
-> TO FILL IN — based on content testing, referral patterns, and platform data.
+**Governing constraint on search-term and content strategy:** Do not lead discovery content with "church hurt" or "spiritual abuse recovery" language. That names the root, not the felt cost — it is Stage 4 content deployed at Stage 1, which the Marketing Charter identifies as the most common way trust is lost before contact even happens. This segment's search behavior should be built around the felt-cost and aspiration language instead — stuck, plateaued, not enough, emotionally disconnected, God-disconnected, falling short, unlived calling, "is this it," building something and self-sabotaging it. The wound is real and is where the story eventually goes — it is simply not the hook.
 
-Likely channels:
-- **YouTube** — actively searching content on church hurt, spiritual abuse recovery, why faith isn't working, identity in Christ; this is the primary discovery channel. They are looking for someone who names their experience.
-- **Instagram** — faith content that holds the tension between genuine God-pursuit and institutional disillusionment; short-form content that names the wound without abandoning faith
-- **Word of mouth** — referrals from healed clients; this segment trusts people, not platforms
-- NOT church networks — they don't have those relationships; pastoral referrals are not a reliable acquisition channel for this group
+Likely search/content terms and formats (hypothesis-level, to be tested against actual view/engagement data once published):
+- "Why do I feel stuck spiritually and don't know why"
+- "Why doesn't my faith feel like anything anymore"
+- "How to know if you're plateaued spiritually"
+- "I have everything and still feel disconnected from God"
+- "How to finally pursue the calling you've kept putting off"
+- "Why do I keep sabotaging things I actually want to build"
+
+**YouTube — primary discovery channel.** Long-form for the felt-cost-to-arc narrative (the full "heal and realign, then build" story), Shorts for single-sentence recognition moments pulled from that narrative — the same "precision of language that names their exact interior experience" mechanism the Marketing Charter identifies as the strongest trust builder, adapted to short-form.
+
+**Facebook** — this age band (45–65) is more active on Facebook than Instagram relative to younger segments; faith-based groups, marriage/midlife groups, and church-adjacent communities are viable here in a way they are not for a 25–45 audience. Worth testing as a companion channel to YouTube, not a replacement.
+
+**Website** — functions as the credibility-deepening destination after YouTube/Shorts earns initial attention — full framework, Andrew's integrated testimony, and the offer, once the person has already felt recognized by video content.
+
+**Word of mouth** — referrals from clients who've done the work; this segment trusts people who resemble them, not platforms or credentials.
+
+**NOT church networks** — this segment doesn't have those relationships, or holds them at a self-protective distance; pastoral referral is not a reliable acquisition channel here the way it is for the Sunday-Monday Christian.
 
 ---
 
@@ -158,15 +183,14 @@ Likely channels:
 
 *What they need to see, hear, or experience before they will invest.*
 
-> TO FILL IN — based on discovery call patterns and client feedback.
+**The coach's own story told publicly is the strongest available trust signal for this segment, and it is not hypothetical for CIC — Andrew's own account (see `My Story.md`) is a near-exact match for this profile:** decades of institutional rejection across churches, employment, and family of origin; performance-based identity; workaholism as the failed substitute for belonging; a final decision-point that produced both loss and a felt closeness to God; and a subsequent identity-realignment process that led to actually building something (CIC itself) that carries #14–16 in it. The story should be told with the same arc structure as the segment's own psychology: felt cost first (stuck, not enough, disconnected), the wound named honestly but not sensationalized, and the arc toward calling/meaning/building as the resolution — not a "before and after" testimonial, but the same recognition-before-persuasion sequence the Marketing Charter requires of all content.
 
-Likely trust signals:
-- **The coach's own story told publicly** — they need to know you've been failed by the institution and stayed faithful to God. Story precedes method.
-- **Language that names the wound without abandoning God** — they will not follow someone who defends the institution blindly or who uses the wound as an excuse to deconstruct faith
-- **No performance requirements** — they've been judged by hidden standards. The coaching relationship must feel categorically different from the beginning.
-- **Theological credibility** — they know their Bible; shallow faith will not earn sustained respect
-- **Patience over urgency** — they do not trust quickly. Consistency over time is what builds the bridge.
-- **Psychological vocabulary that explains without pathologizing** — they want to understand their inner experience, not be diagnosed or diminished
+Other trust signals, carried over from the original profile and still applicable:
+- **Language that names the wound without abandoning God** — this audience will not follow someone who defends the institution blindly, or who uses the wound as license to deconstruct faith itself
+- **No performance requirements** — they've been judged by hidden standards before; the coaching relationship must feel categorically different from the first contact
+- **Theological credibility** — they know their Bible; shallow faith content undoes trust in a single instance, per the Marketing Charter's universal trust-killer list
+- **Patience over urgency** — this is a low-trust-velocity audience; consistency of content and tone over time builds the bridge faster than any single piece of content can
+- **Psychological vocabulary that explains without pathologizing** — they want to understand their inner experience, not be diagnosed or diminished; language should stay behavioral and non-clinical, consistent with CIC's actual scope of practice
 
 ---
 
@@ -186,4 +210,4 @@ Likely trust signals:
 
 **Core value proposition:** A coach who has lived the wound, held the faith, and built a framework for both — the only intervention that is simultaneously theologically honest, psychologically rigorous, and relationally real, without requiring institutional belonging as a prerequisite.
 
-**Offer entry point:** Story-driven content on YouTube that names the church wound without departing from God; discovery call that begins with the client's story before presenting any framework.
+**Offer entry point:** Story-driven content on YouTube/Shorts that names the felt cost (stuck, not enough, disconnected, unlived calling) with precision, builds to Andrew's own integrated story as trust proof, and only names the institutional wound once trust is established; discovery call that begins with the client's own story before presenting any framework.
