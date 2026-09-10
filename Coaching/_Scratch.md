@@ -163,3 +163,23 @@ TO DO / open question, for further consideration.
 **If no:** the placeholder note in the Deployment Strategy doc should be removed once this is deliberately decided, rather than left as a permanent unresolved flag.
 
 ---
+
+**Note — 2026-09-09 — Earned Secure Attachment: Four Elements**
+
+Mirrored from Claude memory (`research_earned_secure_attachment_elements.md`), saved for future reference.
+
+Four commonly cited mechanisms for moving toward earned secure attachment. Framework traces mainly to David Wallin (*Attachment in Psychotherapy*) and Peter Fonagy's mentalization research, with Daniel Siegel's interpersonal neurobiology work overlapping. This is a synthesized four-part framework, not a single canonical citation — different authors (Wallin, Siegel, Schore, Fonagy) weight and label the four somewhat differently.
+
+1. **Emotionally corrective relational experience** — a relationship (therapeutic, coaching, or otherwise) that repeatedly disconfirms the old internal working model — e.g., someone stays present through conflict instead of withdrawing, or responds to need instead of ignoring it — so the nervous system updates its prediction of what relationship *is*.
+2. **Reflective functioning / mentalizing** (Fonagy) — the capacity to hold one's own mental states (and another's) as states — thoughts, feelings, intentions — rather than as fused reality. Fonagy's research found reflective function was a stronger predictor of earned security than the severity of someone's attachment history.
+3. **Coherent narrative** (Main & Goldwyn, via the Adult Attachment Interview) — the ability to construct an organized, non-contradictory account of one's attachment history, including its hard parts, without the narrative collapsing into either idealization or being overwhelmed by it. Coherence of the telling, not the pleasantness of the content, is what the AAI actually scores.
+4. **Embodied/somatic regulation** — interoceptive awareness and the capacity to stay inside a "window of tolerance" (Siegel) rather than tipping into hyperarousal or shutdown. Body-based work (Porges' polyvagal frame, Ogden's sensorimotor work) sits here.
+
+**Connection to CIC's wound-vs-formation-gap diagnosis (flagged synthesis, not yet vault-documented):** three of the four elements function as diagnostic markers for the Layer 11/12 wound-vs-formation-gap check (`Covenant Identity Coaching — Theological-Formation Contributor Stack.md`, 01 — Model Foundation). When a distorted belief is surfaced, check whether narrative coherence, reflective functioning, and somatic regulation hold up *specifically around that belief*:
+- If all three collapse (fragmented/overwhelmed account, loss of mentalizing capacity, dysregulation outside window of tolerance) → wound marker, i.e. an actual adverse/attachment-based schema — this is the condition that would justify moving toward Ecker's reconsolidation framing rather than staying with Kegan/Lahey.
+- If all three hold — narrative stays coherent, reflective function holds, body stays regulated — the distortion is more likely a genuine formation gap, where Willard's VIM (repetition, practice) is the right and sufficient tool, no wound-specific caution needed.
+- The fourth element, corrective relational experience, isn't a diagnostic marker but the intervention itself — its target differs by diagnosis: low-stakes modeling/reinforcement for a formation gap, vs. implicit/felt-level work (Gendlin felt-sense, Stage 4b Route B) for a wound, where reconsolidation actually has to occur.
+
+Not sourced to any existing CIC document — should be run through `/process-note` for proper placement (candidate: addendum to the Layer 11/12 entry doc or the future session-tool build) rather than left here long-term.
+
+---
