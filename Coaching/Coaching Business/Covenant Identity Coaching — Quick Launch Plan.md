@@ -1,6 +1,6 @@
 ---
 created: 2026-07-30
-basis: "[[Disciple Fit — Marketing Charter]] — buyer's journey stages, trust rules, segment targeting, and brand voice guardrails, all applied directly rather than re-derived; [[Branding & Core Competency]] (Word Within — CIC Messaging Architecture section) — positioning statement and draft homepage copy adapted back to the Covenant Identity Coaching name per Andrew's 2026-07-30 decision to launch under the existing name rather than the unfinished rename; [[Disciple Fit Coaching — Coaching Agreement]] — pricing and engagement terms; [[Covenant Identity — Two-Tier Intake Protocol]] — intake/payment sequence; [[Covenant Identity — Discovery Call Guide]] — call structure; [[Covenant Identity — Pre-Practice Readiness Action Plan]] and [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]] — safety-readiness gaps named but not resolved here, per Andrew's explicit instruction to set aside further practitioner education and a slower ramp-up for this specific plan. Updated 2026-08-07: Phase 0's Airtable row corrected per [[project_cic_airtable_notes_system]] — base build completed and fully verified 2026-08-03, removing the spreadsheet-workaround note. Updated 2026-08-24: added two Phase 0 rows — professional email (never provisioned; domain was bought for the credibility this row closes) and the Session Notes AI pipeline (spec'd 2026-08-23 per [[feedback_ai_client_data_deidentification]] and [[project_cic_airtable_notes_system]], not yet built live) — both previously unchecked by this plan. Added a Cost column the same day, correcting The Business Notes.md's Google Workspace figure ($7/yr is stale/wrong — Business Starter is ~$7.20/user/month, ~$86/yr) in the process; that source doc still needs the same fix. The email row's Cloudflare-vs-Google deliverability rationale is from the same day's conversation, not yet captured in any standalone doc. Updated 2026-09-08: Stripe Payment Link row expanded after live build surfaced two real setup errors — a single combined link double-charges ($1,680 + $560/mo stacked, confirmed in Stripe's own checkout preview) rather than offering either/or, and the 3-Month Plan price has no built-in cycle cap in Andrew's Stripe account, so it will bill indefinitely ('until you cancel') unless manually stopped after the 3rd payment."
+basis: "[[Disciple Fit — Marketing Charter]] — buyer's journey stages, trust rules, segment targeting, and brand voice guardrails, all applied directly rather than re-derived; [[Branding & Core Competency]] (Word Within — CIC Messaging Architecture section) — positioning statement and draft homepage copy adapted back to the Covenant Identity Coaching name per Andrew's 2026-07-30 decision to launch under the existing name rather than the unfinished rename; [[Disciple Fit Coaching — Coaching Agreement]] — pricing and engagement terms; [[Covenant Identity — Two-Tier Intake Protocol]] — intake/payment sequence; [[Covenant Identity — Discovery Call Guide]] — call structure; [[Covenant Identity — Pre-Practice Readiness Action Plan]] and [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]] — safety-readiness gaps named but not resolved here, per Andrew's explicit instruction to set aside further practitioner education and a slower ramp-up for this specific plan. Updated 2026-08-07: Phase 0's Airtable row corrected per [[project_cic_airtable_notes_system]] — base build completed and fully verified 2026-08-03, removing the spreadsheet-workaround note. Updated 2026-08-24: added two Phase 0 rows — professional email (never provisioned; domain was bought for the credibility this row closes) and the Session Notes AI pipeline (spec'd 2026-08-23 per [[feedback_ai_client_data_deidentification]] and [[project_cic_airtable_notes_system]], not yet built live) — both previously unchecked by this plan. Added a Cost column the same day, correcting The Business Notes.md's Google Workspace figure ($7/yr is stale/wrong — Business Starter is ~$7.20/user/month, ~$86/yr) in the process; that source doc still needs the same fix. The email row's Cloudflare-vs-Google deliverability rationale is from the same day's conversation, not yet captured in any standalone doc. Updated 2026-09-08: Stripe Payment Link row expanded after live build surfaced two real setup errors — a single combined link double-charges ($1,680 + $560/mo stacked, confirmed in Stripe's own checkout preview) rather than offering either/or, and the 3-Month Plan price has no built-in cycle cap in Andrew's Stripe account, so it will bill indefinitely ('until you cancel') unless manually stopped after the 3rd payment. Updated 2026-09-09: this plan's locked segment (Sunday-Monday Christian, set 2026-07-30) was stale against [[_Segment Index]]'s 2026-09-09 promotion of Wilderness Christian to Target Market — corrected throughout at Andrew's explicit direction. Phase 1 homepage copy replaced with [[Branding & Core Competency]]'s 'Wilderness Christian — Homepage Copy (Doorway Design)' section (including its pending-approval flag on the personal-story paragraph); Phase 2's pastor referral sheet replaced with a Facebook-groups tactic per [[Wilderness Christian]]'s own channel notes, which name pastoral referral as unreliable for this segment; Phase 3's post rewritten from Sunday-Monday's voice into Wilderness Christian's felt-cost doorway language."
 tags:
   - marketing
   - launch-plan
@@ -19,7 +19,7 @@ tags:
 
 - **Name:** Covenant Identity Coaching — not the "Word Within" rename explored in the Marketing Charter. That rename is still an open, unfinished exploration (leading candidate, not a decision); adopting it now would require a new domain and DNS work a quick launch can't absorb. The domain already owned, `covenantidentitycoaching.com`, matches the current name.
 - **Tone:** Calm, unhurried, no urgency or scarcity mechanics — per the Marketing Charter's own trust research, which names pressure as a universal trust-killer for this specific audience. This overrides the scarcity framing ("five spots," "comment IN") in the first draft of the founding-cohort post; the rewritten version is in Phase 3 below.
-- **Segment:** Sunday-Monday Christian — current Target Market per the Segment Registry. High-functioning, theologically literate, does not self-identify as broken, searches for growth/formation content rather than "help" content. Marketing must lead with the felt gap, never the diagnostic or theological root (the Charter's Governing Rule).
+- **Segment:** Wilderness Christian — current Target Market per the Segment Registry (updated 2026-09-09; this plan originally launched against Sunday-Monday Christian on 2026-07-30, corrected here on 2026-09-09 to match the promotion). Primarily 45–65, sincere and spiritually serious, failed or wounded by the institutional church and still pursuing God privately; does **not** self-identify around the institutional wound — self-identifies as stuck, plateaued, not enough, disconnected, with an unlived calling or "is this it" ache underneath. Marketing must lead with the felt gap, never the diagnostic or theological root (the Charter's Governing Rule), and — per this segment's own profile, unlike Sunday-Monday Christian — must **not** route acquisition through pastoral or church-network referral; see the Phase 2 change below.
 
 ---
 
@@ -46,53 +46,88 @@ Everything below assumes these pieces work. Each is a five-minute check against 
 
 Point `covenantidentitycoaching.com` at a single page — Carrd, or a one-page Squarespace/Notion page, whichever Andrew can stand up fastest. Do not attempt a full site.
 
-Reuse the homepage copy already drafted under the "Word Within" messaging work in Branding & Core Competency — it was written to the Marketing Charter's own voice rules (calm, precise, no exclamation points, diagnosis-before-declaration), so the substance doesn't need to be rewritten, only re-named:
+Reuse the homepage copy already drafted for this segment in Branding & Core Competency's "Wilderness Christian — Homepage Copy (Doorway Design)" section — it was built directly from Wilderness Christian's felt-cost leads and the Marketing Charter's Multi-Entry Recognition method, so it doesn't need rewriting, only publishing. **One exception — blocks launch:** the "I'm Not Asking You to Trust a Stranger With This" section below compresses `My Story.md` into public language, and Andrew has flagged it as needing an actual rewrite, not just a sign-off. Do not publish Phase 1 with that section in its current form — either get a working rewrite in place first, or launch without that section and add it once it's right.
 
 > **HERO**
-> *You know the truth. It hasn't reached where you live yet.*
+> *Still Pursuing God. Still Stuck. Still Not Sure Why.*
 >
-> Covenant Identity Coaching is coaching for Christians who believe the right things about who they are in Christ and still feel ruled by the old ones — built to close that gap with precision, not repetition.
+> This is for the Christian who never stopped believing — who's tried harder, prayed more, studied deeper — and is still stuck in the same place. You haven't walked away from God. You've kept showing up, kept believing, kept trying — and something in you still isn't moving. If any of that sounds familiar, you're not the only one, and there's a reason for it that isn't "you're not trying hard enough."
 >
-> **[ Book a Discovery Call ]**
->
-> ---
->
-> **THE GAP YOU ALREADY FEEL**
->
-> You've read the verses. You've heard the sermons. You could recite who God says you are in Christ. And still — under pressure, in conflict, alone with your thoughts — you find yourself governed by an old story instead: not enough, not safe, not wanted, not able.
->
-> That gap between what you know and what you feel isn't a failure of faith or effort. It's a sign the truth hasn't yet reached the place that actually runs your life.
+> **[ Find Your Starting Point ↓ ]**
 >
 > ---
 >
-> **DIAGNOSIS BEFORE DECLARATION**
+> **FIND WHAT YOU RECOGNIZE**
 >
-> Truth spoken generically doesn't move what's stuck. This starts by locating exactly where the gap lives in you — which specific belief, tied to which specific pattern — before any truth is spoken into it.
+> Everyone's version of "stuck" looks a little different. Pick whichever one sounds the most like you — there's no wrong door.
 >
-> What follows isn't a program everyone runs through the same way. It's coaching built around your particular pattern: naming it precisely, meeting it with the specific covenant truth that answers it, and returning to that truth until it becomes what actually governs you — not just what you know.
+> **"You know what you believe. You just can't seem to live from it."** You've read the books, sat through the sermons, maybe even taught the class. The truth is in your head — clear, memorized, ready. Then Monday comes, or the pressure hits, and you react the same way you always have. It's not that you don't know enough. Something isn't translating.
+>
+> **"The gap only shows up when it actually counts."** In calm moments, the theology holds. It's the real stress — a hard conversation, a crisis, the moment you needed the truth most — where it goes quiet, and you're left running on the same old patterns instead.
+>
+> **"You've prayed this away more times than you can count. It keeps coming back."** The anxiety, the shame, the same tight-chest feeling — you've repented, you've prayed, you've claimed what's true. And your body hasn't gotten the message yet. That's not a sign your faith is thin.
+>
+> **"You look fine. Inside, you're not."** Nobody around you would guess. You perform well, show up, hold it together. Which makes it worse, somehow — because now even the "I'm okay" looks like one more thing you're managing.
+>
+> **"You're not walking away from God. You're just... flat."** No crisis, no dramatic doubt — just years at the same place. You do the things. Nothing moves. You've wondered if it's discipline, or sin, or something deeper, and none of those answers has actually explained it.
+>
+> **"You've tried the new plan, the new group, the new book. The flatness comes back."** Every fix gives a short bump, then fades. If you've quietly started to suspect the problem isn't which resource you pick next, you're closer to the actual answer than you think.
+>
+> **"Who you are at church and who you are the rest of the week are starting to feel like two different people."** You're not faking it on Sunday. But Monday runs on a different set of rules — sharper, more anxious, more self-protective — and you didn't consciously choose that split. It just runs.
+>
+> **"You can say what you believe. You can't always say you live it."** You could stand in front of your team, your group, your kids, and describe your values clearly. Then a normal Tuesday happens, and your actual decisions don't quite match the speech.
+>
+> If you found yourself in more than one door — that's the norm here, not the exception. Keep reading.
 >
 > ---
 >
-> **COVENANT TRUTH, NOT SELF-HELP**
+> **YOU'RE NOT DESCRIBING FOUR PROBLEMS**
 >
-> The truth at the center of this work isn't a mood you're talked into or a mantra you repeat until it feels real. It's what Scripture actually says about who you are in Christ — spoken with precision, into the place it's needed, and returned to until it takes hold.
+> Whichever door you picked, here's what's actually true: none of these are about missing information. You already have real belief — the kind that's stayed with you through everything. What you're describing is belief that hasn't yet reached the place that actually runs your life: your feelings, your reactions, your sense of being alive, the way you actually show up when no one's grading you.
 >
-> This is coaching, not therapy, and not a substitute for your church community or your pastor's teaching — it's the one-on-one, diagnostic layer of formation neither is built to deliver.
+> That's not a "try harder" problem. It's worth understanding why.
 >
 > ---
 >
-> **WHAT I'M NOT PROMISING**
+> **I'M NOT ASKING YOU TO TRUST A STRANGER WITH THIS** *(NEEDS REWRITE — do not publish this section as-is; see note above)*
 >
-> - Not a quick fix — formation takes the time formation takes.
-> - Not a replacement for your church or your pastor — a companion to both.
-> - Not clinical treatment — if what you're carrying needs a therapist or physician, I'll tell you and help you find one.
-> - Not a technique that works by effort alone — the Spirit does what only the Spirit can do. This creates the conditions.
+> For most of my life, I built my worth the only way I knew how — by working harder than everyone around me, hoping it would finally be enough. It never quite was. I served faithfully in church after church, and more than once, I was the one asked to leave. I told myself the problem was the fit, or the timing. After enough repetitions, I stopped believing that story.
+>
+> The last time it happened, I didn't just grieve it. I sat with it — really sat with it, before God, without rushing to explain it away — and in that moment, I felt Him closer than I had in years. That's when I stopped trying to fix my life by trying harder, and started asking what was actually running underneath it.
+>
+> What I found wasn't a new technique. It was a gap between what I genuinely believed about God and what actually governed how I showed up — in my marriage, my work, my sense of whether I was worth knowing. Closing that gap is what built the process I now use with clients. I'm not describing a theory. I'm describing the thing that changed how I actually live.
+>
+> ---
+>
+> **WHAT WAS ACTUALLY IN THE WAY**
+>
+> Here's the pattern underneath all four problems above: your identity — who you actually believe you are, at the level that runs your reactions — got shaped by something other than what God says about you. Maybe it was a community that let you down. Maybe it was years of proving your worth through performance. Maybe both. Either way, the truth you know intellectually and the identity that's actually running your life haven't been the same thing for a long time.
+>
+> That's not a discipline gap. It's an identity gap. And it's the thing Covenant Identity Coaching is built to close — not by teaching you more truth, but by finding exactly where the old story is still operating, and working there directly.
+>
+> ---
+>
+> **WHAT'S ON THE OTHER SIDE OF THIS**
+>
+> Closing the identity gap isn't the destination — it's what clears the way. On the other side of it is the thing you've probably stopped letting yourself want out loud: the calling you've sensed but haven't pursued, a life that actually adds up to something, the thing you keep almost building before something in you shuts it down.
+>
+> The healing work isn't instead of that. It's what makes it possible.
+>
+> ---
+>
+> **WHAT THIS IS NOT**
+>
+> - Not a replacement for the church — a companion to a faith that church, on its own, hasn't fully reached.
+> - Not therapy or clinical treatment — if what you're carrying needs a therapist or physician, I'll say so and help you find one.
+> - Not a technique or a formula — no verse, exercise, or declaration works by itself; this is a diagnostic, relational process, not a script.
+> - Not fast, and not sold as fast — this took me years to work through myself; I won't pretend it's quicker for you.
+> - Not a pitch dressed up as a conversation — a discovery call is a real conversation about whether this is the right next step, not a sales call with extra steps.
 >
 > ---
 >
 > **START WITH A CONVERSATION**
 >
-> A discovery call is a conversation, not a pitch — we'll talk through what you're carrying and whether this is the right next step.
+> If one or more of those doors sounded like your life, the next step isn't a program — it's a conversation. A discovery call is exactly that: we talk through what you're actually carrying, and whether this is the right fit. No pressure, no pitch.
 >
 > **[ Book a Discovery Call ]**
 >
@@ -106,25 +141,27 @@ Reuse the homepage copy already drafted under the "Word Within" messaging work i
 
 Per the Buyer's Journey in the Marketing Charter, this audience doesn't respond to being told they have a problem — they respond to being *seen* precisely, on their own terms, before anything is asked of them. Warm channels outperform cold ones for a quick launch regardless of audience, but they're especially load-bearing here because this segment actively distrusts generic Christian marketing.
 
-1. **Personal outreach (Day 1).** Direct message or call to everyone in Andrew's existing network who is a plausible fit or a plausible referral source — not a mass blast, individual messages. Lead with recognition, not a pitch: describe the gap in a sentence or two the way the homepage does, then ask if it's familiar rather than announcing the offer immediately.
-2. **Pastor referral sheet (Day 2-3).** One page, written to the "peer/referring pastor" translation already drafted in Branding & Core Competency: this is framed as a companion to the pulpit, not competition with it — the one-on-one diagnostic layer a sermon structurally can't deliver. Send to 5-10 pastors or ministry leaders Andrew already has some relationship with, not a cold list.
+1. **Personal outreach (Day 1).** Direct message or call to everyone in Andrew's existing network who is a plausible fit or a plausible referral source — not a mass blast, individual messages. Lead with recognition, not a pitch: describe the gap using Wilderness Christian's own felt-cost language (stuck, plateaued, not enough, disconnected — one of the doorway lines from the homepage works well here), then ask if it's familiar rather than announcing the offer immediately.
+2. **Facebook outreach (Day 2-3) — replaces the pastor referral sheet.** Wilderness Christian's own segment profile is explicit that pastoral referral is **not** a reliable channel here — this segment typically doesn't have, or deliberately holds at a distance, the church relationships a pastor referral sheet depends on; that tactic fit Sunday-Monday Christian, not this segment. The segment's own channel notes name Facebook as a viable companion channel instead for this 45–65 age band: faith-based groups, marriage/midlife groups, and church-adjacent communities where this audience is actually active. Post the Phase 3 recognition post (below) into 3-5 relevant groups Andrew has access to or can join, shared as a personal post, not an ad. **Word of mouth** — a direct ask to any past clients who resemble this profile for a referral — is the segment's other named channel and can run in parallel; it wasn't previously listed here because it applies regardless of segment.
 3. **Public post (Day 3+).** The rewritten founding-cohort post below. Goes out after 1-2 has already produced at least one or two live conversations, so it isn't the first thing prospects see — social proof from Phase 2, even a single "I talked to someone about this," makes the public post land as confirmation rather than a cold pitch.
 
 ---
 
 ## Phase 3 — The Post (Charter-compliant rewrite)
 
-The original draft used a five-spot scarcity mechanic ("opening five spots," "comment IN") that reads as pressure under the Charter's own trust research for this audience. Rewritten to lead with recognition (Buyer's Journey Stage 2), name the felt gap before any root language, and drop the countdown:
+The original draft used a five-spot scarcity mechanic ("opening five spots," "comment IN") that reads as pressure under the Charter's own trust research for this audience. Rewritten to lead with recognition (Buyer's Journey Stage 2), name the felt gap before any root language, and drop the countdown. **Rewritten a second time on 2026-09-09** — the version below had been written in Sunday-Monday Christian's voice ("you know the truth... in your sleep"); this one uses Wilderness Christian's own felt-cost doorways instead, per the segment correction above:
 
-> You know the truth about who you are in Christ. You could say it in your sleep.
+> Maybe you know exactly what you believe about God — and Monday still comes, and you're running on empty again, same as always.
 >
-> And still — under pressure, in an argument, alone with your thoughts at the end of a long day — you find yourself running on an older story instead: not enough, not safe, not able to keep up.
+> Maybe you've prayed the same anxiety away more times than you can count, and it keeps coming back, and some part of you has started to wonder what's wrong with your faith.
 >
-> That gap between what you know and what actually governs you in the moment isn't a lack of effort or a lack of faith. It's just what happens when truth hasn't yet reached the place that runs your life.
+> Maybe you're not walking away from God. You're just flat. Have been for years. You do the things. Nothing moves.
 >
-> I've spent the last year building a coaching process — Covenant Identity Coaching — for exactly that gap. Not more input, not another study. A diagnostic process that finds exactly where the old story is still operating, and meets it with the specific truth that actually answers it. Coaching, not therapy.
+> If any of that sounds like you — you're not the only one, and it's not a sign you're not trying hard enough.
 >
-> I'm taking on a small number of founding clients right now, at a reduced rate, in exchange for their honest feedback as I refine the process. If that gap is something you recognize — in yourself, or in someone you know — reply here or send me a message and I'll walk you through what it looks like.
+> I've spent the last year building a coaching process — Covenant Identity Coaching — for exactly that kind of stuck. Not more input, not another study. A process that finds exactly what's actually in the way, and works there directly.
+>
+> I'm taking on a small number of founding clients right now, at a reduced rate, in exchange for their honest feedback as I refine the process. If any of this sounds familiar — in yourself, or in someone you know — reply here or send me a message and I'll walk you through what it looks like.
 
 No spot count, no deadline, no exclamation points — consistent with the Charter's "calm, precise, unhurried" voice rule and its "pressure/urgency" trust-killer.
 

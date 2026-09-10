@@ -16,7 +16,7 @@ tags:
 
 | Segment | File | Status | Market Role |
 |---|---|---|---|
-| The Wilderness Christian | `Wilderness Christian.md` | Partially Defined (trigger/reach/trust sections still in progress) | **Target Market** |
+| The Wilderness Christian | `Wilderness Christian.md` | Defined (trigger/reach/trust sections completed 2026-09-09) | **Target Market** |
 | The Sunday-Monday Christian | `Sunday-Monday Christian.md` | Defined | Secondary Target |
 
 ---
@@ -37,4 +37,4 @@ tags:
 
 ---
 
-*Last updated: 2026-09-09 — Wilderness Christian promoted to Target Market (video/YouTube-first content strategy for CIC matches this segment's discovery behavior more closely than Sunday-Monday Christian's); Sunday-Monday Christian moved to Secondary Target. See [[Wilderness Christian]] for the still-open trigger/reach/trust sections this promotion makes higher priority to complete.*
+*Last updated: 2026-09-09 — Wilderness Christian promoted to Target Market (video/YouTube-first content strategy for CIC matches this segment's discovery behavior more closely than Sunday-Monday Christian's); Sunday-Monday Christian moved to Secondary Target. Trigger/reach/trust sections completed the same day (status corrected from Partially Defined to Defined); see [[Wilderness Christian]].*

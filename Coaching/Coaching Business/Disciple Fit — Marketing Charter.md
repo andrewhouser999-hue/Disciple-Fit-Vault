@@ -1,6 +1,6 @@
 ---
 created: 2026-07-14
-basis: "[[Sunday-Monday Christian]], [[Wilderness Christian]], [[Pain Point Research — Web & Christian Media (June 2026)]], [[Coaching Demand Research — Why People Hire Coaches]], [[Client Problem & Cost Language]] — compressed into a single governing document; none of the underlying research is new here, only its distillation into rules"
+basis: "[[Sunday-Monday Christian]], [[Wilderness Christian]], [[Pain Point Research — Web & Christian Media (June 2026)]], [[Coaching Demand Research — Why People Hire Coaches]], [[Client Problem & Cost Language]] — compressed into a single governing document; none of the underlying research is new here, only its distillation into rules. Updated 2026-09-09: Brand Type Rule and 'Where the Depth Lives' corrected against [[Branding & Core Competency]]'s 2026-08-24 name-retention decision; new Multi-Entry Recognition ('Doorway') method section added, drawn from the Common Experiences work in [[Client Problem & Cost Language]] and its executed example in [[Branding & Core Competency]]'s Wilderness Christian Homepage Copy section."
 tags:
   - marketing
   - governing-document
@@ -39,6 +39,22 @@ Every client moves through the same five stages, in the same order, regardless o
 | 3. Curiosity | Having felt truly seen, the client becomes willing to consider there's something underneath the felt cost | Stay curious, not diagnostic — invite, don't announce, the deeper pattern |
 | 4. Root revealed | The spiritual/identity root is introduced — in content, on the discovery call, or early in coaching | Only after recognition (Stage 2) has already landed. Introducing this earlier reads as being sold a framework rather than being understood. |
 | 5. Willing | Having been seen, understood, and shown a credible deeper account, the client is ready to invest | Make the ask now — not before |
+
+---
+
+## Method: Multi-Entry Recognition (the "Doorway" Pattern)
+
+*Added 2026-09-09. This operationalizes Stage 2 (Recognition) above — it's a technique, not a new rule, and should be applied wherever Stage 2 content is built for any segment, not just Wilderness Christian.*
+
+A single recognition line can't be maximally precise for everyone in a segment, because the same core problem shows up differently person to person — the "flatness" of a burned-out ministry leader and the "flatness" of a quietly-plateaued long-time believer are the same underlying problem (per [[Client Problem & Cost Language]]) but don't read as the same sentence to the person living it. Trust builder #1 above (precision of language) is strongest when a prospect's own specific variation is named, not just the general category.
+
+**The method:** for each felt-cost problem a segment leads with, build six or more specific "Common Experiences" — concrete, nameable variations of that same problem, each precise enough that a different kind of person recognizes their own life in it. Present these as parallel entry points ("doorways") rather than one generic statement — a visitor picks whichever one matches, then every doorway converges on the same next step (Stage 3 onward), since they're all windows onto the same underlying root.
+
+**Where this lives:**
+- **Content source:** [[Client Problem & Cost Language]] — Common Experiences and How These Relate sections built so far for #2, #3, #4, #6, #7, and #10, plus a Cross-Problem Relationship section synthesizing how they connect to each other and to the document's own closing thesis (the real problem is identity, the real deficit is relationship).
+- **Executed example:** [[Branding & Core Competency]]'s "Wilderness Christian — Homepage Copy (Doorway Design)" section — a full homepage draft built with this method for Wilderness Christian's felt-cost leads.
+
+**Standing caution:** every Common Experience built this way starts as Hypothesis-level — patterned from formation/psychology frameworks, not yet confirmed against real client or prospect language. Per the Ground Rules in the CIC Target Market Definition & Messaging Generator, none of it should be treated as confirmed psychographic fact until checked against actual discovery-call notes or prospect feedback.
 
 ---
 
@@ -91,7 +107,7 @@ These hold across both segments and should show up in content before any ask is 
 
 ## Brand Type Rule — Covenant Identity Coaching Naming
 
-CIC (Covenant Identity Coaching) is in an active rename exploration; leading candidate is **Word Within**. This rule is scoped to CIC's own name only — it does not apply to Disciple Fit's name, which is a separate, later decision with its own logic when that work happens.
+CIC (Covenant Identity Coaching) explored a rename in mid-2026. Per [[Branding & Core Competency]]'s 2026-08-24 decision, the name was **retained as Covenant Identity Coaching** — a "Transformative Self-Leadership"-style rename was considered there and rejected. **Word Within** remains a candidate name on record from an earlier exploration (2026-07-21), but its status is unresolved: [[Branding & Core Competency]] itself flags that its Word Within-branded homepage draft and its CIC-named homepage draft have never been reconciled, and neither has been formally superseded. Treat "Covenant Identity Coaching" as the operative name for any new work until Andrew resolves that reconciliation. This rule is scoped to CIC's own name only, whichever name is eventually used — it does not apply to Disciple Fit's name, which is a separate, later decision with its own logic when that work happens.
 
 **The Rule: any CIC rename must be a functional/authority brand, not an identity or cause brand.**
 
@@ -107,7 +123,7 @@ This also reinforces two rules already established above rather than adding a ne
 - **No institutional critique** — church, sermons, and pastoral teaching are framed as companion, never as insufficient. This directly enforces the Governing Rule above: the felt cost stays personal and internal, never externalized onto an institution.
 - **No clinical language** — CIC is non-clinical; scope stays behavioral and operational.
 
-Full messaging architecture (positioning statement, message pillars, audience-specific translation, voice/tone, draft homepage copy) lives in [[Branding & Core Competency]] under "Word Within — CIC Messaging Architecture" — that document executes voice and positioning; this rule is what it must not violate.
+Full messaging architecture lives in [[Branding & Core Competency]], across three sections not yet reconciled into one: "Word Within — CIC Messaging Architecture" (2026-07-21 — positioning statement, message pillars, voice/tone, draft homepage copy, built under the Word Within candidate name), "Covenant Identity Coaching — Messaging Architecture, Name Retained" (2026-08-24 — positioning statement, How This Works, Supporting Angle, and a Supporting Line pulled from [[Client Problem & Cost Language]]'s closing synthesis; the current operative naming direction), and "Wilderness Christian — Homepage Copy (Doorway Design)" (2026-09-09 — the first homepage draft built from an actually-promoted Target Market segment and the felt-cost Common Experiences behind it; see the Multi-Entry Recognition method above). All three execute voice and positioning; this rule, and the Governing Rule above, are what none of them may violate.
 
 ---
 
@@ -117,6 +133,8 @@ Full messaging architecture (positioning statement, message pillars, audience-sp
 - **Only one segment holds Target Market status at a time** (see Segment Registry above and [[_Segment Index]]).
 - **This Charter governs [[Branding & Core Competency]] and [[Disciple Fit — Differentiation Document]]** — those documents execute voice and positioning; this one sets the rules they must not violate.
 - **A spiritual problem is only marketing-ready once it's anchored to a named felt cost.** "Not growing spiritually" never leads; the felt cost always leads, and the spiritual root follows once trust is earned (see The Governing Rule, above).
+- **Stage 2 (Recognition) content is built as multiple specific Common Experience doorways, not one generic line** — see the Multi-Entry Recognition method above.
+- **"Covenant Identity Coaching" is the operative name for any new work** until Andrew resolves the Word Within reconciliation — see Brand Type Rule above.
 
 ---
 
@@ -124,7 +142,7 @@ Full messaging architecture (positioning statement, message pillars, audience-sp
 
 This Charter states principles only. For the full research behind any rule above:
 
-- [[Branding & Core Competency]] — Word Within CIC messaging architecture: positioning statement, message pillars, voice/tone, draft homepage copy
+- [[Branding & Core Competency]] — full messaging architecture, across three not-yet-reconciled sections (see Brand Type Rule above): Word Within CIC messaging architecture (2026-07-21), Covenant Identity Coaching Name-Retained messaging architecture (2026-08-24, current operative direction, includes the Supporting Line pulled from [[Client Problem & Cost Language]]), and the Wilderness Christian Homepage Copy / Doorway Design (2026-09-09, see Multi-Entry Recognition method above)
 - [[Sunday-Monday Christian]] / [[Wilderness Christian]] — full segment profiles: psychographics, trigger moments, channels, trust dynamics
 - [[_Segment Index]] — segment status registry and promotion criteria
 - [[Pain Point Research — Web & Christian Media (June 2026)]] — external validation against Barna, Christianity Today, Lifeway, and others

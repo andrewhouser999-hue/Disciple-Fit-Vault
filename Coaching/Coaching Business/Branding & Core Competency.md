@@ -691,7 +691,9 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 
 **Business name used below:** Covenant Identity Coaching, per the 2026-08-24 retention decision. If the rename to Word Within (or another candidate) proceeds, swap the name only — the structure and guardrails below don't change.
 
-**Before publishing:** every doorway line below is Hypothesis-level, per the same evidentiary flag on the Common Experiences they're drawn from — patterned from formation/psychology frameworks, not yet tested against real prospect language. Andrew: cut or reword anything that doesn't match what you've actually heard, and treat the "I'm Not Asking You to Trust a Stranger With This" section below as a first draft of a very personal paragraph — it compresses `My Story.md` into public-facing language and needs your explicit sign-off on every phrase before it goes live, not just a skim.
+**Before publishing:** every doorway line below is Hypothesis-level, per the same evidentiary flag on the Common Experiences they're drawn from — patterned from formation/psychology frameworks, not yet tested against real prospect language. Andrew: cut or reword anything that doesn't match what you've actually heard.
+
+**NEEDS REWRITE — do not publish as-is:** the "I'm Not Asking You to Trust a Stranger With This" section below (2026-09-09 draft) compresses `My Story.md` into public-facing language, and Andrew has flagged it as needing work, not just sign-off — an actual rewrite, not a skim-and-ship item. Get Andrew's read on what specifically isn't landing (tone, level of disclosure, which details, something else) before attempting a new draft.
 
 ---
 
@@ -751,7 +753,7 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 ---
 
 ### I'M NOT ASKING YOU TO TRUST A STRANGER WITH THIS
-**Stage:** 3→4 (integrated story; root begins to surface) — *draft only, needs Andrew's sign-off, see note above*
+**Stage:** 3→4 (integrated story; root begins to surface) — *NEEDS REWRITE, flagged by Andrew 2026-09-09 — do not publish, see note above*
 
 > For most of my life, I built my worth the only way I knew how — by working harder than everyone around me, hoping it would finally be enough. It never quite was. I served faithfully in church after church, and more than once, I was the one asked to leave. I told myself the problem was the fit, or the timing. After enough repetitions, I stopped believing that story.
 >
