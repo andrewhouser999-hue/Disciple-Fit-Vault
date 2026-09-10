@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09"
+basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09; Supporting Line — Identity/Relationship Diagnostic Summary basis: [[Client Problem & Cost Language]] 'What the Full List Reveals' closing synthesis, saved as brand-messaging supporting verbiage at Andrew's request, 2026-09-09"
 tags:
 ---
 
@@ -665,10 +665,18 @@ Three fixed assets, written once, revisited rarely: the homepage above (position
 
 This is the highest-converting of the three lines, but it presumes the reader already agrees ordinary coaching hasn't worked for them and that they have a specific recurring pattern in mind — a safe bet once someone is already engaged, but presumptuous as the first thing a cold visitor reads. Reserve it for discovery-call openings, warm-lead email sequences, and mid-page or late-page callouts placed after a visitor has already read the Positioning Statement and How This Works sections above; do not use it as a homepage headline or hero line.
 
+### Supporting Line — Identity/Relationship Diagnostic Summary (secondary, not a homepage headline)
+> Most of it comes down to two things: **the real problem is identity** — not what you're doing, but what you believe about who you are. And **the real deficit is relationship** — not affection, but someone safe enough, honest enough, and equipped enough to go there with you.
+
+**Source:** [[Client Problem & Cost Language]] — "What the Full List Reveals," the closing synthesis drawn from all 17 core problems, not a new claim invented for messaging. It's the same insight already at work, in longer form, in the "What Was Actually in the Way" section of the [[#Wilderness Christian — Homepage Copy (Doorway Design), 2026-09-09|Wilderness Christian homepage copy]] below ("That's not a discipline gap. It's an identity gap").
+
+**Use as:** an about-page pull-quote, the closing line of a referral one-pager, or a mid-conversation summary line on a discovery call once a prospect has already named their own felt cost. **Do not use as:** a homepage headline or hero line — stated cold, before a felt cost has been named, it reads as diagnostic-root language delivered at Stage 1 instead of Stage 4, which the Marketing Charter's Governing Rule reserves for after recognition has already landed.
+
 ### Deployment Sequence
 1. **Positioning Statement** — homepage hero / opening. Widest net, least confrontational; sets the whole page's premise.
 2. **How This Works** — homepage explainer section directly below the hero, or a standalone "How This Works" page linked from the homepage. Supplies the mechanism once the hero has created curiosity.
 3. **Supporting Angle** — mid-page callout, discovery-call script opening line, or warm-lead follow-up email. Converts once the reader already senses the gap themselves.
+4. **Supporting Line (Identity/Relationship Summary)** — about page, referral one-pager, or discovery-call summary line. Deploy only after a felt cost is already on the table, same rule as #3 above.
 
 ### Guardrails
 Same standing guardrails as the Word Within section above apply regardless of which name or messaging direction is used: no Word-of-Faith adjacency (truth/identity language never stands alone as a technique, apart from diagnosis and relationship), no institutional critique (church, pastors, and sermons are framed as companions to this work, never as insufficient), no clinical language (this is non-clinical coaching, and wording should stay behavioral and operational throughout).

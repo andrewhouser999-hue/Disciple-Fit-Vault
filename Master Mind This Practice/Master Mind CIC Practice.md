@@ -25,6 +25,7 @@ Covenant Identity Coaching starts where most coaching ends. It combines the rela
 
 This isn't therapy, and it isn't generic life coaching with a spiritual theme added on. It's a structured coaching practice built to find the false identity or pattern driving the goal you keep missing, and walk a defined process toward change that holds.
 
+*the real problem is identity, the real deficit is relationship*
 
 ELEVATORE PITCH
 "I work with people who are stuck — not for lack of effort, but because the story they believe about who they are is quietly running the show. I help them find that story, take it apart, and replace it with one that actually lets them become who they want to be and build the life they want to live."

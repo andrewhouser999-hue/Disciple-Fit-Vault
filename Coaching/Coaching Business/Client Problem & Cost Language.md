@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "Original 17-problem list built April 2026 from ICF Global Consumer Awareness Studies, ICF Global Coaching Study (2023), Barna Group research, Christian Smith's *Soul Searching* (Moralistic Therapeutic Deism finding), LifeWay Research, and Theeboom/Beersma/van Vianen (2014) — see Research Foundation below. Common Experiences and the cross-problem relationship section added to #2, #3, #7, #10 on 2026-09-09 at Andrew's request, as the working basis for website messaging (multi-entry-point recognition copy per [[Disciple Fit — Marketing Charter]] Stage 2). Drawn from Dallas Willard (VIM — vision/intention/means, informational vs. transformational learning), James K. A. Smith (*You Are What You Love* — liturgies shaping love over propositional belief), Kegan & Lahey (Immunity to Change), Gendlin (felt sense / bio-spiritual focusing), and Aaron Beck / Jeffrey Young (cognitive-schema theory) — all Hypothesis-level pattern extrapolation per the CIC Target Market Definition & Messaging Generator's evidentiary discipline, not yet tested against real client/prospect intake data. Andrew should flag any experience that doesn't match what he's actually seen or would cut."
+basis: "Original 17-problem list built April 2026 from ICF Global Consumer Awareness Studies, ICF Global Coaching Study (2023), Barna Group research, Christian Smith's *Soul Searching* (Moralistic Therapeutic Deism finding), LifeWay Research, and Theeboom/Beersma/van Vianen (2014) — see Research Foundation below. Common Experiences and the cross-problem relationship section added to #2, #3, #7, #10 on 2026-09-09 at Andrew's request, as the working basis for website messaging (multi-entry-point recognition copy per [[Disciple Fit — Marketing Charter]] Stage 2). Drawn from Dallas Willard (VIM — vision/intention/means, informational vs. transformational learning), James K. A. Smith (*You Are What You Love* — liturgies shaping love over propositional belief), Kegan & Lahey (Immunity to Change), Gendlin (felt sense / bio-spiritual focusing), and Aaron Beck / Jeffrey Young (cognitive-schema theory) — all Hypothesis-level pattern extrapolation per the CIC Target Market Definition & Messaging Generator's evidentiary discipline, not yet tested against real client/prospect intake data. #4 and #6 (Wilderness Christian's remaining two felt-cost leads) given the same treatment the same day, drawing on Winnicott (true self/false self), Nouwen (Life of the Beloved, already CIC's core contributor), and Bonhoeffer (Life Together) — all three already established in CIC's own trusted-contributor stack. Cross-Problem Relationship section extended to all six. Andrew should flag any experience that doesn't match what he's actually seen or would cut."
 tags:
 ---
 
@@ -82,6 +82,19 @@ Name the felt cost first. Reveal the root second.
 
 **Cost:** Fragile identity that collapses under failure, loss of role, or transition. Relationships feel transactional because they're built on performance. Deep loneliness. Fear of being truly known.
 
+**Common Experiences** *(Hypothesis-level, patterned from Winnicott's true-self/false-self distinction and Nouwen's three compulsions in* Life of the Beloved *— flag any that don't match what you've actually seen):*
+
+- **The Award-Winning Question Mark** — has the résumé, the title, the visible accomplishments, and privately can't answer "what do you actually want" without reaching for another achievement to name instead.
+- **The Role-Collapse Panic** — a layoff, a diagnosis, an empty nest, or a forced sabbatical removes the primary role, and what's left underneath feels less like relief and more like free-fall.
+- **The Compliant Overperformer** — has spent so long reading and meeting other people's expectations that they've lost track of which preferences, opinions, and desires were ever actually their own.
+- **The Approval-Calibrated Decision-Maker** — makes major life choices (career, church involvement, even friendships) by running them through "what will people think" before ever asking "what do I want."
+- **The Successful Stranger to Themselves** — objectively thriving by every external measure, and privately unable to say who they are apart from the measures, which makes the success feel hollow rather than earned.
+- **The Two-Version Self** — has a version of themselves for work, a version for church, a version for family, each competent and well-received, and no version they'd call simply "who I am" underneath all three.
+- **The Undiscovered-Desire Adult** — genuinely doesn't know what they enjoy, want, or believe apart from what's expected, because the question has never been safe enough, or interesting enough, to actually ask.
+- **The Performance-Fatigue Case** — isn't in crisis, just tired in a specific way — the tiredness of constant self-presentation — and has started to suspect the exhaustion is the clue, not a problem to push through.
+
+**How These Relate:** All eight describe what Winnicott called a false self — a self built for managing others' expectations and approval, competent and often admired, standing in for a true self that never had room to develop because it was never safe, met, or asked for. Nouwen names the same gap theologically: each of these people has organized life around being successful, being liked, or being capable — his three compulsions — as substitutes for the one thing that was supposed to be settled first, belovedness that doesn't depend on any of the three. What varies across the eight is only the trigger that exposes the gap: a crisis that removes the role, exhaustion from maintaining it, or a quiet, ordinary question the person has simply never had occasion to answer.
+
 ---
 
 ### 5. I keep making the same mistakes — nothing actually changes
@@ -97,6 +110,19 @@ Name the felt cost first. Reveal the root second.
 > "I have people around me. I show up to community. But no one actually knows what's happening inside me. I've never let them. I'm not sure I know how — or if it's safe. So I keep performing okay while feeling completely alone."
 
 **Cost:** The specific pain of loneliness inside community — which feels worse than regular loneliness because it should be different. Leads to hollow relationships, disconnected marriage, and a growing internal life no one has access to.
+
+**Common Experiences** *(Hypothesis-level, patterned from Bonhoeffer's* Life Together *distinction between real and idealized community, and attachment theory's secure-base concept — flag any that don't match what you've actually seen):*
+
+- **The Small-Group Regular Who's Never Actually Shared** — attends faithfully, contributes appropriately, and has never once said the real thing happening inside them in that room, because the format doesn't actually ask and no one has pressed.
+- **The Go-To Person for Everyone Else** — is the one people call when they're struggling, trusted and competent in that role, and has no equivalent person of their own to call.
+- **The Married-but-Alone Spouse** — is in a stable, cordial marriage, and has never told their spouse the actual weight they're carrying, because it's never felt like it would be received well or understood.
+- **The Church-Attendance Paradox** — has been at the same church for years, knows people, is known by name — and could disappear for a month before anyone noticed something was actually wrong.
+- **The Safety-Never-Tested Isolate** — suspects, without ever having tried, that if people actually knew what was going on inside, the relationship would change or end, so the test never gets run.
+- **The Post-Betrayal Guarded One** — was known once, was hurt for it, and has since kept every relationship since at a managed distance as insurance against it happening again.
+- **The Competent Facade** — performs "fine" so consistently and so well that even people who love them have stopped checking beneath the performance, because there's never been a visible reason to.
+- **The Lonely-in-a-Crowd Extrovert** — is socially active, well-liked, surrounded by people constantly, and privately would describe themselves as one of the loneliest people they know.
+
+**How These Relate:** Bonhoeffer's distinction in *Life Together* is the throughline — each of these describes proximity to people without the costlier thing community actually requires: being known, not just present. The variations differ mainly in why the gap has never closed — a group format that doesn't ask, a role (the strong one, the go-to person) that makes vulnerability feel unavailable, a past betrayal that made guardedness feel like wisdom, or simply a performance so competent that no one around them has ever had reason to look past it. What all eight share is that the isolation is not for lack of people nearby; it is what happens when nearness and being known have quietly stopped being the same thing.
 
 ---
 
@@ -231,20 +257,26 @@ That is Disciple Fit's entire value proposition in two sentences.
 
 ---
 
-## Cross-Problem Relationship — #2, #3, #7, #10 (Website Entry-Point Design)
+## Cross-Problem Relationship — #2, #3, #4, #6, #7, #10 (Website Entry-Point Design)
 
-*Added 2026-09-09 at Andrew's request, to serve as the working basis for website messaging — see the Common Experiences and How These Relate sections added to #2, #3, #7, and #10 above.*
+*Added 2026-09-09 at Andrew's request, to serve as the working basis for website messaging — see the Common Experiences and How These Relate sections added to #2, #3, #4, #6, #7, and #10 above. Updated the same day to add #4 and #6, Wilderness Christian's remaining two felt-cost leads.*
 
-All four are variations on a single deeper pattern: sincerely held Christian belief that has not migrated into the layer that actually governs feeling (#3), behavior (#2, #10), or a felt sense of aliveness (#7). None of the four is a knowledge problem — the person already has, or has had, real conviction — and none is solved by more information, willpower, or effort in the same register that has already been tried and has already failed.
+Two of these six are structural; four are what the structure produces.
 
+**#4 and #6 name the structure:** an identity built on performance and approval (#4) because it was never safe enough to actually be known by anyone (#6) — Winnicott's false self, formed and reinforced because the relational conditions Bonhoeffer calls real community never existed to receive a true one. This is the document's own conclusion — see "What the Full List Reveals" above: the real problem is identity, the real deficit is relationship — showing up directly in two of Wilderness Christian's own felt-cost leads.
+
+**#2, #3, #7, and #10 name what that structure produces downstream:** a person whose identity was never anchored in anything more stable than performance and image-management predictably ends up with belief that doesn't reach feeling (#3), behavior (#2, #10), or a felt sense of aliveness (#7) — because the part of them that would need to receive and hold that belief was never given room to develop in the first place. None of the six is a knowledge problem — the person already has, or has had, real conviction — and none is solved by more information, willpower, or effort in the same register that has already been tried and has already failed.
+
+- **#4** names the identity source: built on performance and role, not received belovedness.
+- **#6** names the relational deficit: known by no one, even inside community.
 - **#2** names the mechanism generally: knowing versus living.
 - **#3** names it in the emotional and somatic domain specifically: belief doesn't reach the body.
 - **#7** names it as an absence of felt aliveness with no identifiable cause.
 - **#10** names it as a visible behavioral split between two contexts, Sunday and Monday.
 
-A person could recognize themselves in one, several, or all four — they are four different windows onto the same underlying gap between what is believed and what is actually operative, which is precisely the identity-level root Disciple Fit and CIC treat, and precisely why the four function well together as parallel entry points into the same site.
+A person could recognize themselves in one, several, or all six — they are six different windows onto the same underlying gap between what is believed and what is actually operative, rooted in an identity that was never securely anchored in the first place, which is precisely the identity-level root Disciple Fit and CIC treat, and precisely why the six function well together as parallel entry points into the same site.
 
-**Website UX implication:** Structure the site so a visitor can enter through whichever of the roughly 32 common-experience statements above (or the four umbrella problems) lands with the most precision — for example, a set of short, specific recognition statements such as "You know what you believe and still can't seem to live it," "The anxiety comes back no matter how much you've prayed," "You're doing everything right and still feel flat," or "Who you are at church and who you are Monday through Friday are starting to feel like two different people" — each functioning as its own doorway. Regardless of entry point, the path converges on the same next step (the discovery call, the CIC offer), because all four ultimately point to the same identity-level root. This matches the Marketing Charter's Stage 2 "Recognition" mechanic — precision of language naming the exact interior experience — multiplied across enough specific variations that more visitors find their own words already written for them, without diluting the site into targeting everyone generically. Per the Marketing Charter's Governing Rule, none of these entry statements should name the root (identity, the institutional wound, sin patterns) — each stays at the felt-cost layer; the root is revealed only after the visitor has chosen an entry point and moved deeper into the site.
+**Website UX implication:** Structure the site so a visitor can enter through whichever of the roughly 48 common-experience statements above (or the six umbrella problems) lands with the most precision — for example, a set of short, specific recognition statements such as "You don't know who you are outside of what you do," "You're surrounded by people and still feel completely alone," "You know what you believe and still can't seem to live it," "The anxiety comes back no matter how much you've prayed," "You're doing everything right and still feel flat," or "Who you are at church and who you are Monday through Friday are starting to feel like two different people" — each functioning as its own doorway. Regardless of entry point, the path converges on the same next step (the discovery call, the CIC offer), because all six ultimately point to the same identity-level root. This matches the Marketing Charter's Stage 2 "Recognition" mechanic — precision of language naming the exact interior experience — multiplied across enough specific variations that more visitors find their own words already written for them, without diluting the site into targeting everyone generically. Per the Marketing Charter's Governing Rule, none of these entry statements should name the root (identity, the institutional wound, sin patterns) — each stays at the felt-cost layer; the root is revealed only after the visitor has chosen an entry point and moved deeper into the site.
 
 **Before building this into actual site copy or navigation:** the Common Experiences above are Hypothesis-level, generated from established formation/psychology frameworks, not yet tested against real client or prospect language. Recommend running these past actual discovery-call notes, past client intake language, or a small round of prospect feedback before locking any of them into permanent site copy — per the CIC Target Market Definition & Messaging Generator's rule against presenting confident, well-written psychographic detail that isn't yet confirmed true of anyone.
 
@@ -266,3 +298,8 @@ This list is grounded in:
 - Robert Kegan & Lisa Lahey, *Immunity to Change* (2009) — competing commitments and the big assumption underneath a stated commitment; explains #10, and the self-diagnosing-doubter pattern in #7
 - Eugene Gendlin, *Focusing* (1978) and bio-spiritual focusing (McMahon & Campbell) — felt sense as a body-held layer distinct from cognitive belief; explains #3
 - Aaron Beck (cognitive model) and Jeffrey Young (schema therapy) — automatic emotional/schema-level response as distinct from top-down theological reasoning; explains #3
+
+**Added 2026-09-09, for the Common Experiences added to #4 and #6 — Expert opinion / Theoretical, not yet field-tested against CIC client data:**
+- D. W. Winnicott, "Ego Distortion in Terms of True and False Self" (1960) — the false self as a compliant adaptation built to manage others' expectations, protecting an undeveloped true self underneath; explains #4
+- Henri Nouwen, *Life of the Beloved* (1992) — belovedness versus the three compulsions to be successful, popular, and powerful; explains #4, and already CIC's core contributor for belovedness-as-true-self work
+- Dietrich Bonhoeffer, *Life Together* (1939) — the difference between the idealized "wish dream" of Christian community and the costlier reality of being actually known within it; explains #6
