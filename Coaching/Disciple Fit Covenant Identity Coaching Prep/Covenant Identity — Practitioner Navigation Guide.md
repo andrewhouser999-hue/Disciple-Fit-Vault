@@ -58,6 +58,7 @@ tags:
 - [[Covenant Identity — Affections Discovery — In-Session Protocol]] — Domain 7 of the question bank is the affections entry; the Discovery Call surfaces the affections picture before intake
 - [[Covenant Identity — Prodigal Son Diagnostic Narrative Framework]] — alternative narrative self-locating entry (Far Country / Returning Son / Older Brother) if the client responds better to a story frame than direct affections questions
 - [[Covenant Identity — Arc Location Diagnostic]] — fillable self-assessment for locating current position on the arc; useful immediately after the call to sharpen the stage-readiness read, and again periodically through the engagement
+- [[Covenant Identity — How to Communicate CIC — Index]] — audience-organized index of every document governing how CIC is described; use the Speaking to Clients section for prospect-facing model-introduction language
 
 **Watch for:**
 > Stage-readiness signals — can the client locate a Gap between declared and lived identity? Divergent identity markers (language that contradicts their self-assessment). The affections picture beginning to emerge.
