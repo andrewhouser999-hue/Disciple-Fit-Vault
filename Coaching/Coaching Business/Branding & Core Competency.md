@@ -689,6 +689,8 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 
 **Reconciliation flag:** this draft has not been reconciled with the "Word Within" (2026-07-21) or "Name Retained" (2026-08-24) homepage sections above. This is the first homepage draft built from an actually-promoted Target Market segment and the felt-cost entry-point research behind it — recommend it supersede both for publication. Final call, and the business-name decision it depends on, is Andrew's.
 
+**2026-09-10 update — doorway set expanded from 4 to 6 problems, curated to 8 doors:** per [[Client Problem & Cost Language]]'s Cross-Problem Relationship section (#2, #3, #4, #6, #7, #10, all six now built out with Common Experiences), the doorway section below now draws from all six felt-cost leads rather than the original four. Door count held at 8, not scaled to 12 (2 per problem) or down to 6 (1 per problem): #4 and #6 are the *structural* problems (identity built on performance, because it was never safe to be known) and get 2 doors each; #2, #3, #7, #10 are what that structure *produces downstream* and get 1 door each. This is also the system-level plan's channel/sequencing resolution point — see [[project_cic_domain_website]] memory and the Marketing Systems Strategy development prompt: website deploys *after* initial YouTube/Shorts content, not before, so this section remains a working draft pending real engagement language, per its own Hypothesis-level flag. The ~40 common-experience statements not used as one of the 8 doors below remain available raw material for Shorts scripts (single-sentence recognition clips), not wasted — same source, different channel.
+
 **Business name used below:** Covenant Identity Coaching, per the 2026-08-24 retention decision. If the rename to Word Within (or another candidate) proceeds, swap the name only — the structure and guardrails below don't change.
 
 **Before publishing:** every doorway line below is Hypothesis-level, per the same evidentiary flag on the Common Experiences they're drawn from — patterned from formation/psychology frameworks, not yet tested against real prospect language. Andrew: cut or reword anything that doesn't match what you've actually heard.
@@ -709,44 +711,44 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 ---
 
 ### FIND WHAT YOU RECOGNIZE
-**Problems:** #2, #3, #7, #10 (two doors each) · **Stage:** 2 (Recognition)
+**Problems:** #4, #6 (two doors each — structural) + #2, #3, #7, #10 (one door each — downstream) · **Stage:** 2 (Recognition)
 
 *Intro line above the doors:*
 > Everyone's version of "stuck" looks a little different. Pick whichever one sounds the most like you — there's no wrong door.
 
-**Door 1 — #2** "You know what you believe. You just can't seem to live from it."
+**Door 1 — #4** "You don't know who you are outside of what you do."
+> Take away the role, the title, the usefulness — and you genuinely don't know what's left. You're not sure you have a self underneath all of it.
+
+**Door 2 — #4** "You can list your accomplishments. You can't say who you are underneath them."
+> Objectively thriving by every measure anyone can see, and privately unable to say who you are apart from the measures — which makes the success feel hollow instead of earned.
+
+**Door 3 — #6** "You're surrounded by people and still feel completely alone."
+> You show up. You perform fine. But no one actually knows what's happening inside you — and you're not sure you know how to let them, or if it's even safe.
+
+**Door 4 — #6** "You could disappear for a month before anyone actually noticed something was wrong."
+> Known by name, present for years, and still — if you quietly stopped showing up tomorrow, it would take longer than it should for anyone to notice something was actually wrong.
+
+**Door 5 — #2** "You know what you believe. You just can't seem to live from it."
 > You've read the books, sat through the sermons, maybe even taught the class. The truth is in your head — clear, memorized, ready. Then Monday comes, or the pressure hits, and you react the same way you always have. It's not that you don't know enough. Something isn't translating.
 
-**Door 2 — #2** "The gap only shows up when it actually counts."
-> In calm moments, the theology holds. It's the real stress — a hard conversation, a crisis, the moment you needed the truth most — where it goes quiet, and you're left running on the same old patterns instead.
-
-**Door 3 — #3** "You've prayed this away more times than you can count. It keeps coming back."
+**Door 6 — #3** "You've prayed this away more times than you can count. It keeps coming back."
 > The anxiety, the shame, the same tight-chest feeling — you've repented, you've prayed, you've claimed what's true. And your body hasn't gotten the message yet. That's not a sign your faith is thin.
 
-**Door 4 — #3** "You look fine. Inside, you're not."
-> Nobody around you would guess. You perform well, show up, hold it together. Which makes it worse, somehow — because now even the "I'm okay" looks like one more thing you're managing.
-
-**Door 5 — #7** "You're not walking away from God. You're just... flat."
+**Door 7 — #7** "You're not walking away from God. You're just... flat."
 > No crisis, no dramatic doubt — just years at the same place. You do the things. Nothing moves. You've wondered if it's discipline, or sin, or something deeper, and none of those answers has actually explained it.
 
-**Door 6 — #7** "You've tried the new plan, the new group, the new book. The flatness comes back."
-> Every fix gives a short bump, then fades. If you've quietly started to suspect the problem isn't which resource you pick next, you're closer to the actual answer than you think.
-
-**Door 7 — #10** "Who you are at church and who you are the rest of the week are starting to feel like two different people."
+**Door 8 — #10** "Who you are at church and who you are the rest of the week are starting to feel like two different people."
 > You're not faking it on Sunday. But Monday runs on a different set of rules — sharper, more anxious, more self-protective — and you didn't consciously choose that split. It just runs.
-
-**Door 8 — #10** "You can say what you believe. You can't always say you live it."
-> You could stand in front of your team, your group, your kids, and describe your values clearly. Then a normal Tuesday happens, and your actual decisions don't quite match the speech.
 
 *Closing line beneath all eight doors:*
 > If you found yourself in more than one door — that's the norm here, not the exception. Keep reading.
 
 ---
 
-### YOU'RE NOT DESCRIBING FOUR PROBLEMS
-**Problems:** #2, #3, #7, #10 (synthesis) · **Stage:** 3 (Curiosity)
+### YOU'RE NOT DESCRIBING EIGHT PROBLEMS
+**Problems:** #2, #3, #4, #6, #7, #10 (synthesis) · **Stage:** 3 (Curiosity)
 
-> Whichever door you picked, here's what's actually true: none of these are about missing information. You already have real belief — the kind that's stayed with you through everything. What you're describing is belief that hasn't yet reached the place that actually runs your life: your feelings, your reactions, your sense of being alive, the way you actually show up when no one's grading you.
+> Whichever door you picked, here's what's actually true: underneath all eight is the same shape. An identity built on performance and role — because it was never safe enough to actually be known by anyone. That's not a knowledge problem; you already have real belief, real effort, real years invested. What's missing is what that belief needed in order to reach the rest of you: a self secure enough to receive it, formed in relationship, not performance.
 >
 > That's not a "try harder" problem. It's worth understanding why.
 
@@ -812,4 +814,4 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 - Non-clinical, behavioral, operational scope — maintained; no diagnostic labels, no therapeutic process language.
 - Functional/authority voice, not identity or cause — maintained; no us-vs-them framing against the institutional church, no verbal-declaration-alone claims.
 
-**Not yet built:** #4 ("no self beneath the roles") and #6 ("isolated, known by no one") are also Wilderness Christian felt-cost leads per the segment file, but have no Common Experiences expansion yet — they're absent from the doorway set above for that reason, not by design. Building them out would let the doorway set fully match the segment's stated felt-cost entry points instead of covering four of six.
+**Resolved 2026-09-10:** #4 ("no self beneath the roles") and #6 ("isolated, known by no one") are now built out in [[Client Problem & Cost Language]] and folded into the doorway set above as the two structural (2-door) problems. The doorway set now covers all six of the segment's stated felt-cost entry points, not four of six.

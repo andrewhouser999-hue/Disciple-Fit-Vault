@@ -46,6 +46,24 @@ Using career identity theory: you've been in vocational moratorium — a prolong
 
  I am a high-meaning, relationally-gifted, conceptually-driven person who has spent most of his career in wrong-fit environments — and has used circumstance as the explanation when identity ambiguity was the root cause.
 
+---
+
+## 2026-09-10 — Clarifying & Extended Addendum
+
+*Private working material — not public copy, not yet reconciled with the compressed public version used in [[Branding & Core Competency]]'s doorway draft. Andrew has not decided whether to prayerfully rewrite this before any public use. Do not compress or draft public copy from this section without his direct instruction.*
+
+**Correction to the original list above:** the line "At times I preferred death over having no emotions that came with PTSD" is clarified as follows — not suicidal ideation. Reworded by Andrew for accuracy: *"I felt like there was no difference between being dead and feeling no connection to life in my PTSD experience."* Andrew's own belief is that suicidal ideation is primarily demonic influence — his conviction to hold, not a claim for public copy either way.
+
+**Fuller account, in Andrew's words:**
+
+There is much more to my story than the list above. What I can communicate is having suffered to such a degree in numerous ways I felt my physical body dying from emotional abuse; in my psyche I saw an inner vision of the line of insanity; spiritually I felt my living faith was dead from religious abuse. I have experienced abuse from personal relationships, employment, church, and family resulting in various traumas, rejection, PTSD, narcissism, usury, religious abuse. God used these with the work of the Holy Spirit & His Word to rewire my inner man from early childhood abuse and neglect to current. Wounding and healing of the inner man through numerous sufferings is foundational to having the abilities and posture required for the making of disciples.
+
+I prayed early in my surrendered walk with the Lord: *"Make me a disciple maker, and count the cost for me — I don't know how to count the cost, but take it easy on me,"* knowing He would allow suffering. I also prayed another significant prayer: *"Remove from me anything that hinders me from obeying You, Lord."* These two prayers gave Him permission to rewrite my inner man.
+
+I believe my suffering was necessary in certain regards, and unnecessary in other regards — that CIC-type work could have helped me thrive instead of crashing into despair, ruin, and experiencing such disconnect from the Spirit of God.
+
+**Open, unresolved:** whether to prayerfully rewrite this story before any public use — Andrew is not yet sure.
+
 
 
 
