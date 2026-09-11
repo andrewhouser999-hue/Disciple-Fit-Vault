@@ -207,7 +207,21 @@ The foundation is this: God has not spoken to you only propositionally. He has s
 
 Your identity — who you actually are before God — is formed in that covenant relationship. Not just declared to you once from a distance and left for you to believe harder. Formed. Through encounter. Through truth reaching the layer where distorted God-images have been living, and meeting them with something they have never fully received: a love that holds.
 
-*[PERSONAL STORY PLACEHOLDER — a brief story from your own experience of hitting the ceiling and finding the deeper layer, or an anonymized client account. 3–5 minutes.]*
+*[DELIVERY NOTE: Drop the teaching cadence here. This is confession, not exposition. Slower, quieter, more exposed.]*
+
+I was the good Christian. Aligned doctrine, good theology, good at my work, leading multiple church ministries — the one who had it together. You know that guy. Not much visibly wrong with him. Popular, too, on a slow decline.
+
+But I wanted real relationships, not just proximity to people. That meant transparency. Vulnerability. Actually investing in people's lives, not just occupying the room with them. And it asked the same of them in return. More often than not, that made me expendable to my brothers and sisters — or made me a project, something for someone else to fix.
+
+Then I got married.
+
+And I started treating my wife the way some buried part of me had wanted to treat my own parents — good parents, parents I love — for specific patterns in how they raised me that I had never actually confronted. Only absorbed. Only held. For decades. My wife became the place all of it finally surfaced. I was acting out what I'd been holding intrinsically since I was a kid, and she was standing in front of me when it broke loose.
+
+It felt like an intensive-care marriage. And I remember wrestling with God in the middle of it — genuinely confused. Twenty years of faithfulness behind me. Big sacrifices. Bible know-how. Leading and serving — even through seasons that were exhausting, testing, betraying — all of it walked through with God. So why, after all of that, was I the one acting like a monster toward the person I loved most, instead of more like Christ?
+
+*[PAUSE.]*
+
+That question was the answer. It showed me there was something in me the Word had never reached — not because I hadn't read it, but because it lived in a layer of my mind that had never actually been renewed.
 
 The work is structured and Scripture-grounded. It takes the layered inner person seriously — because Jesus took it seriously, because Hebrews takes it seriously, because the prophets took it seriously. And it moves toward one outcome: that the God of your gut would begin to match the Father of Jesus Christ.
 
@@ -253,9 +267,9 @@ My hope — and the work I want to invite you into — is that you would find ou
 
 ## Delivery Notes (Summary)
 
-- **Spoken word count:** ~4,100 words — estimated 33–37 minutes at pastoral pace
+- **Spoken word count:** ~4,400 words — estimated 35–39 minutes at pastoral pace
 - **Central metaphor:** *The layer* — return to it at least four times, do not vary it into synonyms
-- **Personal story placeholder:** 3–5 minutes; do not cut around it — the sermon needs a human anchor in Movement 3
+- **Personal story (marriage):** ~330 words, ~2–2.5 minutes at normal pace — deliver slower than the rest of the sermon to stretch it closer to 3 minutes; this is the human anchor for Movement 3, do not cut around it
 - **The close** should be the slowest moment in the entire sermon
 - **Movement 1:** builds identification — do not shortcut it
 - **Movement 2:** the intellectual anchor — preach it like you are showing them something, not arguing at them

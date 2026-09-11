@@ -47,9 +47,20 @@ Which was more powerful, my sanctified person, or this old man nature?  I have n
 
 *Rather than invent a crisis on your behalf, tell me: what's the one specific moment — place, situation, what was said or felt — that best represents "the next bigger cliff" where the old man showed up full force? And separately, what's the specific moment (even a small one) where you noticed it didn't this time? Those two scenes are what turn this from reflection into testimony. Once I have them, I'll draft the full placeholder replacement — compressed to spoken length, wired into "the layer" language, ending on your existing closing lines.*
 
+---
 
 
-I was the good Christian, who had it all together, the one with aligned doctrine, and good theology, good at my work. You know that guy, not much is wrong with him.  Popular with others, on a declining scale.  I wanted real relationships.  That required me to be transparent, vulnerable, invested in others.  In return that asks the same of them. More often than not, that made me expungable, from my brothers and sisters --- or a target for advise.  Then I got married.  I began to treat my wife like I had wished I knew how to treat my really good parents for their bad parenting styles.  I am now acting out what I had been holding intrinsically for decades. I felt like I was in an intensive care marriage, began wrestled with all the things God had been working on for years and then some.  My poor wife. Why after two decades packed full of sanctifying, exasperating, violent, betraying0 experiences am I acting like a monster and not more Christ like? It just showed there was something living deep inside the Word had never reached like a layer of my Mind that was Never Renewed.   
+  I was the good Christian. Aligned doctrine, good theology, good at my work, lead multiple church ministries — the one who had it together. You know that guy. Not much visibly wrong with him. Popular, too, on a slow decline.
+
+  But I wanted real relationships, not just proximity to people. That meant transparency. Vulnerability. Actually investing in people's lives, not just occupying the room with them. And it asked the same of them in return. More often than not, that made me expendable to my brothers and sisters — or made me a project, something for someone else to fix.
+
+  Then I got married.
+
+  And I started treating my wife the way some buried part of me had wanted to treat my own parents — good parents, parents I love — for specific patterns in how they raised me that I had never actually confronted. Only absorbed. Only held. For decades. My wife became the place all of it finally surfaced. I was acting out what I'd been holding intrinsically since I was a kid, and she was standing in front of me when it broke loose.
+
+ It felt like an intensive-care marriage. And I remember wrestling with God in the middle of it — genuinely confused. Twenty years of faithfulness behind me. Big sacrifices. Bible know-how. Leading and serving — even through seasons that were exhausting, testing, betraying — all of it walked through with God. So why, after all of that, was I the one acting like a monster toward the person I loved most, instead of more like Christ?
+
+  That question was the answer. It showed me there was something in me the Word had never reached — not because I hadn't read it, but because it lived in a layer of my mind that had never actually been renewed.  
 
 
 ---
