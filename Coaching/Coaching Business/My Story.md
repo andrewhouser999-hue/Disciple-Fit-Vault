@@ -65,6 +65,12 @@ Which was more powerful, my sanctified person, or this old man nature?  I have n
 
 ---
 
+Institutional wounds
+Jesus met me in my car, called me to follow Him, fully surrendered, filled with the Spirit of the Lord. The Word illuminates off of the screen
+
+
+
+
 
 One day I said "No more!"
 I did lie work choosing truthful perspectives. Found a process to believe a new identity.  The cost of staying the same on the inside was too great. I needed to take extreme ownership of the scripts that were running my life. It was time to get free!  
