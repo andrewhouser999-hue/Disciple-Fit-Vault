@@ -4,6 +4,10 @@ basis: TBD
 tags:
 ---
 
+
+
+
+
 Raised emotionally neglected by a lovely but mechanical mother; under the threat of a dysregulated father. 
 I had no idea about urban modern life, neglected at launch.
 Worked exceptionally hard for success to prove personal value. 
@@ -32,6 +36,9 @@ I felt lonely surrounded by many.
 I couldn't show up as regulated husband
 I felt a chilling connection to this decaying, empty professional and relationally dead culture. It was destroying me. I became concerningly guarded when someone was friendly. 
 The vivacious, life is a candy store, self was left completely behind.
+
+When I was single I had served in the church 35 hours per week, then 25/week when attending another church. My faith was active, Christ made himself real to me, the Holy Spirit would speak and I would hear Him. He guided my life. I prayed for God to make me a Disciplemaker, to remove from me anything that will hinder me from being obedient.
+My life was pummeled with such suffering for so long that I began to think the Lord was punishing me. Over the years I didn't feel closer to God I felt more distant, more of a sinner even with effective repentance, I saw more of the sin nature. Turns out this is how it goes with those who surrender their life to Christ. My weaknesses of scarcity, fear under pressure, not feeling I am enough, performance, seeking acceptance, and more diminished over the years with Christ's sanctifying work, yet they remained powerful currents that appeared full force when it counted the most. It was as if my growth from these was a ruse. The next bigger cliff, battle, or tribulation seemed to trigger my inner, old man. Who can save me from this?  I have people counting on me. I have Christ to follow where it matters. I have a calling that seems at risk of failure to hold the line, to stand in strength in alignment to Christ. 
 
 One day I said "No more!"
 I did lie work choosing truthful perspectives. Found a process to believe a new identity.  The cost of staying the same on the inside was too great. I needed to take extreme ownership of the scripts that were running my life. It was time to get free!  
