@@ -3,12 +3,74 @@ created:
 basis: TBD
 tags:
 ---
-**Memorize**
 
-PRODUCT
+## Table of Contents
+
+- [[#Memorize]]
+- [[#PRODUCT]]
+- [[#BRAND MESSAGE]]
+- [[#ELEVATORE PITCH]]
+- [[#DEFINITION - Dallas Willard, Renovations of the Heart]]
+- [[#Sanctification can by via coaching vs trial/trauma]]
+- [[#Reoccurring Core Four Mechanism for Transformation]]
+- [[#Belief Statement]]
+- [[#CIC Core Coaching Translation]]
+    - [[#Session Application]]
+- [[#What This Practice Is]]
+- [[#Model]]
+- [[#This is the LINCHPIN! — The Neuroscience Foundation]]
+- [[#The Sequence (Coherence Therapy)]]
+    - [[#This is in contrast to Insight-Based Approaches]]
+- [[#Model Fit: BELONGS — Mechanism Theory Layer]]
+    - [[#What This Explains in Andrew's Model]]
+- [[#CIC Formation Authors]]
+- [[#Within the non-clinical population I'm scoped to serve...]]
+- [[#How Focusing Differs from Mindfulness]]
+    - [[#Focusing in Spiritual Direction and Formation]]
+- [[#Covenant Identity Cognitive-Behavioral Discipleship Life Coaching & Training]]
+    - [[#The identity installation frame]]
+    - [[#The beholding practice as session tool]]
+    - [[#A Schema (Pattern)-First, Metacognitively-Guided, Spiritually Formative Coaching, Behaviorally informed Learning Model]]
+    - [[#Whole-Person Learning — The Pedagogy Here Is More Radical Than You May Have Framed It]]
+    - [[#What CBC Does Differently]]
+    - [[#Diagnostic Implication for Your Sessions]]
+    - [[#This is a NEXT LEVEL Capturing Your Thoughts]]
+    - [[#Whole-Person Discipleship Development]]
+    - [[#The Integration Principle]]
+    - [[#The psychographic of the Christian learner]]
+    - [[#Practitioner Theory becomes a collection of tools...]]
+    - [[#What Western Christianity Actually Misses]]
+    - [[#Rise Self Awareness for the Transformation that Allows Access to the Fullness of God]]
+- [[#Coaching Tools for Community Equipping [SESSION-TOOL]]]
+- [[#Children must never work for our love]]
+- [[#Core Competency]]
+- [[#The Power of Life Change with God]]
+- [[#What Must Be True for This to Land with a Client]]
+- [[#THE NATURE OF COVENANT]]
+- [[#Why?]]
+- [[#Warfare, Declaration & Action]]
+- [[#Business Structure]]
+- [[#The Goal is to Achieve Expertise]]
+- [[#Clients]]
+- [[#Gap]]
+- [[#PRODUCTS]]
+    - [[#Training]]
+- [[#Naturally speaking, in or earlier years we are adding on...]]
+- [[#Scripture - Holy Spirit]]
+- [[#Real titrated trauma work depends on a practitioner's real-time capacity...]]
+- [[#From the Character Wound Diagnostic Tool's attachment mapping]]
+
+---
+
+## Memorize
+
+## PRODUCT
 What does a CIC coach do? 
 I help clients replace false, lie-based identity beliefs with a covenant identity rooted in Scripture, working through implicit belief/felt-sense mechanisms rather than just cognitive reframing.
 
+Covenant Identity Coaching was built on epistemic thinking — the conviction that a claim's value depends on its relationship to truth, not merely on the confidence with which it's held — and so it draws together select existing disciplines whose combined evidence base, rather than any single practitioner's opinion, gives the model its power to actually transform people.
+
+Product Description
 A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ, and be formed by the Spirit toward faithful image-bearing. Three disciplines, unified. None sufficient alone. Each contributing what the others cannot:
 
 - **Spiritual formation** provides the governing telos, the process frame, and the account of the practitioner's role — cooperating with what the Spirit is already doing.
@@ -18,7 +80,7 @@ A structured, Spirit-cooperating practice that uses the diagnostic precision of 
 **Covenant Identity** provides the specific content of what the person is being formed toward: restored image-bearing as God's covenant person in Christ.
 
 
-BRAND MESSAGE
+## BRAND MESSAGE
 Most coaching stops at goals, habits, and accountability. Those tools work — until the same pattern shows up again in a new situation, and you realize the goal was never the real problem.
 
 Covenant Identity Coaching starts where most coaching ends. It combines the relational, forward-moving structure of life coaching with the diagnostic depth of biblical counseling and the whole-person formation lens of spiritual formation — three disciplines that, on their own, each reach part of the problem. Coaching alone assumes you already have the answers inside you. Counseling alone diagnoses the problem but doesn't build a forward path. Formation alone describes growth without naming what's actually stuck. Covenant Identity Coaching integrates the three so the work reaches past behavior and into the identity underneath it — because change that doesn't reach identity tends not to last.
@@ -27,14 +89,14 @@ This isn't therapy, and it isn't generic life coaching with a spiritual theme ad
 
 *the real problem is identity, the real deficit is relationship*
 
-ELEVATORE PITCH
+## ELEVATORE PITCH
 "I work with people who are stuck — not for lack of effort, but because the story they believe about who they are is quietly running the show. I help them find that story, take it apart, and replace it with one that actually lets them become who they want to be and build the life they want to live."
 
 Shortest version (for a verbal answer at a networking event, where you have one breath):
 
 "I help people find the lie they've been living by and the false identity built on top of it — then rebuild from there, so they can finally become who they want to be."
 
-DEFINITION - Dallas Willard, *Renovations of the Heart*
+## DEFINITION - Dallas Willard, Renovations of the Heart
 Spiritual Formation for the Christian basically refers to the Spirit-driven process of forming the inner world of the human self in such a way that it becomes like the inner being of Christ Himself.  Christian spiritual formation CSF is focused entirely on Jesus. Obediance is an essential outcome of Christian spiritual formation (John 13:34-35; 14:21) "Christ be formed within you" is the eternal watchword of CSF (Galatians 4:19.) by the Spirit (2 Cor 3:6)  Your R+ must go beyond the religious outward expressions (Matt 5:20)
 
 CSF is formed by the  Spirit of God and by the spiritual riche of Christ's  continuing incarnation in His people. 
@@ -48,7 +110,7 @@ It is who we are in our thoughts, feelings, dispositions and choices--in the inn
 It is very hard to keep this straight . Failure to do so is primary cause of failure  gto row spiritually. Love, we hear, is patient and kind. Then we mistakenly try to be loving by acting patiently and kindly---and quickly fail.  My interjection-God can forgive through you and you still have to make it deeply and broadly your forgiveness. You can receive God's love for another and fail the test having to make His love deeply yours.  Acting and receiving are not enough it must become a part of you, fully received within. What constitutes fully receiving?
 
 ---
-**Sanctification can by via coaching vs trial/trauma**
+## Sanctification can by via coaching vs trial/trauma
 Sanctification isn't merely informational — knowing true doctrine — it's transformational: being changed. Scripture's own vocabulary for this process ("fear and trembling," Phil. 2:12) is affect-laden, not propositional. Contemporary work on implicit/procedural memory (Gendlin's felt sense — already a CIC contributor per [[contributor_gendlin_focusing]]) converges on the same point: identity-beliefs laid down through felt experience can only be revised through felt re-encounter, not correction of the proposition alone. That's Gendlin's actual founding claim, and it's why CIC already routes through felt-sense work at Stage 4b. Historically, felt confrontation with truth has most reliably happened via trial and trauma — suffering strips defenses and forces the affective intensity belief-revision requires, which is why James 1, Romans 5, and Hebrews 12 tie trials to formation. But if felt confrontation is the actual causal mechanism — not suffering per se — then a practice that can reliably and safely evoke felt confrontation with covenant truth in a coaching container is doing the same work trials do, without waiting for one to happen. That's a real, non-trivial synthesis. It's also not fully what you wrote.
 
 If Coaching as a proactive mechanism to bring the word to the implicit to align the programs of thinking and the beliefs with what is true of Christ as a replacement to trials and trauma then what else is also true?  Are trials/trauma then by and large avoidable? Why?  Could it be that any misalignment gives the demonic license to destroy, possibly God reason to choose as a necessary and second choice for sanctification? Does scripture tell us there is an alternative to trials? (One thing that comes to mind is working out your salvation with fear and trembling for the reason of avoiding , avoidable trials.)
@@ -58,7 +120,7 @@ Solid: Gendlin's claim that felt shift (not cognitive recognition) is what const
 Unexamined: the claim assumes a safe, voluntary, coach-elicited felt encounter is formatively equivalent to an unchosen, high-stakes, real trial. That equivalence is asserted, not established. Trials work partly because they're involuntary and costly — the stakes are real. Whether a safe container can generate comparable formative intensity without real stakes is the actual empirical bet CIC is making, and it should be named as a bet (a design judgment, per your own evidence-tagging standard) rather than treated as settled.
 
 ---
- **Reoccurring Core Four Mechanism for Transformation**
+## Reoccurring Core Four Mechanism for Transformation
  Across neuroscience, attachment/somatic research, habit science, and Christian formation theology, the mechanisms that actually change implicit (automatic, non-verbal, procedural) patterns converge on something much smaller than CIC's five-layer, diagnostically-precise architecture. The recurring core, as minimum psychological conditions, named differently in each field, is:
 
   1. Bring the implicit pattern into felt awareness — not analyzed, just noticed and named
@@ -77,11 +139,11 @@ This simplified version of the core mechanism, stripped of diagnostic taxonomy, 
 
 Unusually complete theoretical architecture — ten contributor layers, diagnostic transition logic, crisis protocols, a six-level simulated practice system
 
-**Belief Statement**
+## Belief Statement
 The Belief Statement (the thing a cause brand states flatly, like Patagonia's "in business to save our home planet") Something close to: "Transformation happens when truth is spoken into the specific place still ruled by a lie — not  when more truth is added to what a person already knows." That's a compressed, public-facing version of your actual Theory of Change. It's not marketing copy invented for the brand — it's your mechanism, stated as a conviction.
 
 
-**CIC Core Coaching Translation**
+## CIC Core Coaching Translation
 
   This gives CIC a cleaner three-layer architecture than a flat "identity → obedience" model:
 
@@ -91,7 +153,7 @@ The Belief Statement (the thing a cause brand states flatly, like Patagonia's "i
 
   What a client would need to understand and feel, not just know: that their new identity isn't something they're building or earning through the coaching process — it's something that's already objectively true of them the moment they trust Christ, and the work is closer to remembering/realizing than constructing. This distinction matters emotionally: "I'm becoming someone new" (effort-based, can produce performance anxiety) lands very differently than "I already am someone new and I'm learning to live like it" (grace-based, reduces performance pressure). The second is the theologically accurate frame.
 
-Session Application
+### Session Application
 
   - Framework anchor: This gives you a precise answer if a client or reviewer asks "does CIC think coaching creates the new identity?" — no; it names/aligns/actualizes an identity the Spirit already conferred. Worth stating explicitly in the Model Foundation doc if it isn't already, since it protects against a subtle works-righteousness drift in how the model could be perceived.
   - Diagnostic use: When a client's stuck point is disbelief in their new identity ("I know I'm supposed to be new but I don't feel it"), the diagnostic move is not "let's build your identity" but "let's examine what's obscuring your awareness of what's already true" — closer to unveiling than constructing. This affects the tone of intervention.
@@ -99,7 +161,7 @@ Session Application
 
 ---
 
-**What This Practice Is**
+## What This Practice Is
 
   A structured, Spirit-cooperating practice that uses the diagnostic precision of biblical counseling, the relational methodology of coaching, and the posture of spiritual formation to help followers of Jesus identify and displace false identity, receive their covenant identity in Christ,
   and be formed by the Spirit toward faithful image-bearing. Three disciplines, unified. None sufficient alone. Each contributing what the others cannot:
@@ -113,7 +175,7 @@ Session Application
 
 *(implicit/explicit diagnostic sequencing, reconsolidation-based Covenant Truth work.)*
 
-**Model**
+## Model
 Educate & Train the Client on: 
 1. parts work- so they know the human design of the mind in two systems and to listen to the one system and how to recognize, engage and train the implicit system
 2. this becomes a type of co-therapy - self directed with the Holy Spirit and a trusted person. (as far as one can do). Jesus once told me, "I want to be your therapist."  
@@ -127,8 +189,7 @@ Define "false identity." How is it different from a behavior pattern?
 self-derived, misaligned identity, and "deeper than behavior" — but the definition's load-bearing element is missing: false identity is specifically the organizing narrative built around a false covenant object (what the client trusts for security, significance, or identity instead of God), not just any misaligned self-definition. Behavior-patterns description ("ways of thinking embedded in implicit systems that govern behavior") — false identity is deeper than behavioral description, full stop, not a claim about where behavior patterns live.
 
 
-**This is the LINCHPIN!**  
-  The Neuroscience Foundation
+## This is the LINCHPIN! — The Neuroscience Foundation
 
   Standard learning theory produces extinction — a new association suppresses the old one, but the original encoding remains latent. It can be reinstated by stress, context shift, or time. This is why CBT gains erode.
 
@@ -136,31 +197,32 @@ self-derived, misaligned identity, and "deeper than behavior" — but the defini
 
   The window is approximately 5 hours post-reactivation. Within that window, introducing a disconfirming experience can update the encoding itself.
 
-**The Sequence (Coherence Therapy)**
+## The Sequence (Coherence Therapy)
 
   1. Discovery — uncover the emotional truth beneath the symptom. Not "why is this wrong?" but "what does this protect or mean? What would happen if it weren't true?"
   2. Consolidation — help the client fully inhabit the emotional truth so it is clearly felt (not just named)
   3. Juxtaposition — hold both the implicit belief and the disconfirming experience in working memory simultaneously
   4. Verification — check whether the old emotional response still fires. If not, reconsolidation occurred.
 
-This is in contrast to Insight-Based Approaches
+### This is in contrast to Insight-Based Approaches
 Insight operates at the explicit level. The implicit belief is not accessible to propositional logic — it was formed pre-verbally, somatically, relationally. Telling the belief it is wrong does not reach the encoding. The belief continues to organize experience because its emotional logic remains untouched.
 
   This is Ecker's "pro-symptom position" — the implicit belief is not irrational. It is coherent given the original learning context. It only looks
   like a problem from outside. Until its internal logic is surfaced and felt, it cannot be disconfirmed.
 
- **Model Fit: BELONGS — Mechanism Theory Layer**
+## Model Fit: BELONGS — Mechanism Theory Layer
 
   This is the strongest addition to the model not yet present. It provides the theoretical mechanism for why the existing tools (Lie Eliminator,
   Declaration, Covenant Truth installation, Stage 4b relational work) work when they work. It does not require a new protocol — it reframes the existing protocol with precision. It also explains the failure mode: most "declaration" and "reframing" attempts operate at the explicit level and produce extinction at best, not reconsolidation. Add to Integration Rationale and/or as a standalone practitioner theory document. Does not require clinical training to understand and apply.
 
-  **What This Explains in Andrew's Model**
+### What This Explains in Andrew's Model
 
   This is the mechanism by which Declaration, Lie Eliminator, and Covenant Truth installation actually work on implicit beliefs — when they work. The juxtaposition is Scripture-as-living-truth meeting the activated lie, not Scripture as propositional correction. When they fail, it is almost always because the implicit belief was never activated (cognitive substitution, not reconsolidation) or the juxtaposition was not emotionally live.
 
   The "moment of meeting" (BCPSG / Fosha) is also a reconsolidation event — the relational disconfirmation ("I am not alone / I am not too much") meets the activated implicit belief in a live felt experience.
 
 ---
+## CIC Formation Authors
 **CIC Formation Authors:** You have an expertise that can answer, What experts, authors, theologians would you call 'formative?'  Provide an answer to this question
 
 ● I'll pull the relevant memory files on formative contributors before answering, since this spans both the CIC theological stack and the RPA evidence base.
@@ -192,21 +254,22 @@ Covenant Identity Coaching — Theological/Formation Stack
 
 
 ---
+## Within the non-clinical population I'm scoped to serve...
 **within the non-clinical population I'm scoped to serve, a skilled practitioner with a well-designed relational container may produce comparable benefit to what a psychologist would produce with the same population — that's testable and plausible.**
   
 ---
 
-How Focusing Differs from Mindfulness
+## How Focusing Differs from Mindfulness
 
   Mindfulness observes experience without judgment. Focusing attends to experience with the intent of listening — the felt sense is invited to speak, not merely observed. Focusing assumes the organism holds wisdom that can be accessed through careful, patient attention. It is dialogical, not purely witnessing.
 
-  Focusing in Spiritual Direction and Formation
+### Focusing in Spiritual Direction and Formation
 
   **Gendlin's framework has been significantly developed within Christian spiritual direction (notably by Edwin McMahon and Peter Campbell — Bio-Spiritual Focusing). The felt sense becomes a listening posture toward what the Spirit is doing in the pre-verbal interior. This maps onto formation language like "discernment," "consolation/desolation," and "attending to what is stirring."**
 
 ---
 
-Covenant Identity Cognitive-Behavioral Discipleship Life Coaching & Training 
+## Covenant Identity Cognitive-Behavioral Discipleship Life Coaching & Training 
 
 The covenant identity declarations in Section V are structurally opposed to each schema. This is not *proof-texting* (using Bible verses in isolation to score points) — it is theological schema replacement: displacing the operational belief with the covenant reality, practiced through repetition and embodiment until it becomes the new default.
 
@@ -222,31 +285,31 @@ Affections as the mechanism — Clearing the inner man so the affections can be 
 
 Co-Active 3 levels of listening becomes 4 levels with biblical anthropology. The fourth is the Holy Spirit.  Shift in Covenant Identity includes the Work of the Holy Spirit. 
 
- Daily picture of the ideal candidate, who exists and desires to hire a coach who can help them. I am that ideal coach. God makes the connection. I see myself loving effectively, connecting emotionally, asking powerful questions. I see speaking to small groups, giving sermons, leading small groups of leaders to make adjustments in their approach to spiritual transformation.
+ Daily picture of the ideal candidate, who exists and desires to hire a coach who can help them. I am that ideal coach. God makes the connection. I see myself loving effectively, connecting emotionally, asking powerful questions. I see speaking to small groups, giving sermons, leading small groups of leaders to make adjustments in their approach to spiritual transformation.
 
 "helping a client distinguish between legitimate, faithful provision-making and anxious self-securing dressed up as responsibility. The body usually knows the difference even when the mind doesn't."
 
 Spiritual transformation of the whole person is a core objective
 
-**The identity installation frame:**
+### The identity installation frame
 Symmorphos is the ultimate identity installation. The believer is being remade at the level of morphē — essential character, not behavioral performance. This matters diagnostically: most clients are trying to act differently before they are being differently. CBT identifies this as the core problem — downstream behaviors emerge from upstream schemas and identity structures. The gospel invades at the level of the schema.
 
-**The beholding practice as session tool:**
+### The beholding practice as session tool
 Guided attention to specific aspects of Christ's character — not just as aspiration but as identity origin point — is *underused in coaching*. The question isn't "How can I be more patient?" but "What would it look like to behold Christ's patience long enough for it to begin forming in me?"
 In part I am essentially building:
 
-**A Schema (Pattern)-First, Metacognitively-Guided, Spiritually Formative Coaching, Behaviorally informed Learning Model**
+### A Schema (Pattern)-First, Metacognitively-Guided, Spiritually Formative Coaching, Behaviorally informed Learning Model
 
-Whole-Person Learning — The Pedagogy Here Is More Radical Than You May Have Framed It
+#### Whole-Person Learning — The Pedagogy Here Is More Radical Than You May Have Framed It
 
 Covenant Identity Coaching works at the training level.   
-**What CBC Does Differently**
+### What CBC Does Differently
 The CBT piece is the bridge between declared and felt identity. It surfaces the cognitive distortions that are blocking integration — the automatic interpretations that prove to the person that their theological identity isn't real for them specifically. Dallas Willard made this distinction sharply: trying vs. training. Trying uses willpower to force behavior. Training restructures the interior life so right action becomes natural. Your CBC model is essentially a training system that operates at the cognitive-emotional layer — where most Christian formation tools never reach.
 
-**Diagnostic Implication for Your Sessions**
+### Diagnostic Implication for Your Sessions
 When a client presents as stuck, the first question isn't "why aren't you acting?" It's: what is the gap between what you declare and what you actually feel to be true about yourself? That gap is your coaching target. Identity coaching without CBT skips to action before the soil is ready. CBT without identity coaching fixes the cognition but leaves the client with no theological anchor to replace it with. Your CBC integration is the thing that closes the loop — and it's why the demand you're building toward is latent: most people can't name what's missing, but they know the current options aren't working.
 
-*This is a NEXT LEVEL Capturing Your Thoughts*
+### This is a NEXT LEVEL Capturing Your Thoughts
 
 Jack Mezirow's Transformative Learning Theory is the most relevant adult education framework. Mezirow argues that adult learning worth the name is frame of reference transformation, not content accumulation. Transformation requires:
   - A disorienting dilemma (an experience that doesn't fit the existing frame)
@@ -254,19 +317,19 @@ Jack Mezirow's Transformative Learning Theory is the most relevant adult educati
   - Rational discourse with others who are also examining their frames
   - Action that enacts the new perspective
 
-Whole-Person Discipleship Development
+### Whole-Person Discipleship Development
 
 This maps onto what you're calling "resolving distortions gradually and deeply." Mezirow would say gradual exposure without disorienting dilemmas and critical reflection produces informational learning — additive, surface — not transformational learning.
 
 James K.A. Smith (Desiring the Kingdom, 2009) presses harder: humans are primarily desiring, embodied, habitual creatures — not primarily rational processors of propositions. Formation happens through liturgy, practice, and repetition that shape loves, not primarily through correct information. You can restructure a schema cognitively and still have deeply ingrained embodied habits pulling in the opposite direction. This is a significant gap in most theological education — and possibly in your framing as well.
 
-**The Integration Principle**
+### The Integration Principle
 
   None of these tools transform. They create access — to what is below explicit cognition, to what the false self has defended against, to what the Spirit is already pressing on. The coach's role is not to deploy them as transformation mechanisms but to use them to lower the barriers to where the Spirit is working.
 
   The most practically useful of these for your framework, in my assessment: Immunity to Change (fills a structural gap in explaining why insight fails), ACT defusion (complements Lie Eliminator work), and basic somatic awareness (supports Thompson's relational attunement layer). These three add formation-layer precision without clinical risk.
 
-**The psychographic of the Christian learner**
+### The psychographic of the Christian learner
 These clients have vocabulary without framework — they can produce a definition of sanctification because they've heard it repeated, but they cannot organize the biblical picture: who does what, in what order, by what mechanism, and why.
 
 The pieces exist in their minds as disconnected facts, not as an integrated account. That's not a knowledge deficit in the traditional sense — it's a coherence deficit produced by decades of fragmented, fill-in-the-blank teaching that handed them answers without the connective tissue.
@@ -283,10 +346,11 @@ The pieces exist in their minds as disconnected facts, not as an integrated acco
   The "fragmented education" dynamic is itself a diagnostic tool for the Teacher's Manual. When a client says "I know what sanctification is," the coach's instinct should be to follow up: "Walk me through how you understand it to work — who does what?" The gap between their definition and their ability to organize the picture tells the coach exactly where the Client Study needs to
   do its work. I'll build that into the Coach Diagnostic.
 
+### Practitioner Theory becomes a collection of tools...
 **Practitioner Theory becomes a collection of tools that a client can work with the HS independently and/or with the Coach to create a welcomed preparation for the HS to do the work.**
 
 
-**What Western Christianity Actually Misses** 
+### What Western Christianity Actually Misses
 
   This is where the pastoral case gets its spine. The catastrophic weakness, precisely named:
 
@@ -298,12 +362,12 @@ The pieces exist in their minds as disconnected facts, not as an integrated acco
 
   Strong inference — Opinion/estimate: The net result is a massive population of people who have significant biblical knowledge, hold orthodox beliefs, and show minimal transformation. This is Willard's "great omission" (discipleship has been replaced by evangelism and attendance) stated in formation-science terms. That's the pastoral case.
 
-**Rise Self Awareness for the Transformation that Allows Access to the Fullness of God**
+### Rise Self Awareness for the Transformation that Allows Access to the Fullness of God
 You will never rise above your level of self awareness. The things we deny about ourselves are the very things that deny us from the fullness of God *(others)*. Dr Rob Reimer, Soul Care page 14
 
 
 
-Coaching Tools for Community Equipping [SESSION-TOOL]
+## Coaching Tools for Community Equipping [SESSION-TOOL]
 
   The coaching task is not finding community for the client — it is equipping them to identify, evaluate, and engage community. Key tools:
 
@@ -332,29 +396,21 @@ Strong inference: The honest claim is: Regeneration creates the capacity for tra
 
 Strong inference: The honest claim is: Human participation in Regeneration creates the capacity for Transformation; the tools and practices are means through which the Spirit works that transformation; the trajectory is genuine reorganization; the rate and degree depend on engagement and the nature of the wound. That's defensible. "Born-again believers fully recover" as a general claim is not.
 
-
-
-
-
-
-
-
-
-
+## Children must never work for our love
  Children must never work for our love. They must rest in it. All growth must emanate from a place of rest. Physical growth emanates from a place of rest. Psychological growth emanates from a place of rest. We now know that our work as humans is the work of closeness, contact and attachment. That is our work.  And so the default settings is to make relationships work, to try to hold on to Mommy and Daddy, to try to preserve the connection. For that to be released, for a child to be released, to move on to become their own person. Somebody has to take responsibility. Children must never work for our love. They must rest in it. But unless the relationship is there, they cannot rest in it. We have gone to a practice of parenting and teaching that makes them work for the contact and closeness. That puts them in charge of the relationship. "I can't be your friend if you are going to be like that, off to your room." I withdrawal the invitation to exist in my presence, until you come into line, and we make them work at keeping us close.  We might get more compliance. But we get a deeply restless child and we're giving rise to a whole generation who are restless to the core. They do not rest. As parents our yearning should be, to give them rest. Because when we can give them rest, when they can rest from working at keeping us close, when we take that alpha position and we say, I am the one who is going to make sure that nothing can separate you from my love, you can rest in it. When we do this, when we don't withdrawal our affection or our invitation to exist in our presence. When they are at rest, their developmental destiny will unfold. Their growth will become spontaneous and automatic. I always know when I see a child who is truly growing up, becoming mature, adaptive, emergent, and integrative. I know that somewhere in their life someone is attached to deeply and vulnerably, has been able to give them rest, has been able to provide them what they need. Rest is absolutely essential. *Dr. Gordon Neufeld, Neufeld Institute.*  
  
  
  
- **Core Competency:** 
+## Core Competency
  It also maps to attachment theory's secure base: the client who has internalized God as hesed — reliably, responsively, covenantally faithful— has the psychological secure base that produces exploration, resilience, and risk-taking. The client stuck in anxious or avoidant patterns may intellectually affirm covenantal truth while functionally operating from an insecure working model. The coaching work is closing that gap.
 
-**The Power of Life Change with God**
+## The Power of Life Change with God
 1. You, the Holy Spirit Coach, and me as your Life Coach work to remove the gremelins that block intimacy with God.
 2. Connecting to the Covenantal love of God as your Covenantal Identity
 3. Adopting the Covenantal Promises of God
 
 
-**What Must Be True for This to Land with a Client**
+## What Must Be True for This to Land with a Client
 
   The client needs to understand:
   1. What a covenant is (not a contract, not a feeling — a sworn, unconditional bond)
@@ -369,7 +425,7 @@ Strong inference: The honest claim is: Human participation in Regeneration creat
   - Dignity (royally granted identity, not earned rank)
   - Purpose (covenant calling is not optional)
 
-**THE NATURE OF COVENANT**
+## THE NATURE OF COVENANT
 Random thoughts on this:  An Eternal Unconditional Covenant is the evidence of the nature of the one cutting the covenant as the unconditional eternal lover.  Alternately a conditional lover has a nature that if it chooses can make a conditional covenant, never an unconditional. We can know God's type of love simply by the type of covenant that is made. It comes from His nature.
 
 Society is incapable of unconditionally committing to one another in love despite status or maturity. 
@@ -378,10 +434,10 @@ God loves with a covenant. No conditions need to be met from the receiving party
 
 
 
-**Why**?
+## Why?
 What you know and believe about God is the most important thing about you. Johnathan Edwards
 
-Warfare, Declaration & Action
+## Warfare, Declaration & Action
 *The Kingdom of Heaven suffers violence and the violent take it by force.* Matthew 11:12
 This is a battleground. I fight in the Spirit through prayer, fasting and declaration. I fight also in the natural through consistency, discipline and strategy. 
 
@@ -397,21 +453,21 @@ Build to transform the next generation. Study your lane, build skills, building 
 
 Remember the Lord your God. He gives power for wealth when you are rooted in Him. He will show me how to move, open doors no one can shut, download strategies no schools can teach, start flowing instead of forcing, stop striving and move in grace, stop doubting and start exploring. Stay committed, stay present, stay close to the Holy Spirit who is the source of all things and all things yet to come. Because your wealth is in your walk. 
 
-**Business Structure**
+## Business Structure
 Overall Verdict: You have enough credible, empirical scaffolding to build a rigorous CBC decision framework. The risk isn't lack of sources — it's conflating them without **resolving their genuine tensions,** or **importing their secular assumptions without explicit theological adaptation.** *Fix those two things and the foundation is defensible.* Do this for all of the Modalities and for all secular views.  I added the bold to /scrutinize 
 
 
-**The Goal is to Achieve Expertise**
+## The Goal is to Achieve Expertise
 I am a Holy Spirit Ambassador, a master-level coaching trainer with deep expertise in ICF-standard coaching methodology, GROW model, Motivational Interviewing, Appreciative Inquiry, and Solution-Focused approaches. I train in biblical imperative faith-based training (specifically CBT + Coaching + Biblical framework).
 
 A comprehensive framework is too complex to hold in working memory in a live session without a staged learning progression. A coach using this fully is simultaneously tracking: client content and affect, own internal response, what's notably absent, somatic diagnostic indicators (breath holds, jaw tension, eye movement), window of tolerance, presenting vs. structural soil across four dimensions, entry point selection, the behavior → belief → wound → agreement chain, secondary gain, spiritual warfare markers, somatic anchoring, and Movement 4 prep. Experienced therapists take years to hold multiple channels simultaneously. Trying to deploy all of this at once produces a stilted, over-monitored session — and the client will feel it. The framework doesn't have a staged learning track. 
 The fix: Build an explicit Stage 1-4 adoption sequence. Stage 1: master soil diagnostic and four-movement structure only. Stage 2: add secondary gain protocol. Stage 3: add somatic tracking. Stage 4: add Spirit tracking as developed skill. The framework exists —the on-ramp to it doesn't.
   
 
-**Clients**
+## Clients
 The readiness test: The best clients can say something like: "I know what's true. I don't understand why I can't live it." That sentence is the entry door to everything you've built.
 
-**Gap**
+## Gap
 Get good at coaching
 Get good at counseling
 Have the knowledge of cognitive behavior
@@ -420,9 +476,9 @@ Know your craft
 Who can I speak to to enter into this field?
 
 
-**PRODUCTS**
+## PRODUCTS
 
-**Training**
+### Training
 Imperative "First Things" video library training   Run the "*right*" race "*the right way*" to win. This is the way! 
 - *Soils* Training for **Freeing** the inner man for light running, intimacy with God and others
 	- *Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and the sin which so easily entangles, and let us run with endurance the race that is set before us.* Heb 12:1
@@ -438,17 +494,18 @@ Imperative "First Things" video library training   Run the "*right*" race "*the 
 - This could have a communication shell that is inspiring, simple, powerful, 
 
 
+## Naturally speaking, in or earlier years we are adding on...
 Naturally speaking, in or earlier years we are adding on, in our later years we are wiping off the inner man in greater proportion.
 
 Spiritually speaking in our earlier walk we are wiping off so in our later years we can add on. Death precedes resurrection. Christoformity is shaped like the cross before it is shaped like the resurrection. Phil 3:10, the suffering pathway
 
 
 
-Scripture - Holy Spirit
+## Scripture - Holy Spirit
 Speak these 4 verses over what needs healed, redeemed followed by declaration.
 1. 1 Peter 2:24 - _He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed._ Say to the 'thing' by His stripes you are healed.
 2. Romans 8:11 - *If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.*  Holy Spirit you quicken and you make alive the 'thing.'
-3. Matthew 8:17 - *This was to fulfill what was spoken by the prophet Isaiah: “He took our illnesses and bore our diseases.* Therefore, devil we are not taking this 'thing' no more because it was on the cross.
+3. Matthew 8:17 - *This was to fulfill what was spoken by the prophet Isaiah: "He took our illnesses and bore our diseases.* Therefore, devil we are not taking this 'thing' no more because it was on the cross.
 4. Ps 138:8 *The LORD will fulfill his purpose for me; your steadfast love, O LORD, endures forever. Do not forsake the work of your hands.* Lord you will perfect the 'thing' in 'this' way in the name of Jesus.
 
 
@@ -456,9 +513,12 @@ When a demonic spirit has been cast out, Mental, physical, spiritual. Speak heal
 
 ---
 
+## Real titrated trauma work depends on a practitioner's real-time capacity...
 Real titrated trauma work depends on a practitioner's real-time capacity to track window-of-tolerance and pull back the moment someone destabilizes, plus a closure protocol so nobody leaves the room more open than they can hold
 
 ---
+
+## From the Character Wound Diagnostic Tool's attachment mapping
 From the Character Wound Diagnostic Tool's attachment mapping:
 
   - Warrior ↔ dismissing-avoidant (self-reliance, emotional deactivation, minimizing need)
