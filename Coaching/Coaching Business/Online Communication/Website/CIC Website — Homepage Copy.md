@@ -1,6 +1,6 @@
 ---
 created: 2026-09-12
-basis: "[[Branding & Core Competency]] (Wilderness Christian — Homepage Copy doorway design, 2026-09-09, updated 2026-09-10) — page structure and doors; [[Client Problem & Cost Language]] — felt-cost problems #2, #3, #4, #6, #7, #10 and their Common Experiences; [[My Story.md]] — institutional-wounds compressed working draft (2026-09-11); [[Wilderness Christian]] — segment profile and Deployment guidance"
+basis: "[[Branding & Core Competency]] (Wilderness Christian — Homepage Copy doorway design, 2026-09-09, updated 2026-09-10) — page structure and doors; [[Client Problem & Cost Language]] — felt-cost problems #2, #3, #4, #6, #7, #10 and their Common Experiences; [[My Story.md]] — institutional-wounds compressed working draft (2026-09-11); [[Wilderness Christian]] — segment profile and Deployment guidance. Updated 2026-09-12: synced against the live Carrd build done the same day — replaced the single 'Book a Discovery Call' button with the two-step Tally/Calendly CTA (per [[Covenant Identity Coaching — Quick Launch Plan]]'s Phase 0 Calendly free-tier workaround), and updated 'The Institutional Wound' section's status to reflect Andrew's completed 2026-09-11 rewrite, now pending legal review rather than an open rewrite question."
 tags:
   - marketing
   - cic-website
@@ -73,7 +73,7 @@ tags:
 ### THE INSTITUTIONAL WOUND
 **Stage:** 3→4 (integrated story; root begins to surface)
 
-**⚠ NOT CLEARED FOR PUBLIC USE.** This section carries Claude's flagged concerns from 2026-09-11 (defamation/identifiability risk, conflict with the Marketing Charter's "no institutional critique" guardrail, audience-fit risk with a theologically literate/skeptical readership) and Andrew's own open question about whether to prayerfully rewrite the fuller story first. Do not publish this section without resolving those first. See `My Story.md` for the full first-draft version and the reasoning behind this compression.
+**Updated 2026-09-12: rewrite complete, pending legal review — still not cleared for live publish.** Andrew wrote the version below on 2026-09-11 and has submitted it for legal review; this supersedes the earlier "open question about whether to prayerfully rewrite" status. The concerns Claude flagged on 2026-09-11 (defamation/identifiability risk — four churches/leaders described by pattern, not name, but potentially identifiable; conflict with the Marketing Charter's "no institutional critique" guardrail; audience-fit risk with a theologically literate/skeptical readership) are exactly why it's routed through legal rather than treated as fully cleared. Build/preview with this content, but do not publish the live site with this section until legal confirms it's clear. See `My Story.md` for the full first-draft version and the reasoning behind this compression.
 
 > Who gets themselves kicked out of church — and more than one, at that?
 >
@@ -125,9 +125,14 @@ tags:
 ### START WITH A CONVERSATION
 **Stage:** 5 (Willing / the ask)
 
-> If one or more of those doors sounded like your life, the next step isn't a program — it's a conversation. A discovery call is exactly that: we talk through what you're actually carrying, and whether this is the right fit. No pressure, no pitch.
+**Updated 2026-09-12:** replaced the single CTA button below with a sequenced two-step CTA, built this way because Calendly's free tier doesn't support Workflows (automated post-booking emails), so Tier 1 Pre-Discovery delivery can't be automated through Calendly at zero cost. See [[Covenant Identity Coaching — Quick Launch Plan]]'s Phase 0 table for the full Calendly cost/workaround decision.
 
-**[ Book a Discovery Call ]**
+> If one or more of those doors sounded like your life, the next step isn't a program — it's a conversation. A discovery call is exactly that: we talk through what you're actually carrying, and whether this is the right fit. No pressure, no pitch.
+>
+> Please complete the short questionnaire below first — it helps me prepare for our conversation.
+
+**[ Button 1: Step 1 — Complete the Questionnaire ]** → Tally Tier 1 form URL
+**[ Button 2: Step 2 — Book Your Call ]** → Calendly booking URL
 
 ---
 
