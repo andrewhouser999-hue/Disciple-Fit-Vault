@@ -106,6 +106,28 @@ I believe my suffering was necessary in certain regards, and unnecessary in othe
 
 **Open, unresolved:** whether to prayerfully rewrite this story before any public use — Andrew is not yet sure.
 
+---
+
+## 2026-09-11 — Institutional Wounds, Compressed Working Draft
+
+*Built from the "Institutional Wounds, First Draft" above, for the CIC website's Stage 3→4 "root revealed" section (Wilderness Christian segment). Compressed to ~300 words (in range with the marriage story used in [[The Mind You've Never Renewed]]), with the assault detail, the "some are now dead" claim, and the demonic/tentacle imagery removed — flagged by Claude as carrying legal exposure and audience-fit risk with a theologically literate, skeptical readership. The closing paragraph went through two rounds of correction from Andrew (2026-09-11): the first version ("I stopped needing an institution's approval to know I belonged to Him") was rejected as both inaccurate and AI-sounding; the corrected version below uses Andrew's own stated fact almost verbatim.*
+
+**Still not cleared for public use** — the legal and guardrail questions Claude raised on the first draft (Marketing Charter's "no institutional critique" rule; defamation/identifiability risk; audience-fit) apply to this compressed version too. This is a working draft to react to, not a publish-ready one.
+
+> Who gets themselves kicked out of church — and more than one, at that?
+>
+> My life changed in minutes. Jesus met me, and I surrendered everything — friends, old places, an old way of living — to follow Him. My faith was alive in a way I'd never known. Six months in, someone told me that now that I was a Christian, I should probably go to church. That sounded right, so I went.
+>
+> It didn't take long before something I couldn't quite name started happening. The same loyalty to Jesus that had changed my life kept running into friction with how the institution wanted to run. Small things at first — a role I was asked to perform in a way that went against my conscience. Then bigger ones: leadership that didn't want to be questioned, even respectfully, even in writing, even when I was the one who'd been asked to lead.
+>
+> I was marginalized. Then asked to leave. Then it happened again at the next church, and the one after that — four different congregations, four different versions of the same pattern: genuine service, a conscience issue, and then the door.
+>
+> By the third or fourth time, I stopped being surprised and started being something worse — quietly convinced the problem must be me.
+>
+> Then something shifted. I separated to focus on my growth in Christ, so that I could become who I was called to be — and possibly return one day to contribute to a body of believers I may live a formative life alongside.
+>
+> I've carried that for over a decade now. I still believe I need the Body of Christ, and I haven't found my way back yet. What I found instead was a way to actually work through the wound rather than just survive it — which is part of what became Covenant Identity Coaching.
+
 
 
 
