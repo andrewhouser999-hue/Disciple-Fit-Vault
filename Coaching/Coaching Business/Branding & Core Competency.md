@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09; Supporting Line — Identity/Relationship Diagnostic Summary basis: [[Client Problem & Cost Language]] 'What the Full List Reveals' closing synthesis, saved as brand-messaging supporting verbiage at Andrew's request, 2026-09-09"
+basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09; Supporting Line — Identity/Relationship Diagnostic Summary basis: [[Client Problem & Cost Language]] 'What the Full List Reveals' closing synthesis, saved as brand-messaging supporting verbiage at Andrew's request, 2026-09-09. Updated 2026-09-12: the personal-story section's rewrite basis is [[My Story.md]]'s 2026-09-11 'Institutional Wounds, Compressed Working Draft,' per Andrew's direct instruction to include it now, pending legal review — not yet cleared for live publish. Also fixed a stale 'all four problems' reference (leftover from an earlier 4-door draft) to 'all eight' in the 'What Was Actually in the Way' section, to match the current 8-door set."
 tags:
 ---
 
@@ -695,7 +695,7 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 
 **Before publishing:** every doorway line below is Hypothesis-level, per the same evidentiary flag on the Common Experiences they're drawn from — patterned from formation/psychology frameworks, not yet tested against real prospect language. Andrew: cut or reword anything that doesn't match what you've actually heard.
 
-**NEEDS REWRITE — do not publish as-is:** the "I'm Not Asking You to Trust a Stranger With This" section below (2026-09-09 draft) compresses `My Story.md` into public-facing language, and Andrew has flagged it as needing work, not just sign-off — an actual rewrite, not a skim-and-ship item. Get Andrew's read on what specifically isn't landing (tone, level of disclosure, which details, something else) before attempting a new draft.
+**Updated 2026-09-12 — rewrite complete, pending legal review, not yet cleared to publish live:** the section below now uses Andrew's own 2026-09-11 rewrite (`My Story.md`, "Institutional Wounds, Compressed Working Draft"), replacing the 2026-09-09 draft this note originally flagged. That draft's own header still carries real, unresolved concerns — Marketing Charter's no-institutional-critique rule, defamation/identifiability risk (four churches/leaders described by pattern, not name, but potentially identifiable), and audience-fit with a theologically literate, skeptical readership — which is why Andrew is routing it through legal review before publish, not treating it as fully cleared. Build/preview with this content, but do not actually publish the live Carrd site with this section until Andrew confirms legal has cleared it.
 
 ---
 
@@ -755,20 +755,28 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 ---
 
 ### I'M NOT ASKING YOU TO TRUST A STRANGER WITH THIS
-**Stage:** 3→4 (integrated story; root begins to surface) — *NEEDS REWRITE, flagged by Andrew 2026-09-09 — do not publish, see note above*
+**Stage:** 3→4 (integrated story; root begins to surface) — *Rewritten by Andrew 2026-09-11, pending legal review — see note above; not yet cleared for live publish*
 
-> For most of my life, I built my worth the only way I knew how — by working harder than everyone around me, hoping it would finally be enough. It never quite was. I served faithfully in church after church, and more than once, I was the one asked to leave. I told myself the problem was the fit, or the timing. After enough repetitions, I stopped believing that story.
+> Who gets themselves kicked out of church — and more than one, at that?
 >
-> The last time it happened, I didn't just grieve it. I sat with it — really sat with it, before God, without rushing to explain it away — and in that moment, I felt Him closer than I had in years. That's when I stopped trying to fix my life by trying harder, and started asking what was actually running underneath it.
+> My life changed in minutes. Jesus met me, and I surrendered everything — friends, old places, an old way of living — to follow Him. My faith was alive in a way I'd never known. Six months in, someone told me that now that I was a Christian, I should probably go to church. That sounded right, so I went.
 >
-> What I found wasn't a new technique. It was a gap between what I genuinely believed about God and what actually governed how I showed up — in my marriage, my work, my sense of whether I was worth knowing. Closing that gap is what built the process I now use with clients. I'm not describing a theory. I'm describing the thing that changed how I actually live.
+> It didn't take long before something I couldn't quite name started happening. The same loyalty to Jesus that had changed my life kept running into friction with how the institution wanted to run. Small things at first — a role I was asked to perform in a way that went against my conscience. Then bigger ones: leadership that didn't want to be questioned, even respectfully, even in writing, even when I was the one who'd been asked to lead.
+>
+> I was marginalized. Then asked to leave. Then it happened again at the next church, and the one after that — four different congregations, four different versions of the same pattern: genuine service, a conscience issue, and then the door.
+>
+> By the third or fourth time, I stopped being surprised and started being something worse — quietly convinced the problem must be me.
+>
+> Then something shifted. I separated to focus on my growth in Christ, so that I could become who I was called to be — and possibly return one day to contribute to a body of believers I may live a formative life alongside.
+>
+> I've carried that for over a decade now. I still believe I need the Body of Christ, and I haven't found my way back yet. What I found instead was a way to actually work through the wound rather than just survive it — which is part of what became Covenant Identity Coaching.
 
 ---
 
 ### WHAT WAS ACTUALLY IN THE WAY
 **Stage:** 4 (Root Revealed)
 
-> Here's the pattern underneath all four problems above: your identity — who you actually believe you are, at the level that runs your reactions — got shaped by something other than what God says about you. Maybe it was a community that let you down. Maybe it was years of proving your worth through performance. Maybe both. Either way, the truth you know intellectually and the identity that's actually running your life haven't been the same thing for a long time.
+> Here's the pattern underneath all eight problems above: your identity — who you actually believe you are, at the level that runs your reactions — got shaped by something other than what God says about you. Maybe it was a community that let you down. Maybe it was years of proving your worth through performance. Maybe both. Either way, the truth you know intellectually and the identity that's actually running your life haven't been the same thing for a long time.
 >
 > That's not a discipline gap. It's an identity gap. And it's the thing Covenant Identity Coaching is built to close — not by teaching you more truth, but by finding exactly where the old story is still operating, and working there directly.
 
