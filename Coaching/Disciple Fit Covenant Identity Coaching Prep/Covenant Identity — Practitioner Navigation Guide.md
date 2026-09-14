@@ -308,6 +308,7 @@ Reach for:
 | What does the full diagnostic sequence look like end to end? | [[Covenant Identity — Diagnostic Lens Transition Logic]] |
 | What are the six competency domains and where am I developing? | [[Covenant Identity — Practitioner Competency Framework]] |
 | What presence-level and relational skills distinguish exceptional practice? | [[Exceptional Coaching Practice — What Is Missed, Meaningful & Important]] |
+| What specific phrases build trust and connection in a session? | [[Covenant Identity — Connection & Trust-Building Language Reference]] |
 | Where do all in-session and between-session tools live in one inventory? | [[Covenant Identity — Tool Library]] |
 | What is the full practitioner reference cluster and how does it connect? | [[Covenant Identity — Practitioner Reference Index]] |
 | What is the implicit/explicit distinction across the whole diagnostic sequence, before I get into Transition Logic specifics? | [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] |

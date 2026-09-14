@@ -321,6 +321,9 @@ Practitioner reference grounding the client's cooperative formation posture in J
 **✅ Exceptional Coaching Practice — What Is Missed, Meaningful & Important.md**
 28-section comprehensive reference on what makes coaching exceptional. Covers: quality of presence, silence, body tracking, naming what isn't said, calibrated challenge, not solving, resistance, metaphor, pacing, reframing, managing the coaching relationship, faith-specific dimensions, and the expanded question library. The practitioner's formation document.
 
+**✅ Covenant Identity — Connection & Trust-Building Language Reference.md**
+Phrase-level companion to the document above: sixteen categories of trust-building/connection language (reflective listening, affect labeling, validating without agreeing, open curiosity, normalizing, permission-seeking, immediacy, acknowledgment, presence-signaling, repair, earned self-disclosure, somatic language, bid-turning, continuity, faith-specific language, plus a closing use-selection summary), each with the psychological mechanism, example phrases, and a caution for common misuse. Built 2026-09-14.
+
 **✅ Covenant Identity — Crisis & Referral Protocol.md**
 9-section safety and liability reference. Covers: scope of practice definition; non-crisis referral triggers (clinical presentations, scope creep signals, faith-specific situations); crisis categories with C-SSRS severity triage table (suicidal ideation, self-harm, acute trauma response, abuse disclosure, psychotic presentation); 8-step in-session crisis protocol (scannable under pressure); referral conversation scripts with common faith-based resistance responses; concurrent coaching and therapy guidance; documentation requirements; post-crisis coach care; and a pre-engagement preparation checklist including QPR training requirement.
 

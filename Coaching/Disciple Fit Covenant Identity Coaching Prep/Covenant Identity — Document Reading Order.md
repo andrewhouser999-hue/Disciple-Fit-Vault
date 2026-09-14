@@ -100,6 +100,7 @@ Open with the biblical research document — it establishes the exegetical and t
 50. [[Secured in Father — Practitioner Design Notes]]
 51. [[Daily Abiding — Practitioner Design Notes]] — practitioner reference layer behind *Daily Abiding — A Belovedness Practice* (Coaching Me/Daily/); daily-scale compression of Secured in Father, Psalm 23, John 15, and the suffering references; read immediately after Secured in Father's Design Notes; marked pilot/untested as of 2026-09-04
 52. [[Exceptional Coaching Practice — What Is Missed, Meaningful & Important]]
+52a. [[Covenant Identity — Connection & Trust-Building Language Reference]] — phrase-level companion to item 52; sixteen categories of trust-building/connection language with mechanism, examples, and cautions per category. Numbered 52a rather than renumbering the rest of this list, to avoid invalidating the many in-text "item N" cross-references later in this document.
 53. [[Covenant Identity — Practitioner Competency Framework]]
 54. [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — practitioner skill reference for Stage 4b; read after the Competency Framework to understand what working at the implicit level actually requires
 55. [[Covenant Identity — Self-Supervision Template]] — post-session coach reflection tool tracking the coach (not the client): own activation, avoidance inventory, presence quality, wound-pattern intersection, cross-session pattern watch; the formation side of coach development
