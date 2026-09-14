@@ -1,6 +1,6 @@
 ---
 created: 2026-09-12
-basis: "[[Branding & Core Competency]] (Wilderness Christian — Homepage Copy doorway design, 2026-09-09, updated 2026-09-10) — page structure and doors; [[Client Problem & Cost Language]] — felt-cost problems #2, #3, #4, #6, #7, #10 and their Common Experiences; [[My Story.md]] — institutional-wounds compressed working draft (2026-09-11); [[Wilderness Christian]] — segment profile and Deployment guidance. Updated 2026-09-12: synced against the live Carrd build done the same day — replaced the single 'Book a Discovery Call' button with the two-step Tally/Calendly CTA (per [[Covenant Identity Coaching — Quick Launch Plan]]'s Phase 0 Calendly free-tier workaround), and updated 'The Institutional Wound' section's status to reflect Andrew's completed 2026-09-11 rewrite, now pending legal review rather than an open rewrite question."
+basis: "[[Branding & Core Competency]] (Wilderness Christian — Homepage Copy doorway design, 2026-09-09, updated 2026-09-10) — page structure and doors; [[Client Problem & Cost Language]] — felt-cost problems #2, #3, #4, #6, #7, #10 and their Common Experiences; [[My Story.md]] — institutional-wounds compressed working draft (2026-09-11); [[Wilderness Christian]] — segment profile and Deployment guidance. Updated 2026-09-12: synced against the live Carrd build done the same day — replaced the single 'Book a Discovery Call' button with the two-step Tally/Calendly CTA (per [[Covenant Identity Coaching — Quick Launch Plan]]'s Phase 0 Calendly free-tier workaround), and updated 'The Institutional Wound' section's status to reflect Andrew's completed 2026-09-11 rewrite, now pending legal review rather than an open rewrite question. Updated 2026-09-14: added a short skim header (2–4 words) to each of the 8 doors in 'Find What You Recognize,' so a visitor can scan the section quickly before reading full lines."
 tags:
   - marketing
   - cic-website
@@ -32,28 +32,28 @@ tags:
 *Intro line above the doors:*
 > Everyone's version of "stuck" looks a little different. Pick whichever one sounds the most like you — there's no wrong door.
 
-**Door 1 — #4** "You don't know who you are outside of what you do."
+**Door 1 — #4 · Identity Outside Performance** "You don't know who you are outside of what you do."
 > Take away the role, the title, the usefulness — and you genuinely don't know what's left. You're not sure you have a self underneath all of it.
 
-**Door 2 — #4** "You can list your accomplishments. You can't say who you are underneath them."
+**Door 2 — #4 · Accomplished, But Hollow** "You can list your accomplishments. You can't say who you are underneath them."
 > Objectively thriving by every measure anyone can see, and privately unable to say who you are apart from the measures — which makes the success feel hollow instead of earned.
 
-**Door 3 — #6** "You're surrounded by people and still feel completely alone."
+**Door 3 — #6 · Alone in a Crowd** "You're surrounded by people and still feel completely alone."
 > You show up. You perform fine. But no one actually knows what's happening inside you — and you're not sure you know how to let them, or if it's even safe.
 
-**Door 4 — #6** "You could disappear for a month before anyone actually noticed something was wrong."
+**Door 4 — #6 · Invisible If You Disappeared** "You could disappear for a month before anyone actually noticed something was wrong."
 > Known by name, present for years, and still — if you quietly stopped showing up tomorrow, it would take longer than it should for anyone to notice something was actually wrong.
 
-**Door 5 — #2** "You know what you believe. You just can't seem to live from it."
+**Door 5 — #2 · Belief That Won't Translate** "You know what you believe. You just can't seem to live from it."
 > You've read the books, sat through the sermons, maybe even taught the class. The truth is in your head — clear, memorized, ready. Then Monday comes, or the pressure hits, and you react the same way you always have. It's not that you don't know enough. Something isn't translating.
 
-**Door 6 — #3** "You've prayed this away more times than you can count. It keeps coming back."
+**Door 6 — #3 · Prayed Away, Still There** "You've prayed this away more times than you can count. It keeps coming back."
 > The anxiety, the shame, the same tight-chest feeling — you've repented, you've prayed, you've claimed what's true. And your body hasn't gotten the message yet. That's not a sign your faith is thin.
 
-**Door 7 — #7** "You're not walking away from God. You're just... flat."
+**Door 7 — #7 · Spiritually Flat** "You're not walking away from God. You're just... flat."
 > No crisis, no dramatic doubt — just years at the same place. You do the things. Nothing moves. You've wondered if it's discipline, or sin, or something deeper, and none of those answers has actually explained it.
 
-**Door 8 — #10** "Who you are at church and who you are the rest of the week are starting to feel like two different people."
+**Door 8 — #10 · Sunday Self, Weekday Self** "Who you are at church and who you are the rest of the week are starting to feel like two different people."
 > You're not faking it on Sunday. But Monday runs on a different set of rules — sharper, more anxious, more self-protective — and you didn't consciously choose that split. It just runs.
 
 *Closing line beneath all eight doors:*
