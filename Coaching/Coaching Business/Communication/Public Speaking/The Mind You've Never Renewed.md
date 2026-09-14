@@ -209,7 +209,7 @@ Your identity — who you actually are before God — is formed in that covenant
 
 *[DELIVERY NOTE: Drop the teaching cadence here. This is confession, not exposition. Slower, quieter, more exposed.]*
 
-I was the good Christian. Aligned doctrine, good theology, good at my work, leading multiple church ministries — the one who had it together. You know that guy. Not much visibly wrong with him. Popular, too, on a slow decline.
+I was the good Christian. Aligned doctrine, good theology, good at my work, leading multiple church ministries — the one who had it together. You know that guy. Not much visibly wrong with him. Popular, too, I'll confess, on a slow decline.
 
 But I wanted real relationships, not just proximity to people. That meant transparency. Vulnerability. Actually investing in people's lives, not just occupying the room with them. And it asked the same of them in return. More often than not, that made me expendable to my brothers and sisters — or made me a project, something for someone else to fix.
 
