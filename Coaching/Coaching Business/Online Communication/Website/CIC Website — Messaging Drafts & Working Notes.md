@@ -136,13 +136,15 @@ This is life giving work! I didn't expect to feel closer to God like this? The t
 >
 > Years later I finally left a stable career, certain I wasn't going back, though not yet certain to what. I moved from my living room to a local coffee shop — The Old Mill — and took honest inventory of what God had actually put in me. I got to work on it, aware I was near a cliff, aware my choice would shape my family for years. I felt compelled past reason.
 >
-> Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need a mountain retreat to reach it anymore; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
+> Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need the mountain retreat that once moved something deep in me but never came home with me; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
 >
 > I didn't expect to feel closer to God quite like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. Captured to encaptivated.  I am finally feeling that covenant love *has* been mine. I am His son.
 >
 > Hi Dad! Here You are. Here I am.
 
 *(Revised 2026-09-15 per Andrew: restored more of his original closing language — the "no exclamation points" rule is relaxed for this story section specifically, since genuine testimonial emotion is a different register from the page's explanatory copy elsewhere. "Covenant love" is a deliberate callback to the business name.)*
+
+*(Refined again 2026-09-15: Andrew wanted the "mountain retreat" line to carry more weight — a real past experience that genuinely moved something deep but wasn't repeatable in everyday life, contrasted with this new, portable version of the same depth. Considered a fuller version with a "baptized the deep mountains" image (Matthew 17:20 echo), but flagged the risk of two parallel "real place becomes metaphor" devices (Old Mill already does this) reading as engineered rather than organic in under 500 words. Went with the compact version instead — one clause, same point, no second wordplay competing for attention.)*
 
 -
 402-391-1900 
