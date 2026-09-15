@@ -116,7 +116,7 @@ Sunday Self, Weekday Self
 
 *Alternate/placeholder version, in case legal doesn't clear the current draft in time:*
 -
-
+402-391-1900 
 ---
 
 ## WHAT WAS ACTUALLY IN THE WAY
