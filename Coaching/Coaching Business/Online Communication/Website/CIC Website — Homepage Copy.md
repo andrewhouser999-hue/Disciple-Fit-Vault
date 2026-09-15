@@ -70,31 +70,27 @@ tags:
 
 ---
 
-### THE INSTITUTIONAL WOUND
+### I'M NOT ASKING YOU TO TRUST A STRANGER WITH THIS
 **Stage:** 3→4 (integrated story; root begins to surface)
 
-**Updated 2026-09-12: rewrite complete, pending legal review — still not cleared for live publish.** Andrew wrote the version below on 2026-09-11 and has submitted it for legal review; this supersedes the earlier "open question about whether to prayerfully rewrite" status. The concerns Claude flagged on 2026-09-11 (defamation/identifiability risk — four churches/leaders described by pattern, not name, but potentially identifiable; conflict with the Marketing Charter's "no institutional critique" guardrail; audience-fit risk with a theologically literate/skeptical readership) are exactly why it's routed through legal rather than treated as fully cleared. Build/preview with this content, but do not publish the live site with this section until legal confirms it's clear. See `My Story.md` for the full first-draft version and the reasoning behind this compression.
+**Updated 2026-09-15: replaced entirely — live, no legal gate.** The 2026-09-11 "Institutional Wound" draft above (four churches, expulsion pattern) is withdrawn from legal review and no longer in use — Andrew's decision, 2026-09-15. The version below is a different, personally-authored "story of stories" (military/career scarcity pattern + the CIC build itself as the testing season), built through direct collaboration this session and requiring no legal review: it names no church, leader, or institution, and describes no conflict with an identifiable party — the two things that made the prior draft's exposure real. Section renamed to match Branding & Core Competency's heading, since "The Institutional Wound" no longer describes this content.
 
-> Who gets themselves kicked out of church — and more than one, at that?
+> I sat in a hotel room, hands clasped, staring at the floor. They'd just offered me an Officer's commission out of the enlisted ranks. I saw myself in it — no question. But I felt certain I'd fail the Majors and Colonels above me, so I invented a pressure I could run from, called it wisdom, and told myself I'd rather save face than risk their disappointment. I went back to base and told my Commissioned Officer I was getting married and had to decline. That was true. It also wasn't the real reason. He pushed back, saddened. I held my ground. He let it go, regretfully. That refusal became a lifelong pattern — the same "not enough" running quietly under two decades of good reasons to stay small.
 >
-> My life changed in minutes. Jesus met me, and I surrendered everything — friends, old places, an old way of living — to follow Him. My faith was alive in a way I'd never known. Six months in, someone told me that now that I was a Christian, I should probably go to church. That sounded right, so I went.
+> Years later I finally left a stable career, certain I wasn't going back, though not yet certain to what. I moved from my living room to a local coffee shop — The Old Mill — and took honest inventory of what God had actually put in me. I got to work on it, aware I was near a cliff, aware my choice would shape my family for years. I felt compelled past reason.
 >
-> It didn't take long before something I couldn't quite name started happening. The same loyalty to Jesus that had changed my life kept running into friction with how the institution wanted to run. Small things at first — a role I was asked to perform in a way that went against my conscience. Then bigger ones: leadership that didn't want to be questioned, even respectfully, even in writing, even when I was the one who'd been asked to lead.
+> Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need a mountain retreat to reach it anymore; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
 >
-> I was marginalized. Then asked to leave. Then it happened again at the next church, and the one after that — four different congregations, four different versions of the same pattern: genuine service, a conscience issue, and then the door.
+> This is life-giving work! I didn't expect to feel closer to God like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. I am finally feeling that covenant love *has* been mine. I am His son.
 >
-> By the third or fourth time, I stopped being surprised and started being something worse — quietly convinced the problem must be me.
->
-> Then something shifted. I separated to focus on my growth in Christ, so that I could become who I was called to be — and possibly return one day to contribute to a body of believers I may live a formative life alongside.
->
-> I've carried that for over a decade now. I still believe I need the Body of Christ, and I haven't found my way back yet. What I found instead was a way to actually work through the wound rather than just survive it — which is part of what became Covenant Identity Coaching.
+> Hi Dad! Here You are. Here I am.
 
 ---
 
 ### WHAT WAS ACTUALLY IN THE WAY
 **Stage:** 4 (Root Revealed)
 
-*Note: this section was written before the institutional-wound story above existed, and may now read as redundant with it — both name the identity-root explicitly. Worth a look together once the story above is cleared, rather than running both at full length.*
+*Note, updated 2026-09-15: the story above was fully replaced (see that section's update note) — this redundancy question is still open and now applies to the new story instead. The new version doesn't state "identity" as its own takeaway the way the old draft's closing did, which may already resolve most of the overlap, but worth a direct side-by-side look before assuming it's fully resolved.*
 
 > Here's the pattern underneath all eight doors above: your identity — who you actually believe you are, at the level that runs your reactions — got shaped by something other than what God says about you. Maybe it was a community that let you down. Maybe it was years of proving your worth through performance. Maybe both. Either way, the truth you know intellectually and the identity that's actually running your life haven't been the same thing for a long time.
 >

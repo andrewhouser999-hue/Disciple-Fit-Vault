@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09; Supporting Line — Identity/Relationship Diagnostic Summary basis: [[Client Problem & Cost Language]] 'What the Full List Reveals' closing synthesis, saved as brand-messaging supporting verbiage at Andrew's request, 2026-09-09. Updated 2026-09-12: the personal-story section's rewrite basis is [[My Story.md]]'s 2026-09-11 'Institutional Wounds, Compressed Working Draft,' per Andrew's direct instruction to include it now, pending legal review — not yet cleared for live publish. Also fixed a stale 'all four problems' reference (leftover from an earlier 4-door draft) to 'all eight' in the 'What Was Actually in the Way' section, to match the current 8-door set."
+basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09; Supporting Line — Identity/Relationship Diagnostic Summary basis: [[Client Problem & Cost Language]] 'What the Full List Reveals' closing synthesis, saved as brand-messaging supporting verbiage at Andrew's request, 2026-09-09. Updated 2026-09-12: the personal-story section's rewrite basis is [[My Story.md]]'s 2026-09-11 'Institutional Wounds, Compressed Working Draft,' per Andrew's direct instruction to include it now, pending legal review — not yet cleared for live publish. Also fixed a stale 'all four problems' reference (leftover from an earlier 4-door draft) to 'all eight' in the 'What Was Actually in the Way' section, to match the current 8-door set. Updated 2026-09-15: the 2026-09-11 story was withdrawn from legal review and replaced with a new personally-authored 'story of stories' (Officer-commission decline + the CIC build as its own testing season), developed through direct collaboration this session — see [[CIC Website — Messaging Drafts & Working Notes]] for both the verbatim authorship and the edited version side by side. Andrew's own call that this version needs no legal review, since it names no identifiable church, leader, or conflict."
 tags:
 ---
 
@@ -755,21 +755,19 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 ---
 
 ### I'M NOT ASKING YOU TO TRUST A STRANGER WITH THIS
-**Stage:** 3→4 (integrated story; root begins to surface) — *Rewritten by Andrew 2026-09-11, pending legal review — see note above; not yet cleared for live publish*
+**Stage:** 3→4 (integrated story; root begins to surface) — *Replaced entirely 2026-09-15, live, no legal gate*
 
-> Who gets themselves kicked out of church — and more than one, at that?
+**Updated 2026-09-15:** the 2026-09-11 version above (four churches, expulsion pattern) is withdrawn from legal review and no longer in use — Andrew's decision. Replaced with a different, personally-authored "story of stories" (military/career scarcity pattern + the CIC build itself as the testing season), built through direct collaboration and requiring no legal review — it names no church, leader, or institution, and describes no conflict with an identifiable party.
+
+> I sat in a hotel room, hands clasped, staring at the floor. They'd just offered me an Officer's commission out of the enlisted ranks. I saw myself in it — no question. But I felt certain I'd fail the Majors and Colonels above me, so I invented a pressure I could run from, called it wisdom, and told myself I'd rather save face than risk their disappointment. I went back to base and told my Commissioned Officer I was getting married and had to decline. That was true. It also wasn't the real reason. He pushed back, saddened. I held my ground. He let it go, regretfully. That refusal became a lifelong pattern — the same "not enough" running quietly under two decades of good reasons to stay small.
 >
-> My life changed in minutes. Jesus met me, and I surrendered everything — friends, old places, an old way of living — to follow Him. My faith was alive in a way I'd never known. Six months in, someone told me that now that I was a Christian, I should probably go to church. That sounded right, so I went.
+> Years later I finally left a stable career, certain I wasn't going back, though not yet certain to what. I moved from my living room to a local coffee shop — The Old Mill — and took honest inventory of what God had actually put in me. I got to work on it, aware I was near a cliff, aware my choice would shape my family for years. I felt compelled past reason.
 >
-> It didn't take long before something I couldn't quite name started happening. The same loyalty to Jesus that had changed my life kept running into friction with how the institution wanted to run. Small things at first — a role I was asked to perform in a way that went against my conscience. Then bigger ones: leadership that didn't want to be questioned, even respectfully, even in writing, even when I was the one who'd been asked to lead.
+> Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need a mountain retreat to reach it anymore; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
 >
-> I was marginalized. Then asked to leave. Then it happened again at the next church, and the one after that — four different congregations, four different versions of the same pattern: genuine service, a conscience issue, and then the door.
+> This is life-giving work! I didn't expect to feel closer to God like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. I am finally feeling that covenant love *has* been mine. I am His son.
 >
-> By the third or fourth time, I stopped being surprised and started being something worse — quietly convinced the problem must be me.
->
-> Then something shifted. I separated to focus on my growth in Christ, so that I could become who I was called to be — and possibly return one day to contribute to a body of believers I may live a formative life alongside.
->
-> I've carried that for over a decade now. I still believe I need the Body of Christ, and I haven't found my way back yet. What I found instead was a way to actually work through the wound rather than just survive it — which is part of what became Covenant Identity Coaching.
+> Hi Dad! Here You are. Here I am.
 
 ---
 

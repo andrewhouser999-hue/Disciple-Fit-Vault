@@ -18,7 +18,7 @@ tags:
 Pull these into mind section-by-section below — most map to a specific section.
 
 - [ ] Which messaging architecture is final: Word Within, Name-Retained, or Wilderness Doorway (currently live)? Branding & Core Competency says pick one before anything ships — this hasn't been formally decided anywhere in writing.
-- [ ] "The Institutional Wound" is not cleared for public use (pending legal review) — draft an alternate/placeholder version here that could run if legal doesn't clear the current one in time.
+- [x] ~~"The Institutional Wound" is not cleared for public use (pending legal review)~~ — Resolved 2026-09-15: that draft withdrawn from legal review; the "story of stories" alternate drafted below was promoted directly into the live [[CIC Website — Homepage Copy]] and [[Branding & Core Competency]], no legal review needed.
 - [ ] "What Was Actually in the Way" may be redundant with "The Institutional Wound" — decide whether to cut one, merge them, or keep both with a clearer distinction.
 - [ ] No client testimony/peer-proof-of-change exists yet — decide how the site should read in the meantime (lean harder on Andrew's own story? Add a note that founding-cohort testimonials are coming?).
 - [ ] CTA buttons need real Tally + Calendly URLs dropped in (placeholders only right now).
@@ -109,12 +109,41 @@ Sunday Self, Weekday Self
 
 ---
 
-## THE INSTITUTIONAL WOUND (personal story)
-**Stage:** 3→4 — **gated, not cleared for live publish**
+## I'M NOT ASKING YOU TO TRUST A STRANGER WITH THIS (personal story)
+**Stage:** 3→4 — **promoted to live copy 2026-09-15, no legal gate**
 
-*Current live version:* see [[CIC Website — Homepage Copy]] — pending legal review.
+*Current live version:* see [[CIC Website — Homepage Copy]] — the "story of stories" version below, promoted 2026-09-15. Section renamed from "The Institutional Wound" since that content no longer applies. Kept below per this file's own convention of not deleting old attempts.
 
-*Alternate/placeholder version, in case legal doesn't clear the current draft in time:*
+*Drafts below, kept for reference:*
+
+**Andrew's original authorship, 2026-09-15 (verbatim, minor spelling corrected only — no wording or content changed; excludes the marriage/"good Christian" scene used in the original Institutional Wound draft, per Andrew's instruction):**
+
+I sat with my hands clasped, staring at the floor of my hotel room, having been offered an Officer rank as a Sergeant. I knew the Officer role was a fit. I saw myself as an Officer and not an NCO with no questions. Yet I felt like I would fail the Majors and Colonels. I have felt not enough, while making major efforts to prove I am enough. When the opportunity that defines in my mind I am enough, presented itself, I invented a pressure that made me want to run away from it. I chose to save face, avoid what I conjured up as sure disappointment. Rationalize that it would be better that I remain an NCO.
+
+I returned to base and told my Commissioned Officer I am getting married and must decline. With sadness he pushed back, I held the position my priorities are elsewhere, he regretfully accepted. Over the years I did the same when multiple employers asked me to move into leadership. A banking exec told me I had what would result in being pulled up into company leadership. I recoiled still, even knowing that is where I belong. I turned down all promotions for over 2 decades after.
+
+Years of being in the Word, prayer, hearing from the Lord this resistance seemed stronger, until I the conditions created with the Holy Spirit and His word reached that deeper inner belief. Only then was I set free to take on the biggest promotion of my life. Not a manager role, but an ambassador role for Jesus Christ launching Covenant Identity Coaching and Training. I can feel the old pattern crying out the entire time, but this time who I am in Christ speaks louder even through the painful tears of not being enough. I feel enough regardless, in its face. That home belongs to me, and it is a felt reality of faith that burns brightly within.
+
+I left the stability of the company, deeply knowing I am not returning, as though it were God in me withholding this desire. Sitting in my living room contemplating my next move. I moved my seat to The Old Mill, a local coffee shop. It wasn't clear as to what I wasn't returning to, the company, industry, employment? I took clear inventory of what God has placed in me. Locked in and got to work on what I wanted to offer the world, determined, well aware of nearing a cliff, knowing my decisions today could have profound effect on my family's life many years to come. I was compelled beyond reason and human wisdom. As the days of development wore on, I felt like I did when studying for one of the toughest licenses known to man. Then I heard that voice, the one that says, you are a fool, not enough for others, you'll harm others from your inadequacy. It ripped through my heart. I felt like Gollum losing the battle. I started to go back and forth with it day after day, holding onto dear life. If I lay this down I return to where purpose dies. I miss out on journeying with my Father and others being set free. I need what I am offering the world. I quickly grabbed ahold of the biblically informed process and prayerfully with the Spirit of God created the type of space God works to sanctify. I was in a felt place bringing the truth of God's Word to a very deep place in me, feeling the shift. I know this shift. It is not foreign. This is where freedom begins. I don't have to be in a remote mountain retreat as before. I am creating it here in my life when and where it hits. The old mill within has lost its power. I am free to press through, not enslaved to scarcity. I didn't stop there. I found over 20 operating lies and as many misidentities wreaking havoc within.
+
+This is life giving work! I didn't expect to feel closer to God like this? The truth within replacing the old, is setting me free. Instead of all of a sudden feeling closer to God, I feel much more of what I have not recognized feeling from Him. I finally feel Covenant Love HAS been mine? I am His son. Hi Dad! Here You are. Here I am.
+
+---
+
+**Edited version, 371 words — per the finalized authorship prompt (role: storyteller with a psychologist's understanding of implicit patterns; see this session's transcript, 2026-09-15), trimmed to a 450-word ceiling, Officer section compressed more heavily than the CIC-build section per Andrew's direction:**
+
+> I sat in a hotel room, hands clasped, staring at the floor. They'd just offered me an Officer's commission out of the enlisted ranks. I saw myself in it — no question. But I felt certain I'd fail the Majors and Colonels above me, so I invented a pressure I could run from, called it wisdom, and told myself I'd rather save face than risk their disappointment. I went back to base and told my Commissioned Officer I was getting married and had to decline. That was true. It also wasn't the real reason. He pushed back, saddened. I held my ground. He let it go, regretfully. That refusal became a lifelong pattern — the same "not enough" running quietly under two decades of good reasons to stay small.
+>
+> Years later I finally left a stable career, certain I wasn't going back, though not yet certain to what. I moved from my living room to a local coffee shop — The Old Mill — and took honest inventory of what God had actually put in me. I got to work on it, aware I was near a cliff, aware my choice would shape my family for years. I felt compelled past reason.
+>
+> Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need a mountain retreat to reach it anymore; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
+>
+> This is life-giving work! I didn't expect to feel closer to God like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. I am finally feeling that covenant love *has* been mine. I am His son.
+>
+> Hi Dad! Here You are. Here I am.
+
+*(Revised 2026-09-15 per Andrew: restored more of his original closing language — the "no exclamation points" rule is relaxed for this story section specifically, since genuine testimonial emotion is a different register from the page's explanatory copy elsewhere. "Covenant love" is a deliberate callback to the business name.)*
+
 -
 402-391-1900 
 ---
