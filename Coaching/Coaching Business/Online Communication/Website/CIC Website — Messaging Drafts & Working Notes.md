@@ -138,7 +138,7 @@ This is life giving work! I didn't expect to feel closer to God like this? The t
 >
 > Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need a mountain retreat to reach it anymore; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
 >
-> This is life-giving work! I didn't expect to feel closer to God like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. I am finally feeling that covenant love *has* been mine. I am His son.
+> I didn't expect to feel closer to God quite like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. Captured to encaptivated.  I am finally feeling that covenant love *has* been mine. I am His son.
 >
 > Hi Dad! Here You are. Here I am.
 
