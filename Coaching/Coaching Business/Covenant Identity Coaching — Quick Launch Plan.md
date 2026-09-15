@@ -119,6 +119,8 @@ Reuse the homepage copy already drafted for this segment in Branding & Core Comp
 >
 > The healing work isn't instead of that. It's what makes it possible.
 >
+> The beauty of this work is light and life-giving. Coaching gives you a substantial start toward a new life — the renewal of the mind that so many miss. A CIC coach's job isn't to keep you as a client indefinitely; it's to give you that transformative experience and equip you for the ongoing, self-directed work of walking with the Holy Spirit yourself, because His burden is light — and that's the actual point.
+>
 > ---
 >
 > **WHAT THIS IS NOT**
@@ -126,7 +128,6 @@ Reuse the homepage copy already drafted for this segment in Branding & Core Comp
 > - Not a replacement for the church — a companion to a faith that church, on its own, hasn't fully reached.
 > - Not therapy or clinical treatment — if what you're carrying needs a therapist or physician, I'll say so and help you find one.
 > - Not a technique or a formula — no verse, exercise, or declaration works by itself; this is a diagnostic, relational process, not a script.
-> - Not fast, and not sold as fast — this took me years to work through myself; I won't pretend it's quicker for you.
 > - Not a pitch dressed up as a conversation — a discovery call is a real conversation about whether this is the right next step, not a sales call with extra steps.
 >
 > ---

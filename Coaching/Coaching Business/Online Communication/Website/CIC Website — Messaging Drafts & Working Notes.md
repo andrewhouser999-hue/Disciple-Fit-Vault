@@ -172,6 +172,10 @@ This is life giving work! I didn't expect to feel closer to God like this? The t
 > Closing the identity gap isn't the destination — it's what clears the way. On the other side of it is the thing you've probably stopped letting yourself want out loud: the calling you've sensed but haven't pursued, a life that actually adds up to something, the thing you keep almost building before something in you shuts it down.
 >
 > The healing work isn't instead of that. It's what makes it possible.
+>
+> The beauty of this work is light and life-giving. Coaching gives you a substantial start toward a new life — the renewal of the mind that so many miss. A CIC coach's job isn't to keep you as a client indefinitely; it's to give you that transformative experience and equip you for the ongoing, self-directed work of walking with the Holy Spirit yourself, because His burden is light — and that's the actual point.
+
+*(Third paragraph added 2026-09-15, moved here from "What This Is Not" — reads more as a business-model trust claim than a scope boundary. Section order relative to "What This Is Not" stays as-is, no swap, per Andrew's direction.)*
 
 *New drafts:*
 -
@@ -181,7 +185,12 @@ This is life giving work! I didn't expect to feel closer to God like this? The t
 ## WHAT THIS IS NOT
 **Stage:** trust/boundary, all stages
 
-*Current live version:* see [[CIC Website — Homepage Copy]] — 5 bullet points. Consider adding a crisis/safety line here (see open issues above).
+*Current live version:* see [[CIC Website — Homepage Copy]] — the "Not fast, and not sold as fast" bullet was removed 2026-09-15 and its replacement moved to "What's on the Other Side of This" instead (Andrew's call — it reads more as a business-model trust claim than a scope boundary). Section order stays as-is; no swap. Consider adding a crisis/safety line here (see open issues above).
+
+**Still open:**
+- [ ] Retitle section from "What This Is Not" to "What This Is"? No bullets here currently have the positive-first treatment, now that the reworked one moved out.
+- [ ] Should the remaining 4 bullets get a positive-first rework?
+- [ ] "Not a technique or a formula" rework proposed ("custom surgical diagnostic and relational ___") — word choice "relational displacement" needs clarifying before finalizing.
 
 *New drafts:*
 -

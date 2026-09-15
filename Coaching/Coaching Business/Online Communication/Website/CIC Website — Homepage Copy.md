@@ -79,9 +79,9 @@ tags:
 >
 > Years later I finally left a stable career, certain I wasn't going back, though not yet certain to what. I moved from my living room to a local coffee shop — The Old Mill — and took honest inventory of what God had actually put in me. I got to work on it, aware I was near a cliff, aware my choice would shape my family for years. I felt compelled past reason.
 >
-> Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need the mountain retreat that once moved something deep in me but never came home with me; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
+> Then I heard the old voice: you're a fool, not enough for this, you'll harm the people you're trying to help. It ripped through me. I felt like Gollum losing the argument with himself, day after day, holding on for dear life. Laying it down meant returning to where purpose dies. So I picked up the very process I now use with others — brought God's Word, deliberately, to the deep place the voice was speaking from — and felt the shift. I knew this shift. It wasn't foreign. I didn't need the mountain retreat that once moved something deep in me but could never duplicate at home; I could create the space right there, in a coffee shop. The old mill within lost its grip. I found more than twenty operating lies running underneath me, and as many false identities wearing my name.
 >
-> This is life-giving work! I didn't expect to feel closer to God like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. I am finally feeling that covenant love *has* been mine. I am His son.
+>I didn't expect to feel closer to God quite like this? Instead of suddenly feeling closer to Him, I feel much more of what I have struggled to recognize feeling from Him before. Captured to encaptivated. I am finally feeling that covenant love *has* been mine. I am His son.
 >
 > Hi Dad! Here You are. Here I am.
 
@@ -104,6 +104,10 @@ tags:
 > Closing the identity gap isn't the destination — it's what clears the way. On the other side of it is the thing you've probably stopped letting yourself want out loud: the calling you've sensed but haven't pursued, a life that actually adds up to something, the thing you keep almost building before something in you shuts it down.
 >
 > The healing work isn't instead of that. It's what makes it possible.
+>
+> The beauty of this work is light and life-giving. Coaching gives you a substantial start toward a new life — the renewal of the mind that so many miss. A CIC coach's job isn't to keep you as a client indefinitely; it's to give you that transformative experience and equip you for the ongoing, self-directed work of walking with the Holy Spirit yourself, because His burden is light — and that's the actual point.
+
+*(Added 2026-09-15, moved here from "What This Is Not" — this reads more as a business-model trust claim than a scope boundary, so it fits better alongside the aspirational vision than in the boundary list.)*
 
 ---
 
@@ -113,8 +117,9 @@ tags:
 - Not a replacement for the church — a companion to a faith that church, on its own, hasn't fully reached.
 - Not therapy or clinical treatment — if what you're carrying needs a therapist or physician, I'll say so and help you find one.
 - Not a technique or a formula — no verse, exercise, or declaration works by itself; this is a diagnostic, relational process, not a script.
-- Not fast, and not sold as fast — this took me years to work through myself; I won't pretend it's quicker for you.
 - Not a pitch dressed up as a conversation — a discovery call is a real conversation about whether this is the right next step, not a sales call with extra steps.
+
+*(Note: the former "Not fast, and not sold as fast" bullet moved to "What's on the Other Side of This," 2026-09-15 — see that section. Still open: whether this section retitles from "What This Is Not" to "What This Is," whether the remaining bullets get the same positive-first treatment, and the wording of the "custom surgical diagnostic" rework proposed for the "Not a technique or formula" bullet — "relational displacement" still needs clarifying before that one is finalized. See [[CIC Website — Messaging Drafts & Working Notes]].)*
 
 ---
 

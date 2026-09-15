@@ -786,6 +786,10 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 > Closing the identity gap isn't the destination — it's what clears the way. On the other side of it is the thing you've probably stopped letting yourself want out loud: the calling you've sensed but haven't pursued, a life that actually adds up to something, the thing you keep almost building before something in you shuts it down.
 >
 > The healing work isn't instead of that. It's what makes it possible.
+>
+> The beauty of this work is light and life-giving. Coaching gives you a substantial start toward a new life — the renewal of the mind that so many miss. A CIC coach's job isn't to keep you as a client indefinitely; it's to give you that transformative experience and equip you for the ongoing, self-directed work of walking with the Holy Spirit yourself, because His burden is light — and that's the actual point.
+
+*(Added 2026-09-15, moved here from "What This Is Not" — this reads more as a business-model trust claim than a scope boundary, so it fits better alongside the aspirational vision than in the boundary list.)*
 
 ---
 
@@ -795,8 +799,9 @@ Same standing guardrails as the Word Within section above apply regardless of wh
 - Not a replacement for the church — a companion to a faith that church, on its own, hasn't fully reached.
 - Not therapy or clinical treatment — if what you're carrying needs a therapist or physician, I'll say so and help you find one.
 - Not a technique or a formula — no verse, exercise, or declaration works by itself; this is a diagnostic, relational process, not a script.
-- Not fast, and not sold as fast — this took me years to work through myself; I won't pretend it's quicker for you.
 - Not a pitch dressed up as a conversation — a discovery call is a real conversation about whether this is the right next step, not a sales call with extra steps.
+
+*(Note: the former "Not fast, and not sold as fast" bullet moved to "What's on the Other Side of This," 2026-09-15 — see that section. Still open: whether this section retitles from "What This Is Not" to "What This Is," whether the remaining bullets get the same positive-first treatment, and the wording of the "custom surgical diagnostic" rework proposed for the "Not a technique or formula" bullet — "relational displacement" still needs clarifying before that one is finalized. See [[CIC Website — Messaging Drafts & Working Notes]].)*
 
 ---
 
