@@ -59,7 +59,53 @@ Pull these into mind section-by-section below — most map to a specific section
 > That's not a "try harder" problem. It's worth understanding why.
 
 *New drafts:*
--
+Identity Outside Performance
+
+"You don't know who you are outside of what you do." Take away the role, the title, the usefulness — and you genuinely don't know what's left. You're not sure you have a self underneath all of it.
+
+  
+
+Accomplished, But Hollow
+
+"You can list your accomplishments. You can't say who you are underneath them." Objectively thriving by every measure anyone can see, and privately unable to say who you are apart from the measures — which makes the success feel hollow instead of earned.
+
+  
+
+Alone in a Crowd
+
+"You're surrounded by people and still feel completely alone." You show up. You perform fine. But no one actually knows what's happening inside you — and you're not sure you know how to let them, or if it's even safe.
+
+  
+
+Invisible If You Disappeared
+
+"You could disappear for a month before anyone actually noticed something was wrong." Known by name, present for years, and still — if you quietly stopped showing up tomorrow, it would take longer than it should for anyone to notice something was actually wrong.
+
+  
+
+Belief That Won't Translate
+
+"You know what you believe. You just can't seem to live from it." You've read the books, sat through the sermons, maybe even taught the class. The truth is in your head — clear, memorized, ready. Then Monday comes, or the pressure hits, and you react the same way you always have. It's not that you don't know enough. Something isn't translating.
+
+  
+
+Prayed Away, Still There
+
+"You've prayed this away more times than you can count. It keeps coming back." The anxiety, the shame, the same tight-chest feeling — you've repented, you've prayed, you've claimed what's true. And your body hasn't gotten the message yet. That's not a sign your faith is thin.
+
+  
+
+Spiritually Flat
+
+"You're not walking away from God. You're just... flat." No crisis, no dramatic doubt — just years at the same place. You do the things. Nothing moves. You've wondered if it's
+
+discipline, or sin, or something deeper, and none of those answers has actually explained it.
+
+  
+
+Sunday Self, Weekday Self
+
+"Who you are at church and who you are the rest of the week are starting to feel like two different people." You're not faking it on Sunday. But Monday runs on a different set of rules — sharper, more anxious, more self-protective — and you didn't consciously choose that split. It just runs.
 
 ---
 
