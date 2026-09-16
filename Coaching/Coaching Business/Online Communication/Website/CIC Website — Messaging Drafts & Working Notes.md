@@ -19,13 +19,23 @@ Pull these into mind section-by-section below — most map to a specific section
 
 - [x] ~~Which messaging architecture is final: Word Within, Name-Retained, or Wilderness Doorway (currently live)?~~ — Resolved 2026-09-16: Word Within retired permanently (Word-of-Faith adjacency risk for the Wilderness Christian audience); Wilderness Doorway confirmed as the live operative architecture; "Renew the Mind Never Touched by the Word" adopted as the governing thesis line (Stage 3–4 use only, never the hero). Recorded in [[Disciple Fit — Marketing Charter]]'s Brand Type Rule and [[Branding & Core Competency]]'s Word Within section.
 - [x] ~~"The Institutional Wound" is not cleared for public use (pending legal review)~~ — Resolved 2026-09-15: that draft withdrawn from legal review; the "story of stories" alternate drafted below was promoted directly into the live [[CIC Website — Homepage Copy]] and [[Branding & Core Competency]], no legal review needed.
-- [ ] "What Was Actually in the Way" may be redundant with the new personal story — the new story doesn't state "identity" as its own closing takeaway the way the old draft did, which may already resolve most of the overlap, but this is a "worth a direct side-by-side look" per the homepage copy's own inline note, not yet actually checked.
-- [ ] "What This Is Not" section rework still open — whether it retitles to "What This Is," whether remaining bullets get positive-first treatment, and the "custom surgical diagnostic" / "relational displacement" wording for the "not a technique or formula" bullet isn't finalized (see the section below for draft space).
+- [x] ~~"What Was Actually in the Way" may be redundant with the new personal story~~ — Resolved 2026-09-16 by rewrite (Andrew).
+- [x] ~~"What This Is Not" section rework~~ — Resolved 2026-09-16 by rewrite (Andrew).
 - [ ] **New 2026-09-16 — sync gap:** [[Branding & Core Competency]]'s embedded "Wilderness Christian — Homepage Copy" doors (the 8-door section) still show the original generic door text — they were never updated with the 2–4 word skim-header titles ("Identity Outside Performance," "Accomplished, But Hollow," etc.) added to the live [[CIC Website — Homepage Copy]] on 2026-09-14. Branding & Core Competency is meant to be reconcilable with the live page; right now it isn't, on this one section.
-- [ ] No client testimony/peer-proof-of-change exists yet — decide how the site should read in the meantime (lean harder on Andrew's own story? Add a note that founding-cohort testimonials are coming?).
-- [ ] CTA buttons need real Tally + Calendly URLs dropped in (placeholders only right now).
-- [ ] No privacy-policy/terms link anywhere on the page — needs at least a footer line once that policy exists.
+- [ ] No client testimony/peer-proof-of-change exists yet — **deprioritized 2026-09-16 (Andrew): not a priority until there are actual coaching clients to draw from.** Revisit once the first cohort completes.
+- [x] ~~CTA buttons need real Tally + Calendly URLs dropped in~~ — Resolved 2026-09-16: live buttons are linked in Carrd. Note: the vault copy in [[CIC Website — Homepage Copy]] still shows placeholder text ("→ Tally Tier 1 form URL") rather than the real URLs — cosmetic only, doesn't block anything, but say the word if you want the real links recorded there too.
+- [ ] No privacy-policy/terms link anywhere on the page — needs at least a footer line once that policy exists. See Claude's 2026-09-16 recommendation below.
 - [ ] No crisis/safety line anywhere on the page, despite content touching shame, isolation, anxiety.
+
+### Privacy policy / terms — recommendation (2026-09-16)
+
+No existing vault document covers this — `Copyright & Licensing Templates.md` only handles IP/copyright on coaching materials, not a site privacy policy or terms of service. Given the stack (Carrd + Tally forms collecting personal/spiritual disclosure + Calendly + Stripe) and budget constraints, recommended approach:
+
+1. **Privacy Policy** — generate via a free-tier generator built for exactly this stack (Termly's free plan is the standard low-cost choice; PrivacyPolicies.com is a comparable alternative). Cover: what's collected (name/email/phone via Tally, payment info via Stripe — not stored directly), which third parties process it (Tally, Calendly, Stripe, Google Workspace, Airtable), no data sold, cookie/analytics disclosure (whatever Carrd itself sets), a data-request/deletion contact (the `andrew@covenantidentitycoaching.com` email already exists for this). Be explicit that this is standard small-business data handling, not clinical-grade security — consistent with the non-clinical framing already established in [[Scope of Practice]] and [[Client Records Retention Policy]].
+2. **Terms of Service / Site Disclaimer** — separate from the Coaching Agreement (which governs the actual client relationship). Covers the *website*: content is educational, not therapy or medical advice; no outcome guarantees; third-party links (Tally/Calendly) aren't Andrew's own properties; liability limitation; governing law (Nebraska).
+3. **Placement:** one footer line linking both, matching the open item above.
+
+**Not yet done:** actually generating/drafting either document. Andrew hasn't said whether to use a generator or have Claude draft the text directly — flag before proceeding either way, since a generator gives boilerplate legal coverage a from-scratch Claude draft can't fully replace, but a Claude draft can be tailored to the coaching context generators don't understand (e.g., the crisis/referral language below).
 
 ---
 
