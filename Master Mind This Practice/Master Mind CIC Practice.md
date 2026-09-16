@@ -61,6 +61,10 @@ tags:
 - [[#From the Character Wound Diagnostic Tool's attachment mapping]]
 
 ---
+C:\Users\Andre\.claude\projects\C--Users-Andre\ - location of recent Powershell Claude projects
+
+---
+
 
 ## Memorize
 
