@@ -105,6 +105,7 @@ Reach for:
 
 Reach for:
 - [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]] — God-rep surfacing section
+- [[P1c — Covenant Identity — Declared vs. Felt Qualities of God — Session Worksheet]] — short Focusing-based exercise producing a concrete, felt instance of the surfacing rather than staying at the level of a general question; use before or alongside the Deepening Tool below once something concrete is needed
 - [[Covenant Identity — God-Representation Deepening Tool]] — six primary types; coaching approaches; question library; use once a type is emerging
 - [[Covenant Identity — God-Representation — Research Basis & Synthesis]] — theoretical grounding if you need to understand why the type works the way it does
 
@@ -324,4 +325,6 @@ Reach for:
 
 ---
 
-*Last updated: 2026-07-08 — added reach-for entries for 27 documents built between 2026-05-21 and 2026-07-08 that this guide had never referenced, including a new Sanctification Module deployment gate in Phase 2 and a new Phase 1 between-session assignments block. Add to this document as the engagement process reveals gaps, shortcuts, or recalibrations worth preserving.*
+*Last updated: 2026-09-15 — added [[P1c — Covenant Identity — Declared vs. Felt Qualities of God — Session Worksheet]] to the Phase 1, Session 2 reach-for list.*
+
+*Previously updated: 2026-07-08 — added reach-for entries for 27 documents built between 2026-05-21 and 2026-07-08 that this guide had never referenced, including a new Sanctification Module deployment gate in Phase 2 and a new Phase 1 between-session assignments block. Add to this document as the engagement process reveals gaps, shortcuts, or recalibrations worth preserving.*

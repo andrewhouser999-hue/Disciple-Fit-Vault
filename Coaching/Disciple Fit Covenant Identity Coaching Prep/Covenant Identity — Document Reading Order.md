@@ -8,7 +8,9 @@ tags:
 
 # Covenant Identity Coaching Prep — Recommended Reading Order
 
-*Last updated: 2026-09-12 — 121 documents across 9 blocks + appendix (22 AI prompt files in the appendix); [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] and [[Covenant Identity — Cognitive Diagnostic Fluency Curriculum]] added to Block 3 as items 62-63 — both were built 2026-07-24/26 but had never been added to this reading order, a pre-existing gap caught while indexing the new item 64; [[Covenant Identity — Cross-Domain Identity Congruence — Psychological Frameworks Reference]] added as item 64 immediately after them as its companion (standing, sphere-linked identity-holding patterns rather than momentary trigger activation), renumbering 62-118 to 65-121*
+*Last updated: 2026-09-15 — [[P1c — Covenant Identity — Declared vs. Felt Qualities of God — Session Worksheet]] added to Block 6 as item 86a (immediately after its Phase 1 sibling, item 86, Phase 1 Session Tools) — not renumbered, same convention as item 52a, to avoid breaking existing in-text "item N" cross-references.*
+
+*Previously updated: 2026-09-12 — 121 documents across 9 blocks + appendix (22 AI prompt files in the appendix); [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] and [[Covenant Identity — Cognitive Diagnostic Fluency Curriculum]] added to Block 3 as items 62-63 — both were built 2026-07-24/26 but had never been added to this reading order, a pre-existing gap caught while indexing the new item 64; [[Covenant Identity — Cross-Domain Identity Congruence — Psychological Frameworks Reference]] added as item 64 immediately after them as its companion (standing, sphere-linked identity-holding patterns rather than momentary trigger activation), renumbering 62-118 to 65-121*
 
 *Previously updated: 2026-09-05 — 118 documents across 9 blocks + appendix (22 AI prompt files in the appendix); [[Covenant Identity — Externalization of the Christian Life — Diagnostic & Formation Reference]] added to Block 3 as item 38 (immediately after its faith/certainty siblings, items 35-37), and `ALLk — Covenant Identity — Externalization Noticing Practice` added to Block 8 as item 100 (immediately after its nearest sibling, item 99, God-Representation Between-Session Practices), renumbering 38-116 to 39-118*
 
@@ -159,6 +161,7 @@ Discovery Call first because it is the actual client entry point. The Arc Locati
 84. [[Covenant Identity — Arc Location Diagnostic]] — fillable self-assessment for locating current position on the covenant identity arc; derived from the Diagnostic Lens Transition Logic; used for pre-session orientation and periodic self-assessment
 85. [[Covenant Identity — Affections Discovery — In-Session Protocol]]
 86. [[Covenant Identity — Phase 1 Session Tools (Covenant Orientation)]]
+86a. [[P1c — Covenant Identity — Declared vs. Felt Qualities of God — Session Worksheet]] — coach-facilitated in-session tool producing a concrete, felt instance of the declared/felt God-image gap; deploy alongside Session 2's God-representation surfacing
 87. [[Covenant Identity — Phase 2 Session Tools (Wound Mapping)]]
 88. [[Covenant Identity — Phase 3 Session Tools (Identity Installation)]]
 89. [[Covenant Identity — Phase 4 Session Tools (Integration & Close)]]
