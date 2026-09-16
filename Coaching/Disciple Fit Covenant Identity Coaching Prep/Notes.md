@@ -1,3 +1,8 @@
+
+Sin
+
+  
+
 One of the things Satan wants when getting you to sin, is that it distorts your identity. You may connect to your old self and therefore less likely to connect to your new identity in Christ. In this place of stolen identity, your behaviors follow.
 
 We were created as Son's of God.  *But to all who did receive him, who believed in his name, he gave the right to become children of God.* John 2:12-13.  
