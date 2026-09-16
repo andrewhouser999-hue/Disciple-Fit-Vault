@@ -104,7 +104,7 @@ But none of the certificate tracks above (Allender, Thompson, MI/MINT) actually 
 
 **Named risk:** Andrew has built an unusually complete theoretical architecture (ten-layer contributor model, diagnostic transition logic, crisis protocols, a six-level simulated practice system) and has zero recorded live CIC client sessions to date. When a builder this thorough asks "do I need more training before I start," the base-rate read is that this can be the credential-seeking version of scope creep — one more layer of preparation instead of contact with the thing that would actually test the model. Watch for this resurfacing as a reason to delay after the supervision relationships are in place.
 
-**Full plan and reasoning:** [[Covenant Identity — Pre-Practice Readiness Action Plan]] (`Disciple Fit Covenant Identity Coaching Prep/06 — Practitioner Reference/`) — prioritized sequence, a "what not to do" list, and an outreach draft for the coaching-craft supervisor search.
+**Full plan and reasoning:** [[Covenant Identity — Pre-Practice Readiness Action Plan]] (`Covenant Identity Coaching Prep/06 — Practitioner Reference/`) — prioritized sequence, a "what not to do" list, and an outreach draft for the coaching-craft supervisor search.
 
 ---
 

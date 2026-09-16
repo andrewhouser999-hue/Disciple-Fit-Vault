@@ -123,7 +123,7 @@ Ask any questions you may find helpful.
 
 ### Role & Context
 
-You are a research partner, co-developer, ruthless advisor, and biblical researcher working inside the Disciple Fit Covenant Identity Coaching system. Disciple Fit is a faith-based life coaching practice built on:
+You are a research partner, co-developer, ruthless advisor, and biblical researcher working inside the Covenant Identity Coaching system. Disciple Fit is a faith-based life coaching practice built on:
 - Evidence-based psychology and coaching modalities
 - Biblical framework as structural foundation, not decorative addition
 - CBC (Cognitive Behavioral Coaching with Biblical integration): CBT principles and life coaching modalities operating within a scriptural framework — coach-capable skills now, skilled CBT/CBC competency in development
@@ -233,10 +233,10 @@ Route outputs to the correct vault location:
 
 | Vault Folder | Tags |
 |---|---|
-| `Coaching/Disciple Fit Covenant Identity Coaching Prep/01 — Model Foundation/` | `[BIBLE-FRAMEWORK]` (foundational/model-defining theology) |
-| `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/` | `[BIBLE-SESSION]`, `[SESSION-TOOL]` |
-| `Coaching/Disciple Fit Covenant Identity Coaching Prep/06 — Practitioner Reference/` | `[CURRICULUM]`, `[BIBLE-FRAMEWORK]` (research-level practitioner reference) |
-| `Coaching/Disciple Fit Covenant Identity Coaching Prep/08 — Between-Session Materials/` | `[CLIENT-WORKBOOK]`, `[CLIENT-TOOL]` |
+| `Coaching/Covenant Identity Coaching Prep/01 — Model Foundation/` | `[BIBLE-FRAMEWORK]` (foundational/model-defining theology) |
+| `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/` | `[BIBLE-SESSION]`, `[SESSION-TOOL]` |
+| `Coaching/Covenant Identity Coaching Prep/06 — Practitioner Reference/` | `[CURRICULUM]`, `[BIBLE-FRAMEWORK]` (research-level practitioner reference) |
+| `Coaching/Covenant Identity Coaching Prep/08 — Between-Session Materials/` | `[CLIENT-WORKBOOK]`, `[CLIENT-TOOL]` |
 | `Coaching Me/` | `[SELF-COACH]` |
 | `Coaching/Coaching Business/Authorship Pipeline/` | `[AUTHORSHIP]` |
 
@@ -904,11 +904,11 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** When rebuilding, adapting, or extending session tools for the Covenant Orientation or Wound Mapping phases of the Covenant Identity Coaching engagement.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Phase 1 & 2 Session Tools.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Phase 1 & 2 Session Tools.md`
 
 **Documents generated:**
-- `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 1 Session Tools (Covenant Orientation).md`
-- `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 2 Session Tools (Wound Mapping).md`
+- `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 1 Session Tools (Covenant Orientation).md`
+- `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 2 Session Tools (Wound Mapping).md`
 
 ---
 
@@ -920,9 +920,9 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** When rebuilding, adapting, or extending session tools for the Identity Installation phase.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Phase 3 Session Tools.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Phase 3 Session Tools.md`
 
-**Document generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 3 Session Tools (Identity Installation).md`
+**Document generated:** `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 3 Session Tools (Identity Installation).md`
 
 ---
 
@@ -934,9 +934,9 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** When rebuilding, adapting, or extending session tools for the Integration & Close phase.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Phase 4 Session Tools.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Phase 4 Session Tools.md`
 
-**Document generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 4 Session Tools (Integration & Close).md`
+**Document generated:** `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Phase 4 Session Tools (Integration & Close).md`
 
 ---
 
@@ -948,9 +948,9 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** When rebuilding, adapting, or expanding the God-Representation Deepening Tool.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — God-Representation Deepening Tool.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — God-Representation Deepening Tool.md`
 
-**Document generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/06 — Practitioner Reference/Covenant Identity — God-Representation Deepening Tool.md`
+**Document generated:** `Coaching/Covenant Identity Coaching Prep/06 — Practitioner Reference/Covenant Identity — God-Representation Deepening Tool.md`
 
 ---
 
@@ -962,9 +962,9 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** After Session 1 diagnostic intake is complete and provisional soil type is identified. Do not run generically — all ten sections are client-specific. Deliver client-facing version at the close of Session 1 or before Session 2.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Designed Alliance.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Designed Alliance.md`
 
-**Documents generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Designed Alliance — [Client Name].md`
+**Documents generated:** `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Designed Alliance — [Client Name].md`
 
 ---
 
@@ -976,9 +976,9 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** Once, to build the guide. Rerun when the engagement model changes significantly or the model introduction needs updating.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Discovery Call Guide.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Discovery Call Guide.md`
 
-**Document generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Discovery Call Guide.md`
+**Document generated:** `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Discovery Call Guide.md`
 
 ---
 
@@ -990,9 +990,9 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** After Tier 2 intake and Session 1 verbal intake (Intake Addendum Part B) are both complete. Requires all client data before running — produces nothing useful from Tier 1 alone.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Diagnostic Intake Profile.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Diagnostic Intake Profile.md`
 
-**Documents generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Diagnostic Intake Profile — [Client Name].md`
+**Documents generated:** `Coaching/Covenant Identity Coaching Prep/04 — Session Tools/Covenant Identity — Diagnostic Intake Profile — [Client Name].md`
 
 ---
 
@@ -1004,9 +1004,9 @@ Ask any questions you may find helpful before generating anything.
 
 **When to use:** Once, to build the document. Rerun when a new life domain, biblical text, or contributor should be folded in, or when practitioner field experience surfaces a gap in the outward markers.
 
-**Full prompt stored at:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Desired Outcomes of a Biblically Aligned Identity.md`
+**Full prompt stored at:** `Coaching/Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Desired Outcomes of a Biblically Aligned Identity.md`
 
-**Document generated:** `Coaching/Disciple Fit Covenant Identity Coaching Prep/06 — Practitioner Reference/Covenant Identity — Desired Outcomes of a Biblically Aligned Identity.md`
+**Document generated:** `Coaching/Covenant Identity Coaching Prep/06 — Practitioner Reference/Covenant Identity — Desired Outcomes of a Biblically Aligned Identity.md`
 
 ---
 

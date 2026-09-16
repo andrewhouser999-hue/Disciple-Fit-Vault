@@ -43,7 +43,7 @@ SORT file.mtime DESC
 ## Practitioner References
 ```dataview
 TABLE basis, created
-FROM "Coaching/Disciple Fit Covenant Identity Coaching Prep/06 — Practitioner Reference"
+FROM "Coaching/Covenant Identity Coaching Prep/06 — Practitioner Reference"
 SORT created DESC
 ```
 

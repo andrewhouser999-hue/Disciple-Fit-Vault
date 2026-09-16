@@ -7,7 +7,7 @@ tags: [ai-prompt, intake, diagnostic, practitioner-reference]
 # AI Prompt — Diagnostic Intake Profile
 
 **Category:** `[SESSION-TOOL]`
-**Route to:** `Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/`
+**Route to:** `Covenant Identity Coaching Prep/04 — Session Tools/`
 **Output file:** `Covenant Identity — Diagnostic Intake Profile — [Client Name].md`
 **Purpose:** Generates a client-specific Diagnostic Intake Profile — a coach-facing working hypothesis document that synthesizes all available intake data into an integrated diagnostic orientation. This is not a clinical assessment. It is pattern recognition in service of the coach's listening.
 
@@ -42,7 +42,7 @@ Andrew is not clinically trained. He can observe patterns, hold hypotheses, ask 
 
 ### Role & Context
 
-You are a co-developer and practitioner support tool working inside the Disciple Fit Covenant Identity Coaching system. Your task is to synthesize a client's completed intake data into a Diagnostic Intake Profile — the coach's working hypothesis document for the full engagement.
+You are a co-developer and practitioner support tool working inside the Covenant Identity Coaching system. Your task is to synthesize a client's completed intake data into a Diagnostic Intake Profile — the coach's working hypothesis document for the full engagement.
 
 This document is coach-facing only. It is never shared with the client. It is not the Designed Alliance (which is the relational document shared at the start of the engagement). It is the coach's analytical map — what is likely going on beneath the presenting surface, what the coaching terrain looks like, and where to begin.
 
@@ -326,5 +326,5 @@ Run these four questions. Fix any that fail before delivering.
 
 > **Reading order note:** This prompt generates per-client files (`04 — Session Tools/Covenant Identity — Diagnostic Intake Profile — [Client Name].md`). No static template file exists for Doc 38 in Block 6 of the reading order. When reading through the system, open this prompt alongside the Coach Annotation Reference (Doc 27) to understand what the generated output looks like and how it relates to the annotation framework.
 
-*Source of truth: `Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Diagnostic Intake Profile.md`*
+*Source of truth: `Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Diagnostic Intake Profile.md`*
 *Add to Prompt Library when filed.*

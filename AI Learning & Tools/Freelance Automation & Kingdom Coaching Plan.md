@@ -173,7 +173,7 @@ You paste raw session notes into a Tally form (or email yourself)
 
 **Not automated — coach-entered fields:** Stage Worked and Stage 4b Route (Relational vs. Body/Felt-Sense) are diagnostic judgment calls, not something Claude should infer from raw notes. Andrew sets these fields himself in Airtable after reviewing the Claude-generated summary — same principle as never auto-sending client replies.
 
-**Table structure (Table 1 — Clients + Table 5 — Session Notes, linked):** full field spec lives in `Disciple Fit Covenant Identity Coaching Prep/03 — Intake System/Covenant Identity — Airtable Schema Spec.md` — that's the authoritative doc, built alongside Tables 2-4 (the existing two-tier intake system).
+**Table structure (Table 1 — Clients + Table 5 — Session Notes, linked):** full field spec lives in `Covenant Identity Coaching Prep/03 — Intake System/Covenant Identity — Airtable Schema Spec.md` — that's the authoritative doc, built alongside Tables 2-4 (the existing two-tier intake system).
 
 **2B — Inquiry email → Claude draft response**
 ```

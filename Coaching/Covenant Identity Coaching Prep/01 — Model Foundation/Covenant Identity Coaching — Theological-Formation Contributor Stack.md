@@ -6,7 +6,7 @@ tags:
 
 `[CURRICULUM]` `[SELF-COACH]` `[AUTHORSHIP]`
 
-**Route:** `Disciple Fit Covenant Identity Coaching Prep/01 — Model Foundation/` (practitioner doctrinal/change-theory formation)
+**Route:** `Covenant Identity Coaching Prep/01 — Model Foundation/` (practitioner doctrinal/change-theory formation)
 
 ---
 

@@ -70,4 +70,4 @@ The gap you feel between what you know is true and how you actually live isn't a
 
 ---
 
-*Disciple Fit Coaching | Andrew Houser*
+*Covenant Identity Coaching | Andrew Houser*

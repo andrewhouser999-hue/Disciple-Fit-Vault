@@ -7,7 +7,7 @@ tags: [ai-prompt, session-tool, designed-alliance, practitioner-reference]
 # AI Prompt — Designed Alliance
 
 **Category:** `[SESSION-TOOL]` `[BIBLE-SESSION]`
-**Route to:** `Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/`
+**Route to:** `Covenant Identity Coaching Prep/04 — Session Tools/`
 **Output file:** `Covenant Identity — Designed Alliance — [Client Name].md`
 **Purpose:** Generates a client-specific Designed Alliance document for a Covenant Identity Coaching engagement. Produced after the Diagnostic Intake is reviewed and the initial soil assessment is complete. Both a coach-reference version and a client-facing version are included in the output.
 
@@ -46,7 +46,7 @@ Do NOT run this prompt generically. It requires real client data. If Andrew has 
 
 ### Role & Context
 
-You are a co-developer and practitioner support tool working inside the Disciple Fit Covenant Identity Coaching system. Your task is to author a **Designed Alliance** for a specific coaching client relationship.
+You are a co-developer and practitioner support tool working inside the Covenant Identity Coaching system. Your task is to author a **Designed Alliance** for a specific coaching client relationship.
 
 A Designed Alliance is a mutual, intentional design of the coaching relationship — not a contract, not a welcome letter, and not a goals document. It is a **covenant-shaped relational agreement** that names what the coaching relationship is, how it will function, what each party brings and commits to, and what the client can honestly expect from the work. It functions as the relational container within which identity-level work can happen safely.
 
@@ -229,5 +229,5 @@ If any section fails scrutiny, fix it before delivering. Do not note the failure
 
 > **Reading order note:** This prompt generates per-client files (`04 — Session Tools/Covenant Identity — Designed Alliance — [Client Name].md`). No static template file exists for Doc 39 in Block 6 of the reading order. When reading through the system, open this prompt alongside the Phase 1 Session Tools (Doc 33) to see where the Designed Alliance is introduced in the session flow.
 
-*Source of truth: `Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Designed Alliance.md`*
+*Source of truth: `Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Designed Alliance.md`*
 *Add to Prompt Library when filed.*

@@ -31,7 +31,7 @@ Governing definition document. All other model documents, tools, and session pro
 **✅ Covenant Identity Coaching — Practice Descriptions (Three Forms).md**
 The three compression levels named by the Practice Definition, written out: a one-sentence description, a few-sentences description, and a one-minute spoken pitch — all authored in Dallas Willard's voice. Spine held constant across all three: the false self governing from below, covenant truth meeting it, the Spirit forming the true self into being. Built 2026-06-25.
 
-**✅ Disciple Fit Covenant Identity Coaching — White Paper.md**
+**✅ Covenant Identity Coaching — White Paper.md**
 High-level practitioner-facing overview of the Covenant Identity Coaching model. States the core claim and distinguishes the model from adjacent approaches. The compressed version of the model's thesis — read before the Full Model Reference to orient the high-altitude frame before going deep.
 
 **✅ What Is Covenant Identity Coaching — Client-Facing.md**
@@ -96,10 +96,10 @@ How the engagement is packaged and priced. What a 6-session vs. 10-session engag
 
 ---
 
-**✅ Disciple Fit Coaching — Engagement Onboarding Document.md**
+**✅ Covenant Identity Coaching — Engagement Onboarding Document.md**
 Client-facing narrative document sent when the client commits, before session 1. Covers: the model's organizing principle (the Gap), phase structure in plain language (4 phases with plain-language descriptions), what sessions are like, the faith dimension (prayer, Scripture, the coach is not a pastor or therapist), what the growth documents are and why they exist, what is expected of the client, and what the coaching is not. Closes with a reference to the Coaching Agreement they will be asked to sign.
 
-**✅ Disciple Fit Coaching — Coaching Agreement.md**
+**✅ Covenant Identity Coaching — Coaching Agreement.md**
 Formal client agreement. 12 sections: what coaching is and is not (scope of practice); faith integration disclosure (explicitly Christian, ICF-aligned); engagement structure and session logistics; fees and payment (package fee with $145 intake component named); cancellation policy (24 hours, reschedule within 3 days or next session); refund and early termination policy (tiered: full refund pre-intake, minus $145 after intake, non-refundable after session 1 with 12-month credit for unused sessions); growth documentation consent; confidentiality and its limits; not a crisis service (988, 741741, 911 listed); referral acknowledgment; acknowledgment and consent; signature block. Placeholder brackets for fee, session medium, frequency, and contact details.
 
 ---

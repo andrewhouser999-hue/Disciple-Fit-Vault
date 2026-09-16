@@ -16,7 +16,7 @@ One-sentence descriptions of every file, organized by subfolder.
 
 ## 01 — Model Foundation
 
-- **Disciple Fit Covenant Identity Coaching — White Paper.md** — Full white paper on the Covenant Identity model: core claim, covenant theology, the Gap, and why the model is distinct from therapy and generic coaching.
+- **Covenant Identity Coaching — White Paper.md** — Full white paper on the Covenant Identity model: core claim, covenant theology, the Gap, and why the model is distinct from therapy and generic coaching.
 - **Covenant Identity Coaching — Full Model Reference.md** — Comprehensive technical practitioner reference: core claim, covenant structure, indicative/imperative grammar, nine-layer identity architecture, and all three operating principles.
 - **What Is Covenant Identity Coaching — Client-Facing.md** — Client-facing description of the model: the Gap between declared and lived covenant identity, why performance approaches fail, and what coaching addresses.
 - **Developing a Biblical Understanding of Covenantal Relationship with God.md** — Scholarly research framework on covenant: berith definition, suzerain-vassal vs. royal grant structures, key covenant terms, and exegetical grounding.
@@ -25,8 +25,8 @@ One-sentence descriptions of every file, organized by subfolder.
 
 ## 02 — Client Onboarding
 
-- **Disciple Fit Coaching — Engagement Onboarding Document.md** — Client-facing orientation explaining coaching structure, four phases, session expectations, note-taking, and between-session commitments.
-- **Disciple Fit Coaching — Coaching Agreement.md** — Legal coaching agreement covering scope (faith-integrated, non-clinical), engagement structure, fees, confidentiality, and crisis protocols.
+- **Covenant Identity Coaching — Engagement Onboarding Document.md** — Client-facing orientation explaining coaching structure, four phases, session expectations, note-taking, and between-session commitments.
+- **Covenant Identity Coaching — Coaching Agreement.md** — Legal coaching agreement covering scope (faith-integrated, non-clinical), engagement structure, fees, confidentiality, and crisis protocols.
 
 ---
 

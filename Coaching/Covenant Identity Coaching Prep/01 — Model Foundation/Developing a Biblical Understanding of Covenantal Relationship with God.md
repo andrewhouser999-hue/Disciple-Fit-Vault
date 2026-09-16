@@ -6,7 +6,7 @@ tags:
 
 `[BIBLE-FRAMEWORK]` `[CURRICULUM]` `[SELF-COACH]` `[AUTHORSHIP]`
 
-**Route:** `Disciple Fit Covenant Identity Coaching Prep/01 — Model Foundation/` (foundational theology) + `06 — Practitioner Reference/` (study methodology)
+**Route:** `Covenant Identity Coaching Prep/01 — Model Foundation/` (foundational theology) + `06 — Practitioner Reference/` (study methodology)
 
 ---
 

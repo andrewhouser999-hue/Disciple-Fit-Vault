@@ -8,7 +8,7 @@ tags:
 ---
 
 # Coaching Agreement
-**Disciple Fit Coaching | Andrew Houser**
+**Covenant Identity Coaching | Andrew Houser**
 *Covenant Identity Coaching Engagement*
 
 ---

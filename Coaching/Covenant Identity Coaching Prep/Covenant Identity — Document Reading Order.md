@@ -39,7 +39,7 @@ Open with the governing definition, not the white paper — the Practice Definit
 
 2. [[Covenant Identity Coaching — Practice Definition]] — governing definition document; all other model documents, tools, and protocols answer to this one when there's a conflict; read first
 3. [[Covenant Identity Coaching — Practice Descriptions (Three Forms)]] — the three compression levels (one sentence / a few sentences / one-minute pitch) that operationalize the Practice Definition's "three levels of compression" claim
-4. [[Disciple Fit Covenant Identity Coaching — White Paper]]
+4. [[Covenant Identity Coaching — White Paper]]
 5. [[What Is Covenant Identity Coaching — Client-Facing]]
 6. [[Covenant Identity Coaching — Manifesto]]
 7. [[Biblical Case for Inner Healing as Foundation of Intimacy and Discipleship]]
@@ -135,8 +135,8 @@ Open with the biblical research document — it establishes the exegetical and t
 
 The client journey begins here.
 
-74. [[Disciple Fit Coaching — Engagement Onboarding Document]]
-75. [[Disciple Fit Coaching — Coaching Agreement]]
+74. [[Covenant Identity Coaching — Engagement Onboarding Document]]
+75. [[Covenant Identity Coaching — Coaching Agreement]]
 
 ---
 

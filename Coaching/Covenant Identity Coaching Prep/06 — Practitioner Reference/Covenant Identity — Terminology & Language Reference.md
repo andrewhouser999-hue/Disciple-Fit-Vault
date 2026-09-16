@@ -1,6 +1,6 @@
 ---
 created: 2026-08-07
-basis: "primary-source — seeded from established CIC model definitions in [[Covenant Identity Coaching — Theory of Change]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]]; expanded 2026-08-07 via full-corpus sweep of Disciple Fit Covenant Identity Coaching Prep (~157 files) for Hebrew/Greek exegetical terms, psychological/clinical constructs, and professional/methodological terms; structure adapted from [[Relational Performance Advisory — Terminology & Language Reference]]; Implicit Process (Implicit Level) entry added 2026-08-07, synthesizing [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] to make explicit the content-node-vs-register distinction neither source document states directly"
+basis: "primary-source — seeded from established CIC model definitions in [[Covenant Identity Coaching — Theory of Change]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]]; expanded 2026-08-07 via full-corpus sweep of Covenant Identity Coaching Prep (~157 files) for Hebrew/Greek exegetical terms, psychological/clinical constructs, and professional/methodological terms; structure adapted from [[Relational Performance Advisory — Terminology & Language Reference]]; Implicit Process (Implicit Level) entry added 2026-08-07, synthesizing [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] to make explicit the content-node-vs-register distinction neither source document states directly"
 tags: [practitioner-reference, terminology, language-reference, cic, hebrew, greek, glossary]
 ---
 
@@ -883,7 +883,7 @@ This expansion did more than transcribe what the source documents already say. S
 
 ## Sources Swept
 
-Full sweep conducted 2026-08-07 across ~157 files in `Coaching/Disciple Fit Covenant Identity Coaching Prep/`. Highest-yield source documents, for anyone wanting to verify an entry against its original context:
+Full sweep conducted 2026-08-07 across ~157 files in `Coaching/Covenant Identity Coaching Prep/`. Highest-yield source documents, for anyone wanting to verify an entry against its original context:
 
 **Hebrew/Greek:** Developing a Biblical Understanding of Covenantal Relationship with God · Biblical Case for Inner Healing as Foundation of Intimacy and Discipleship · Why the Heart Does Not Heal — Biblical Research · Why the Heart Does Not Heal — Practitioner Diagnostic · Isaiah 66 2b — Practitioner Exegetical Reference · Indwelling Sin and Witnessing Repentance — Mechanism · Set Your Mind on Things Above — Biblical Case · Healing from Emotional Trauma — Biblical Research · Faith, Certainty & the Reckoning Pattern · Matched Declaration Architecture · Conditions for the Spirit's Sanctifying Work · Psalms 22-23-24 That Is Phrase Reference · Biblical Foundations Index
 

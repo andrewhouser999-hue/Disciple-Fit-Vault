@@ -61,7 +61,7 @@ Go/No-Go Decision (see criteria below)
 
 Tier 2 is not sent on a Go decision alone. It is sent only after both of the following are true:
 
-1. **Coaching Agreement signed** — terms per `Disciple Fit Coaching — Coaching Agreement.md` Sections 3–4 (12 sessions, $140/session, $1,680 full engagement fee, full-pay or 3-month installment plan).
+1. **Coaching Agreement signed** — terms per `Covenant Identity Coaching — Coaching Agreement.md` Sections 3–4 (12 sessions, $140/session, $1,680 full engagement fee, full-pay or 3-month installment plan).
 2. **Payment received** — full $1,680, or the first $560 installment if the client chose the payment plan. Check the Clients record's `Payment Status` field in Airtable (Paid or Payment Plan Active) before manually sending Tier 2.
 
 This mirrors the logic already in Coaching Agreement Section 4: the $145 intake component is non-refundable once the intake form is submitted, which only makes sense if payment precedes submission. Sending Tier 2 before payment clears inverts that logic and creates a collections problem instead of a payment gate.

@@ -4,9 +4,9 @@ basis: TBD
 tags:
 ---
 
-# Disciple Fit Covenant Identity Coaching
+# Covenant Identity Coaching
 ## A White Paper on the Work of Becoming Who You Already Are
-*Disciple Fit Coaching | Andrew Houser*
+*Covenant Identity Coaching | Andrew Houser*
 
 ---
 
@@ -22,7 +22,7 @@ Most Christian growth programs work on the explicit level. They add information,
 
 This is not a pessimistic assessment. It is a precise one. And precision is what opens the door to actual change.
 
-Disciple Fit Covenant Identity Coaching was built for people who are ready to work at the level where the actual problem lives.
+Covenant Identity Coaching was built for people who are ready to work at the level where the actual problem lives.
 
 ---
 
@@ -255,7 +255,7 @@ The gap is real. The gap is closeable. The coaching exists to close it.
 
 ---
 
-*Disciple Fit Covenant Identity Coaching | Andrew Houser*
+*Covenant Identity Coaching | Andrew Houser*
 *Faith-integrated coaching built on the covenant identity declared in Christ, evidence-based psychology, and the conviction that formation is God's work — and that humans can cooperate with it.*
 
 ---

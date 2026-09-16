@@ -77,8 +77,8 @@ tags:
 *Establish the container before any formation work begins.*
 
 **Reach for:**
-- [[Disciple Fit Coaching — Coaching Agreement]] — scope, fees, confidentiality, crisis protocol; sign before session one
-- [[Disciple Fit Coaching — Engagement Onboarding Document]] — give to client; explains the four phases, session expectations, between-session structure
+- [[Covenant Identity Coaching — Coaching Agreement]] — scope, fees, confidentiality, crisis protocol; sign before session one
+- [[Covenant Identity Coaching — Engagement Onboarding Document]] — give to client; explains the four phases, session expectations, between-session structure
 - [[Covenant Identity Intake — Tally Build Guide]] — if intake form is not yet live; build it before sending
 - [[Covenant Identity Intake — Coach Annotation Reference]] — use this when reviewing the completed intake; identifies what each section is diagnosing
 

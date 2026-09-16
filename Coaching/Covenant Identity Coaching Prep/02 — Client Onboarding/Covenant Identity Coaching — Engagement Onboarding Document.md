@@ -5,7 +5,7 @@ tags:
 ---
 
 # Welcome to Your Covenant Identity Coaching Engagement
-**Disciple Fit Coaching | Andrew Houser**
+**Covenant Identity Coaching | Andrew Houser**
 
 ---
 

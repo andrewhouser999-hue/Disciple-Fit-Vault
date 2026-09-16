@@ -1,6 +1,6 @@
 ---
 created: 2026-07-31
-basis: "design judgment — no binding external standard governs non-clinical coaching record retention (ICF confirms no ICF standard exists); policy below is built by analogy from adjacent-field evidence, cited in the Sources section. Cross-references [[Disciple Fit Coaching — Coaching Agreement]] Sections 7-8 and [[Covenant Identity — Crisis & Referral Protocol]]."
+basis: "design judgment — no binding external standard governs non-clinical coaching record retention (ICF confirms no ICF standard exists); policy below is built by analogy from adjacent-field evidence, cited in the Sources section. Cross-references [[Covenant Identity Coaching — Coaching Agreement]] Sections 7-8 and [[Covenant Identity — Crisis & Referral Protocol]]."
 tags:
   - coaching-business
   - legal

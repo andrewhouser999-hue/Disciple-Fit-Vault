@@ -5,7 +5,7 @@ tags: archived
 ---
 
 > [!warning] Archived 2026-07-06 — Superseded
-> This intake form is no longer the active client intake. It has been replaced by the two-tier system in `Disciple Fit Covenant Identity Coaching Prep/03 — Intake System/`:
+> This intake form is no longer the active client intake. It has been replaced by the two-tier system in `Covenant Identity Coaching Prep/03 — Intake System/`:
 > - [[Covenant Identity — Two-Tier Intake Protocol]] — governs when each tier is sent and the go/no-go gate between them
 > - [[Covenant Identity — Pre-Discovery Screen — Tally Build Guide]] — Tier 1 (8 questions, sent at discovery-call booking)
 > - [[Covenant Identity Intake — Tally Build Guide]] — Tier 2 (22 questions including required emergency contact/location fields, sent after discovery call confirms fit)

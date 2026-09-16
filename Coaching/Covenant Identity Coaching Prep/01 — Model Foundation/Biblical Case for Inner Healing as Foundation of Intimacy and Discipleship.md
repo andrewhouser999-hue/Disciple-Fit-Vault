@@ -13,7 +13,7 @@ tags:
 # Biblical Case for Inner Healing as Foundation of Covenant Intimacy and Discipleship
 
 **Tags:** `[BIBLE-FRAMEWORK]` `[AUTHORSHIP]` `[CURRICULUM]`
-**Vault route:** `Disciple Fit Covenant Identity Coaching Prep/01 — Model Foundation/`
+**Vault route:** `Covenant Identity Coaching Prep/01 — Model Foundation/`
 **Date:** 2026-05-09
 
 > **Summary:** This document argues — from biblical characters and canon-wide scriptural evidence — that removing maladaptive internal structures (shame, insecure attachment, distorted God-representation, codependency, unfinished grief) is not supplemental to discipleship and intimacy with God. It is the deepening condition for both — the factor that determines the quality, sustainability, and depth of intimacy and discipleship, not merely their presence. The argument is structural and pattern-based, not proof-texted from any single passage. For practitioner use: exegetical grounding for the Covenant Identity Coaching model; for authorship: foundational theological case.

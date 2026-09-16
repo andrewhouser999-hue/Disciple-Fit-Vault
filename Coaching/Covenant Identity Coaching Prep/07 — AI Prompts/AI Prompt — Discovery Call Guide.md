@@ -5,7 +5,7 @@ basis: "Updated 2026-07-15 to add Entry Fork reading instructions (Section 2) an
 # AI Prompt — Discovery Call Guide
 
 **Category:** `[SESSION-TOOL]`
-**Route to:** `Disciple Fit Covenant Identity Coaching Prep/04 — Session Tools/`
+**Route to:** `Covenant Identity Coaching Prep/04 — Session Tools/`
 **Output file:** `Covenant Identity — Discovery Call Guide.md`
 **Purpose:** Generates the reusable Covenant Identity Discovery Call Guide — a practitioner document Andrew uses in every discovery call. This is not per-client. It governs all discovery calls. Run once; update as the practice evolves.
 
@@ -420,5 +420,5 @@ Run these four questions before finalizing. Fix any that fail.
 
 ---
 
-*Source of truth: `Disciple Fit Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Discovery Call Guide.md`*
+*Source of truth: `Covenant Identity Coaching Prep/07 — AI Prompts/AI Prompt — Discovery Call Guide.md`*
 *Add to Prompt Library when filed.*
