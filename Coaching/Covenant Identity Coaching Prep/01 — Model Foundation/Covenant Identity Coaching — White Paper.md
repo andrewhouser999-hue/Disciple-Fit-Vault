@@ -6,7 +6,7 @@ tags:
 
 # Covenant Identity Coaching
 ## A White Paper on the Work of Becoming Who You Already Are
-*Covenant Identity Coaching | Andrew Houser*
+*Disciple Fit Coaching | Andrew Houser*
 
 ---
 
@@ -255,7 +255,7 @@ The gap is real. The gap is closeable. The coaching exists to close it.
 
 ---
 
-*Covenant Identity Coaching | Andrew Houser*
+*Disciple Fit Coaching | Andrew Houser*
 *Faith-integrated coaching built on the covenant identity declared in Christ, evidence-based psychology, and the conviction that formation is God's work — and that humans can cooperate with it.*
 
 ---

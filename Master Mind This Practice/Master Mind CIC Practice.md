@@ -185,7 +185,7 @@ Educate & Train the Client on:
 2. this becomes a type of co-therapy - self directed with the Holy Spirit and a trusted person. (as far as one can do). Jesus once told me, "I want to be your therapist."  
 
 
-*Covenant Identity Coaching | Andrew Houser*
+*Disciple Fit Coaching | Andrew Houser*
 *Faith-integrated coaching built on the covenant identity declared in Christ, evidence-based psychology, and the conviction that formation is God's work — and that humans can proactively cooperate with it.*
 
 

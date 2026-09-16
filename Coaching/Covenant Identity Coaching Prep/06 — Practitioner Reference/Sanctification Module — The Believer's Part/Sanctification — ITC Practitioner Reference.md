@@ -10,7 +10,7 @@ tags:
 ---
 
 # IMMUNITY TO CHANGE — PRACTITIONER REFERENCE
-## Covenant Identity Coaching — Disciple Fit
+## Covenant Identity Coaching
 ### Coach-Facing | Full Protocol
 
 ---

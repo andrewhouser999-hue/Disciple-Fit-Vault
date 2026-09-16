@@ -10,7 +10,7 @@ tags:
 
 # SESSION FACILITATION GUIDE
 ## The Believer's Part in Sanctification
-### Covenant Identity Coaching — Disciple Fit
+### Covenant Identity Coaching
 
 **Format key:**
 **Say:** — scripted language, adapt naturally to your voice

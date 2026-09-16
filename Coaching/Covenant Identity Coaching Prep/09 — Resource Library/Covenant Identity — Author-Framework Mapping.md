@@ -6,7 +6,7 @@ tags: [resource-library, reference, contributor-mapping]
 
 # Covenant Identity — Author-Framework Mapping, Transmission Mechanisms & Community Diagnostic
 
-*Maps the resource library to specific components of the Disciple Fit Covenant Identity framework. Also contains: a five-mechanism clinical framework for intergenerational lie transmission (with coaching protocols), and a six-limiter diagnostic and coachable sequence for community coaching.*
+*Maps the resource library to specific components of the Covenant Identity framework. Also contains: a five-mechanism clinical framework for intergenerational lie transmission (with coaching protocols), and a six-limiter diagnostic and coachable sequence for community coaching.*
 
 > **Practitioner note — Tripp:** Paul David Tripp appears multiple times in the mapping tables below. He has a perceived legalistic tendency in video and popular content — behavioral application can shade into striving framing. Prefer Powlison when available. Pair with grace-forward sources (Fitzpatrick, Bridges, Keller, Miller/Serge) to balance the application layer wherever Tripp is cited.
 

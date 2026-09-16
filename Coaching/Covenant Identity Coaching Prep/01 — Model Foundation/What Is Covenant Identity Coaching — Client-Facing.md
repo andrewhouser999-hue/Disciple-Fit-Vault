@@ -115,4 +115,4 @@ The work of becoming who you already are in Christ is the work of a lifetime. Th
 
 ---
 
-*Covenant Identity Coaching | Andrew Houser*
+*Disciple Fit Coaching | Andrew Houser*

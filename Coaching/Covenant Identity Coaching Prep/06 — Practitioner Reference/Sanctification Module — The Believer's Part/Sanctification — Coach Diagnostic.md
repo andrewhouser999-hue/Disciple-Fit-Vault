@@ -10,7 +10,7 @@ tags:
 
 # COACH DIAGNOSTIC
 ## The Believer's Part in Sanctification
-### Covenant Identity Coaching — Disciple Fit
+### Covenant Identity Coaching
 
 **Purpose:** Use this document in session preparation to determine deployment readiness, identify the client's failure mode and formation gap, select the correct formation track, and recognize scope boundary signals before they become a crisis.
 **Not a script.** These are assessment frameworks and question banks. Coach judgment governs application.

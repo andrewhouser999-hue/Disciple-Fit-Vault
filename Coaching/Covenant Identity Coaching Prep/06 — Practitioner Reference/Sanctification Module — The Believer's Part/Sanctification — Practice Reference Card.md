@@ -10,7 +10,7 @@ tags:
 
 # PRACTICE REFERENCE CARD
 ## The Believer's Part in Sanctification
-### Covenant Identity Coaching — Disciple Fit
+### Covenant Identity Coaching
 
 **Two pages. Page 1 contains Tracks A and B. Page 2 contains Track C (Immunity to Change Map). Give the client only the page(s) for their assigned track. Coach: circle or mark the assigned track before distributing.**
 

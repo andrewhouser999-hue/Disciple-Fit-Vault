@@ -11,7 +11,7 @@ tags:
 
 # TEACHER'S MANUAL
 ## The Believer's Part in Sanctification
-### Covenant Identity Coaching — Disciple Fit
+### Covenant Identity Coaching
 
 **Module Classification:** Formation Framework Module
 **Mechanism Layer:** 3 (Diagnostic) + 4 (Covenant Truth) + 5 (Between-Session Disciplines)

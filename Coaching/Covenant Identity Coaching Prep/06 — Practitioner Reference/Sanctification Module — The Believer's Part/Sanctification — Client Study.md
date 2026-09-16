@@ -9,7 +9,7 @@ tags:
 ---
 
 # Your Part in How Change Actually Happens
-### Covenant Identity Coaching — Disciple Fit
+### Covenant Identity Coaching
 
 ---
 
