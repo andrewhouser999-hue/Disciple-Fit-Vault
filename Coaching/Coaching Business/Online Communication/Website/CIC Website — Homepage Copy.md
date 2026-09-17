@@ -90,7 +90,7 @@ tags:
 ### WHAT WAS ACTUALLY IN THE WAY
 **Stage:** 4 (Root Revealed)
 
-*Note, updated 2026-09-15: the story above was fully replaced (see that section's update note) — this redundancy question is still open and now applies to the new story instead. The new version doesn't state "identity" as its own takeaway the way the old draft's closing did, which may already resolve most of the overlap, but worth a direct side-by-side look before assuming it's fully resolved.*
+*Note, resolved 2026-09-17: checked directly against the story above — no redundancy. The story shows the identity-gap mechanism experientially (no diagnostic language, ends relationally: "I am His son... Here I am"); this section names that mechanism explicitly for the reader ("an identity gap") and bridges into the CIC offer. Show-then-tell, not a repeated point — both sections stay as-is.*
 
 > Here's the pattern underneath all eight doors above: your identity — who you actually believe you are, at the level that runs your reactions — got shaped by something other than what God says about you. Maybe it was a community that let you down. Maybe it was years of proving your worth through performance. Maybe both. Either way, the truth you know intellectually and the identity that's actually running your life haven't been the same thing for a long time.
 >
@@ -119,7 +119,7 @@ tags:
 - Not a technique or a formula — no verse, exercise, or declaration works by itself; this is a diagnostic, relational process, not a script.
 - Not a pitch dressed up as a conversation — a discovery call is a real conversation about whether this is the right next step, not a sales call with extra steps.
 
-*(Note: the former "Not fast, and not sold as fast" bullet moved to "What's on the Other Side of This," 2026-09-15 — see that section. Still open: whether this section retitles from "What This Is Not" to "What This Is," whether the remaining bullets get the same positive-first treatment, and the wording of the "custom surgical diagnostic" rework proposed for the "Not a technique or formula" bullet — "relational displacement" still needs clarifying before that one is finalized. See [[CIC Website — Messaging Drafts & Working Notes]].)*
+*(Note, resolved 2026-09-17: the former "Not fast, and not sold as fast" bullet was moved and rewritten into "What's on the Other Side of This," 2026-09-15 — see that section. The remaining four bullets above are the finalized wording, including the "Not a technique or a formula" bullet's diagnostic/relational-process framing. Section keeps its "What This Is Not" title — no retitle.)*
 
 ---
 
