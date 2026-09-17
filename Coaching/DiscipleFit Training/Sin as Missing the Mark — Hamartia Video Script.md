@@ -48,3 +48,5 @@ Per Andrew's 2026-09-16 decision (see memory: [[feedback_practice_separation]]):
 - Archery etymology of ἁμαρτία is a real root but not the NT's settled sense by Koine usage (root-fallacy risk, per James Barr) — frame on-camera as illustration, not definition.
 - "Glory of God" in Rom 3:23 as imago-dei/vocational glory is a defensible interpretive stance (companions: N.T. Wright, Second Temple Adam-glory tradition), not the only reading — fine for teaching content but not to be stated as uncontested exegesis if adapted into a practitioner-facing or written form.
 - The Heb 4:15 "every breath aimed at the Glory of God" line and the 2 Cor 5:21 "miss the mark" phrasing are devotional extrapolation/paraphrase, not translation — acceptable for spoken teaching, should stay clearly distinguishable from Scripture quotation if this becomes written/quotable content.
+
+
