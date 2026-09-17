@@ -63,6 +63,8 @@ Mark 11:22-24, Jesus says: *"Have faith in God... whoever says to this mountain,
 
 That's the same faith Jesus describes in Matthew 17:20 — faith the size of a mustard seed can move a mountain. It takes something like twenty-two to twenty-four thousand mustard seeds to weigh a single ounce. That's how small the seed is. And Jesus says that's the size of faith it takes. Not manufactured confidence. Not "I've done this before, so I know it'll work." Just enough real faith to ask, and to expect Him to answer.
 
+
+
 So here's where that leaves us. Do you know His will, and are you walking in His steps? Both. Not one or the other. Knowledge without walking it out is just information. Walking without knowledge is just guessing with confidence.
 
 Leaning on your own understanding, you will always find a reason to do something else. It'll sound wise. It'll sound responsible. It just won't be trust.
