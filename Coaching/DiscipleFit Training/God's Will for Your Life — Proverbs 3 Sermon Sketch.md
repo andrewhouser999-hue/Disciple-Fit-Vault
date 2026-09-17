@@ -78,6 +78,10 @@ So tell Him: any time, anywhere, any cost.
 *"Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."*
 
 ---
+Story Notes:
+*Story features are a confession, with humorous delivery.*
+Not listening to wise authority of an adult as a child. Unsavory outcomes, risk of life...The big concern is not just not listening to the adult but not listening to God's wise voice of authority. He knows, I have nothing. 
+
 
 ## Practice-architecture note
 
