@@ -43,6 +43,10 @@ So the real question isn't "how do I stop messing up?" It's "am I aimed at Him?"
 
 Per Andrew's 2026-09-16 decision (see memory: [[feedback_practice_separation]]): this is foundational content, saved to DiscipleFit as the delivery layer. CIC may draw on it as a resource alongside its own established content; the same core content would also work for Formation & Transition. Any reuse in those tracks should adapt *structure/medium only* (e.g., session-tool format for CIC, congregational teaching format for Formation & Transition) — not blend track framing into this document itself.
 
+## Sequence note — pairs with "Let God Order Your Steps"
+
+This piece ends on the aiming question: *"am I aimed at Him?"* [[God's Will for Your Life — Proverbs 3 Sermon Sketch]] is the natural next teaching, because it answers exactly that question. This piece diagnoses the problem as a life aimed at the wrong target — sin as an arrow flying hard and straight at something that isn't God. The sermon is the mechanism for fixing the aim: Proverbs 3:5-6's trust-and-acknowledge posture is what it actually looks like, day to day, to let God set the direction instead of aiming yourself. Same image, two halves of one teaching arc — this one names the miss, the other teaches the aim.
+
 ## Scrutiny notes (for revision before distribution)
 
 - Archery etymology of ἁμαρτία is a real root but not the NT's settled sense by Koine usage (root-fallacy risk, per James Barr) — frame on-camera as illustration, not definition.
