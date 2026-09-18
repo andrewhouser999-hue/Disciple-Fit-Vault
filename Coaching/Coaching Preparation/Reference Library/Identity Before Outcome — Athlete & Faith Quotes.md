@@ -57,3 +57,8 @@ tags:
 - **Ephesians 4:24** — *"Put on the new self, created to be like God in true righteousness and holiness."*
 - **2 Corinthians 5:17** — *"If anyone is in Christ, he is a new creation."* — Identity transformation as the theological ground for behavioral change.
 - **Colossians 3:10** — *"...put on the new self, which is being renewed in knowledge in the image of its Creator."*
+
+
+
+My Quotes 
+*Who killed Goliath?* (God, through David killed Goliath) God intended on raising up David and with His own sovereign hand He inaugurated David's new future with the kind of man David had been living out, having been the kind of Shepard that relies on God for the supernatural strength to kill a bear and lion with his hands for the purpose of saving a sheep. Not one would be lost when David is present and in charge. God is a giant slayer for those who trust God by faith. 

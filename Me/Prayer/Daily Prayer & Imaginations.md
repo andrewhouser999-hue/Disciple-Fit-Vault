@@ -118,3 +118,19 @@ Before praying, check the heart against these. Not a single scriptural list — 
 12. **Covenant unfaithfulness / treachery (marriage)** — Malachi 2:13-14
 13. **General hardness of heart / refusal to listen** — Zechariah 7:11-13
 
+
+## Imagination 
+I can easily imagine many bad future outcomes of failure. So I can also choose to imagine many good future outcomes of success. Here they are:
+- [ ] I see me with a listening heart towards the Lord
+- [ ] I see me receiving something from the Lord
+- [ ] I see Him giving me wisdom
+- [ ] I see me giving sermons on Covenant Identity, Formation (DiscipleFit)
+	- [ ] Championing - *Renew the Mind Never Touched by the Word*
+- [ ] I see me leading groups of men on Covenant Identity, Formation (DiscipleFit)
+	- [ ] Teaching - True Christianity, true transformation - *Be DiscipleFit Training Together, Beholding Together* 
+- [ ] I see me coaching individuals with the CIC framework.
+- [ ] I see me eventually training coaching students in CIC University
+- [ ] I see Church becoming the Ekklesia on Fire, on Mission, on
+	- [ ] *Church Formation & Transformation Training Camps*
+- [ ] I see me doing the work to acquire clients, students and speaking engagements.
+- [ ] I see me doing out of the norm things
