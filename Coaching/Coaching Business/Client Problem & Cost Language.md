@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "Original 17-problem list built April 2026 from ICF Global Consumer Awareness Studies, ICF Global Coaching Study (2023), Barna Group research, Christian Smith's *Soul Searching* (Moralistic Therapeutic Deism finding), LifeWay Research, and Theeboom/Beersma/van Vianen (2014) — see Research Foundation below. Common Experiences and the cross-problem relationship section added to #2, #3, #7, #10 on 2026-09-09 at Andrew's request, as the working basis for website messaging (multi-entry-point recognition copy per [[Disciple Fit — Marketing Charter]] Stage 2). Drawn from Dallas Willard (VIM — vision/intention/means, informational vs. transformational learning), James K. A. Smith (*You Are What You Love* — liturgies shaping love over propositional belief), Kegan & Lahey (Immunity to Change), Gendlin (felt sense / bio-spiritual focusing), and Aaron Beck / Jeffrey Young (cognitive-schema theory) — all Hypothesis-level pattern extrapolation per the CIC Target Market Definition & Messaging Generator's evidentiary discipline, not yet tested against real client/prospect intake data. #4 and #6 (Wilderness Christian's remaining two felt-cost leads) given the same treatment the same day, drawing on Winnicott (true self/false self), Nouwen (Life of the Beloved, already CIC's core contributor), and Bonhoeffer (Life Together) — all three already established in CIC's own trusted-contributor stack. Cross-Problem Relationship section extended to all six. Andrew should flag any experience that doesn't match what he's actually seen or would cut."
+basis: "Original 17-problem list built April 2026 from ICF Global Consumer Awareness Studies, ICF Global Coaching Study (2023), Barna Group research, Christian Smith's *Soul Searching* (Moralistic Therapeutic Deism finding), LifeWay Research, and Theeboom/Beersma/van Vianen (2014) — see Research Foundation below. Common Experiences and the cross-problem relationship section added to #2, #3, #7, #10 on 2026-09-09 at Andrew's request, as the working basis for website messaging (multi-entry-point recognition copy per [[Disciple Fit — Marketing Charter]] Stage 2). Drawn from Dallas Willard (VIM — vision/intention/means, informational vs. transformational learning), James K. A. Smith (*You Are What You Love* — liturgies shaping love over propositional belief), Kegan & Lahey (Immunity to Change), Gendlin (felt sense / bio-spiritual focusing), and Aaron Beck / Jeffrey Young (cognitive-schema theory) — all Hypothesis-level pattern extrapolation per the CIC Target Market Definition & Messaging Generator's evidentiary discipline, not yet tested against real client/prospect intake data. #4 and #6 (Wilderness Christian's remaining two felt-cost leads) given the same treatment the same day, drawing on Winnicott (true self/false self), Nouwen (Life of the Beloved, already CIC's core contributor), and Bonhoeffer (Life Together) — all three already established in CIC's own trusted-contributor stack. Cross-Problem Relationship section extended to all six. Andrew should flag any experience that doesn't match what he's actually seen or would cut. Part 3 (Failed-Solution Recognition, F1–F4) added 2026-09-18 at Andrew's request, growing out of a YouTube retention-strategy discussion — extrapolated from the same Willard VIM mechanism already sourced for #2/#7 and from Trust-Builder #3 in [[Disciple Fit — Marketing Charter]] (showing you understand why prior efforts didn't work), not new external research. Hypothesis-level, same evidentiary caveat as the rest of this document."
 tags:
 ---
 
@@ -279,6 +279,95 @@ A person could recognize themselves in one, several, or all six — they are six
 **Website UX implication:** Structure the site so a visitor can enter through whichever of the roughly 48 common-experience statements above (or the six umbrella problems) lands with the most precision — for example, a set of short, specific recognition statements such as "You don't know who you are outside of what you do," "You're surrounded by people and still feel completely alone," "You know what you believe and still can't seem to live it," "The anxiety comes back no matter how much you've prayed," "You're doing everything right and still feel flat," or "Who you are at church and who you are Monday through Friday are starting to feel like two different people" — each functioning as its own doorway. Regardless of entry point, the path converges on the same next step (the discovery call, the CIC offer), because all six ultimately point to the same identity-level root. This matches the Marketing Charter's Stage 2 "Recognition" mechanic — precision of language naming the exact interior experience — multiplied across enough specific variations that more visitors find their own words already written for them, without diluting the site into targeting everyone generically. Per the Marketing Charter's Governing Rule, none of these entry statements should name the root (identity, the institutional wound, sin patterns) — each stays at the felt-cost layer; the root is revealed only after the visitor has chosen an entry point and moved deeper into the site.
 
 **Before building this into actual site copy or navigation:** the Common Experiences above are Hypothesis-level, generated from established formation/psychology frameworks, not yet tested against real client or prospect language. Recommend running these past actual discovery-call notes, past client intake language, or a small round of prospect feedback before locking any of them into permanent site copy — per the CIC Target Market Definition & Messaging Generator's rule against presenting confident, well-written psychographic detail that isn't yet confirmed true of anyone.
+
+---
+
+## Part 3 — Failed-Solution Recognition (Why the Last Attempt Didn't Hold)
+
+*Added 2026-09-18, built for video use specifically — see [[_YouTube Channel — Status]]. Parts 1–2 above name the internal felt cost. This part names something different: why a specific prior attempt at help — therapy, coaching, pastoral wisdom, or broad Christian content — plateaued or faded instead of producing durable change. This operationalizes Trust-Builder #3 in the Marketing Charter (showing you understand why prior efforts didn't work is itself a trust signal) as its own doorway set, distinct from and not a replacement for the website's 8 existing doors.*
+
+**Standing guardrail, all four doorways below:** every one of these must be scripted as a mechanism explanation — why this modality's actual scope doesn't reach the identity-level root — and never as a critique of the modality, the practitioner, or the institution. This is the highest institutional-critique risk content in this document. Run every script past the Marketing Charter's guardrail checklist before recording, not after.
+
+---
+
+### F1. Therapy Went Quiet
+
+> "I did therapy. It helped — I mean that. But somewhere around month eight, the progress just stopped. I still have the tools. The thing underneath never actually resolved. It just went quiet."
+
+**Cost:** Quiet resignation that this is as good as it gets, paired with private confusion about why real, competent work stopped producing real change. Often mistaken for a personal failure to "do the work" rather than recognized as a scope limit.
+
+**Common Experiences** *(Hypothesis-level, extrapolated from the same Willard VIM mechanism sourced for #2/#7 — flag any that don't match what you've actually seen):*
+
+- **The Plateaued Client** — made real progress early (naming feelings, understanding triggers), then progress flattened for months while the underlying pattern stayed unresolved.
+- **The Toolkit Without Transformation** — has a full set of coping skills, uses them correctly under pressure, and privately knows the skills are managing the pattern rather than changing it.
+- **The Quiet Maintenance Case** — sessions shifted from real movement to check-ins, and both client and therapist settled into maintenance mode without ever naming it as a plateau.
+- **The Insight-Rich, Behavior-Unchanged Client** — can explain the origin of the pattern in precise clinical language and still reacts exactly the same way the next time the trigger shows up.
+- **The Discharged-but-Still-Aching Graduate** — completed a full course of treatment, was discharged as improved, and privately knows the ache that sent them in is still there, just better managed.
+- **The Modality-Hopper** — moved from CBT to EMDR to somatic work, each producing a short burst of relief followed by the same plateau, and has started to suspect the plateau isn't about the modality.
+
+**How This Relates:** therapy's actual scope is symptom regulation and cognitive/behavioral pattern-work — real, valuable, and often the necessary first layer. What each of these six shares is that the work was done correctly and still didn't reach the identity-level root, because that root was never therapy's job to reach. This is a scope observation, not a competence critique — never frame or imply the therapist failed.
+
+---
+
+### F2. Coached Into Clarity, Not Change
+
+> "I hired a coach. Real progress — clarity, goals, actual traction. And then, right when it counted, under real pressure, the same old pattern showed up like the coaching had never happened."
+
+**Cost:** Disillusionment with a process that visibly worked in every measurable way and still didn't hold where it mattered most — often followed by a private conclusion that they themselves are the unfixable variable.
+
+**Common Experiences** *(Hypothesis-level, extrapolated from the same Willard VIM mechanism sourced for #2/#7 — flag any that don't match what you've actually seen):*
+
+- **The Goal-Achieving, Pattern-Repeating Client** — hit every milestone the engagement set, and the identity-level reaction (the fear, the self-protection, the old story) fired the same way under real pressure as before coaching started.
+- **The Solid-Strategy Self-Saboteur** — has a sound plan, a competent coach, and real accountability, and still finds a way to stall or undercut themselves at the exact threshold moment that matters most.
+- **The Performance-Upgraded, Wound-Untouched Leader** — used coaching to get better at leading — presence, discipline, execution — without the identity story underneath the performance ever coming up.
+- **The Post-Engagement Relapse** — the pattern the coaching was hired to fix returns within weeks of the engagement ending, once the external accountability structure is gone.
+- **The Coach Never Asked** — worked with a genuinely competent coach on goals and strategy, and realized only afterward that no one ever asked the deeper identity question sitting underneath the stated goal.
+
+**How This Relates:** life coaching's actual scope is goal clarity, strategy, and accountability — a different layer than identity-level pattern change. Coaching done well produces exactly what these five got: real clarity, real traction. What surfaces under real pressure is evidence that clarity and traction were never going to reach a pattern rooted in identity, because the engagement was never diagnosing that layer. Frame as scope, not competence.
+
+---
+
+### F3. Given the Right Word, Still the Same Reaction
+
+> "Someone I trust sat with me, prayed with me, gave me exactly the right verse and the right counsel. I meant it when I agreed. And the very next time it mattered, I reacted the same way I always have."
+
+**Cost:** A specific, painful confusion: the counsel was true, the person giving it was trusted, and the reaction still didn't change — which can curdle into doubting either the counsel, the counselor, or one's own sincerity, when none of those is actually the problem.
+
+**Common Experiences** *(Hypothesis-level, extrapolated from the same Willard VIM mechanism sourced for #2/#7 — flag any that don't match what you've actually seen):*
+
+- **The Well-Counseled, Unchanged Client** — received sound, biblically accurate counsel from someone they trust, agreed with every word, and reacted identically the next time the triggering situation recurred.
+- **The Repeatedly-Prayed-For Pattern** — has been prayed for specifically and sincerely for this exact issue more than once, by people who clearly meant it, and the pattern is still there.
+- **The Right-Word-Wrong-Layer Case** — recognizes, in hindsight, that the word spoken over them was true and aimed correctly at the conscious belief, but the reaction it was meant to change lives somewhere the conscious belief doesn't reach.
+- **The Mentor's Honest Plateau** — has a genuinely wise mentor or pastor who has said the right things more than once, and both of them are quietly aware the counsel isn't landing where it needs to.
+- **The One-Sermon-Away Feeling** — keeps sensing the missing piece is close, almost within reach of the next sermon or the next conversation, and it never quite closes the gap when it arrives.
+
+**How This Relates:** in every one of these five, the wisdom given was correct and the person giving it did their part well. The mechanism gap is the same one Willard names for #2: truth spoken lands on the conscious, will-level belief; the reaction it's meant to change is governed somewhere else. One-on-one diagnostic work — finding exactly where a specific truth needs to land in a specific person's specific pattern — is a structurally different task than delivering the truth itself, and no amount of correct counsel substitutes for it.
+
+**Guardrail note — read before scripting this doorway specifically:** this sits closest to the institutional-critique line in the whole system. Never write or script it as "your pastor missed it" or "the church failed you." The counsel was right; the gap is diagnostic, not a moral or spiritual failure on either side — companion framing only, per the Marketing Charter's non-negotiable guardrail. Compare the already-approved framing: "This isn't competing with your pulpit — it's the one-on-one diagnostic layer a sermon structurally can't deliver" ([[Branding & Core Competency]]).
+
+---
+
+### F4. Read the Books, Did the Plan, Came Home the Same Person
+
+> "I've read the books. Finished the plan. Been to the conference that was supposed to change everything. I came home with a notebook full of notes and the same person I was when I left."
+
+**Cost:** A specific fatigue with the whole category of "transformation content" — not disbelief in the goal, but exhaustion with a format that keeps producing notes instead of change, plus quiet envy of other people's transformation stories they can't explain not having themselves.
+
+**Common Experiences** *(Hypothesis-level, extrapolated from the same Willard VIM mechanism sourced for #2/#7 — flag any that don't match what you've actually seen):*
+
+- **The Conference-High Crash** — had a real, felt spiritual high at a conference or retreat, came home resolved to be different, and was back to baseline within two or three weeks.
+- **The Program-Completer** — finished the reading plan, the book study, the 40-day challenge, checked every box, and can't point to anything that's actually different in how they live.
+- **The Well-Read, Unchanged Believer** — has a shelf of Christian growth books, has genuinely read and understood them, and privately knows understanding was never the thing missing.
+- **The Serial Restarter** — has started the same kind of "get serious about my faith" effort more than once over the years, each restart producing the same short burst and the same fade.
+- **The Everyone-Else's-Transformation-Worked Case** — watches other people's transformation stories, believes them, and privately doesn't understand why the same process hasn't worked on them.
+
+**How This Relates:** each format here — a book, a plan, a conference — is built to deliver information or a shared experience at scale, to everyone in the room at once, and does that job well, which is why the notes are good and the conference high is real. None of them is built to diagnose one specific person's specific pattern, because that was never the format's job. Same non-adversarial framing as F3: these are companions, not failures — the missing layer is one-on-one diagnosis, not a defect in the book, the plan, or the conference.
+
+---
+
+**How the Four Relate to Each Other:** each failed-solution doorway names a different modality — therapy, coaching, pastoral wisdom, broad Christian content — that did exactly what it was built to do. None of the four was built to diagnose a specific person's specific identity-level pattern and walk it through to the exact place it governs behavior. This is Disciple Fit and CIC's own positioning stated four different ways, generalized from the sermon-specific framing already approved in [[Branding & Core Competency]] to every modality a Wilderness Christian has likely already tried. None of these four doorways compete with or diminish the modality they describe; each explains why a real, competently delivered intervention still left the identity-level root untouched.
+
+**For video use:** each recognition quote above is written as a cold-open candidate, following [[Video 01 — Adaptation Plan]]'s pattern (hook before the channel intro card). "I already tried X and it didn't hold" carries more narrative tension on video than a felt-cost statement alone, because it promises the viewer an explanation for something they've already lived through and couldn't otherwise account for. Same convergence rule as the website's 8 doors: regardless of which failed-solution doorway a video opens with, the path converges on the same Stage 3–4 mechanism content and the same CTA.
 
 ---
 
