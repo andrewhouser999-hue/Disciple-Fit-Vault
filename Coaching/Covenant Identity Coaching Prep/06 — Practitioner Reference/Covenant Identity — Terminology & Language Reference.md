@@ -105,6 +105,29 @@ Having a strong spiritual or mysterious quality that evokes a sense of the sacre
 
 ---
 
+#### Monachopsis
+
+*mon-uh-KOP-sis*
+The subtle feeling of being out of place, as though you don't quite belong wherever you are. e.g. Despite the crowd and noise, she felt a quiet monachopsis — a sense of being a misfit in the life she was living.
+**Quote:** "You don't always need a reason to feel out of place. Sometimes, it's just part of your story."
+
+---
+
+#### Parochial
+
+*puh-ROH-kee-uhl*
+Having a limited outlook; narrow-minded; concerned only with one's own local area, group, interests, or pre-accepted thinking. e.g. His parochial Christian views prevented him from seeing an accurate biblical framework or worldview.
+
+---
+
+#### Philautia
+
+*fi-LAW-tee-uh*
+The love and care for oneself; a healthy sense of self-worth and self-acceptance. e.g. Taking time for your own happiness is not selfish, it's philautia.
+**Quote:** "You can't pour from an empty cup, that's not selfish that's philautia."
+
+---
+
 ## Part I — Hebrew, Aramaic & Greek Terms
 
 *Exegetical vocabulary cited across CIC's biblical-theological documents. Pronunciation guides are simplified, English-reader phonetic approximations (caps = stressed syllable) — not IPA and not identical to Modern Hebrew or Erasmian Greek pronunciation systems, though closest to standard seminary Erasmian/Biblical Hebrew academic convention. Alphabetized by transliteration.*
