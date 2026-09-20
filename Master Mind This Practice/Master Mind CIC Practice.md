@@ -59,6 +59,7 @@ tags:
 - [[#Scripture - Holy Spirit]]
 - [[#Real titrated trauma work depends on a practitioner's real-time capacity...]]
 - [[#From the Character Wound Diagnostic Tool's attachment mapping]]
+- [[#Communication]]
 
 ---
 C:\Users\Andre\.claude\projects\C--Users-Andre\ - location of recent Powershell Claude projects
@@ -99,6 +100,8 @@ This isn't therapy, and it isn't generic life coaching with a spiritual theme ad
 Shortest version (for a verbal answer at a networking event, where you have one breath):
 
 "I help people find the lie they've been living by and the false identity built on top of it — then rebuild from there, so they can finally become who they want to be."
+
+
 
 ## DEFINITION - Dallas Willard, Renovations of the Heart
 Spiritual Formation for the Christian basically refers to the Spirit-driven process of forming the inner world of the human self in such a way that it becomes like the inner being of Christ Himself.  Christian spiritual formation CSF is focused entirely on Jesus. Obediance is an essential outcome of Christian spiritual formation (John 13:34-35; 14:21) "Christ be formed within you" is the eternal watchword of CSF (Galatians 4:19.) by the Spirit (2 Cor 3:6)  Your R+ must go beyond the religious outward expressions (Matt 5:20)
@@ -530,3 +533,10 @@ From the Character Wound Diagnostic Tool's attachment mapping:
   - False Noble ↔ anxious-preoccupied (hyperactivation to signals of adequacy/approval)
 
   Note the file flags this mapping as "modifiable" — it's supplementary theoretical support (Ainsworth/Main), not structural to the typology itself.
+
+---
+
+## Communication
+"Coaching toward who you're becoming, not just what you're doing."
+
+"Renew the Mind Never Touched by the Word"
