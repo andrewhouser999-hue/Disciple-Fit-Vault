@@ -63,6 +63,7 @@ The full mathematical cross-product of these axes (2 × 4 × 6 × 3) is not a us
 **Deploy to every client, regardless of scenario:**
 - [[Covenant Identity — Pre-Session Preparation Guide]] (ALLb) — before Session 2, assigned once
 - [[Covenant Identity — Formation Mechanism Guide]] (P1) — after the Gap is named, Session 1 or early Session 2; re-issuable if resistance resurfaces later
+- [[Covenant Identity — God's Provision and Assurance — Client Reassurance]] (P1b) — at onboarding or reactively at first felt-inadequacy signal; re-issuable; wound-agnostic and Entry-Fork-agnostic, so it is usable as-is for S11 (Vision-Led) unlike the Formation Mechanism Guide above
 - [[Covenant Identity — Phase-Specific Reflection Guide]] (ALLd), Phase 1 section only
 - [[Covenant Identity — Alliance Pulse]] (ALLe) — Session 1 onward; **pilot instrument, not a validated measure** (see Finding K) — read as a leading-indicator signal, not a diagnostic score
 - [[Covenant Identity — Formation Self-Assessment]] (ALLg) — baseline administration at the end of Phase 1

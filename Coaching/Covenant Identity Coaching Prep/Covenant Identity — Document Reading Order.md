@@ -8,7 +8,9 @@ tags:
 
 # Covenant Identity Coaching Prep — Recommended Reading Order
 
-*Last updated: 2026-09-16 — [[Covenant Identity — Directing Identity Work to a Specific Sphere — Practitioner Reference]] added to Block 3 as item 64a (immediately after its parent, item 64, Cross-Domain Identity Congruence) — not renumbered, same convention as items 52a and 86a, to avoid breaking existing in-text "item N" cross-references.*
+*Last updated: 2026-09-20 — [[Covenant Identity — God's Provision and Assurance — Client Reassurance]] added to Block 8 as item 108a (immediately after its Phase 1 sibling, item 108, Formation Mechanism Guide) — not renumbered, same convention as items 52a, 64a, and 86a, to avoid breaking existing in-text "item N" cross-references.*
+
+*Previously updated: 2026-09-16 — [[Covenant Identity — Directing Identity Work to a Specific Sphere — Practitioner Reference]] added to Block 3 as item 64a (immediately after its parent, item 64, Cross-Domain Identity Congruence) — not renumbered, same convention as items 52a and 86a, to avoid breaking existing in-text "item N" cross-references.*
 
 *Previously updated: 2026-09-15 — [[P1c — Covenant Identity — Declared vs. Felt Qualities of God — Session Worksheet]] added to Block 6 as item 86a (immediately after its Phase 1 sibling, item 86, Phase 1 Session Tools) — not renumbered, same convention as item 52a, to avoid breaking existing in-text "item N" cross-references.*
 
@@ -203,6 +205,7 @@ Start with the meta-reference (design rationale) to orient the whole library, th
 106. [[Covenant Identity — Spiritual Disciplines Guide]]
 107. [[Covenant Identity — Between-Session Distress Protocol]] — three-tier distinction (Normal/Distress/Crisis); escalation decision tree to the Crisis & Referral Protocol
 108. [[Covenant Identity — Formation Mechanism Guide]] — client-facing psychoeducation on how formation works and why resistance is expected; Phase 1 deploy, re-issuable
+108a. [[Covenant Identity — God's Provision and Assurance — Client Reassurance]] — client-facing reassurance piece on God's provision (Phil 4:19, ESV); staple Phase 1 deploy at onboarding or reactively at first felt-inadequacy signal; includes a short spoken-core variant for in-session use; built 2026-09-20
 109. [[Covenant Identity — Pre-Session Preparation Guide]] — five-minute pre-session practice card; deploy before Session 2, assign once
 110. [[Covenant Identity — Calibrated Reading Guide]] — wound-type-calibrated bibliotherapy guide
 111. [[Covenant Identity — Post-Session Client Debrief Card]] — immediate post-session capture card; timing is the mechanism

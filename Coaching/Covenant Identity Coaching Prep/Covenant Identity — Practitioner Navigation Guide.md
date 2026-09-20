@@ -116,6 +116,7 @@ Reach for:
 
 **Between-session assignments in Phase 1:**
 - [[Covenant Identity — Formation Mechanism Guide]] — issue once the Gap is named; re-issuable if resistance resurfaces later
+- [[Covenant Identity — God's Provision and Assurance — Client Reassurance]] — give at onboarding or reactively the first time felt inadequacy/overwhelm surfaces; re-issuable; spoken-core variant included for in-session use
 - [[Covenant Identity — Pre-Session Preparation Guide]] — hand to the client before Session 2; assign once, universal across phases
 
 **Watch for:**

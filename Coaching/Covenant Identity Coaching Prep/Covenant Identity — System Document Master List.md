@@ -455,6 +455,9 @@ Three-tier distinction (Normal/Distress/Crisis) with a step-by-step client respo
 **✅ Covenant Identity — Formation Mechanism Guide.md**
 Client-facing psychoeducation guide: how formation works (2 Cor 3:18 governing frame), why it's slow (Ps 1 rootedness), why resistance is expected (wound-type patterns named per type), and the cooperation posture (Phil 1:6 closing anchor). Phase 1 deploy, re-issuable. Practitioner section covers deployment timing, per-type coach notes, and scope boundary. Built 2026-05-22.
 
+**✅ Covenant Identity — God's Provision and Assurance — Client Reassurance.md**
+Client-facing reassurance piece on God's provision (Phil 4:19, ESV): God's Father-heart posture toward a struggling client, the promise decoupled from performance/status, and an explicit caveat that provision may mean being sustained through an unresolved circumstance rather than the circumstance resolving as pictured — a design safeguard against the piece reading as a guaranteed-outcome promise. Three practices (Surrender, Daily Trust & Gratitude, Keep Moving/Rest). Staple Phase 1 deploy at onboarding or reactively at first felt-inadequacy signal, re-issuable. Includes a short spoken-core variant for in-session use. Built 2026-09-20.
+
 **✅ Covenant Identity — Pre-Session Preparation Guide.md**
 Client-facing five-minute pre-session practice card: three movements (Arrive/Orient/Open), phase-universal with per-type failure-mode notes, Ps 131:2 governing image. Deploy before Session 2, assign once. Built 2026-05-22.
 
@@ -608,10 +611,10 @@ Nine sections, one per fruit of the Spirit (love, joy, peace, patience, kindness
 | Phase 4 — Integration & Close | 1 | 0 | 0 |
 | Growth Tracking | 3 | 0 | 0 |
 | Practitioner Reference & Tools | 48 | 0 | 0 |
-| Between-Session Library | 21 | 0 | 0 |
+| Between-Session Library | 22 | 0 | 0 |
 | Resource Library | 3 | 0 | 0 |
 | AI Generation Prompts | 16 | 0 | 0 |
-| **Total** | **124** | **3** | **0** |
+| **Total** | **125** | **3** | **0** |
 
 *Count note: This update (2026-07-08) added 46 documents built between 2026-05-09 and 2026-07-08 that had never been logged here, discovered by diffing this list against the actual folder contents: 8 in Model Foundation (Practice Definition, Practice Descriptions Three Forms, Manifesto, Biblical Case for Inner Healing, the Mosaic Law support document, Theory of Change, The CIC Promise, The Promise Client-Facing), 1 in Business & Acquisition (Arc Location Diagnostic), 1 in Intake System (Airtable Schema Spec), 22 in Practitioner Reference & Tools (Identity-Before-Behavior Research Foundation, The Implicit Throughline, Isaiah 66:2b, four Theory of Change mechanism documents, Matched Declaration Architecture, the Reckoning Pattern, seven Psalms-triptych/narrative-framework documents, COMPLETE SYSTEM REFERENCE, Category Architecture Cross-Reference, Biblical Foundations Index, Set Your Mind on Things Above, Psychological Constructs Reverse Connection Reference, and Conditions for the Spirit's Sanctifying Work), 7 in Between-Session Library (Distress Protocol, Formation Mechanism Guide, Pre-Session Preparation Guide, Calibrated Reading Guide, Post-Session Client Debrief Card, Formation Self-Assessment, Accountability Companion Guide) plus the New Covenant Promise Map Generation Prompt, and 8 new AI Prompts pairing the between-session additions plus the Diagnostic Sequence Fluency Drill and the Biblical Foundations Index prompt. Also converted from Suggested to Done: New Covenant Promises — Comprehensive Reference (confirmed to exist on disk) and Lament Protocol (fulfilled by the already-built Lament Practice Guide). The 3 Suggested remaining: Biblical Foundation Reference — The 10 Layers (now substantially covered by the Biblical Foundations Index's anchor table), Pricing & Engagement Structure, and Schema-Specific Intervention Guides.*
 

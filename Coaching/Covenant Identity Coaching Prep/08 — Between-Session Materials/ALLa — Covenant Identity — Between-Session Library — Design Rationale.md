@@ -42,6 +42,7 @@ This document exists for three purposes:
 | Spiritual Disciplines Guide | 1–4 | Co-optation risks per type (primary value) | Medium | Architectural — disciplines as Means, Spirit as agent |
 | Between-Session Distress Protocol | 2–4 (deploy before Phase 2 begins) | Wound-type notes per type (Warrior/Hermit/False Noble) | Low (client-autonomous once issued) | High — grounds in covenant presence rather than coping |
 | Formation Mechanism Guide | 1 (deploy after Gap named; re-issuable) | Resistance patterns named per type | Low (assign once) | High — Spirit as agent of transformation throughout |
+| God's Provision and Assurance — Client Reassurance | 1 (onboarding, or reactively at first felt-inadequacy signal; re-issuable) | None — universal, wound-agnostic | Low (assign/read as needed) | High — provision framed as Spirit-sustained, decoupled from outward-circumstance resolution |
 | Pre-Session Preparation Guide | 1–4 (deploy before Session 2; universal) | Per-type failure mode notes only | Low (assign once) | Medium — Spirit-invitation as the opening posture |
 | Calibrated Reading Guide | 1–4 (assign one title at a time) | Full wound-type sections + universal | Medium (coach selects per phase) | Low-Medium — Spirit-dependent books, not Spirit-dependent practice |
 | Post-Session Client Debrief Card | 1–4 (every session; give before Phase 2) | Wound-type watch-fors practitioner-only | Low (client-autonomous once issued) | Low-Medium — Spirit-invitation posture; timing is the mechanism |
