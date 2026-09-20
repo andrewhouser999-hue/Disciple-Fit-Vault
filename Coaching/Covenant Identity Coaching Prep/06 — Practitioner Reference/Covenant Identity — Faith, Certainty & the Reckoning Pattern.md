@@ -108,6 +108,32 @@ Mark 9:24 — "I believe; help my unbelief!" — Jesus heals in response to *mix
 
 ---
 
-## 7. Open Question / Where I'm Uncertain
+## 7. Worked Example — Guilt/Shame Fusion and the Source-Interrogation Question (Genesis 3)
+
+**What this adds:** a diagnostic script that runs *before* the template above, for the specific case where a client's language fuses a specific failure into a global self-verdict — "I always mess things up," "that's just who I am," "I don't deserve X because I did Y." It isolates the lie by exposing that the self-verdict has no named source, then hands off into the standard Reckoning Pattern fields. It also demonstrates the Caution Check functioning as an actual gate rather than a passive template field — the memory note flagging this build named that gap directly.
+
+**Textual pattern (not a quotation):** Genesis 3:9–11 gives two distinct forensic questions from God — "Where are you?" and "Who told you that you were naked? Have you eaten of the tree...?" (ESV). The second question stays act-focused (the eating); Adam's own account of himself, by contrast, is global and relational — "I was afraid, because I was naked, and I hid myself" (3:10, ESV), not an admission of the specific act. The script below borrows the *form* of God's question — "who told you" implies a source outside God Himself — and applies it to the self-verdict a client has attached to a failure. This is an applied pattern built from the text's forensic structure, not a paraphrase of what God actually asked Adam. Say so if a client asks for the reference — the text asks about nakedness, not about being a mistake; the analogy is the coaching tool, not an exegetical claim.
+
+**Diagnostic script:**
+
+1. **Recognition trigger** — client collapses an act into identity: "I always...," "that's just who I am," "I don't deserve X because I did Y."
+2. **Guilt question (isolates the act):** "What did you actually do?" — press for something specific and behavioral, mirroring God's "have you eaten of the tree" (3:11).
+3. **Identity question (exposes the unsourced verdict):** "Who told you that means something about who you are?" Let the silence, or the named source that surfaces (a parent, a past voice, an accuser — never God), do the diagnostic work.
+
+**Provision counter-move:** Genesis 3:21 — God clothes Adam and Eve in garments of skin *after* pronouncing the curses and *before* expulsion (grace administered inside judgment, not instead of it), replacing the fig leaves they made for themselves. Use this as the bridge into "Already-True Reality" below: God's response to a real, named failure was adequate covering, not abandonment.
+
+### Applied template — "I Am a Mistake"
+
+| Field | Entry |
+|---|---|
+| **Lie** | "What I did means something is wrong with who I am — I am a mistake." |
+| **Already-True Reality** | In Christ, there is no condemnation; the failure was judged in Him, not held against the person. Indicative, not aspiration. |
+| **Scripture Anchor** | Romans 8:1 — "There is therefore now no condemnation for those who are in Christ Jesus." (ESV) See also 2 Corinthians 5:21. |
+| **Reckoning Practice** | Beholding (2 Cor 3:18) — return attention to the fact of the covering rather than re-litigating the failure. |
+| **Caution Check — applied** | Passes. Romans 8:1 states no-condemnation as a present, accomplished fact of union with Christ, not a future outcome the client is hoping to secure through belief-intensity. If the Already-True Reality here had instead been phrased as "I will stop making mistakes" or "I will become someone who doesn't fail this way," it would fail the check and belong in Affections Discovery, not this entry. |
+
+---
+
+## 8. Open Question / Where I'm Uncertain
 
 The grammatical force of ὡς ὄντα in Rom 4:17 is genuinely debated (Cranfield, Moo, et al.) — whether it's adverbial ("calls... as existing," i.e., causative) or simply reinforces "the not-being things" as a creation-ex-nihilo statement. This affects how *directly* Rom 4:17 itself maps onto personal identity declaration versus serving as theological backdrop (establishing who the God behind the promise is) while Rom 6:11 carries the direct application weight. This study leans toward the latter — Rom 4:17 as backdrop, Rom 6:11 as anchor — but that is an interpretive judgment, not a settled conclusion.
