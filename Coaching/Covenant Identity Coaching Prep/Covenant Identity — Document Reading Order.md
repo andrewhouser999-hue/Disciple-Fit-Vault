@@ -8,7 +8,9 @@ tags:
 
 # Covenant Identity Coaching Prep — Recommended Reading Order
 
-*Last updated: 2026-09-20 — [[Covenant Identity — God's Provision and Assurance — Client Reassurance]] added to Block 8 as item 108a (immediately after its Phase 1 sibling, item 108, Formation Mechanism Guide) — not renumbered, same convention as items 52a, 64a, and 86a, to avoid breaking existing in-text "item N" cross-references.*
+*Last updated: 2026-09-20 — [[Covenant Identity — Biblical Mechanisms of Transformation — Master Reference]] added to Block 3 as item 59a (immediately after its parent, item 59, Biblical Foundations Index) — not renumbered, same convention as items 52a, 64a, 86a, and 108a, to avoid breaking existing in-text "item N" cross-references.*
+
+*Previously updated: 2026-09-20 — [[Covenant Identity — God's Provision and Assurance — Client Reassurance]] added to Block 8 as item 108a (immediately after its Phase 1 sibling, item 108, Formation Mechanism Guide) — not renumbered, same convention as items 52a, 64a, and 86a, to avoid breaking existing in-text "item N" cross-references.*
 
 *Previously updated: 2026-09-16 — [[Covenant Identity — Directing Identity Work to a Specific Sphere — Practitioner Reference]] added to Block 3 as item 64a (immediately after its parent, item 64, Cross-Domain Identity Congruence) — not renumbered, same convention as items 52a and 86a, to avoid breaking existing in-text "item N" cross-references.*
 
@@ -114,6 +116,7 @@ Open with the biblical research document — it establishes the exegetical and t
 57. [[Covenant Identity Coaching — COMPLETE SYSTEM REFERENCE]] — single-view practitioner reference for the complete diagnostic and treatment system
 58. [[Covenant Identity — Category Architecture Cross-Reference]] — maps the ten-layer architecture to all 22 Identity Installer categories and all 12 Lie Eliminator lies
 59. [[Covenant Identity — Biblical Foundations Index]] — single index mapping each architectural/methodological decision in the model to its scriptural grounding and full-exegesis location
+59a. [[Covenant Identity — Biblical Mechanisms of Transformation — Master Reference]] — fast-lookup compression of the Biblical Foundations Index's implementation-layer mechanisms plus the Conditions doc's participatory mechanisms, each with a distinguishing test against its nearest counterfeit; built for live defense under challenge, not exegesis. Numbered 59a rather than renumbering the rest of this list, same convention as items 52a, 64a, 86a, and 108a.
 60. [[Covenant Identity — Set Your Mind on Things Above — Biblical Case]] — fills the mind-setting/rehearsal gap the Biblical Foundations Index names; read immediately after it
 61. [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]] — 24 psychological constructs mapped back to CIC diagnostic stage, phase, and tool; reverse-lookup direction (construct → CIC system)
 62. [[Covenant Identity — Identity vs. Trigger-Activated Content — Psychological Frameworks Reference]] — nine psychological frameworks (Spielberger, Markus, Beck, Bowlby/Ainsworth, Porges, Bower, Schwartz/IFS, Kegan & Lahey, McAdams) establishing the identity/trigger-activation distinction, with visual models; deeper theoretical treatment behind the Reverse Connection Reference's core-belief and cognitive-distortion entries; read immediately after it
