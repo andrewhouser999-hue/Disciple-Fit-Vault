@@ -194,7 +194,7 @@ Reach for:
 - [[Covenant Identity — Faith as a Mustard Seed (Matthew 17:20) — Practitioner Exegetical Reference]] — corrects the "I don't have enough faith" quantity misreading; use when a client's shame is organized around insufficient believing rather than what their trust is actually resting on
 - [[Covenant Identity — Faith or Fear — Diagnosing Vain Imagination and the Attributes of God]] — Discovery Call through early Phase 1, recurring lens through Phase 3: diagnoses fear-driven religious performance masquerading as faith and supplies a compact seven-attribute Scripture reference to displace it; use before deep work begins so later interventions don't land as more pressure
 - [[Covenant Identity — Externalization of the Christian Life — Diagnostic & Formation Reference]] — recurring lens, Discovery Call through Phase 4: diagnoses Christian practice collapsing into outward behavior/image while the interior person goes unformed; presupposes no wound and no particular engine (check Faith or Fear and the False Noble type separately rather than assuming either); includes its own covenant-truth answer (abide, not strive) and an explicit guardrail against treating a faithful client's visible practice as suspect
-- [[Covenant Identity — Biblical Mechanisms of Transformation — Master Reference]] — fast-lookup, not a deployment tool: reach for this any phase a client, peer, or pastor challenges the biblical basis of declaration/reckoning/rehearsal practice generally, rather than one specific technique
+- [[Covenant Identity — Mechanisms of Transformation — Biblical & Psychological Master Reference]] — fast-lookup, not a deployment tool: reach for this any phase a client, peer, or pastor challenges the biblical basis of declaration/reckoning/rehearsal practice generally, rather than one specific technique
 
 **Between-session worksheets:**
 - [[Covenant Identity — Deep Lie Work Worksheet]] — deploy when a specific lie is clearly operative and the client is ready for structured lie work
@@ -320,7 +320,7 @@ Reach for:
 | Why doesn't covenant truth land just because it was stated correctly? | [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] |
 | Why does between-session consolidation need repeated receptive return instead of affirmation repetition? | [[Covenant Identity — Consolidation Through Receptive Return — Mechanism]] |
 | Where does each architectural or methodological decision in the model come from, scripturally? | [[Covenant Identity — Biblical Foundations Index]] |
-| I'm being challenged right now on whether a technique is even biblical — what's the fast, defensible answer? | [[Covenant Identity — Biblical Mechanisms of Transformation — Master Reference]] |
+| I'm being challenged right now on whether a technique is even biblical — what's the fast, defensible answer? | [[Covenant Identity — Mechanisms of Transformation — Biblical & Psychological Master Reference]] |
 | How does the ten-layer architecture map onto the Identity Installer categories and Lie Eliminator lies? | [[Covenant Identity — Category Architecture Cross-Reference]] |
 | How do the 24 psychological constructs I already know map onto this system? | [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]] |
 | What does the Psalm 22-23-24 triptych add as an overlay on the Stage 1–4b sequence? | [[Covenant Identity — Psalms 22-23-24 Developmental Framework]] |
