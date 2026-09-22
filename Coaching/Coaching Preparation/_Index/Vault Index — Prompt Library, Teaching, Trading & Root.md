@@ -12,10 +12,14 @@ basis: primary-source
 
 ---
 
-## Teaching Lessons/
+## Biblical Readiness Hub/ (`Me/Biblical Readiness Hub/` — renamed from Teaching Lessons and merged with a separate root-level Teaching Lessons/ folder, 2026-09-22)
+
+Cross-track practitioner reference for biblical-topic grounding, used across CIC, RPA, and Formation & Transition sessions — not a client-facing tool. Kept deliberately separate from CIC's own `06 — Practitioner Reference/` folder, which stays scoped to CIC's own mechanism/telos vocabulary.
 
 - **Matthew 6.33 — Seek First the Kingdom.md** — Scholarly biblical research providing exegetical analysis, theological weight, intertextual connections, interpretive debates, and coaching application for Matthew 6:33 with focus on reorientation from anxiety to kingdom priority.
 - **Revelation 3.14-22 — Hot, Cold, or Lukewarm.md** — Scholarly biblical research on the Laodicean hot/cold/lukewarm text: Hemer's water-supply archaeology reframing "hot" as usefulness rather than felt zeal, Edwards/Piper/Willard on genuine vs. counterfeit spiritual affection, and coaching application for a "warm Laodicean" client profile.
+- **Christian Responses to Suffering — Prescriptions Over Presence.md** — Moved in 2026-09-22 from the now-retired root-level Teaching Lessons/ folder. Christian behavioral analysis of what is revealed when believers respond to another's suffering with "read your Bible, pray more, serve more" — covers anxiety management, functional theology, lament avoidance, Bowen differentiation, shame transfer, theology of suffering, and the incarnation gap.
+- **The Testing of the Heart — A Biblical Framework for Sanctification.md** — Built 2026-09-22, the hub's first entry under its new framing. Full biblical framework on why/how God tests the heart for sanctification — Hebrew/Greek testing vocabulary, the testing/discipline/temptation distinction, and a consolidated 6-category relational/couple extension flagged as design judgment rather than a textual claim.
 
 ---
 
