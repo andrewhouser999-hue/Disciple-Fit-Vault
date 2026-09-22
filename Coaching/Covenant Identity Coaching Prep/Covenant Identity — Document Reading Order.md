@@ -77,6 +77,8 @@ Open with the biblical research document — it establishes the exegetical and t
 
 20. [[Covenant Identity — Why the Heart Does Not Heal — Biblical Research]] — full exegesis: eight barriers with Hebrew/Greek terms, ANE/covenantal context, three-layer theological weight, interpretive debates, and coaching translation basis
 21. [[Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic]] — session-ready tool: eight barriers with signals, questions, and participation moves; diagnostic routing table; read immediately after the biblical research
+21a. [[Covenant Identity — What Blocks Hearing God's Voice — Biblical Research]] — seven scripturally-named self-protective refusal patterns behind breached (not lost) communion; standing-vs-communion distinction; read as a companion barrier-diagnosis genre to items 20-21, on a different presenting question (hearing feels blocked) than the diagnostic sequence proper. Backfilled 2026-09-22 — built 2026-07-20 but never added to this list.
+21b. [[Covenant Identity — Discerning God's Voice — Biblical Research]] — companion to item 21a answering a different question: once something is sensed, how does Scripture say to test whether it's God. Six converging indicators, seven named challenges to discernment (Elijah's expectation mismatch, 1 Kings 22's counterfeit certainty, the anxious self-examination paradox). Read immediately after 21a. Built 2026-09-22.
 22. [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] — cross-cutting synthesis of the implicit/explicit distinction across the whole diagnostic sequence; read before the Diagnostic Lens Transition Logic, per its own design
 23. [[Covenant Identity — Diagnostic Lens Transition Logic]]
 24. [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]] — biblical anchor for the receptivity precondition underlying the whole diagnostic sequence; secondary use as a Stage 1 diagnostic posture inventory and Hermit/False Noble formation text
@@ -201,6 +203,8 @@ Start with the meta-reference (design rationale) to orient the whole library, th
 99. [[Covenant Identity — Post-Session Integration Guide]]
 100. [[Covenant Identity — Character Wound Between-Session Practices]]
 101. [[Covenant Identity — Lament Practice Guide]]
+101a. [[Covenant Identity — What Blocks Hearing God's Voice]] — client-facing guide, assigned reactively when a client names prayer/hearing feels distant; routes to item 101 (Lament) when the presentation is closer to legitimate hiddenness than a nameable pattern. Backfilled 2026-09-22 — built 2026-07-20 but never added to this list.
+101b. [[Covenant Identity — Discerning God's Voice]] — client-facing companion to item 101a, for the different presenting question of whether something sensed was actually God. Built 2026-09-22.
 102. [[Covenant Identity — God-Representation Between-Session Practices]]
 103. [[Covenant Identity — Externalization Noticing Practice]] — noticing-based between-session companion to item 38, deliberately not a checklist/self-scoring instrument; reads immediately after its nearest sibling in form (God-Representation Between-Session Practices) rather than earlier, since both follow the same Phase 1-4 noticing/practice structure
 104. [[Covenant Identity — Scripture Saturation & Meditation Guide]]

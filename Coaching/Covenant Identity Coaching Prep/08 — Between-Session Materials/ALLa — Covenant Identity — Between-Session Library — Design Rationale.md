@@ -50,6 +50,8 @@ This document exists for three purposes:
 | Accountability Companion Guide | 2–3 (after wound work begins; before Phase 4) | Wound-type selection patterns client-facing | Medium (coach helps identify companion in session) | Medium — companion as fellowship discipline; real community frame |
 | What the Part Carries — Independent Formation Practice | Stage 4b (Phase 3 primary) | Safety stops calibrated to activation risk; no wound-type differentiation | Medium (requires pre-assignment safety review; debrief is primary session material) | High — new self in Christ as source of Declaration; Spirit-formed identity throughout |
 | Externalization Noticing Practice | 1–4 (recurring, not phase-exclusive) | No wound-type differentiation — pattern can appear with or without a wound | Low (single noticing question per phase; no scoring) | High — abiding, not self-generated effort, is the explicit mechanism (John 15:4-5) |
+| What Blocks Hearing God's Voice | 2 onward (assign reactively, not on a fixed schedule) | Per-wound-type misuse patterns (Warrior/Hermit/False Noble) practitioner-only | Low (single reactive assignment) | High — self-protective refusal named as a relational, not mechanical, breach of communion |
+| Discerning God's Voice | Any phase (assign reactively when uncertainty about a sensed word surfaces) | Per-wound-type deployment notes (Warrior treats it as a skill to master; Hermit self-disqualifies; False Noble performs tidy discernment) | Low (single reactive assignment) | High — content/fruit/confirmation tests presuppose the Spirit's actual activity, not a technique |
 
 ---
 

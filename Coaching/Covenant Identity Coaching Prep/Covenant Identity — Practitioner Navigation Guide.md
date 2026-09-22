@@ -164,6 +164,8 @@ Reach for:
 - [[Covenant Identity — Between-Session Support Materials]] — base practices; God-rep type preconditions
 - [[Covenant Identity — Character Wound Between-Session Practices]] — Phase 2 wound-type-specific practices; deploy after wound type is confirmed
 - [[Covenant Identity — Lament Practice Guide]] — introduce lament in Phase 2; precondition check required before assignment
+- [[Covenant Identity — What Blocks Hearing God's Voice]] — assign reactively, only after the client names in their own words that prayer/hearing God feels distant; check the Lament Practice Guide first if the presentation is closer to grief or hiddenness than a known pattern
+- [[Covenant Identity — Discerning God's Voice]] — assign reactively when the client names uncertainty about whether something they sensed was actually from God, a different presenting concern than the guide above
 - [[Covenant Identity — Post-Session Integration Guide]] — assign after any heavy session before the next between-session practice assignment
 - [[Covenant Identity — Accountability Companion Guide]] — deploy Phase 2-3, after wound work has begun and before Phase 4; help the client identify one formation companion in session
 
