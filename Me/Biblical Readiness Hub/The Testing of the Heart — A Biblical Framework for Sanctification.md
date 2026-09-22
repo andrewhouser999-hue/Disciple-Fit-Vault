@@ -127,15 +127,12 @@ Testing in Scripture is not God gathering information He lacks — it's God crea
 
 ## Key Sources for Further Reading
 
-*Flag on confidence: unlike the verse-specific citations in sibling hub documents, this list reflects general topical familiarity with these works rather than fresh, line-by-line verification against each one. Treat as a reading list, not sourced claims.*
+*Flag on confidence: unlike the verse-specific citations in sibling hub documents, this list reflects general topical familiarity with these works rather than fresh, line-by-line verification against each one. Treat as a reading list, not sourced claims. Lewis, Keller, and Elliot are deliberately not repeated here — see the cross-link below for verified quotes and confidence levels on all three.*
 
 | Source | Work | Relevance |
 |---|---|---|
-| C.S. Lewis | *The Problem of Pain* (1940) | Classic philosophical-theological treatment of suffering and divine purpose |
 | D.A. Carson | *How Long, O Lord? Reflections on Suffering and Evil* (1990) | Evangelical biblical-theological synthesis across the canon |
-| Timothy Keller | *Walking with God through Pain and Suffering* (2013) | Pastoral, contemporary, direct engagement with the "why" question |
 | Jerry Bridges | *Trusting God: Even When Life Hurts* (1988) | Providence and trust under adversity, practitioner-accessible |
-| Elisabeth Elliot | *Suffering Is Never for Nothing* (2019) | Devotional/pastoral, drawn from her radio teaching |
 | John Piper | *Providence* (2020) | Comprehensive treatment of God's sovereign action, including testing |
 
 ---
@@ -143,3 +140,4 @@ Testing in Scripture is not God gathering information He lacks — it's God crea
 ## Related
 
 - [[Christian Responses to Suffering — Prescriptions Over Presence]] — companion piece on how believers mishandle another's suffering; relevant when a client has already received bad "testing" theology from someone else before this conversation
+- [[Covenant Identity — Suffering and Purpose — Authorship Survey]] — CIC practitioner reference (`06 — Practitioner Reference/`) covering extra-biblical authorship on suffering and purpose (Lewis, Frankl, Elliot, Sittser, Nouwen, Bonhoeffer, Keller, Wright, Hick, Tedeschi & Calhoun, Breitbart), with verified quotes and confidence levels — go there for Lewis/Keller/Elliot instead of re-deriving from this document's lighter source list. Distinct scope: that document is secondary/extra-biblical literature paired with CIC's trauma-healing pathway; this document is canon exegesis of the broader testing-for-sanctification motif.
