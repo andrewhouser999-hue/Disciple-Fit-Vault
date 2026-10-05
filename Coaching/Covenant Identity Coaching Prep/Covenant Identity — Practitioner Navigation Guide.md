@@ -300,6 +300,21 @@ Reach for:
 
 ---
 
+## Cross-Cutting — Presence & Hearing Complaints
+
+*When a client says some version of "I can't feel God," "I don't hear from Him anymore," or "I don't know if what I sensed was Him" — at any phase:*
+
+- [[Covenant Identity — Covenantal Permanence vs. Felt Presence — Practitioner Reference]] — open first; sorts the complaint into one of five branches (normal dry season, disordered-affection crowding, covenantal-permanence collapse/attachment transfer, self-protective refusal, clinical) before choosing a response
+- [[Covenant Identity — What Blocks Hearing God's Voice]] — branch 4 (self-protective refusal); assign only after the client names a known, nameable pattern, not on a general hiddenness complaint
+- [[Covenant Identity — Lament Practice Guide]] — branch 1 (normal dry season); the correct destination when the presentation is closer to grief or waiting than to a pattern the client half-recognizes
+- [[Covenant Identity — Attachment Pattern Screener]] and [[Covenant Identity — God-Representation — Research Basis & Synthesis]] — branch 3 confirmation instruments (covenantal-permanence collapse/attachment transfer)
+- [[Covenant Identity — Discerning God's Voice]] — a related but distinct presenting question, not one of the five branches above: not "is God present/listening" but "was that sensed thing actually Him"
+- [[Covenant Identity — Crisis & Referral Protocol]] — branch 5 (clinical); screen early if flatness shows up outside the God-relationship too (sleep, appetite, general interest)
+
+> **Rule:** Don't default to the self-protective-refusal document without sorting the branch first — Scripture has an entire tradition (Ps 13, Ps 22, Ps 88) of the righteous experiencing God's apparent silence as formation, not correction.
+
+---
+
 ## Cross-Cutting — Going Deeper on Theory
 
 *When you need the theoretical grounding behind a technique or observation:*
