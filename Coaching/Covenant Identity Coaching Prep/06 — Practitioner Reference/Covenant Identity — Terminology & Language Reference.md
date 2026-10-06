@@ -1,6 +1,6 @@
 ---
 created: 2026-08-07
-basis: "primary-source — seeded from established CIC model definitions in [[Covenant Identity Coaching — Theory of Change]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]]; expanded 2026-08-07 via full-corpus sweep of Covenant Identity Coaching Prep (~157 files) for Hebrew/Greek exegetical terms, psychological/clinical constructs, and professional/methodological terms; structure adapted from [[Relational Performance Advisory — Terminology & Language Reference]]; Implicit Process (Implicit Level) entry added 2026-08-07, synthesizing [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] to make explicit the content-node-vs-register distinction neither source document states directly"
+basis: "primary-source — seeded from established CIC model definitions in [[Covenant Identity Coaching — Theory of Change]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]]; expanded 2026-08-07 via full-corpus sweep of Covenant Identity Coaching Prep (~157 files) for Hebrew/Greek exegetical terms, psychological/clinical constructs, and professional/methodological terms; structure adapted from [[Relational Performance Advisory — Terminology & Language Reference]]; Implicit Process (Implicit Level) entry added 2026-08-07, synthesizing [[Covenant Identity — The Implicit Throughline — Practitioner Orientation]] and [[Covenant Identity — Disordered Affections and the Diagnostic Entry — Mechanism]] to make explicit the content-node-vs-register distinction neither source document states directly; Depth-of-Change terms (Displacement, Dominance, Reconsolidation outcome level, Erasure) added 2026-10-06 from a design discussion with Andrew, building on Ecker and Bouton (2004)"
 tags: [practitioner-reference, terminology, language-reference, cic, hebrew, greek, glossary]
 ---
 
@@ -472,6 +472,22 @@ The love and care for oneself; a healthy sense of self-worth and self-acceptance
 
 **Reconsolidation failure** — Repeated reactivation of a belief without meeting all three conditions — the mechanism behind "I've worked on this for years and nothing changes."
 
+### CIC Depth-of-Change Vocabulary — Displacement, Dominance, Reconsolidation, Erasure
+
+*CIC's own working vocabulary for how deep a change goes, built on Ecker (reconsolidation) and Bouton (2004; extinction as new learning laid over an intact memory). These four are not published terms from either source. They are a design judgment, added 2026-10-06, and provisional until CIC settles whether its tools aim at updating the old schema or only at making a competing belief win. Ordered from shallowest to deepest.*
+
+**Displacement** — A new belief forms alongside the old one and competes with it. The old belief stays intact and can still win under stress, fatigue, or the original trigger. The secular analog is extinction (see the Extinction entry above), which depends on accumulated outcomes to keep the new belief winning. CIC's working claim is that CIC displacement differs in its competing object: Biblical identity grounded in a God whose love does not depend on outcomes (Rom. 8:38–39; Mal. 3:6). The *truth* is unconditional; *felt access* to it is conditional on the person's connection and the Spirit's work (Rom. 5:5; 8:16; Gal. 4:6). Theological and design judgment, not empirically tested. **Do not use "extinction" for erasure.** In learning theory, extinction is displacement.
+**See also:** Extinction (contrasted outcome) · Dominance · [[Covenant Identity — Functional vs. Confessional Theology — 20 Diagnostic Contrasts]]
+
+**Dominance** — The new belief reliably wins, and the old belief may still flicker briefly. CIC's working goal for this life. Verified per belief, never assumed, by three relapse tests adapted from Bouton: the change survives a new context, the passage of time, and a real-world hit that matches the original wound (reinstatement). A lapse is not evidence about the client's regeneration.
+**See also:** Displacement · Erasure
+
+**Reconsolidation (outcome level)** — The old schema itself is updated during the labile window, so the old emotional response can no longer be reproduced on demand. This entry names the *outcome*. The mechanism and its three conditions are under Memory reconsolidation above. Whether CIC's reactivation and juxtaposition steps aim at this outcome, or only at displacement, is an open design decision.
+**See also:** Memory reconsolidation · Three conditions for reconsolidation · Dominance
+
+**Erasure** — The distorted schema no longer fires. CIC's eschatological horizon (Phil. 1:6; 1 John 3:2), not a guarantee in this life. It targets the schema and not the autobiographical memory. Paul keeps the memory of persecuting the church while the shame loses its power (1 Tim. 1:13–15). It cannot be verified at the level of the whole system (Ps. 19:12; 1 Cor. 4:4), so it is confirmed per belief only, and never claimed as completeness.
+**See also:** Dominance · Reconsolidation (outcome level)
+
 ### Eugene Gendlin (with Klein, Mathieu, Kiesler) — Felt Sense / Experiencing / Focusing
 
 **Felt sense** — A holistic, pre-verbal, meaning-carrying bodily sense of a situation, present before language can adequately name it.
@@ -901,6 +917,7 @@ This expansion did more than transcribe what the source documents already say. S
 5. **Plain definitions supplied for terms the source material assumes as background knowledge.** The Clinical Presentation & Referral Vocabulary subsection (dissociation, C-PTSD, flooding, etc.) is used constantly in the Crisis & Referral Protocol as referral triggers, but rarely defined there — the Protocol assumes a licensed audience already knows these terms. This glossary adds working definitions, since the stated purpose here is learning, not just lookup by someone who already knows the field.
 6. **Cross-references used instead of duplicate definitions** wherever a term legitimately belongs to more than one part of this document (e.g., ACE, ITC, MI/OARS, IPNB, Window of Tolerance, Correspondence/Compensation Hypothesis) — each is defined fully once and pointed to from elsewhere, rather than repeated with slightly different wording in two places.
 7. **Bare theorist-name citations without an independently definable term were deliberately excluded** from Part II, to keep this a glossary of *vocabulary* rather than a duplicate bibliography — that material already lives in [[Covenant Identity — Author & Resource Reference]] and [[Covenant Identity — Author-Framework Mapping, Transmission Mechanisms & Community Diagnostic]].
+8. **Depth-of-Change terms added 2026-10-06.** Displacement, Dominance, Reconsolidation (outcome level), and Erasure were added under the Ecker cluster in Part II as CIC's own provisional vocabulary, not published terms. They exist to keep "extinction" from being used for two different things: the learning-theory sense (displacement) and the sense of a belief fully gone (erasure).
 
 ---
 
