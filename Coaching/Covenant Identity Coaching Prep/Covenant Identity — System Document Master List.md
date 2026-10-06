@@ -527,6 +527,9 @@ Practitioner reference mapping each author to the specific model layer and sessi
 **✅ Covenant Identity — New Covenant Promises — Comprehensive Reference.md**
 Practitioner-facing promise index organized by all ten covenant identity layers; per layer: schema countered, four targeted promises with text/covenant source/mechanism and schema connection, and a routing note to Promise Map 1's category. Includes a Connection Map to the Category Architecture Cross-Reference and Phase 2/3 tools. Built manually rather than via the Generation Prompt. Built 2026-05-22.
 
+**✅ Scripture-Based Bible Lessons for Sessions.md** (root)
+Running pool of short scripture-based lessons Andrew draws from during or between sessions; entry template plus lesson index. Each lesson carries use-when / do-not-use-when, one in-session move, one between-session practice, and limits of the text. Lesson 1: Elijah's repeated question (1 Kings 19), scripts, noise, and the low whisper, with the lawyer's repeated-question technique. Grows as Andrew adds lessons. Built 2026-10-06.
+
 ---
 
 ---
