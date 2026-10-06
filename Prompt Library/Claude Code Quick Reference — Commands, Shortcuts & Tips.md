@@ -70,6 +70,42 @@ tags:
 - **`Shift+Tab` to control permissions** — Cycle between auto-approve, ask-each-time, and manual modes on the fly.
 - **`/memory` check periodically** — Review stored preferences to keep Claude's behavior accurate over time.
 
+---
+
+## Research Modes — `/effort max` vs. `/deep-research`
+
+**The core difference:** `/effort max` changes how hard Claude *thinks*. `/deep-research` changes how much *work gets done* and how it is organized. They control different things and can be combined.
+
+| | `/effort max` | `/deep-research` |
+|---|---|---|
+| **What it changes** | Reasoning depth per step | Workflow: parallel subagents, many sources, a synthesized report |
+| **Scope** | Whole session until you change it | One research task |
+| **Searching** | Same as normal. Claude searches as much as it otherwise would. | Broad. Subagents split the question into angles and search each. |
+| **Output** | Normal answers, more carefully reasoned | A narrative report with synthesis across sources |
+| **Cost and time** | Slower and more tokens per turn | Much heavier. Several agents run at once. |
+| **Best at** | Judgment, analysis, stress-testing, catching errors | Coverage: comparing options, surveying a field, finding what exists |
+
+**Where each one fails:**
+
+- **`/effort max` alone** can reason very carefully about a thin set of sources. It does not go find more evidence on its own.
+- **`/deep-research` alone** gathers wide, but each step is reasoned at whatever effort level the session is set to. It also does not know Andrew's standards (ESV, the RPA evidence base, non-clinical scope).
+
+**How to choose:**
+
+- **"What exists on X?" or "compare these options":** `/deep-research`
+- **"Is this argument sound?" or "what's wrong with this design?":** `/effort max`, or `/scrutinize`
+- **Research feeding a coaching document:** `/coaching-research` (carries the vault's sourcing rules). Add `/effort max` if the synthesis is the hard part.
+- **High-stakes question (e.g., the trauma certification decision):** both. Set `/effort max` first, then run `/deep-research`.
+
+**Related research commands:**
+
+- `/health-research` and `/vet-source` — personal health research and source vetting
+- `ultrathink` (keyword inside a single prompt) — extra reasoning for that one turn only, a lighter alternative to `/effort`
+- "Use extended search" — tells Claude to use the slower, more thorough web search mode instead of the quick one
+- `/code-review ultra` — code review only, not research
+
+*Verify the exact `/effort` level names in the current Claude Code version with `/help` or by typing `/effort`.*
+
 **When instructing to save content.** 
 "Save this verbatim — deduplicate with note improvements."
 
