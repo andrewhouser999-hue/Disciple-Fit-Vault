@@ -534,6 +534,30 @@ Running pool of short scripture-based lessons Andrew draws from during or betwee
 
 ---
 
+## 13. Practitioner Development
+*Secular coaching craft, practice drills, and quick-reference companions for ongoing practitioner development — distinct from § 10's diagnostic/theoretical cluster. Consult as needed, not sequential reading. Note: this whole section was missing from this Master List until 2026-10-07, despite three of its five files predating that date — closed as a pre-existing indexing gap found while adding the other two.*
+
+---
+
+**✅ Covenant Identity — Practitioner Qualities & Skills for the Work.md**
+Narrative companion to the Practitioner Competency Framework: walks through the six competency domains (diagnostic reading, in-session explicit/implicit engagement, between-session tool assignment, scope/referral, coach formation) organized around the trained-skill vs. formed-capacity distinction. For practitioner self-assessment, supervision conversations, and drift checks. Built 2026-07-11.
+
+**✅ Covenant Identity — Wound-Led vs. Vision-Led — Architecture at a Glance.md**
+One-page fast-reference companion to the Diagnostic Lens Transition Logic's Entry Fork addendum — what differs and what doesn't between a pain-driven and a purely growth-driven client's diagnostic entry. For quick re-orientation before an ambiguous Discovery Call. Built 2026-07-12.
+
+**✅ CIC Practice — Missed Items Log.md**
+Running spaced-repetition log of questions missed across `/cic-l1`–`/cic-l6` practice runs, with corrected answers and per-run weak-spot pattern notes. Skim before a new practice run to prime recall on repeat-weak areas. Built 2026-07-17.
+
+**✅ Covenant Identity — Coaching Craft Reference — Co-Active, Life Coaching & Accountability.md**
+Translates the secular coaching craft behind Andrew's three coach-training commands (GROW/Motivational Interviewing/Appreciative Inquiry/Solution-Focused, Co-Active's Five Skills/Three Contexts/Being-Doing, and accountability craft) into CIC-specific in-session application — where each skill transfers directly, changes shape under CIC's diagnostic gates, or doesn't transfer at all. Identifies that two contributors (Kegan & Lahey, White & Epston) are already full CIC intervention modalities, not parallels to build toward. Built 2026-10-07.
+
+**✅ Covenant Identity — Coaching Craft Reference — Practitioner Design Notes.md**
+Documents the three-question method (General / Coaching craft / CIC application) and discipline check behind the Coaching Craft Reference above, so the same rigor can be reapplied when a future training session surfaces a new skill. Built 2026-10-07.
+
+---
+
+---
+
 ## AI Generation Prompts
 *Prompts used to generate system documents. Saved for reuse and adaptation.*
 

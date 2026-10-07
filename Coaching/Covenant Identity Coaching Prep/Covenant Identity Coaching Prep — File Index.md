@@ -130,6 +130,19 @@ One-sentence descriptions of every file, organized by subfolder.
 
 ---
 
+## Practitioner Development
+
+*Missing from this index entirely until 2026-10-07, despite three of its five files predating that date — closed as a pre-existing gap found while adding the other two.*
+
+- **Covenant Identity — Practitioner Qualities & Skills for the Work.md** — Narrative companion to the Practitioner Competency Framework: walks through the six competency domains organized around the trained-skill vs. formed-capacity distinction. For practitioner self-assessment, supervision conversations, and drift checks. Built 2026-07-11.
+- **Covenant Identity — Wound-Led vs. Vision-Led — Architecture at a Glance.md** — One-page fast-reference companion to the Diagnostic Lens Transition Logic's Entry Fork addendum. For quick re-orientation before an ambiguous Discovery Call. Built 2026-07-12.
+- **CIC Practice — Missed Items Log.md** — Running spaced-repetition log of questions missed across `/cic-l1`–`/cic-l6` practice runs. Built 2026-07-17.
+- **Covenant Identity — Coaching Craft Reference — Co-Active, Life Coaching & Accountability.md** — Translates the secular coaching craft behind Andrew's three coach-training commands into CIC-specific in-session application; identifies two contributors (Kegan & Lahey, White & Epston) as already-adopted CIC intervention modalities, not parallels to build toward. Built 2026-10-07.
+- **Covenant Identity — Coaching Craft Reference — Practitioner Design Notes.md** — Method and discipline check behind the Coaching Craft Reference, so future sessions can extend it with the same rigor. Built 2026-10-07.
+- **Covenant Identity — Practitioner Development — Index.md** — Folder-level index for this folder, closing a gap where nothing tracked its membership specifically. Built 2026-10-07.
+
+---
+
 ## 09 — Resource Library
 
 - **Covenantal Identity — Author & Resource Reference.md** — Annotated author and resource reference guide for the Covenant Identity model.
