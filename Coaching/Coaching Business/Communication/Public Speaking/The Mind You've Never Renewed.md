@@ -53,7 +53,7 @@ The mind is not a single room.
 
 When most of us think about the mind, we picture the part that reasons. The part that follows an argument, memorizes a verse, weighs a decision, listens to a sermon. That is a real and important part of your mind. But it is not the whole of it.
 
-Beneath that reasoning layer, there is another layer. Neuroscientists and psychologists have been studying it for decades. It is sometimes called the subconscious. Sometimes called the implicit system. What it is is the part of you that formed earliest — before you could reason, before you had language, before you could form a theological sentence about anything. It formed through experience. Through relationship. Through what it felt like to be young and small and entirely dependent on the people around you.
+Beneath that reasoning layer, there is another layer. Neuroscientists and psychologists have been studying it for decades. It is sometimes called the subconscious. Sometimes called the implicit system. This is the part of you that formed earliest — before you could reason, before you had language, before you could form a theological sentence about anything. It formed through experience. Through relationship. Through what it felt like to be young and small and entirely dependent on the people around you.
 
 And here is what matters most: this layer runs faster than your conscious mind. It processes your environment before your reasoning layer even wakes up. It determines your instinctive responses — to threat, to intimacy, to failure, to silence. It drives more of your daily behavior, and more of your daily experience of God, than most people realize.
 
