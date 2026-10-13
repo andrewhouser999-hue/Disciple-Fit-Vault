@@ -1,6 +1,6 @@
 ---
 created: 2026-05-22
-basis: "[[Covenant Identity — Practitioner Competency Framework]] — Domain 6 (Coach Formation) and Domain 3 (implicit-level engagement, countertransference as signal); [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — coach formation as clinical necessity, somatic monitoring; [[Exceptional Coaching Practice — What Is Missed, Meaningful & Important]] — presence quality and avoidance"
+basis: "[[Covenant Identity — Practitioner Competency Framework]] — Domain 6 (Coach Formation) and Domain 3 (implicit-level engagement, countertransference as signal); [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]] — coach formation as clinical necessity, somatic monitoring; [[Exceptional Coaching Practice — What Is Missed, Meaningful & Important]] — presence quality and avoidance; [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] — image-protective pattern watch added to Section 5 on 2026-10-13"
 tags:
   - practitioner-reference
   - coach-formation
@@ -140,6 +140,20 @@ Which pattern showed up in you today, and how?
 _______________________________________________
 
 What in this client's material touches your own wound history?
+
+_______________________________________________
+
+**Image-protective pattern watch (narcissistic pattern).** *Every coach carries some of this. The watch tracks what entered the room today. It is not a self-diagnosis.* See [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]], Guardrail 6.
+
+Check any that showed up:
+
+- [ ] I enjoyed the client's admiration or idealization of me more than I noticed at the time.
+- [ ] I felt defensive, hurt, or diminished when the client corrected me, doubted me, or pulled back.
+- [ ] I steered toward being impressive (an insight, a technique, a story) instead of serving the client.
+- [ ] I felt superior to this client, or envious of them.
+- [ ] I avoided a question or a silence because the answer might show me as inadequate.
+
+If any is checked: what was the client doing just before it appeared, and what did I need in that moment?
 
 _______________________________________________
 

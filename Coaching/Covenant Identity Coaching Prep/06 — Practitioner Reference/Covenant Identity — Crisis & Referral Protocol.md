@@ -1,6 +1,6 @@
 ---
 created: 2026-05-20
-basis: "ICF scope of practice standards; C-SSRS (Columbia Suicide Severity Rating Scale) — crisis severity framework; coaching ethics and documentation literature; [[Covenant Identity — Coaching Agreement]] — scope of practice definition; Judith Herman (Trauma and Recovery, 1992) and Bessel van der Kolk (The Body Keeps the Score, 2014) — complex trauma domain framework for Section 5a's pre-disclosure listening layer"
+basis: "ICF scope of practice standards; C-SSRS (Columbia Suicide Severity Rating Scale) — crisis severity framework; coaching ethics and documentation literature; [[Covenant Identity — Coaching Agreement]] — scope of practice definition; Judith Herman (Trauma and Recovery, 1992) and Bessel van der Kolk (The Body Keeps the Score, 2014) — complex trauma domain framework for Section 5a's pre-disclosure listening layer; [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] and DSM-5-TR — personality-disorder-level referral bullet added to Section 2 on 2026-10-13, closing a gap where this protocol never named personality-disorder presentations"
 tags: [practitioner-reference, crisis-protocol, scope-of-practice]
 ---
 
@@ -51,6 +51,7 @@ These do not require immediate action but do require a referral conversation wit
 - Bipolar presentation — cycling mood states, periods of elevated mood with decreased need for sleep, grandiosity, followed by depressive periods
 - Psychotic spectrum symptoms — loosened associations, ideas of reference, paranoid ideation, breaks with consensus reality
 - Severe dissociation — frequent or extended episodes of depersonalization/derealization, identity fragmentation beyond what IFS coaching can hold
+- Personality-disorder-level patterns — a long-standing pattern present across most areas of the client's life, with significant impairment or ongoing serious harm to others (for example, Narcissistic Personality Disorder). Coaching can hold trait-level patterns with care. It cannot assess or treat a personality disorder. Recognition guidance and draft referral indicators for narcissistic patterns are in [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]], Guardrail 2 (draft, pending scope-boundary supervisor review). Suicidal thoughts after a humiliation or failure go to Section 3, not this list.
 
 **Scope creep signals within the coaching engagement:**
 - The client consistently requires crisis-level support between sessions (frequent texts, urgent messages, emotional emergencies)
@@ -381,6 +382,7 @@ Before your first client engagement:
 | Judith Herman | Clinical trauma theory | Six-domain complex trauma framework (affect regulation, self-concept, relational patterns, consciousness/dissociation, somatic, meaning-making) — basis for Section 5a's pre-disclosure listening layer, later folded into ICD-11 CPTSD | Foundational clinical text (*Trauma and Recovery*, 1992); widely adopted, not a validated screening instrument |
 | Bessel van der Kolk | Clinical trauma theory | Implicit/somatic storage of trauma as distinct from explicit narrative memory — basis for why complex trauma often isn't self-recognized and surfaces as somatic/behavioral pattern rather than reported symptom | Widely cited clinical synthesis (*The Body Keeps the Score*, 2014) |
 | [[Covenant Identity Coaching — Coaching Agreement]] | Internal document | Scope of practice definition given to client at onboarding; this protocol gives the coach the operational language and criteria behind that scope statement | Internal primary source |
+| American Psychiatric Association — DSM-5 / DSM-5-TR (Narcissistic Personality Disorder) | Diagnostic manual | Definition of personality-disorder-level (long-standing, pervasive, with impairment) behind Section 2's personality-disorder bullet; used for association only, since coaches do not diagnose | Authoritative diagnostic manual; applied by licensed clinicians only |
 | National Domestic Violence Hotline (1-800-799-7233) | Crisis resource | Named referral resource in Section 3 and 4 | — |
 | 988 Suicide & Crisis Lifeline; Crisis Text Line (741741) | Crisis resource | Named referral resources in Sections 4 and 9 | — |
 
@@ -394,6 +396,7 @@ Before your first client engagement:
 | [[Covenant Identity — Intake Addendum (Coach)]] | → inbound | Pre-engagement screening data (Q1, Q7, Q8, Q10 responses); intake is where the "coaching or clinical first?" question is most often decided | The intake screens for fit; this protocol governs what happens when a clinical presentation surfaces mid-engagement, not just at intake |
 | All Phase Session Tools (Docs 33–36) | → inbound | The session context in which referral triggers most commonly surface — particularly Phase 2 wound mapping, where wound material closest to the clinical boundary is approached | This protocol is not Phase 2 specific; it applies across all phases and pre-session engagement |
 | [[Covenant Identity — Session Growth Notes Template]] | → outbound | Documentation requirements in Sections 7 and 8 feed into the documentation practices established by the Growth Notes Template | Session Growth Notes ≠ crisis documentation; Section 7 specifies that crisis documentation is kept separately |
+| [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] | → outbound | Section 2's personality-disorder-level bullet points there for recognition guidance, the three registers of the word (everyday label / trait-level pattern / clinical disorder), and draft referral indicators for narcissistic patterns | The reference's trait-level guidance is not a license to hold a personality-disorder-level presentation; its referral indicators are a draft pending scope-boundary supervisor review, and a [P]-tagged claim there never decides a referral |
 
 ---
 

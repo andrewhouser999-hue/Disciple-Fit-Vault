@@ -460,7 +460,7 @@ When you encounter a construct in intake language, session material, reading, or
 **How CIC engages:** The False Noble wound type (ambivalence, performance superiority, false competence) maps most closely to narcissistic defense structure. The Self-Deception barrier in Why the Heart Does Not Heal addresses the protective function of grandiosity — the person cannot see their false identity because they have constructed a self that does not need to. The coach must recognize the wound beneath the presentation and resist the False Noble's characteristic pull toward performance-focused sessions.
 **Theory of Change Node:** Node 2 (the self-deception barrier must be addressed before diagnostic precision is possible) → Node 3 (felt inadequacy is particularly costly for the False Noble — the grief of the performance-constructed self failing is the highest-stakes ask in this wound type)
 **Primary tools:** Character Wound Diagnostic (False Noble type); Why the Heart Does Not Heal; Self-Supervision Template
-**Key files:** [[Covenant Identity — Character Wound Diagnostic Tool]], [[Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic]], [[Covenant Identity — Self-Supervision Template]]
+**Key files:** [[Covenant Identity — Character Wound Diagnostic Tool]], [[Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic]], [[Covenant Identity — Self-Supervision Template]], [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] (governing language, scope, and evidence rules for this entry)
 
 ---
 
