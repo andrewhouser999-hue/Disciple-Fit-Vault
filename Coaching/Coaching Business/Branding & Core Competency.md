@@ -1,6 +1,6 @@
 ---
 created: 
-basis: "TBD (mixed historical brand notes, unapproved); Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09; Supporting Line — Identity/Relationship Diagnostic Summary basis: [[Client Problem & Cost Language]] 'What the Full List Reveals' closing synthesis, saved as brand-messaging supporting verbiage at Andrew's request, 2026-09-09. Updated 2026-09-12: the personal-story section's rewrite basis is [[My Story.md]]'s 2026-09-11 'Institutional Wounds, Compressed Working Draft,' per Andrew's direct instruction to include it now, pending legal review — not yet cleared for live publish. Also fixed a stale 'all four problems' reference (leftover from an earlier 4-door draft) to 'all eight' in the 'What Was Actually in the Way' section, to match the current 8-door set. Updated 2026-09-15: the 2026-09-11 story was withdrawn from legal review and replaced with a new personally-authored 'story of stories' (Officer-commission decline + the CIC build as its own testing season), developed through direct collaboration this session — see [[CIC Website — Messaging Drafts & Working Notes]] for both the verbatim authorship and the edited version side by side. Andrew's own call that this version needs no legal review, since it names no identifiable church, leader, or conflict."
+basis: "TBD (mixed historical brand notes, unapproved); Video Marketing Stance section basis: marketing-communications advisory conversation, 2026-10-13; Word Within section basis: brand-naming conversation, 2026-07-21; CIC Messaging Architecture (name-retention) section basis: brand positioning conversation, 2026-08-24; Wilderness Christian — Homepage Copy (Doorway Design) section basis: [[Wilderness Christian]] segment profile + [[Client Problem & Cost Language]] #2/#3/#7/#10 Common Experiences + [[My Story.md]] + [[Disciple Fit — Marketing Charter]], 2026-09-09; Supporting Line — Identity/Relationship Diagnostic Summary basis: [[Client Problem & Cost Language]] 'What the Full List Reveals' closing synthesis, saved as brand-messaging supporting verbiage at Andrew's request, 2026-09-09. Updated 2026-09-12: the personal-story section's rewrite basis is [[My Story.md]]'s 2026-09-11 'Institutional Wounds, Compressed Working Draft,' per Andrew's direct instruction to include it now, pending legal review — not yet cleared for live publish. Also fixed a stale 'all four problems' reference (leftover from an earlier 4-door draft) to 'all eight' in the 'What Was Actually in the Way' section, to match the current 8-door set. Updated 2026-09-15: the 2026-09-11 story was withdrawn from legal review and replaced with a new personally-authored 'story of stories' (Officer-commission decline + the CIC build as its own testing season), developed through direct collaboration this session — see [[CIC Website — Messaging Drafts & Working Notes]] for both the verbatim authorship and the edited version side by side. Andrew's own call that this version needs no legal review, since it names no identifiable church, leader, or conflict."
 tags:
 ---
 
@@ -379,6 +379,24 @@ Everyone teaches *that* the kingdom is the answer. No one has built the accessib
 
 **The position:**
 The theology is well-established, which means the ground is credible. The practical coaching entry point is unoccupied. "Heaven First" is yours to take.
+
+---
+
+## Video Marketing Stance — Distinctiveness Over Volume (2026-10-13)
+
+*Basis: marketing-communications advisory conversation, 2026-10-13. This section holds the brand-level principle only. Channel mechanics (pillar vs. deep-bench content, flood response, retention) live in [[_YouTube Channel — Status]]. The no-continuous-cadence constraint lives in [[Disciple Fit — Marketing Charter]]'s Brand Type Rule. Neither is restated here.*
+
+**The principle:** a message that is honest, dynamic, unique, and persuasive, and that took real time to make, earns more trust than a high count of interchangeable clips. The sameness of mass-produced expert content is the problem. Volume itself is not.
+
+**Why it fits this brand:** the service is high-trust and high-consideration. Buyers are judging whether the practitioner is credible and safe. Depth shows that. Frequency does not.
+
+**The test for any piece:** could another expert in this space have said this? If yes, it is not distinct enough to publish. Distinct means it carries something only this practice holds, such as the Wipe Off Before Wipe On message or the "scaffolding of every ceiling you hit" language above.
+
+**Two guardrails against over-applying the principle:**
+- **Slow is not the same as silent.** Waiting for a perfect piece and publishing nothing is the failure mode of this stance. A distinct piece that is never released builds no recognition.
+- **One strong piece rarely builds recognition alone.** Audiences and platform algorithms need repeated, consistent exposure to the same point of view. Consistency of message matters more than frequency of posting.
+
+**Repurposing rule:** cutting one strong piece into shorter pieces is acceptable only when each cut still carries the same point of view. Shorts built from the existing recognition doors already follow this rule. Cutting generic tips into clips does not.
 
 
 **Personal Branding Notes** - unapproved, incomplete content 

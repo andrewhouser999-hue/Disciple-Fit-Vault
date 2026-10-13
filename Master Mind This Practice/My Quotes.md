@@ -1,1 +1,5 @@
 People must be able to see each other to love one another, you cannot love what you cannot see. Filters must come into alignment with Christ in order to see one another accurately to love with His precise love. 
+
+Don't love your job, job your love.
+
+Don't face your fears, fear your face.

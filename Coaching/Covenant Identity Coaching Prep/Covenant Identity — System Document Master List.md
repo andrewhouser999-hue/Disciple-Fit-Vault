@@ -7,7 +7,9 @@ tags: [system-reference, master-list, practitioner-reference]
 # Covenant Identity Coaching — System Document Master List
 *A complete inventory of all documents in the Covenant Identity Coaching system, organized by category and roughly chronological order of use within an engagement. Status: Done or Suggested.*
 
-*Last updated: 2026-10-13 — [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] added to the Practitioner Reference section. The counts below (124 done + 3 suggested across 13 sections) were last reconciled 2026-07-08 and have not been recounted.*
+*Last updated: 2026-10-13 (backfill) — 37 documents built between 2026-07-10 and 2026-10-07 that had never been logged here were backfilled, found by an audit that compared every file in the folder tree against this list and the Document Reading Order: 2 in Model Foundation, 1 in Intake System, 1 in Phase 2, 30 in Practitioner Reference & Tools (including the 7-part Co-Regulation set), 2 in Between-Session Library, and 1 in Practitioner Development. The Summary Status table was recounted from the entries themselves (196 done + 3 suggested across 14 sections); it had last been reconciled 2026-07-08. Not logged, by design: the root navigation hubs (How to Communicate CIC — Index, Practitioner Navigation Guide, File Index) and the two Lesson Drafts files.*
+
+*Previously updated: 2026-10-13 — [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] added to the Practitioner Reference section.*
 
 ---
 
@@ -65,6 +67,12 @@ Client-facing companion to The CIC Promise: the promise stated directly to the c
 **✅ Biblically Integrated Covenant Identity Coaching — Framework.md**
 *(Located in Coaching Business folder)*
 Original 14-section framework document. The conceptual origin of the model. Predates the Full Model Reference. Overlap is intentional — this is the development record.
+
+**✅ Covenant Identity Coaching — Theological-Formation Contributor Stack.md**
+Twelve-layer practitioner doctrinal and change-theory reference (covenant structure → covenantal telos → anthropology → formation methodology → grace-forward change theory → operational change framework → affections theory → psychological mechanism → character diagnostic → epistemological bridge → doctrine of Scripture's covenant authority → implicit belief reconsolidation mechanism), with sourced quotes for the covenant-authority layer and a standing lament/protest caution. Distinct from the Author & Resource Reference in the Resource Library. Migrated 2026-07-21 from Claude's memory system into the vault, where it gets backup and indexing; a Layer 12 addendum ("The Presenting Scripture Variable") was added 2026-08-07. Built 2026-07-21 (content accumulated from 2026-05). Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity Coaching — Peer Practitioner Briefing.md**
+Synthesis for explaining CIC to a fellow Christian practitioner with no prior exposure to the model. Opens with the biblical foundation (covenant grammar, Christ's mission in Isaiah 61/Luke 4, inner-man texts, new covenant heart texts) before the three-discipline architecture, mirroring the order in which the model was actually developed. Then covers the identity-precedes-behavior argument, the full diagnostic sequence, the Theory of Change mechanism, the Integration Rationale, and "what this is / is not" contrast charts (vs. therapy, vs. spiritual direction). Has a companion HTML Artifact (URL in the file's frontmatter). A Support File Map (§ 12) was added 2026-07-27. Built 2026-07-14. Backfilled into this list 2026-10-13; it was already item 14 in the Document Reading Order.
 
 **🔲 Biblical Foundation Reference — The 10 Layers**
 Each of the ten covenant identity layers mapped to their specific biblical texts with exegetical depth. Not a devotional — a practitioner reference giving the coach textual and theological substance behind each layer. Supports grounded declaration work and prevents the layers from functioning as slogans rather than rooted truth. *Substantially fulfilled by the Biblical Foundations Index (built 2026-06-12, Section 10 below), which includes a ten-layer architecture anchor table — remains open only if deeper per-layer exegesis beyond that table's scope is still wanted.*
@@ -134,6 +142,9 @@ Field-level schema for the Airtable base backing the two-tier intake system: Cli
 
 ---
 
+**✅ Covenant Identity — Session Notes Capture — Tally Build Guide.md**
+Coach-only (not client-facing) Tally form for pasting or dictating raw session notes within 24 hours of each session, feeding Airtable Table 5 (Session Notes) through a Make.com → Claude API pipeline instead of Tally's native Airtable integration, since Raw Notes must pass through Claude before becoming a row. Three fields: Client, Session Date, Raw Notes. Includes a required de-identification step: the Claude API receives only the Client Code, session date, and raw notes, never the real name. The Make.com build is spec only and not yet done. Built 2026-07-31; de-identification section added 2026-08-23. Backfilled into this list 2026-10-13.
+
 ---
 
 ## 5. Phase 1 — Covenant Orientation (Sessions 1–2)
@@ -170,6 +181,9 @@ Practitioner reference for working with the surfaced God-representation across a
 
 **✅ Covenant Identity — Phase 2 Session Tools (Wound Mapping).md**
 Full practitioner session tool document. Includes: phase job description (with Phase Handoff Note from Phase 1), session structure, primary question library (25+ questions with coach notes), somatic tracking and schema activation observation guide, 7 common pitfalls with navigation, integration notes, and transition marker.
+
+**✅ P2-3a — Covenant Identity — Witnessing Repentance — Session Worksheet.md**
+Coach-facilitated in-session tool (not take-home) operationalizing the Indwelling Sin and Witnessing Repentance mechanism document: a five-movement guided arc (Name the Specific Thing → Ps 139:23-24 witnessing prayer → Jer 2:13 cistern/fountain reframe → 1 John 1:9 confession → Luke 15:17-19 directional turn). Built after a /scrutinize pass concluded that a full client checklist or typology tool was unsafe (self-typing and identity-collapse risk), while a single coach-narrated prayer sequence with no categories shown to the client resolves it. Deployment is gated to Stage 3+, an established alliance, and a specific (not global) presenting pattern. Spans late Phase 2 into Phase 3; typically precedes the Parts & Burden Discovery worksheet. Built 2026-07-20. Backfilled into this list 2026-10-13.
 
 **🔲 Schema-Specific Intervention Guides**
 One guide per primary schema: Defectiveness/Shame, Unrelenting Standards, Emotional Deprivation, Abandonment/Instability. Each guide covers: how the schema presents in a coaching context, its specific maintenance behaviors (surrender/avoidance/overcompensation), its relationship to covenant identity (which layer it most directly severs), and targeted intervention questions and approaches within the covenant frame.
@@ -402,6 +416,96 @@ Seed practitioner reference (not a session tool, not client-facing) governing ho
 **✅ Covenant Identity — Parts & Burden Discovery — Session Worksheet.md**
 Coached Stage 4b session worksheet: seven sections (Activate, Name the Pattern, What Is the Pattern Protecting, Meet the Part, What God Says, Declaration, Invitation) facilitated by the coach in-session; the client writes; the completed worksheet is handed off for between-session formation practice. Coach instruction sidebars throughout with scope alerts. ITC four-column backbone (Kegan/Lahey), IFS curiosity posture (Schwartz), reconsolidation activation requirement (Ecker/LeDoux), Lie Eliminator format. For use when explicit covenant truth is intellectually received but not landing at the felt level — Stage 4b only.
 
+**✅ Covenant Identity — Terminology & Language Reference.md**
+CIC glossary (practitioner-only for now; structure adapted from the RPA Terminology & Language Reference). Holds CIC-internal terms, an Explanatory Terminology section of general vocabulary words, and three major parts: Part I, about 92 Hebrew/Aramaic/Greek exegetical terms with pronunciation guides (none existed in the source documents before); Part II, psychological and clinical constructs organized by contributor (Young, Kegan & Lahey, IFS, attachment theory, Thompson/Siegel, Porges, AEDP, Ecker, Gendlin, Allender, McAdams, Beck/Burns, and others); Part III, professional, methodological, and organizational terms (ICF, ACBC/CCEF, QPR, C-SSRS, ITC, ESV/KJV, and others). An Editorial Notes section records what the sweep improved beyond transcription. New vocabulary is added here rather than in new files. Seeded and expanded 2026-08-07 by a full-corpus sweep; Depth-of-Change terms added 2026-10-06. Built 2026-08-07. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — False Covenant Objects & False Identity Structures — Terms Reference.md**
+Focused terms companion (not a mechanism document) to the Disordered Affections mechanism: definitions of both terms, a discrimination test (the object question versus the structure question) for telling them apart in session, a composite worked example walking Layers 1–5 of the Affections Discovery Process to precise Stage 2 naming, one Scripture anchor per term (Ps. 20:7; Gen. 3:7,10), and a misdiagnosis pitfall (naming the presenting behavior instead of the structure producing it). Built 2026-08-07. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Disordered Affections as Idolatry — Biblical Case & Practitioner Defense.md**
+The general theological case, prior to and distinct from the God-Exclusion Map's narrower functional-exclusion diagnostic, that misguided, disordered, or controlling affections are a form of idolatry with no physical idol required (Ex 20:3, Matt 22:37, Matt 6:21, Col 3:5, and the Hosea/Jeremiah/Ezekiel spiritual-adultery pattern). Includes a disordered/misdirected/controlling taxonomy (an original organizing synthesis, flagged as such), the diagnostic question "what do I believe I must have to be whole, secure, or truly happy," a gift-versus-dependence distinction, client-facing translation guidance (do not lead with the word "idolatry" in session), and an anticipated-objection section defending against "this just relabels ordinary love as sin." Built 2026-08-07. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Indwelling Sin and Witnessing Repentance — Mechanism.md**
+Practitioner-only mechanism document giving the theological account of sin at three layers (legal/act, relational/covenantal via Jer 2:13's broken cistern, ontological/indwelling via Rom 7) and of repentance at two levels (act-level confession versus implicit-level witnessing repentance). Refines Theory of Change Node 3 by naming the mechanism behind its "grief felt but not turned Godward" failure mode, and extends the Character Wound Diagnostic Tool's per-type wound-sin notes with anchor texts while preserving its wound-is-not-sin guardrail. Includes a worked example, flags the Rom 7:14-25 referent debate honestly, and has no client-facing version, withheld pending live use. Built 2026-07-20. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Healing from Emotional Trauma — Biblical Research.md**
+Topical biblical research (not single-passage) across the lament tradition, prophetic healing oracles, Israel's exile trauma, the Servant songs, and the Gospels' resurrection narratives. Covers Hebrew/Greek terms, Job as the control case against premature explanation, an intertextual case, six theological commitments including the already/not-yet horizon, interpretive debates (including a hard guardrail against health-and-wealth misuse of 1 Pet 2:24), and coaching translation to the three contributing disciplines. Built 2026-07-13. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Suffering and Purpose — Authorship Survey.md**
+Survey of secondary and extra-biblical authorship on suffering and purpose, companion to the Healing from Emotional Trauma research (it covers named authors, not canon exegesis). A theological/pastoral tier (Lewis, Elliot, Sittser, Nouwen, Bonhoeffer, Keller, Wright) with quotes flagged by verbatim confidence; an academic tier that diverges from the model's assumptions (Hick's soul-making theodicy, flagged); and a psychological tier with evidence levels (Frankl, Tedeschi & Calhoun, Breitbart) plus a required theological-adaptation note distinguishing self-authored meaning from Spirit-disclosed covenant truth. Built 2026-08-26. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference.md**
+Tests whether Deut 6:4-9, Deut 8:11-18, Ps 42, Ps 103, and Lam 3:21-24 actually support spoken, repeated, first-person declaration to oneself (the literary form of Identity Installer and Lie Eliminator). Finding: Ps 42/43, Ps 103, and Lam 3:21-24 directly support the claim; Deut 6 and Deut 8 support only adjacent claims and are flagged as partial. Closes the rehearsal/declaration gap in the Biblical Foundations Index. Built 2026-08-23. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Salvation-Clarity Checkpoint & Gospel Bridge Protocol.md**
+Resolves Practice Definition Open Gap #1: intake probes that test (rather than assume) the "genuine opening faith" entry bar, mid-arc trigger signals if a profession turns out not to reflect genuine faith, a single-conversation gospel-bridge structure with an ESV Scripture set (organized problem/provision/response/assurance), and three post-conversation outcomes (proceed after a stabilization interval / refer out / hold at the gate). A structural parallel to the Crisis & Referral Protocol, for a spiritual-baseline boundary instead of a clinical one. Built 2026-07-21. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — From Vague to Specific — Condition 1 Practitioner Technique.md**
+Compressed practitioner walkthrough of the five-move sequence that produces Condition 1's specificity: behavioral questions before belief questions, laddering (Kegan & Lahey) to the core assumption, parallel God-exclusion mapping, tentative naming, and a three-condition stopping point. Includes a five-row worked-example table. Compresses the Affections Discovery In-Session Protocol for quick recall; linked from What Moves Covenant Truth's Condition 1. Built 2026-07-10. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Assigning Receptive Return — Practitioner Technique.md**
+Compressed practitioner walkthrough for wording the Node 7 between-session instruction: a five-part formula (name the specific declaration, single utterance, explicit stop, stillness oriented toward God, named prohibition against repeating or managing), a worked dismissiveness/Warrior example, a wound-type calibration table of co-optation risks, and common assignment mistakes. Parallel companion to the From Vague to Specific technique. Built 2026-07-22. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Node 7 Consolidation Vehicles — Practitioner Map.md**
+Single-page causal sequence of the six tools that carry Node 7 consolidation around one session event (Matched Declaration Architecture → Post-Session Integration Guide → Spiritual Disciplines Guide → Phase-Specific Reflection Guide → Accountability Companion Guide → John 15 Abide), with a diagnostic table for finding which link is missing when consolidation stalls. Resequences tools by causal order rather than by phase or inventory. Built 2026-07-22. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Comparative Modality Reference.md**
+Modality-by-modality comparison (about 20 clinical and secular psychotherapy modalities and about 15 Christian counseling and ministry modalities) against CIC: strengths, weaknesses, use-instead-of-CIC, use-CIC-instead, and combine judgments per entry. Extends the Peer Practitioner Briefing's category-level contrast to individual-modality resolution and flags three genuine safety risks in a Governing Cautions section. Built 2026-08-28. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Methodology & Readiness Review for Clinical Consultation.md**
+Sibling to the Peer Practitioner Briefing, built for the opposite audience: a prospective Christian clinical-psychologist consultant evaluating CIC's methodology and safety architecture. Leads with current-state honesty (pre-launch, zero live client hours, open readiness gaps) because the reader's scrutiny is the document's purpose. Includes a synthesized Scope Boundary & Referral Map, the Crisis & Referral Protocol's gap-status table, and a Support File Map ordered to foreground the diagnostic and safety layer. Has a companion HTML Artifact. Built 2026-07-27. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Poor Relational Support Practices — Practitioner Diagnostic Reference.md**
+Taxonomy of how well-meaning people fail to relationally support someone who is suffering: 30 items in 6 clusters (righting reflex, spiritual bypassing, withdrawal, self-centering, boundary/regulation failures, timeline pressure), with the common root named as managing the helper's own discomfort. Shared cross-track with Formation & Transition (Beholding Together) by Andrew's explicit authorization, an exception to normal track separation, so it is written without CIC vocabulary and stands alone for lay leader training. Cross-linked to the Self-Supervision Template. Built 2026-08-23. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Pre-Practice Readiness Action Plan.md**
+Prioritized pre-launch plan for the interval before the first CIC client: (1) scope-boundary supervisor, (2) coaching-craft supervisor, (3) FIS/alliance drill practice, (4) networking, (5) bounded structure internalization with a defined stop condition, (6) closing the remaining Crisis & Referral Protocol gaps. Includes a "what not to do" list and an outreach template for the coaching-craft supervisor search. Built 2026-07-10. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Implicit Signal Recognition Quick Reference.md**
+Condensed, channel-organized companion to the Stage 4b Implicit Level Practitioner Reference: verbal, paraverbal, nonverbal, coach's-own-body, timing, and enactment signals for recognizing Stage 4a versus 4b and the Route A/B fork, plus a four-step decision flow. For post-session reflection only, not an in-session checklist. Introduces no new sources. Built 2026-07-20. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Route B Experiencing Depth Rating.md**
+Post-session, coach-only five-level adaptation of the Experiencing (EXP) Scale (original items and levels), rating how far a Route B felt-sense session reached, tracked as a trend across sessions rather than a single score. Feeds the Diagnostic Calibration Log's evidence column and includes a self-guard against the rating becoming a performance target. Built 2026-07-25. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Verifying Felt Juxtaposition — Mechanism & Practitioner Reference.md**
+Operationalizes how to tell whether covenant truth meeting the false structure is landing felt and somatic or only cognitive and verbal. States the shame/fear ↔ peace/belovedness affect pairing, then gives a three-layer method: real-time trained noticing, structured post-session verification (generalizing the Route B rating scale to Stage 3 broadly, logged via the Diagnostic Calibration Log), and wound-type calibration as a false-positive screen. Companion practice skill: /cic-juxtaposition-drill. Built 2026-08-20. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference.md**
+Coach-facilitated protocol for proactively establishing and rehearsing a client's covenant-identity anchor before Phase 2 wound mapping or Stage 4b difficulty opens, plus a "touch and return" session-structuring rule for deploying it during excavation. Sourced to Levine, Ogden, Shapiro, and Siegel, adapted non-clinically. Includes a worked session vignette and a failure-modes table. Built 2026-08-27. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Diagnostic Calibration Log.md**
+Running log (not a reflection template) checking whether Stage 4a/4b, Route A/B, and, since 2026-10-13, routing calls (the Before Typing injury test, Pattern Origin versus the wound arc, the wound-type call) were accurate, with entries closed out against later-session evidence rather than scored at the time. A periodic rollup (every 10–15 entries) surfaces directional bias. Sourced to Kahneman & Klein (2009) on feedback as a precondition for trustworthy intuition. Sibling to, not a substitute for, the Self-Supervision Template: that tracks coach countertransference, this tracks diagnostic accuracy. Built 2026-07-25; routing extension 2026-10-13. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Attachment Pattern Screener.md**
+16-item client self-report (parallel human-relational and God-directed 8-item forms with anxiety and avoidance subscales) that the coach scores into a pattern quadrant; original items informed by Brennan/Clark/Shaver's two-dimension model, not reproduced from any licensed instrument. Populates the God-attachment field in the Intake Addendum and flags divergence between the two forms as diagnostic content. Explicitly non-clinical, a coach hypothesis to confirm against session observation; its 3.5 subscale threshold is flagged as unvalidated. Deployed Sessions 1–2. Built 2026-07-25. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — Index.md**
+Entry point to a 7-part deliberate-practice curriculum (in the Co-Regulation Skill Development/ subfolder) training the presence, attunement, and somatic competencies that the Practitioner Competency Framework's Domain 3 names but does not teach. Adapted for non-clinical coach self-training from Porges, Siegel, Levine, Ogden, Schore, Stern, and Ekman, using Chow et al.'s deliberate-practice principles. Each part marks solo-safe drills versus drills that wait for the coaching-craft supervisor. Personal practitioner development, not client-facing. Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — 1 Self-Regulation Foundation.md**
+Part 1 of 7. Detecting your own rising activation in real time and down-regulating it without breaking presence; the prerequisite capacity for every other part. Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — 2 Vocal Tone and Prosody.md**
+Part 2 of 7. Conscious control of pitch, pace, and rhythm so the voice itself functions as a regulating signal, independent of the words; depends on Part 1. Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — 3 Facial Expression and Eye Contact.md**
+Part 3 of 7. Genuine (not performed) facial warmth and calibrated, intermittent eye contact; depends on Part 1. Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — 4 Pacing and Titration.md**
+Part 4 of 7. Consciously slowing a session's tempo independent of content and introducing difficult material in manageable doses with pauses (Levine's titration, adapted as a pacing discipline). Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — 5 Attuned Responsiveness.md**
+Part 5 of 7. Matching (not mirroring or amplifying) a client's affect at roughly 80–90% of its intensity; the most demanding part to self-train, and it depends on Parts 1–4. Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — 6 Consistent Relational Presence.md**
+Part 6 of 7. Structural, behavioral reliability across sessions (the same ritual, structure, time boundaries, and visible follow-through); a practice-design discipline that can be built at any time. Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Co-Regulation Skill Development — 7 Somatic Tracking and Naming.md**
+Part 7 of 7. Observing a client's somatic cues in real time and naming them in curiosity-inviting language instead of declarative labels; depends on Parts 1 and 5. Built 2026-08-12. Backfilled into this list 2026-10-13.
+
+**✅ ALLc — Covenant Identity — Worked Session Examples — Index.md**
+Fictional, composite-client scenarios dramatizing a full session end to end (dialogue, coach-internal reasoning sourced to Bordin, Wampold, Rogers, Siegel and the CIC system documents, and post-session documentation) — not real client records. A table logs each scenario with its pipeline stage, a named coaching challenge where applicable, and its companion Artifact link. Started 2026-08-03 with "Marcus R." (baseline Session 1, shutdown-under-pressure) and "Renee K." (spiritual bypassing in a fluent, over-functioning ministry-leader client); more scenarios to be added over time. Reference and training material, not phase-specific. Built 2026-08-03. Backfilled into this list 2026-10-13.
+
 ---
 
 ### Formation Framework Modules
@@ -514,6 +618,12 @@ First installment of the covenant promise mapping series. Organizes new covenant
 
 ---
 
+**✅ ALLe — Covenant Identity — Alliance Pulse.md**
+Pilot instrument: a three-item alliance check (Bond, Task, Goal — Bordin's three-factor structure, not the copyrighted WAI) completed independently after every session starting Session 1, read against the Formation Self-Assessment as the outcome side. Explicit pilot status: promote it to the permanent document set only after the first alpha client completes a full engagement with a good response rate and useful trend data. Responses are stored in Airtable Table 4 (Alliance Pulse Responses). Built 2026-07-10. Backfilled into this list 2026-10-13.
+
+**✅ Covenant Identity — Between-Session Library — Phase-by-Scenario Deployment Strategy & Scrutiny.md**
+Companion to the Between-Session Library Design Rationale, organized by phase and client scenario rather than by tool: a scenario taxonomy (Entry Fork × Wound Type × God-Representation Type × Crisis Tier) and phase-by-phase deployment sequences for Phases 1–4 plus a Crisis Tier overlay. Its full-text scrutiny of the library found, among other gaps, no Vision-Led between-session pathway anywhere in the library as of 2026-08-07 (the largest single gap), and it closes with an 8-item priority-ordered build/fix queue. Built 2026-08-07. Backfilled into this list 2026-10-13.
+
 ---
 
 ## 12. Resource Library
@@ -556,6 +666,9 @@ Translates the secular coaching craft behind Andrew's three coach-training comma
 
 **✅ Covenant Identity — Coaching Craft Reference — Practitioner Design Notes.md**
 Documents the three-question method (General / Coaching craft / CIC application) and discipline check behind the Coaching Craft Reference above, so the same rigor can be reapplied when a future training session surfaces a new skill. Built 2026-10-07.
+
+**✅ Covenant Identity — Practitioner Development — Index.md**
+Folder-level index for the Practitioner Development/ folder, closing a gap where no catalog tracked the folder's own membership (only this list's default-yes trigger caught it, and even that had missed the three pre-existing files until 2026-10-07). Built 2026-10-07. Backfilled into this list 2026-10-13.
 
 ---
 
@@ -649,20 +762,23 @@ Nine sections, one per fruit of the Spirit (love, joy, peace, patience, kindness
 
 | Category | Done | Suggested | Core Gaps |
 |---|---|---|---|
-| Model Foundation | 13 | 1 | 0 |
+| Model Foundation | 15 | 1 | 0 |
 | Business & Acquisition | 2 | 1 | 0 |
 | Client Onboarding | 2 | 0 | 0 |
-| Intake System | 7 | 0 | 0 |
-| Phase 1 — Covenant Orientation | 5 | 0 | 0 |
-| Phase 2 — Wound Mapping | 2 | 1 | 0 |
+| Intake System | 8 | 0 | 0 |
+| Phase 1 — Covenant Orientation | 6 | 0 | 0 |
+| Phase 2 — Wound Mapping | 4 | 1 | 0 |
 | Phase 3 — Identity Installation | 1 | 0 | 0 |
 | Phase 4 — Integration & Close | 1 | 0 | 0 |
 | Growth Tracking | 3 | 0 | 0 |
-| Practitioner Reference & Tools | 48 | 0 | 0 |
-| Between-Session Library | 22 | 0 | 0 |
-| Resource Library | 3 | 0 | 0 |
-| AI Generation Prompts | 16 | 0 | 0 |
-| **Total** | **125** | **3** | **0** |
+| Practitioner Reference & Tools | 96 | 0 | 0 |
+| Between-Session Library | 26 | 0 | 0 |
+| Resource Library | 4 | 0 | 0 |
+| Practitioner Development | 6 | 0 | 0 |
+| AI Generation Prompts | 22 | 0 | 0 |
+| **Total** | **196** | **3** | **0** |
+
+*Count note, 2026-10-13: recounted by tallying the ✅ / 🔲 entries under each heading. "Practitioner Reference & Tools" includes the six Formation Framework Modules files and the three paired Practitioner Reference documents that sit physically inside the AI Generation Prompts section. The previous table (125 done, last reconciled 2026-07-08) predates the documents built since then and the 37 backfilled entries.*
 
 *Count note: This update (2026-07-08) added 46 documents built between 2026-05-09 and 2026-07-08 that had never been logged here, discovered by diffing this list against the actual folder contents: 8 in Model Foundation (Practice Definition, Practice Descriptions Three Forms, Manifesto, Biblical Case for Inner Healing, the Mosaic Law support document, Theory of Change, The CIC Promise, The Promise Client-Facing), 1 in Business & Acquisition (Arc Location Diagnostic), 1 in Intake System (Airtable Schema Spec), 22 in Practitioner Reference & Tools (Identity-Before-Behavior Research Foundation, The Implicit Throughline, Isaiah 66:2b, four Theory of Change mechanism documents, Matched Declaration Architecture, the Reckoning Pattern, seven Psalms-triptych/narrative-framework documents, COMPLETE SYSTEM REFERENCE, Category Architecture Cross-Reference, Biblical Foundations Index, Set Your Mind on Things Above, Psychological Constructs Reverse Connection Reference, and Conditions for the Spirit's Sanctifying Work), 7 in Between-Session Library (Distress Protocol, Formation Mechanism Guide, Pre-Session Preparation Guide, Calibrated Reading Guide, Post-Session Client Debrief Card, Formation Self-Assessment, Accountability Companion Guide) plus the New Covenant Promise Map Generation Prompt, and 8 new AI Prompts pairing the between-session additions plus the Diagnostic Sequence Fluency Drill and the Biblical Foundations Index prompt. Also converted from Suggested to Done: New Covenant Promises — Comprehensive Reference (confirmed to exist on disk) and Lament Protocol (fulfilled by the already-built Lament Practice Guide). The 3 Suggested remaining: Biblical Foundation Reference — The 10 Layers (now substantially covered by the Biblical Foundations Index's anchor table), Pricing & Engagement Structure, and Schema-Specific Intervention Guides.*
 
