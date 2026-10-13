@@ -128,6 +128,15 @@ The love and care for oneself; a healthy sense of self-worth and self-acceptance
 
 ---
 
+#### Insidious
+
+*in-SID-ee-us*
+Working harmfully in a hidden, gradual way: appearing harmless or even attractive while doing damage that is not noticed until it is well established. From the Latin *insidiae* ("an ambush"), literally something that lies in wait. e.g. The insidious thing about his need for approval was that it looked like humility, so no one, including him, saw it steering his decisions.
+**Wisdom:** The most dangerous things are rarely the ones that announce themselves. What is insidious is not resisted because it is not recognized, and what is not recognized is not brought into the light, so it keeps its hold. In coaching terms, a false covenant object or false identity structure can run for years this way, because it feels like personality or common sense rather than a counterfeit. Insight begins when the client can name what had been operating unseen.
+**Distinct from Pernicious:** Pernicious describes the *effect* (harmful, subtle, gradual). Insidious describes the *manner of approach* (concealed, ambush-like, entering unnoticed). Something insidious is usually also pernicious; something pernicious is not necessarily deceptive in how it arrives.
+
+---
+
 ## Part I — Hebrew, Aramaic & Greek Terms
 
 *Exegetical vocabulary cited across CIC's biblical-theological documents. Pronunciation guides are simplified, English-reader phonetic approximations (caps = stressed syllable) — not IPA and not identical to Modern Hebrew or Erasmian Greek pronunciation systems, though closest to standard seminary Erasmian/Biblical Hebrew academic convention. Alphabetized by transliteration.*
