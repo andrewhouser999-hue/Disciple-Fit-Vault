@@ -1,12 +1,15 @@
 ---
-created: 
-basis: TBD
+created: 2026-10-13
+basis: "[[Covenant Identity — System Document Master List]] — the curated, annotated inventory this page complements. Rebuilt 2026-10-13 as a live Dataview index, replacing a static one-sentence-per-file list that had been edited twice (2026-09-16 and 2026-10-07) and was missing about 123 files when audited. Design choice made by Andrew 2026-10-13. One-sentence descriptions of each file are kept in Claude's memory index (covenant_identity_file_index), which sits outside the vault."
 tags:
+  - index
+  - navigation
+  - live
 ---
 
 # Covenant Identity Coaching Prep — File Index
 
-One-sentence descriptions of every file, organized by subfolder.
+*Live index. Every table on this page is a Dataview query, so it updates by itself when a file is created, renamed, or moved. Nothing needs to be added here by hand.*
 
 > [!tip] Live Pages — Quick Access
 > 🔗 **[Covenant Identity Coaching — Foundation, Mechanism & Distinctives](https://claude.ai/code/artifact/05d05db3-fc9c-457d-bf5a-c68d8e2507b5)** — Peer Practitioner Briefing companion page
@@ -14,148 +17,174 @@ One-sentence descriptions of every file, organized by subfolder.
 
 ---
 
-## 01 — Model Foundation
+## How This Page Works
 
-- **Covenant Identity Coaching — White Paper.md** — Full white paper on the Covenant Identity model: core claim, covenant theology, the Gap, and why the model is distinct from therapy and generic coaching.
-- **Covenant Identity Coaching — Full Model Reference.md** — Comprehensive technical practitioner reference: core claim, covenant structure, indicative/imperative grammar, nine-layer identity architecture, and all three operating principles.
-- **What Is Covenant Identity Coaching — Client-Facing.md** — Client-facing description of the model: the Gap between declared and lived covenant identity, why performance approaches fail, and what coaching addresses.
-- **Developing a Biblical Understanding of Covenantal Relationship with God.md** — Scholarly research framework on covenant: berith definition, suzerain-vassal vs. royal grant structures, key covenant terms, and exegetical grounding.
-
----
-
-## 02 — Client Onboarding
-
-- **Covenant Identity Coaching — Engagement Onboarding Document.md** — Client-facing orientation explaining coaching structure, four phases, session expectations, note-taking, and between-session commitments.
-- **Covenant Identity Coaching — Coaching Agreement.md** — Legal coaching agreement covering scope (faith-integrated, non-clinical), engagement structure, fees, confidentiality, and crisis protocols.
+- Each table lists the notes in one folder, sorted by file name. In `04 — Session Tools` and `08 — Between-Session Materials`, the deployment code at the front of each name (ALLa, P1a, P2-3a, and so on) makes the name sort follow usage order.
+- This page shows **what exists**. It carries no descriptions. For annotated entries, use the [[Covenant Identity — System Document Master List]] (every document, with status and description), the [[Covenant Identity — Document Reading Order]] (the sequence to read them in), and the [[Covenant Identity — Practitioner Reference Index]] (the diagnostic and theoretical cluster).
+- A table that says "No results" has nothing in that folder. If every table is empty, check that the Dataview plugin is enabled.
+- A new **top-level folder** in this track needs a new section here. The "Anything not listed above" check at the bottom catches it: that table should always be empty.
 
 ---
 
-## 03 — Intake System
+## Completeness Check
 
-- **Covenant Identity Intake — Design Basis & Annotation.md** — Design principles for the intake form: diagnostic focus, client self-orientation, schema probes, pre-session structure, embedded screening, annotation layer importance.
-- **Covenant Identity Intake — Coach Annotation Reference.md** — Quick-reference diagnostic key for reviewing completed intakes; Section A targets and probing questions with referral watches.
-- **Covenant Identity — Intake Addendum (Coach).md** — Post-session coach documentation capturing verbatim language, felt-sense description, present-story statement, and covenant identity self-assessment baseline.
-- **Covenant Identity — Two-Tier Intake Protocol.md** — Two-tiered intake structure defining what happens pre-discovery vs. pre-session-one.
-- **Covenant Identity — Pre-Discovery Screen — Tally Build Guide.md** — Instructions for building the pre-discovery screening form in Tally.so.
-- **Covenant Identity Intake — Tally Build Guide.md** — Instructions for building the full intake form in Tally.so.
+### Total files in this track
+```dataview
+TABLE WITHOUT ID length(rows) AS "Files in this track (including this page)"
+FROM "Coaching/Covenant Identity Coaching Prep"
+GROUP BY true
+```
 
----
+### Files per folder
+```dataview
+TABLE WITHOUT ID choice(key = "Coaching/Covenant Identity Coaching Prep", "(top of the track)", replace(key, "Coaching/Covenant Identity Coaching Prep/", "")) AS "Folder", length(rows) AS "Files"
+FROM "Coaching/Covenant Identity Coaching Prep"
+GROUP BY file.folder
+SORT key ASC
+```
 
-## 04 — Session Tools
-
-*Files are coded by deployment window rather than numbered: `ALL` = used throughout regardless of phase, `DC` = Discovery Call (pre-Phase 1), `P1`–`P4` = that engagement phase, `P2-3` = spans late Phase 2 into Phase 3. Codes are chosen to alphabetize in actual usage order; a trailing letter (a, b, c…) orders files that share a code. Old unprefixed filenames are preserved as frontmatter aliases so existing `[[wikilinks]]` still resolve.*
-
-- **ALLa — Covenant Identity — Session Prep Template.md** — Pre-session 5-10 minute readiness checklist: coach check-in, client thread retrieval, phase-specific focus, intention setting. Used before every session, all phases.
-- **ALLb — Covenant Identity — Arc Location Diagnostic.md** — Fillable self-assessment for locating current position on the covenant identity arc (Stage 1-4b checks + 9 telos quality ratings); pre-session orientation and periodic self-assessment across the whole arc.
-- **ALLc — Covenant Identity — Worked Session Examples — Index.md** — Fictional, composite-client scenarios showing a full session run end to end (dialogue + coach reasoning + post-session documentation); each logged with a companion Artifact link and, where relevant, a specific coaching challenge illustrated. Started 2026-08-03: "Marcus R." (baseline Session 1 example) and "Renee K." (Session 1 example built around spiritual bypassing). Reference/training material, not phase-specific.
-- **DC — Covenant Identity — Discovery Call Guide.md** — Session tool for running the discovery call; structure, pacing, qualifying questions, and next-step framing. Pre-engagement, before Session 1.
-- **P1a — Covenant Identity — Phase 1 Session Tools (Covenant Orientation).md** — Sessions 1-2: designed alliance opening, intake review, Gap naming, God-representation surfacing; full session structure and language.
-- **P1b — Covenant Identity — Affections Discovery — In-Session Protocol.md** — Coach-facing in-session execution of Stage 1: five-layer protocol, pre-question observation, stay/move signals, somatic observation (Thompson/Allender), diagnostic signals quick reference, transition logic to Stage 2, connection to Whole-Person Identity Framework. Deployed within Phase 1 sessions.
-- **P2 — Covenant Identity — Phase 2 Session Tools (Wound Mapping).md** — Sessions 2-4: schema excavation, Immunity to Change process, lament introduction, wound origin tracing; handoff from Phase 1.
-- **P2-3a — Covenant Identity — Witnessing Repentance — Session Worksheet.md** — Coach-facilitated in-session tool (not take-home): five-movement guided repentance arc. Gated to Stage 3+ and established alliance; typically late Phase 2 into Phase 3.
-- **P2-3b — Covenant Identity — Parts & Burden Discovery — Session Worksheet.md** — Stage 4b coached worksheet: 7-section in-session facilitation guide plus between-session formation practice handoff. Typically follows Witnessing Repentance in sequence.
-- **P3 — Covenant Identity — Phase 3 Session Tools (Identity Installation).md** — Sessions 4-8: installation mechanism, targeted declaration, schema interruption, narrative re-authoring; handoff from Phase 2.
-- **P4 — Covenant Identity — Phase 4 Session Tools (Integration & Close).md** — Sessions 8-10: consolidate gains, sustain practices, close engagement; Growth Report presentation; full session structure.
-
-*Per-client instance templates (not folder files with codes — generated fresh per client, filed under each client's own record):*
-- **Covenant Identity — Diagnostic Intake Profile — [Client Name].md** — Per-client diagnostic intake profile generated from the intake form; coach-annotated.
-- **Covenant Identity — Designed Alliance — [Client Name].md** — Per-client designed alliance document; co-created in Phase 1 Session 1.
-
----
-
-## 05 — Growth Tracking
-
-- **Covenant Identity — Session Growth Notes Template.md** — Post-session coach documentation template for tracking language shifts, schema movement, and installation progress.
-- **Covenant Identity — Mid-Engagement Snapshot Template.md** — Client-facing growth document for sessions 4-5: side-by-side comparison of intake language and current language; re-administered Q9 score.
-- **Covenant Identity — Growth Report Template.md** — End-of-engagement final document (3-5 pages) built from verbatim language: where the client was, what happened, what's different, what was hard.
-
----
-
-## 06 — Practitioner Reference
-
-- **Covenant Identity — Practitioner Reference Index.md** — Navigation hub for the diagnostic/theoretical cluster: document map with read-order (Integration Rationale → Whole-Person Framework → Transition Logic → Affections Protocol → Character Wound Tool), diagnostic sequence diagram, upstream references, scope boundary notes.
-- **Covenant Identity — Integration Rationale.md** — Theoretical justification for Thompson/Allender/Johnson/Collins integration: governing position (Christian psychology, not classic integration), two integration criteria (confirmatory vs. additive), per-contributor justification and limits, what is explicitly not imported (Siegel telos, Erikson normative identity, CBT sufficiency, humanistic telos), common grace epistemological basis.
-- **Covenant Identity — Whole-Person Identity Framework.md** — Survey-depth anthropology reference: governing framework (imago Dei, origin/distortion/telos, soul's faculties), five-dimension whole-person structure, mechanism layer (Thompson), diagnostic layer (Allender + Collins), scope boundary, sources/boundary notes. Contributors: Thompson, Allender, Johnson, Collins.
-- **Covenant Identity — Diagnostic Lens Transition Logic.md** — Full diagnostic sequence (Stage 1 Affections + Character Wound Deepening → Stage 2 False Identity Named → Stage 3 Covenant Truth → Stage 4a CBT if cognitive distortion / Stage 4b Relational-Attentive if implicit memory blocks); entry criteria, transition signals, return signals, referral exit.
-- **Covenant Identity — Character Wound Diagnostic Tool.md** — Secondary diagnostic layer (used after affections picture is specific): three types — Warrior (betrayal/weakness), Hermit (terror/too much), False Noble (ambivalence/not enough); per type: wound+sin framing, behavioral markers, story patterns, emotional signature, God-image distortion, false self vs. refined false self marker, true self emergence signals, coaching implications, clinical referral triggers; Warrior/False Noble distinguishing tells, blended presentations.
-- **Exceptional Coaching Practice — What Is Missed, Meaningful & Important.md** — Coach development reference on presence quality, non-verbal communication, silence usage, resistance, pacing, and embodied awareness.
-- **Covenant Identity — God-Representation — Research Basis & Synthesis.md** — Theoretical foundations: Rizzuto (living God vs. theologian's God), Hall (implicit vs. explicit God-image), Benner (believed vs. experienced), Kirkpatrick (attachment to God).
-- **Covenant Identity — God-Representation Deepening Tool.md** — Full practitioner guide for working with surfaced God-representations: four primary types, coaching approaches, question library, and transformation recognition.
-- **Five Intervention Modalities — Definitions & Deep Elaboration.md** — Five core intervention types: targeted declaration, schema interruption, narrative re-authoring, lament-to-trust, Big Assumption experiment.
-- **Covenant Identity — Deep Work Worksheets — Design Rationale.md** — Design logic for extending Lie Eliminator and Identity Installer into schema and narrative layers; Young, Kegan & Lahey, McAdams frameworks.
-- **Covenant Identity — Crisis & Referral Protocol.md** — Scope of practice definition, referral triggers, in-session crisis responses, and clinical presentations requiring therapy.
-- **Secured in Father — Practitioner Design Notes.md** — Practitioner reference layer for *Secured in Father — Attachment Formation & Encounter Preparation*: component evidence map (8 components with empirical basis, mechanism, evidence level), sequencing rationale (5-zone architectural logic for the 10 dimensions), anticipated critiques and responses (5 domains — clinical psychology, biblical counseling, confessional Reformed, cessationism, coaching scope), outcome markers per pattern, contraindications (absolute and conditional), load-bearing vs. modifiable elements, integration map (Entry Guide, Affections Discovery, Character Wound Tool, Diagnostic Lens Transition Logic), and 26-source log.
-
----
-
-## 07 — AI Prompts
-
-- **AI Prompt — Phase 1 & 2 Session Tools.md** — Saved generation prompt for Phase 1 & 2 tools; includes context, framework stack, and output specifications.
-- **AI Prompt — Phase 3 Session Tools.md** — Saved generation prompt for Phase 3; nine-layer architecture and phase-specific job definitions included.
-- **AI Prompt — Phase 4 Session Tools.md** — Saved generation prompt for Phase 4 consolidation, sustainability, and closure work.
-- **AI Prompt — God-Representation Deepening Tool.md** — Saved generation prompt with full expert framework stack (Rizzuto, Hall, Benner, Kirkpatrick, Young, Brueggemann).
-- **AI Prompt — Designed Alliance.md** — Saved generation prompt for building the per-client designed alliance document.
-- **AI Prompt — Discovery Call Guide.md** — Saved generation prompt for the discovery call structure and session tool.
-- **AI Prompt — Diagnostic Intake Profile.md** — Saved generation prompt for producing the per-client diagnostic intake profile from intake responses.
-
----
-
-## 08 — Between-Session Materials
-
-*Files are coded by deployment window rather than numbered: `ALL` = used throughout regardless of phase, `P1` = Phase 1 only, `P2` = Phase 2 onward (unbounded), `P3` = anchored to Phase 3. Codes alphabetize in actual usage order; a trailing letter (a, b, c…) orders files that share a code, sequenced by how early each is typically introduced within that window. Old unprefixed filenames are preserved as frontmatter aliases so existing `[[wikilinks]]` still resolve.*
-
-- **ALLa — Covenant Identity — Between-Session Library — Design Rationale.md** — Meta-reference and orientation for the full library; read first when returning to this folder. Purpose, priority verdict, and design decisions per tool.
-- **ALLb — Covenant Identity — Pre-Session Preparation Guide.md** — Client-facing five-minute pre-session practice card. Given before Session 2; universal across all four phases, assigned once.
-- **ALLc — Covenant Identity — Post-Session Client Debrief Card.md** — Immediate post-session capture card, completed within an hour or two of every session. Given before Phase 2 begins, alongside the Reflection Guide.
-- **ALLd — Covenant Identity — Phase-Specific Reflection Guide.md** — Ongoing between-session journaling guide with phase-variant prompts (1–4). Section I given in session before any phase section is assigned.
-- **ALLe — Covenant Identity — Alliance Pulse.md** — Three-item alliance check completed independently after every session, starting Session 1. Pilot instrument, not yet a permanent system document.
-- **ALLf — Covenant Identity — Calibrated Reading Guide.md** — Bibliotherapy guide organized by wound type. Assigned alongside or shortly after the Formation Mechanism Guide, once the wound type is named; content spans all four phases.
-- **ALLg — Covenant Identity — Formation Self-Assessment.md** — Periodic 16-item self-assessment. First administered end of Phase 1 / beginning of Phase 2; repeated at phase transitions.
-- **ALLh — Covenant Identity — Scripture Saturation & Meditation Guide.md** — Teaches the how of formational Scripture engagement; activation layer for texts already embedded in other tools. Phase 1–4.
-- **ALLi — Covenant Identity — Spiritual Disciplines Guide.md** — Wound-calibrated discipline library with co-optation risk tables and phase sequencing grid; Phase 4 closes with rule-of-life construction.
-- **ALLj — Covenant Identity — God-Representation Between-Session Practices.md** — God-rep-type practice guides, Phase 1 observational through Phase 3 primary transformation and Phase 4 sustaining.
-- **P1 — Covenant Identity — Formation Mechanism Guide.md** — Client-facing psychoeducation on how formation works and why it's slow. Given Phase 1, Session 1 or early Session 2, before wound work begins.
-- **P2a — Covenant Identity — Between-Session Distress Protocol.md** — Three-tier distress/crisis protocol and client card. Given at or before the first Phase 2 session, before excavation begins.
-- **P2b — Covenant Identity — Between-Session Support Materials.md** — Practitioner reference with client-facing practice guides; precondition framework (God-rep type + phase), theological frame, and universal base practices. For use from Phase 2 onward.
-- **P2c — Covenant Identity — Character Wound Between-Session Practices.md** — Wound-type (Warrior/Hermit/False Noble) practice guides with Phase 2/3/4 variants. Requires a confirmed, client-acknowledged wound type before assigning.
-- **P2d — Covenant Identity — Post-Session Integration Guide.md** — Client-facing guide for the 24–48 hours after a significant session. Appropriate beginning Phase 2, after wound type is identified.
-- **P2e — Covenant Identity — Lament Practice Guide.md** — Theological container plus four-movement lament practice, calibrated by wound type and phase. Phase 2 entry, Phase 3 lament-to-trust arc, Phase 4 lifelong rhythm.
-- **P2f — Covenant Identity — What Blocks Hearing God's Voice.md** — Reactive client guide assigned when a client names that prayer feels like it isn't landing. Most natural window: Phase 2 onward.
-- **P2g — Covenant Identity — Accountability Companion Guide.md** — Guide for identifying and engaging one formation companion. Assigned Phase 2–3, after wound work has begun, before Phase 4.
-- **P2h — New Covenant Promise Map — Generation Prompt.md** — AI prompt for generating the New Covenant Promise Map across 7 categories (identity, access, provision, protection, purpose, community, future); feeds the Deep Lie Work Worksheet.
-- **P2i — Covenant Identity — New Covenant Promise Map 1.md** — First generated instance of the New Covenant Promise Map; seven-category reference of covenant promises, used alongside Deep Lie Work.
-- **P2j — Covenant Identity — Deep Lie Work Worksheet.md** — Three-layer lie work: theological (declaration), psychological (schema), behavioral (Big Assumption experiment); client-facing worksheet. Phases 2–3; run before the Installation Worksheet.
-- **P2k — What the Part Carries — An Independent Formation Practice.md** — Fully self-guided Stage 4b implicit-level parts-work practice; heavy scaffolding, no coach dependency required. Typically follows explicit-level work in Phase 2–3.
-- **P3 — Covenant Identity — Deep Identity Installation Worksheet.md** — Three-part identity consolidation: identity claim, blocking schema, evidence story, and identity vote experiment; client-facing worksheet. Phases 3–4, paired with Deep Lie Work.
-
----
-
-## Practitioner Development
-
-*Missing from this index entirely until 2026-10-07, despite three of its five files predating that date — closed as a pre-existing gap found while adding the other two.*
-
-- **Covenant Identity — Practitioner Qualities & Skills for the Work.md** — Narrative companion to the Practitioner Competency Framework: walks through the six competency domains organized around the trained-skill vs. formed-capacity distinction. For practitioner self-assessment, supervision conversations, and drift checks. Built 2026-07-11.
-- **Covenant Identity — Wound-Led vs. Vision-Led — Architecture at a Glance.md** — One-page fast-reference companion to the Diagnostic Lens Transition Logic's Entry Fork addendum. For quick re-orientation before an ambiguous Discovery Call. Built 2026-07-12.
-- **CIC Practice — Missed Items Log.md** — Running spaced-repetition log of questions missed across `/cic-l1`–`/cic-l6` practice runs. Built 2026-07-17.
-- **Covenant Identity — Coaching Craft Reference — Co-Active, Life Coaching & Accountability.md** — Translates the secular coaching craft behind Andrew's three coach-training commands into CIC-specific in-session application; identifies two contributors (Kegan & Lahey, White & Epston) as already-adopted CIC intervention modalities, not parallels to build toward. Built 2026-10-07.
-- **Covenant Identity — Coaching Craft Reference — Practitioner Design Notes.md** — Method and discipline check behind the Coaching Craft Reference, so future sessions can extend it with the same rigor. Built 2026-10-07.
-- **Covenant Identity — Practitioner Development — Index.md** — Folder-level index for this folder, closing a gap where nothing tracked its membership specifically. Built 2026-10-07.
-
----
-
-## 09 — Resource Library
-
-- **Covenantal Identity — Author & Resource Reference.md** — Annotated author and resource reference guide for the Covenant Identity model.
-- **Covenantal Identity — Author-Framework Mapping.md** — Maps each key author/theorist to the specific framework component they support.
-
----
-
-## Online Resources
-
-- **New Covenant Promises — Comprehensive Reference.md** — Seven-category comprehensive reference of New Covenant promises: forgiveness, Spirit, transformation, adoption, future, calling, victory.
+### Recently added (last 14 days, by the `created` field)
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", choice(file.folder = "Coaching/Covenant Identity Coaching Prep", "(top of the track)", replace(file.folder, "Coaching/Covenant Identity Coaching Prep/", "")) AS "Folder"
+FROM "Coaching/Covenant Identity Coaching Prep"
+WHERE created AND created >= date(today) - dur(14 days) AND file.path != this.file.path
+SORT created DESC, file.name ASC
+```
 
 ---
 
 ## Root
+*Navigation hubs, the master list, the reading order, and loose files at the top of the track.*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep"
+WHERE file.folder = "Coaching/Covenant Identity Coaching Prep" AND file.path != this.file.path
+SORT file.name ASC
+```
 
-- **Covenant Identity — System Document Master List.md** — Master checklist of all system documents with status (built/pending) and one-line descriptions; navigation hub for the full system.
+---
+
+## 01 — Model Foundation
+*Includes the `Support Documents for Model Foundation` subfolder.*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", replace(file.folder, "Coaching/Covenant Identity Coaching Prep/01 — Model Foundation", "") AS "Subfolder", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/01 — Model Foundation"
+SORT file.name ASC
+```
+
+---
+
+## 02 — Client Onboarding
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/02 — Client Onboarding"
+SORT file.name ASC
+```
+
+---
+
+## 03 — Intake System
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/03 — Intake System"
+SORT file.name ASC
+```
+
+---
+
+## 04 — Session Tools
+*Deployment codes: ALL (every session), DC (Discovery Call), P1–P4 (phases), P2-3 (spans late Phase 2 into Phase 3).*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/04 — Session Tools"
+SORT file.name ASC
+```
+
+---
+
+## 05 — Growth Tracking
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/05 — Growth Tracking"
+SORT file.name ASC
+```
+
+---
+
+## 06 — Practitioner Reference
+*Includes the `Co-Regulation Skill Development` and `Sanctification Module — The Believer's Part` subfolders. The Subfolder column is blank for files at the top of the folder.*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", replace(file.folder, "Coaching/Covenant Identity Coaching Prep/06 — Practitioner Reference", "") AS "Subfolder", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/06 — Practitioner Reference"
+SORT file.name ASC
+```
+
+---
+
+## 07 — AI Prompts
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/07 — AI Prompts"
+SORT file.name ASC
+```
+
+---
+
+## 08 — Between-Session Materials
+*Deployment codes: ALL (every client), P1 and P2a–P2l (by phase and scenario), P3 (Phase 3).*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/08 — Between-Session Materials"
+SORT file.name ASC
+```
+
+---
+
+## 09 — Resource Library
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/09 — Resource Library"
+SORT file.name ASC
+```
+
+---
+
+## Practitioner Development
+*Folder-level membership is also tracked in [[Covenant Identity — Practitioner Development — Index]].*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/Practitioner Development"
+SORT file.name ASC
+```
+
+---
+
+## Lesson Drafts
+*Drafting material for lessons, not part of the practitioner reading set.*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", created AS "Created", file.mtime AS "Modified"
+FROM "Coaching/Covenant Identity Coaching Prep/Lesson Drafts"
+SORT file.name ASC
+```
+
+---
+
+## Anything not listed above
+*This table should always be empty. If a file appears here, it sits in a folder that has no section on this page yet. Add a section for that folder.*
+```dataview
+TABLE WITHOUT ID file.link AS "Document", file.folder AS "Folder"
+FROM "Coaching/Covenant Identity Coaching Prep"
+WHERE file.folder != "Coaching/Covenant Identity Coaching Prep"
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/01 — Model Foundation")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/02 — Client Onboarding")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/03 — Intake System")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/04 — Session Tools")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/05 — Growth Tracking")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/06 — Practitioner Reference")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/07 — AI Prompts")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/08 — Between-Session Materials")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/09 — Resource Library")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/Practitioner Development")
+AND !startswith(file.folder, "Coaching/Covenant Identity Coaching Prep/Lesson Drafts")
+SORT file.folder ASC, file.name ASC
+```

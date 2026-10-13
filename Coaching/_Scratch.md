@@ -71,7 +71,7 @@ The biblical call is not to suppress affection but to rightly order it. When lov
 
 ### Build Implications
 - This needs a defensible, source-anchored write-up before it's used with clients — candidate for a Model Foundation or diagnostic-lens doc under Covenant Identity Coaching.
-- Ties to existing idolatry/identity work — check against [[covenant_framework_definition]] and CIC Model Foundation docs for where this belongs structurally rather than duplicating.
+- Ties to existing idolatry/identity work — check against [[Covenant Identity Coaching — Theological-Formation Contributor Stack]] and CIC Model Foundation docs for where this belongs structurally rather than duplicating.
 - Should be run through `/process-note` for proper placement rather than left here long-term.
 
 **Processed → formalized 2026-08-07 as [[Covenant Identity — Disordered Affections as Idolatry — Biblical Case & Practitioner Defense]]** (06 — Practitioner Reference), indexed in Practitioner Reference Index and Biblical Foundations Index. This entry left in place as raw history.
