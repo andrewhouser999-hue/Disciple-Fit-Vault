@@ -7,7 +7,7 @@ tags: [system-reference, master-list, practitioner-reference]
 # Covenant Identity Coaching — System Document Master List
 *A complete inventory of all documents in the Covenant Identity Coaching system, organized by category and roughly chronological order of use within an engagement. Status: Done or Suggested.*
 
-*Last updated: 2026-07-08 — 124 done + 3 suggested across 13 sections*
+*Last updated: 2026-10-13 — [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] added to the Practitioner Reference section. The counts below (124 done + 3 suggested across 13 sections) were last reconciled 2026-07-08 and have not been recounted.*
 
 ---
 
@@ -395,6 +395,9 @@ Practitioner-facing exegetical reference: scriptural basis for the claim that pa
 
 **✅ Covenant Identity — Self-Supervision Template.md**
 Post-session coach reflection tool (distinct from Session Growth Notes — this tracks the coach, not the client). Eight sections: Pre-Session State, Activation/somatic signal, Avoidance Inventory, Presence Quality, Wound Pattern Intersection (per-type calibration table), Formation Invitation, Competency Reflection, Cross-Session Pattern Watch. Governing frame: countertransference as signal, formation precedes technique.
+
+**✅ Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference.md**
+Seed practitioner reference (not a session tool, not client-facing) governing how CIC writes and speaks about narcissistic patterns. Part A guardrails: plain-wording-first language convention with clinical terms in parentheses for association; three registers of the word (everyday label / trait-level pattern / clinical disorder) mapped to the existing Reverse Connection Reference scope flags (◐ coach with care → ○ refer); the nine DSM-5 criteria as an association list with three use cautions (not a checklist; mostly describes the superiority-displaying form; context changes meaning); a four-tag evidence system ([E] research-established, [T] clinical theory, [P] practitioner observation, [D] CIC design judgment) in which [P] claims never ground a referral decision; an established-vs-theorized-vs-disputed developmental account (Brummelman 2015 overvaluation finding, Wetzel 2020 decline with age, psychoanalytic age bands flagged as theory not findings) with an open question on whether overvaluation-origin structures fit the False Noble type or the non-injury Pattern Origin arc; Andrew's two design premises (moderated, injury-reactive expression; high-functioning Christians as a high-fit, high-difficulty population) with limits; draft referral indicators for scope-boundary-supervisor review; and coach's-own-pattern guidance. Notes a gap: the Crisis & Referral Protocol does not mention personality-disorder-level presentations. Build Plan lists Parts B–D (Recognition Guide, Application across the CIC sequence, Client conversation guide), pending Andrew's video-sourced source notes, plus proposed edits to existing documents. Built 2026-10-13.
 
 **✅ Covenant Identity — Parts & Burden Discovery — Session Worksheet.md**
 Coached Stage 4b session worksheet: seven sections (Activate, Name the Pattern, What Is the Pattern Protecting, Meet the Part, What God Says, Declaration, Invitation) facilitated by the coach in-session; the client writes; the completed worksheet is handed off for between-session formation practice. Coach instruction sidebars throughout with scope alerts. ITC four-column backbone (Kegan/Lahey), IFS curiosity posture (Schwartz), reconsolidation activation requirement (Ecker/LeDoux), Lie Eliminator format. For use when explicit covenant truth is intellectually received but not landing at the felt level — Stage 4b only.

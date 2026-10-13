@@ -19,6 +19,7 @@ tags:
 
 - [[Covenant Identity — Terminology & Language Reference]] — the CIC glossary (practitioner-only). Exegetical terms with pronunciation, psychological/clinical construct clusters by contributor, and professional/organizational terms. The canonical reference for what a given word means inside this system.
 - [[Covenant Identity — False Covenant Objects & False Identity Structures — Terms Reference]] — precise definitions of the model's two core diagnostic terms, plus a discrimination test for telling them apart in session and a misdiagnosis pitfall (naming the presenting behavior instead of the structure producing it).
+- [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] — the language standard for one loaded topic: plain wording first with the clinical term in parentheses, when the common word "narcissistic" may be used as a bridge, never "a narcissist" for a person in CIC's own voice, and how to respond when a client labels someone else.
 
 ---
 

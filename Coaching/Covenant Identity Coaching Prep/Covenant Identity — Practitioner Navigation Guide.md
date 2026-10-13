@@ -281,6 +281,7 @@ Reach for:
 
 *Any time a presentation exceeds the coaching container:*
 - [[Covenant Identity — Crisis & Referral Protocol]] — scope of practice; in-session crisis response; referral triggers; clinical presentations; scope creep signals
+- [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] — when a narcissistic pattern is suspected (Discovery Call, intake, or later): language rules, the three registers of the word (coach with care vs. refer), evidence tags, and draft referral indicators; also the first stop when a client labels another person a narcissist
 - [[Covenant Identity — Between-Session Distress Protocol]] — Tier 2 (distress, not crisis); coach response protocol; bridge call structure; escalation decision tree
 
 > **Rule:** When in doubt whether something is Tier 2 (Distress) or Tier 3 (Crisis), treat it as Crisis until you can assess. The Distress Protocol governs the middle ground; the Crisis Protocol governs in-session and Tier 3.
