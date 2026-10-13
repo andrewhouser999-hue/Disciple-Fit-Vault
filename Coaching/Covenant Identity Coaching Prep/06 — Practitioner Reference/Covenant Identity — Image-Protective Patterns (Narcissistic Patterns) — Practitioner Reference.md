@@ -80,7 +80,7 @@ The same word names three different things. Mixing them is the main source of co
 
 **Existing CIC positions.** Three documents already place this boundary. The [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]] flags the pattern "coaching with care" and NPD as "refer." The [[Covenant Identity — Character Wound Diagnostic Tool]] says clinical presentations resembling the Warrior and False Noble types, including narcissistic personality disorder, "require clinical assessment, not coaching deepening." The [[Covenant Identity Coaching — White Paper]] and [[Covenant Identity Coaching — Full Model Reference]] each list "personality disorder patterns" among the presentations coaching refers out.
 
-**A gap.** As of 2026-10-13 the [[Covenant Identity — Crisis & Referral Protocol]] does not mention personality-disorder-level presentations. It was searched for "personality," "Cluster B," and "narcissis." No match was found. Closing this gap is on the Build Plan.
+**A gap, now closed.** Until 2026-10-13 the [[Covenant Identity — Crisis & Referral Protocol]] did not mention personality-disorder-level presentations. It was searched for "personality," "Cluster B," and "narcissis," with no match. Andrew approved a fix the same day. Section 2 of the protocol now has a personality-disorder-level bullet that points here.
 
 **Draft referral indicators.** [D] These are a working draft. They are not yet in the Crisis & Referral Protocol. Review them with the scope-boundary supervisor (priority 1 in [[Covenant Identity — Pre-Practice Readiness Action Plan]]). Any one of them moves the question from "coach with care" toward "refer or co-care."
 
@@ -146,9 +146,47 @@ Where the pattern comes from is the least settled part of this topic. The table 
 | On average, narcissism is higher in youth and declines through adulthood. In one longitudinal study of 237 adults followed from 18 to 41, narcissism declined on average and about 3% increased. | [E] | Wetzel et al. (2020).[^wetzel] Roberts et al. (2010) is supporting commentary and carries an age-versus-generation confound.[^roberts] |
 | Childhood narcissistic traits are continuous with adult NPD | Not established | No source reviewed in this pass shows it. Group-level trait stability is supported. Predicting any one child's adult outcome is not. |
 
-**What follows for CIC.** [D] There may be two routes into the structure: being overvalued, and being wounded. The second route is what the Character Wound Diagnostic Tool was built for. The first looks more like conditioning than injury.
+**What follows for CIC.** [D] There may be two routes into the structure: being overvalued, and being wounded. The second route is what the Character Wound Diagnostic Tool was built for. The first is rewarded conditioning, not injury.
 
-**Open question for Andrew.** Does an overvaluation-origin structure fit the False Noble type (the ambivalence wound), or does it belong with the non-injury "Pattern Origin" arc in Phase 2? The tool's "Before Typing" check (injury versus diffuse conditioning) is where this gets decided. It is not settled.
+**Routing rule (decided by Andrew, 2026-10-13).** [D]
+
+1. Run the injury test in the Character Wound Diagnostic Tool's "Before Typing" section. Is there a person, relationship, or event the pattern protects against? If not, use the Pattern Origin arc in Phase 2.
+2. Overvaluation alone does not pass the injury test. Being told one is special is rewarded conditioning. Start on Pattern Origin. Hold False Noble as a hypothesis.
+3. Two further checks decide close cases. First, which way the core belief runs: "I am not enough" fits the False Noble. "I am more than others" or "I deserve more" does not. Second, whether love was felt as at risk: the False Noble wound is love that was conditional or inconsistent. Both checks are now in "Before Typing."
+4. Mixed case (a superiority belief with some conditional-love history): Pattern Origin leads. Watch for a person-shaped injury or an "I was afraid to lose their love" story, and switch to wound typing if one surfaces. The Pattern Origin question set already contains the redirect: "Is there a person, or is it more like an atmosphere?"
+5. Behavior under threat cannot decide alone. A client with learned superiority who answers threat with anger can look like a Warrior without a betrayal wound. A client who performs harder under pressure can look like a False Noble without an ambivalence wound. Only the injury test separates them.
+6. Log the routing call in the [[Covenant Identity — Diagnostic Calibration Log]] and hold it lightly until signals converge across sessions. The log's scope was extended to routing calls on 2026-10-13. It records the four routing signals and closes each entry out against later evidence.
+7. Not adopted: widening "ambivalence" to include being loved as an extension of the parent's image. No evidence supports it, and it would blur a clean type. Reconsider if live clients show the pattern.
+
+---
+
+### Guardrail 4b — Is Shame or a Wound the Baseline of Every Pattern?
+
+Andrew's working belief was that image-protective patterns are wound-based. A research pass on 2026-10-13 tested that belief against the literature.
+
+**Finding.** Not as a universal. Shame and wound are well supported as the baseline of the shame-heavy form. They are not supported as the baseline of the superiority-displaying form. [E, correlational. Limits below.]
+
+| Form | Shame | Attachment | Maltreatment or neglect | Reading |
+|---|---|---|---|---|
+| **Shame-heavy** (vulnerable or covert narcissism) | Moderate-to-strong positive link. Reviewers treat shame as its core organizing affect.[^kesman] | Preoccupied strongest, fearful moderate, dismissive weak, secure negative.[^mohay] | Small positive link (about r = .20). Neglect is stronger than physical abuse.[^gao] | Wound-based is well supported. |
+| **Superiority-displaying** (grandiose or overt narcissism) | Small negative link on the standard scale. More variable on the Pathological Narcissism Inventory.[^kesman] | No significant link to insecure styles.[^mohay] | Tiny link (about r = .09), larger in samples under 18 (about .19).[^gao] Recalled parental overvaluation shows a small link in adults.[^nguyen] | Not wound-based by these data. |
+| **Clinical NPD** | Low shame proneness, high shame aversion, elevated implicit state shame.[^kesman] | Not covered here. | Not covered here. | Mixed. Latent shame is plausible and unproven. One clinical sample showed lower explicit self-esteem than controls and no implicit difference.[^vater] |
+
+Five further findings bear on the baseline question.
+
+- **No hidden low self-esteem under the superiority form.** Meta-analyses found no consistent mask of low implicit self-esteem behind narcissism.[^bosson] [E]
+- **Fragile does not mean low.** The self-view is positive but contingent. It rises and falls with feedback.[^morf] After an insult, aggression went toward its source.[^bushman] [E]
+- **One person moves between states.** Across 862 people and 36,631 momentary reports, people high in the superiority form also showed vulnerable states. People high in the shame-heavy form stayed mostly vulnerable. The two states rarely occurred in the same moment.[^edershile] [E]
+- **The shared core is not shame.** One model places entitled self-importance at the core of both forms.[^krizan] Another describes two routes to a grandiose self: self-promotion, and antagonistic defense against failure.[^back] [E for the models. The approach-versus-avoidance wording comes from a secondary source.]
+- **Genes carry a large share.** A 2014 twin study put grandiosity at 23% heritable and entitlement at 35%.[^luo] [E] A 2026 twin-family report claims about 50% genetic, the rest non-shared experience, and no detectable shared-family effect.[^backtwin] [Press-level only.] If the second holds, parenting explanations are weaker than the retrospective studies suggest. Non-shared experiences (peers, individual treatment, trauma) could still matter.
+
+**What could not be settled.**
+
+- Hidden shame under the superiority form is neither shown nor ruled out. People may under-report shame. Implicit measures are noisy.
+- Nearly all of the evidence is correlational, retrospective, or self-report. The wound effects are small.
+- Several sources were read at abstract level or through press coverage. The Sources section says which.
+
+**CIC stance.** [D] Wound-based is the default hypothesis for shame-heavy and mixed presentations. Superiority-displaying presentations get an explicit alternative: learned superiority or temperament. Four signals discriminate: the injury test, the direction of the core belief, whether love was felt as at risk, and the response under threat. Shame or withdrawal under threat points to the wound branch. Anger or contempt points to the alternative, or to anger covering shame. No single signal is proof.
 
 ---
 
@@ -179,20 +217,21 @@ A coach who carries an image-protective pattern, from lived history or from the 
 - **Asset.** Recognition from the inside. The coach knows what the pattern protects.
 - **Risks.** Enjoying a client's idealization. Becoming defensive when corrected. Over-identifying with the client. Under-seeing a pattern because it feels familiar. [D]
 
-The control is the [[Covenant Identity — Self-Supervision Template]] (Wound Pattern Intersection and Cross-Session Pattern Watch) plus the scope-boundary supervisor. A narcissistic-pattern watch for the Self-Supervision Template is on the Build Plan. This document records no personal history on purpose.
+The control is the [[Covenant Identity — Self-Supervision Template]] (Wound Pattern Intersection and Cross-Session Pattern Watch) plus the scope-boundary supervisor. A narcissistic-pattern watch was added to Section 5 of the Self-Supervision Template on 2026-10-13. This document records no personal history on purpose.
 
 ---
 
 ## How This Connects to Existing CIC Documents
 
-- [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]]. Its "Narcissistic Defenses" entry holds the current scope flag and maps the pattern to the False Noble wound type. This document extends that entry. It does not replace it.
-- [[Covenant Identity — Character Wound Diagnostic Tool]]. False Noble type, and the scope boundary quoted in Guardrail 2. Its "Before Typing" check bears on the open question in Guardrail 4.
+- [[Covenant Identity — Psychological Constructs — Reverse Connection Reference]]. Its "Narcissistic Defenses" entry holds the current scope flag and maps the pattern to the False Noble wound type. This document extends that entry. It does not replace it. The entry's False Noble mapping was narrowed on 2026-10-13 to the shame-heavy, performance-driven form.
+- [[Covenant Identity — Character Wound Diagnostic Tool]]. False Noble type, and the scope boundary quoted in Guardrail 2. Its "Before Typing" check carries the routing checks decided in Guardrail 4.
 - [[Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic]]. The self-deception barrier: the person cannot see a false identity they built so that they would not need to.
 - [[Covenant Identity — Felt Inadequacy and the Vacancy — Mechanism]]. Node 3, where the image-protective pattern resists most.
 - [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]]. The biblical anchor for the receptivity precondition (Node 4).
 - [[Covenant Identity — Disordered Affections as Idolatry — Biblical Case & Practitioner Defense]]. The general case that worth sourced from anything other than God is a disordered affection.
 - [[Covenant Identity — Crisis & Referral Protocol]]. Referral authority. See the gap noted in Guardrail 2.
 - [[Covenant Identity — Self-Supervision Template]]. Where the coach's own pattern is watched (Guardrail 6).
+- [[Covenant Identity — Diagnostic Calibration Log]]. Where routing calls are logged and closed out against later evidence (scope extended 2026-10-13).
 - [[Covenant Identity — Pre-Practice Readiness Action Plan]]. The scope-boundary supervisor plan that the draft referral indicators wait on.
 - [[Covenant Identity — Terminology & Language Reference]]. The glossary home for any new term that comes out of this work. New terms go there, not into this document.
 
@@ -202,11 +241,11 @@ The control is the [[Covenant Identity — Self-Supervision Template]] (Wound Pa
 
 | Part | What it will hold | What the coach does differently because it exists | Status |
 |---|---|---|---|
-| **A — Guardrails** | This document: language, registers, evidence tags, developmental account, design premises, coach's own pattern | Checks every statement about narcissistic patterns against these rules before writing or saying it | Built 2026-10-13 |
+| **A — Guardrails** | This document: language, registers, evidence tags, developmental account, design premises, coach's own pattern | Checks every statement about narcissistic patterns against these rules before writing or saying it | Built 2026-10-13. Extended the same day with Guardrail 4b and the routing rule. |
 | **B — Recognition Guide** | What the pattern looks like in the room, organized by observable behavior. Both expressions (superiority-displaying and shame-heavy). Lookalikes ("what else it could be"). Plain wording with clinical terms in parentheses. | Recognizes the pattern by what the person does. Avoids mislabeling lookalikes. | Waiting on Andrew's source notes |
 | **C — Application across the CIC sequence** | How the pattern changes each stage: alliance, Nodes 3–5, absorption of covenant language, pacing, tool choice | Adjusts pace, language, and tools to the pattern | After B |
 | **D — Client conversation guide** | A client names another person as a narcissist. Safety questions. Avoiding colluding with or diagnosing the absent person. | Handles "my spouse is a narcissist" without diagnosing, colluding, or missing a safety issue | After B |
-| **Edits to existing documents** (need Andrew's approval) | Crisis & Referral Protocol: add personality-disorder-level presentations. Self-Supervision Template: add a narcissistic-pattern watch. Reverse Connection Reference: add a cross-link here. | Closes the referral gap. Gives the coach's own pattern a watch point. | Proposed |
+| **Edits to existing documents** | Crisis & Referral Protocol: personality-disorder-level bullet added. Self-Supervision Template: narcissistic-pattern watch added. Reverse Connection Reference: cross-link added and False Noble mapping narrowed. Character Wound Diagnostic Tool: two checks added to "Before Typing." Diagnostic Calibration Log: scope extended to routing calls. | Closes the referral gap. Gives the coach's own pattern a watch point. Keeps overvaluation-origin clients out of a wound narrative they do not have. | Done 2026-10-13 |
 | **Glossary entries** | Terms that come out of Part B | Looks up one canonical definition | After B |
 
 ---
@@ -241,6 +280,28 @@ Andrew's notes are video-sourced. They will be organized into Part B under these
 [^classic]: Classic clinical-theory sources. Dates are as commonly cited and were **not** re-verified in-session. Kohut (1971), *The Analysis of the Self*. Kernberg (1975), *Borderline Conditions and Pathological Narcissism*. Winnicott (1960), "Ego distortion in terms of true and false self." Mahler, Pine, & Bergman (1975), *The Psychological Birth of the Human Infant*.
 
 [^ronningstam]: Ronningstam, E., & Maltsberger, J. T. (1998). Pathological narcissism and sudden suicide-related collapse. The abstract was found in-session. It describes young men who attempted suicide without acknowledging depression and links pathological narcissism to that behavior. Journal and pages not verified. Check the original before relying on it.
+
+[^kesman]: Kesman, E., Masoumi, S., De Amicis, M., Mucci, C., & Scalabrini, A. (2026). The vulnerability to shame for the narcissistic self. *Psychoanalytic Psychology*. https://doi.org/10.1037/pap0000610. Systematic review of 27 studies (PRISMA 2020). An earlier preprint listed 25. Read at repository-abstract level only. Full text not reviewed.
+
+[^mohay]: Mohay, J., Cheng, K., de la Piedad Garcia, X., & Willis, M. L. (2025). The relationship between attachment styles and narcissism: A systematic and meta-analytic review. *Personality and Individual Differences*. https://doi.org/10.1016/j.paid.2025.113255. 33 studies, 10,675 non-clinical adults. Read through press coverage only. No effect sizes seen. Cross-sectional and self-report, so causation is not established.
+
+[^gao]: Gao, S., Yu, D., Assink, M., Chan, K. L., Zhang, L., & Meng, X. (2024). The association between child maltreatment and pathological narcissism: A three-level meta-analytic review. *Trauma, Violence, & Abuse, 25*(1), 275–290. https://doi.org/10.1177/15248380221147559. 15 studies, N = 9,141. Direction and "small" size verified through an abstract summary. The r values (about .20 shame-heavy, about .09 superiority-displaying, about .19 in samples under 18) come from a search summary of the abstract, not the full text.
+
+[^vater]: Vater, A., et al. (2013). When grandiosity and vulnerability collide: Implicit and explicit self-esteem in patients with narcissistic personality disorder. *Journal of Behavior Therapy and Experimental Psychiatry, 44*(1), 37–47. https://doi.org/10.1016/j.jbtep.2012.07.001. Results taken from a secondary summary. The PDF could not be read in-session. Confirm before citing.
+
+[^bosson]: Bosson, J. K., Lakey, C. E., Campbell, W. K., Zeigler-Hill, V., Jordan, C. H., & Kernis, M. H. (2008). Untangling the links between narcissism and self-esteem: A theoretical and empirical review. *Social and Personality Psychology Compass*. https://doi.org/10.1111/j.1751-9004.2008.00089.x. Findings read through a search summary of the review. Volume and pages not verified. The review is dated, so newer work should be checked.
+
+[^morf]: Morf, C. C., & Rhodewalt, F. (2001). Unraveling the paradoxes of narcissism: A dynamic self-regulatory processing model. *Psychological Inquiry, 12*(4), 177–196. Read at abstract level through search results.
+
+[^edershile]: Edershile, E. A., & Wright, A. G. C. (2020). Fluctuations in grandiose and vulnerable narcissistic states: A momentary perspective. *Journal of Personality and Social Psychology, 120*(5), 1386–1414. https://doi.org/10.1037/pspp0000370. Abstract and the first half of the text read in-session through PMC (PMC8060359). Exploratory and not preregistered. Samples were undergraduates and a community sample enriched for low modesty.
+
+[^krizan]: Krizan, Z., & Herlache, A. D. (2018). The narcissism spectrum model: A synthetic view of narcissistic personality. *Personality and Social Psychology Review, 22*(1), 3–31. https://doi.org/10.1177/1088868316685018. Bibliographic record verified. The "entitled self-importance" core wording comes from secondary summaries.
+
+[^back]: Back, M. D., Küfner, A. C. P., Dufner, M., Gerlach, T. M., Rauthmann, J. F., & Denissen, J. J. A. (2013). Narcissistic admiration and rivalry: Disentangling the bright and dark sides of narcissism. *Journal of Personality and Social Psychology, 105*(6), 1013–1037. Record and summary verified. The approach-versus-avoidance characterization comes from a secondary source.
+
+[^luo]: Luo, Cai, and Song (2014). A behavioral genetic study of intrapersonal and interpersonal dimensions of narcissism. *PLoS ONE*. 304 twin pairs from Beijing. Grandiosity 23% and entitlement 35% heritable, with considerable non-shared environment. Read through a search summary and the PMC record (PMC3973692).
+
+[^backtwin]: Back, M. D., Instinske, J., Rohm, T., Deppe, A., & Kandler, C. (2026). Narcissism runs in families due to genetics: An extended twin family analysis. *Social Psychological and Personality Science*. Seen through press coverage only. The paper was not read. Treat the figures (about 50% genetic, no detectable shared-environment effect) as provisional. "No shared-environment effect" means none was detected, not that parenting has zero influence.
 
 [^kealy]: Kealy, D., Hadjipavlou, G. A., & Ogrodniczuk, J. S. (2015). On overvaluing parental overvaluation as the origins of narcissism. *PNAS, 112*(23), E2986. A letter responding to Brummelman et al. It argues the study measures self-inflation, cannot speak to pathological narcissism, and that social learning and psychodynamic accounts are not mutually exclusive. The authors' reply (Brummelman et al., 2015, *PNAS, 112*(23), E2987) states that the findings refute the hypothesis that narcissism is cultivated by lack of parental warmth, and do not refute psychoanalytic theory as a whole. Both letters verified in-session.
 
