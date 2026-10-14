@@ -47,18 +47,18 @@ This document sets four rules that keep CIC's use of the word accurate and safe.
 
 **Note.** The plain phrases below are descriptive. They are *not* new CIC terms of art. CIC's formal diagnostic terms remain False Covenant Object and False Identity Structure ([[Covenant Identity — False Covenant Objects & False Identity Structures — Terms Reference]]).
 
-| Plain wording | Clinical association | Note |
-|---|---|---|
-| image-protective pattern | (narcissistic pattern; narcissistic defenses) | The umbrella phrase in this document. |
-| superiority-displaying form | (grandiose or overt narcissism) | Visible self-importance, entitlement, a need to be seen as above others. |
-| shame-heavy form | (vulnerable or covert narcissism) | Hypersensitivity to criticism, withdrawal, envy, quiet self-focus. Can look anxious, humble, or self-critical.[^pincus] |
-| needing admiration in order to feel worth | (narcissistic supply; admiration-seeking) | |
-| wounded-pride reaction | (narcissistic injury) | When it escalates to rage or cold withdrawal: (narcissistic rage). |
-| treating people as an audience, a mirror, or a resource | (interpersonal exploitativeness; using others to regulate self-esteem) | |
-| difficulty registering or caring about another person's inner experience | (impaired empathy) | [P] Popular accounts say "no empathy." The research picture may be more mixed. Detail pending Part B. |
-| an expectation of special treatment | (entitlement) | |
-| a self-appraisal that swings between inflated and deflated | (unstable self-esteem regulation) | |
-| a pattern at personality-disorder level | (Narcissistic Personality Disorder, NPD) | Only a licensed clinician determines this. |
+| Plain wording                                                            | Clinical association                                                   | Note                                                                                                                    |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| image-protective pattern                                                 | (narcissistic pattern; narcissistic defenses)                          | The umbrella phrase in this document.                                                                                   |
+| superiority-displaying form                                              | (grandiose or overt narcissism)                                        | Visible self-importance, entitlement, a need to be seen as above others.                                                |
+| shame-heavy form                                                         | (vulnerable or covert narcissism)                                      | Hypersensitivity to criticism, withdrawal, envy, quiet self-focus. Can look anxious, humble, or self-critical.[^pincus] |
+| needing admiration in order to feel worth                                | (narcissistic supply; admiration-seeking)                              | Ongoing Co-dependency of the admiration from others to sense personal value                                             |
+| wounded-pride reaction                                                   | (narcissistic injury)                                                  | When it escalates to rage or cold withdrawal: (narcissistic rage).                                                      |
+| treating people as an audience, a mirror, or a resource                  | (interpersonal exploitativeness; using others to regulate self-esteem) |                                                                                                                         |
+| difficulty registering or caring about another person's inner experience | (impaired empathy)                                                     | [P] Popular accounts say "no empathy." The research picture may be more mixed. Detail pending Part B.                   |
+| an expectation of special treatment                                      | (entitlement)                                                          |                                                                                                                         |
+| a self-appraisal that swings between inflated and deflated               | (unstable self-esteem regulation)                                      |                                                                                                                         |
+| a pattern at personality-disorder level                                  | (Narcissistic Personality Disorder, NPD)                               | Only a licensed clinician determines this.                                                                              |
 
 **Using the common word.** CIC may use *narcissistic* as a bridge word in two cases only. The first is when a client uses it. The second is when a coach needs to say what the pattern is called outside CIC. In both cases, describe the behavior beside the word.
 
