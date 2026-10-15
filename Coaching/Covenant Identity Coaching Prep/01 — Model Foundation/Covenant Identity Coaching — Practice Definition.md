@@ -46,7 +46,7 @@ The telos is the progressive restoration of the client's covenant identity — b
 
 **What a transformed client looks like:**
 - Near-term: False identity named and exposed; affections beginning to reorient toward God; false covenant objects losing governing power; true covenant identity consciously received
-- Long-term: A person whose desires, affections, imagination, habits, and character are increasingly conformed to Christ — who lives as God's covenant person not by striving but by Spirit-formed character
+- Long-term: A person whose desires, affections, imagination, habits, and character are quickened, increasingly conformed to Christ — who lives as God's covenant person not by striving but by Spirit-formed character
 
 **What this telos is not:**
 - Psychological integration or reduced shame
