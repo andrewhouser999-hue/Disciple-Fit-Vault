@@ -136,7 +136,7 @@ The Covenant Identity model operates within the Wesleyan/means-of-grace stream. 
 
 > *Conditions are not causes. Conditions are the riverbed through which grace flows. The Spirit is not manipulated by discipline — he is received by a person who has positioned themselves to receive.*
 
-**Guard against:** any practitioner or client language that implies the Spirit is a guaranteed output of the right inputs. Phil 2:12–13's "fear and trembling" is itself a guard clause — this is a covenant posture to inhabit, not a formula to run.
+**Guard against:** any practitioner or client language that implies the Spirit is a guaranteed output of the right inputs. Phil 2:12–13's "fear and trembling" is itself a guard clause — **this is a covenant posture to inhabit,** not a formula to run.
 
 ---
 
