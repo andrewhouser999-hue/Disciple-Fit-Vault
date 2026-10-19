@@ -137,6 +137,15 @@ Working harmfully in a hidden, gradual way: appearing harmless or even attractiv
 
 ---
 
+#### Coherence Theory of Truth
+
+*koh-HEER-uns THEE-uh-ree of TROOTH*
+"Argues that a proposition is true not because it corresponds to some external fact, but because it fits coherently within a system of other beliefs already accepted as true. This might sound abstract at first, but it has profound consequences for how we understand knowledge, reason, and even the nature of reality itself." (Source: philosophy.institute, *Coherence Theory of Truth* — https://philosophy.institute/epistemology/coherence-theory-truth-philosophy/) e.g. He judged the new teaching true because it fit everything else he already believed, not because he had checked it against Scripture or against what actually happened.
+**Contrasted with:** the correspondence theory of truth, where a statement is true when it matches how things actually are, independent of what else the person believes.
+**Wisdom:** A belief can fit perfectly inside a person's whole system and still be false, because the test being used is fit, not match. *(Design judgment, not part of the sourced definition.)* In coaching terms, this is one reason a false belief about God can feel obviously true to a client: it is held together by many other beliefs and by the false identity structure built around it, so it is never questioned. Truth that arrives from outside the system (Scripture, Spirit-given conviction, a corrective experience) is what can expose the gap.
+
+---
+
 ## Part I — Hebrew, Aramaic & Greek Terms
 
 *Exegetical vocabulary cited across CIC's biblical-theological documents. Pronunciation guides are simplified, English-reader phonetic approximations (caps = stressed syllable) — not IPA and not identical to Modern Hebrew or Erasmian Greek pronunciation systems, though closest to standard seminary Erasmian/Biblical Hebrew academic convention. Alphabetized by transliteration.*
