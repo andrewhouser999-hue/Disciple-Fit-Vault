@@ -66,6 +66,7 @@ Andrew's read, 2026-09-17: the space is flooding, low-effort scalped/reaction co
 - F1–F4 doorways are Hypothesis-level, same evidentiary caveat as the 8 existing doors — flag before scripting any that don't match what Andrew has actually seen or heard from prospects
 - No recurring-format episode built yet
 - No peer-proof/testimony content exists yet — Stage 5 row above is a placeholder until a first usable client story exists
+- Parked idea (2026-10-19): interview the authors, coaches, and psychologists primary to CIC's source material — candidate list, guest-fit flags, and open decisions in [[Guest Interview Idea — CIC Source Authors]]. Not scheduled; recommended gate is after Video 01 publishes
 
 ---
 
