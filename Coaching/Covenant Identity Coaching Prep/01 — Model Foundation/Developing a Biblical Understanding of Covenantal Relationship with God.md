@@ -108,7 +108,7 @@ God initiates. God obligates Himself. God ratifies the covenant in blood — the
 "In Christ" and its variants ("in him," "in the Lord") are Paul's most common way of locating the believer. Adolf Deissmann counted about 164 occurrences of the "in Christ" formula (1892), and counts vary with what is included. Constantine Campbell shows that the language carries several senses (union, participation, identification, and incorporation). "Covenantal location" is therefore this document's reading of one strand, not the whole of Paul's usage. On that reading, to be in Christ is to be inside the covenant, because Christ is both its mediator (Heb 9:15) and its faithful covenant partner (Rom 5:19). The believer's covenantal standing is Christ's standing, credited by union.
 
 **Claim 3: The covenant is the ground of both identity and expectation.**
-God's covenantal faithfulness (*hesed*) is the basis for both who you are and what you can count on. Covenant identity is not self-generated — it is received from the covenant relationship and confirmed by the covenant community.
+God's covenantal faithfulness (*hesed*) is the basis for both who you are and what you can count on. ***Covenant identity*** is not self-generated — it is received from the covenant relationship and confirmed by the covenant community.
 
 ### 6. Interpretive Debate — Where Credible Scholars Disagree
 
