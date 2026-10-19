@@ -140,4 +140,4 @@ This research foundation undergirds the following system design decisions:
 - **Narrative re-authoring as a named intervention modality:** McAdams provides the research basis for why this is a primary mechanism, not a secondary technique. The client's governing story must be revised, not just supplemented with new behavioral information.
 - **Between-session work emphasizes receptive return rather than behavioral repetition:** Consistent with the research finding that identity reorganization requires revisiting truth in a receptive posture (reconsolidation), not performing the behavior until it takes through sheer repetition.
 
-See [[Covenant Identity — Theory of Change]] for the full causal chain this research foundation supports.
+See [[Covenant Identity Coaching — Theory of Change]] for the full causal chain this research foundation supports.
