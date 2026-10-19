@@ -46,13 +46,13 @@ The Hebrew *berith* (בְּרִית) appears ~285 times in the OT. It denotes a 
 
 ### 2. Language — Key Terms
 
-| Term | Hebrew/Greek | Semantic Range | Translation Risk |
-|---|---|---|---|
-| *Berith* | בְּרִית | Covenant, treaty, bond | "Agreement" flattens — obscures oath-bound solemnity |
-| *Hesed* | חֶסֶד | Covenant loyalty, lovingkindness, steadfast love | "Love" alone loses the *covenantal obligation* — this is not just affection, it is bound faithfulness |
-| *Emunah* | אֱמוּנָה | Faithfulness, trustworthiness, reliability | Root of "amen." Often translated "faith" in NT contexts (πίστις/*pistis*) but carries weight of *relational trustworthiness*, not just cognitive belief |
-| *Hesed ve-emet* | חֶסֶד וֶאֱמֶת | Lovingkindness and truth/faithfulness | Hendiadys: covenant love *and* covenant faithfulness together. Appears at key covenant renewal moments (Ex 34:6; Gen 24:27; John 1:14 — "grace and truth" = the Greek equivalent) |
-| *Diatheke* | διαθήκη | Covenant, will/testament | LXX uses this over *syntheke* (mutual agreement) — emphasizing that God's covenant is not a negotiated contract but a gracious disposition |
+| Term            | Hebrew/Greek  | Semantic Range                                   | Translation Risk                                                                                                                                                                  |
+| --------------- | ------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Berith*        | בְּרִית       | Covenant, treaty, bond                           | "Agreement" flattens — obscures oath-bound solemnity                                                                                                                              |
+| *Hesed*         | חֶסֶד         | Covenant loyalty, lovingkindness, steadfast love | "Love" alone loses the *covenantal obligation* — this is not just affection, it is bound faithfulness                                                                             |
+| *Emunah*        | אֱמוּנָה      | Faithfulness, trustworthiness, reliability       | Root of "amen." Often translated "faith" in NT contexts (πίστις/*pistis*) but carries weight of *relational trustworthiness*, not just cognitive belief                           |
+| *Hesed ve-emet* | חֶסֶד וֶאֱמֶת | Lovingkindness and truth/faithfulness            | Hendiadys: covenant love *and* covenant faithfulness together. Appears at key covenant renewal moments (Ex 34:6; Gen 24:27; John 1:14 — "grace and truth" = the Greek equivalent) |
+| *Diatheke*      | διαθήκη       | Covenant, will/testament                         | LXX uses this over *syntheke* (mutual agreement) — emphasizing that God's covenant is not a negotiated contract but a gracious disposition                                        |
 
 **High-leverage insight for coaching:** *Hesed* is the single most important term. It is covenantally structured love — God's faithfulness to you is not temperamental affection, it is oath-bound commitment. When a client hears "God loves you," they hear sentiment. When they understand *hesed*, they hear a sworn covenant. That is a different psychological load-bearing structure.
 
