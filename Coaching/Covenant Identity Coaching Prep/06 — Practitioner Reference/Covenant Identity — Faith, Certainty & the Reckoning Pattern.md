@@ -31,7 +31,7 @@ Paul is mid-argument (Rom 4) that Abraham was justified by faith, not works, anc
 - **τὰ μὴ ὄντα ... ὡς ὄντα** ("things that do not exist ... as existing") — strong ontological language. Not "things that are unlikely" — things with zero present existence, spoken of as existing.
 - **ζωοποιοῦντος τοὺς νεκρούς** ("gives life to the dead") — paired participle, echoing v.19's description of Abraham's body as "already as good as dead" and Sarah's barren womb (Heb 11:11).
 
-**Critical grammatical point:** both participles describe **God**. Abraham is never the subject of "calling" or "giving life" — he is the one who *trusts* the God who does. Genesis 15's covenant ceremony reinforces this: God alone passes between the pieces, a unilateral self-binding oath (cf. Heb 6:13–18). Abraham's certainty rests on God's self-obligation, not on Abraham generating conviction from within.
+**Critical grammatical point:** both participles describe **God**. Abraham is never the subject of "calling" or "giving life" — he is the one who *trusts* the God who does. Genesis 15's covenant ceremony reinforces this: God alone passes between the pieces, a unilateral self-binding oath (Gen 15:17; compare the practice in Jer 34:18–20). The oath Heb 6:13–18 cites is the later one in Gen 22:16–17, given after Abraham's obedience; Hebrews uses it to ground the believer's assurance in God's own oath. Abraham's certainty rests on God's self-obligation, not on Abraham generating conviction from within.
 
 ---
 
