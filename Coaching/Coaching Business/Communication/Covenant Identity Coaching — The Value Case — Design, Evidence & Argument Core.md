@@ -1,6 +1,6 @@
 ---
 created: 2026-10-20
-basis: "[[Covenant Identity Coaching — Practice Definition]] (governing definition, positional identity vs. formation, five-layer mechanism); [[Covenant Identity Coaching — Theory of Change]] (eight-node chain); [[Covenant Identity — Integration Rationale]] (the two admission tests and the exclusions for psychology); [[Covenant Identity — Biblical Foundations Index]] (design-to-Scripture map and status flags); [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (four conditions); [[Covenant Identity — The Interior Life as Telos]] (nine qualities); [[Covenant Identity Coaching — Peer Practitioner Briefing]] (Scripture-outward order of construction); [[Covenant Identity — Identity-Before-Behavior Research Foundation]]; [[The Inner Man — Evidence & Argument Core]] (the three-layer pattern this document follows); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Disciple Fit — Marketing Charter]], [[Sunday-Monday Christian]], [[Wilderness Christian]], [[Client Problem & Cost Language]], [[Branding & Core Competency]] (reader, voice, guardrails); [[Covenant Identity Coaching — Coaching Agreement]] and [[Covenant Identity Coaching — Quick Launch Plan]] (terms). New external verification pass 2026-10-20: most citations, and all quoted ESV texts not already transcribed in the vault, checked against indexed or primary sources; results and the unverified remainder logged in Part II §B and §I.4. Built 2026-10-20 at Andrew's request for a comprehensive description of CIC's Scripture-first, evidence-informed design that smaller pieces can draw from. Updated 2026-10-20 (same day): reader set to Wilderness-first per Andrew's decision; his account of how faith is built recorded verbatim in Part I §11; decisions 1 to 6 recorded in Part II §I.1. Updated 2026-10-20 (later that day): the /bible vetting applied to Part I and Part II, with the way of reading worded as 'its own setting and the whole of Scripture, read in the light of Christ'; the six vault corrections in Part II §B applied to the files they name."
+basis: "[[Covenant Identity Coaching — Practice Definition]] (governing definition, positional identity vs. formation, five-layer mechanism); [[Covenant Identity Coaching — Theory of Change]] (eight-node chain); [[Covenant Identity — Integration Rationale]] (the two admission tests and the exclusions for psychology); [[Covenant Identity — Biblical Foundations Index]] (design-to-Scripture map and status flags); [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (four conditions); [[Covenant Identity — The Interior Life as Telos]] (nine qualities); [[Covenant Identity Coaching — Peer Practitioner Briefing]] (Scripture-outward order of construction); [[Covenant Identity — Identity-Before-Behavior Research Foundation]]; [[The Inner Man — Evidence & Argument Core]] (the three-layer pattern this document follows); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Disciple Fit — Marketing Charter]], [[Sunday-Monday Christian]], [[Wilderness Christian]], [[Client Problem & Cost Language]], [[Branding & Core Competency]] (reader, voice, guardrails); [[Covenant Identity Coaching — Coaching Agreement]] and [[Covenant Identity Coaching — Quick Launch Plan]] (terms). New external verification pass 2026-10-20: most citations, and all quoted ESV texts not already transcribed in the vault, checked against indexed or primary sources; results and the unverified remainder logged in Part II §B and §I.4. Built 2026-10-20 at Andrew's request for a comprehensive description of CIC's Scripture-first, evidence-informed design that smaller pieces can draw from. Updated 2026-10-20 (same day): reader set to Wilderness-first per Andrew's decision; his account of how faith is built recorded verbatim in Part I §11; decisions 1 to 6 recorded in Part II §I.1. Updated 2026-10-20 (later that day): the /bible vetting applied to Part I and Part II, with the way of reading worded as 'its own setting and the whole of Scripture, read in the light of Christ'; the six vault corrections in Part II §B applied to the files they name. Section J added 2026-10-20 (later): the /bible vetting record kept as an appendix (option B), with notes for a later standalone reference (option A)."
 tags:
   - coaching-business
   - value-case
@@ -61,6 +61,7 @@ Covenant Identity Coaching is built on a Scripture-governed account of why a sin
   - G. Objections and answers
   - H. What this document does not claim
   - I. Open items, flags, and questions for Andrew
+  - J. The /bible vetting record, and notes for a later standalone reference
 
 ---
 
@@ -827,12 +828,18 @@ It can be, and Scripture says so. A person can hear and not do (Matthew 7:26; Ja
 7. **Applying the /bible verdicts.** Yes. Applied on 2026-10-20 to Part I §4, §5, §7, and §11 and to Part II. The way of reading is worded "in its own setting and in the whole of Scripture, read in the light of Christ."
 8. **Corrections.** Yes. The six corrections in §B were applied on 2026-10-20.
 
+9. **A standalone exegetical reference.** Decided 2026-10-20: keep the /bible record as the appendix in §J now (option B), and build the standalone reference later (option A) after commentaries are consulted. Notes for running it are in §J.5.
+
 *Still open (each with the default this document assumes):*
-9. **Price in derivatives.** *Default: terms appear on the discovery call and in the agreement, not in public essays.*
-10. **Top three venues.** *Default for the Wilderness reader: a YouTube pillar video, a "why it is built this way" web page, and a discovery-call conversation guide.*
-11. **Public vocabulary.** *Default: "old story" in public, "false identity" for practitioners.*
-12. **Voice panel.** Confirm or swap the voices in [[CIC Value Case — Authorship Prompt (Standing)]].
-13. **A standalone exegetical reference.** Whether to save the /bible record as a document in `06 — Practitioner Reference`. It would need Biblical Foundations Index rows and the full indexing pass. *Default: not built until Andrew decides.*
+10. **Price in derivatives.** *Default: terms appear on the discovery call and in the agreement, not in public essays.*
+11. **Top three venues.** *Default for the Wilderness reader: a YouTube pillar video, a "why it is built this way" web page, and a discovery-call conversation guide.*
+12. **Public vocabulary.** *Default: "old story" in public, "false identity" for practitioners.*
+13. **Voice panel.** Confirm or swap the voices in [[CIC Value Case — Authorship Prompt (Standing)]].
+
+*To do later (decided 2026-10-20):*
+- Build the standalone exegetical reference (§J.5).
+- Retrieve the Cultural Research Center's own reports and confirm the Barna figures before any public use (§J.6, item 1).
+- Re-verify the ESV tails of Colossians 2:7, Ephesians 1:17–18, and Matthew 13:23 (§J.6, item 2).
 
 **I.2 Candidate anchors and the /bible verdicts (run and applied 2026-10-20)**
 - 1 Thessalonians 2:13: the clause "at work in you believers" is [S] and Developed. The "received" and "accepted" verb mapping is not used (Gap; a design judgment).
@@ -861,6 +868,134 @@ It can be, and Scripture says so. A person can hear and not do (Matthew 7:26; Ja
 - Register rows 3, 5, 6, 7, 8, 20, and 23, and the Bowlby, Ainsworth, and Kirkpatrick citations. They are cited from standard references or the vault and were not re-fetched this session. This includes the Cepeda and Roediger citations.
 - The Barna and Cultural Research Center figures. Their own reports were not retrieved. The 2021 and 2023 figures were checked against news coverage (Christian Post, Crosswalk) and the 2026 figure against George Barna's own post.
 - The REVEAL congregation count, which comes from the *Christian Century* summary.
+- The reasoning in §J. It rests on the ESV text, the NET Bible's notes, and lexical aids. No commentary and no BDAG entry was consulted (§J.4).
+- The ESV tails of Colossians 2:7, Ephesians 1:17–18, and Matthew 13:23 as quoted in Part I. The fetch tool cut them off in the last pass, so they rest on the first verification pass (§J.6).
+
+### J. The /bible vetting record (2026-10-20)
+
+*This section keeps the reasoning behind the verdicts in §C, §D, and §I.2. Authors use the verdicts. The reasoning is kept here so that it is not lost and so that a challenger can be answered. On 2026-10-20 Andrew chose to keep it as this appendix and to defer a standalone reference (§J.5). The vetting rests on the ESV text, the NET Bible's textual and translation notes, and lexical aids. It was not checked against commentaries or BDAG (§J.4).*
+
+*Labels used below. A1 to A6 are the six candidate anchors proposed in the first draft. B1 to B4 are the texts behind Andrew's account of how faith is built. C1 to C6 are the warrant texts used in Part I §4.*
+
+**J.1 What was checked**
+- *ESV text,* on BibleGateway: Genesis 1:27; 17:17; Nehemiah 8:8 (ESV footnote: "Or *with interpretation*, or *paragraph by paragraph*"); Psalm 73:16–17, 26; Psalm 119:18, 25, 37, 40, 50, 130; Jeremiah 15:16; Matthew 5:45; 7:24–27; 13:19, 23; Luke 6:47–49; 24:13–32, 44–45; John 6:63; 14:26; 16:13–15; Acts 8:30–31; 14:17; 16:14; 20:32; Romans 4:19–21; 10:17; 1 Corinthians 2:12–14; 2 Corinthians 3:6; Ephesians 1:17–18; 2:20; 4:11–14; Colossians 1:9–10, 29; 2:2–3, 6–7; 1 Thessalonians 1:5; 2 Timothy 2:15; Titus 1:12–13; Hebrews 4:12; 1 Peter 1:25; 2 Peter 1:4, 20–21; 3:18; 1 John 2:20, 27; Jude 20–21; Deuteronomy 30:14.
+- *King James readings:* Philemon 6, 1 Thessalonians 2:13, Ephesians 3:7, James 5:16, Hebrews 4:2, Romans 4:19, and Romans 10:17.
+- *NET Bible textual and translation notes:* Hebrews 4:2; Romans 4:19; Romans 10:17; Philemon 6; Psalm 73:17; 1 Thessalonians 2:13.
+- *BibleHub, Strong's 1272, dianoigō ("open thoroughly"):* Mark 7:34; Luke 2:23; 24:31, 32, 45; Acts 7:56; 16:14; 17:3.
+
+**J.2 Verdicts and reasoning**
+
+*A. The six candidate anchors*
+
+**A1. 1 Thessalonians 2:13**
+- *Establishes:* Paul thanks God that the Thessalonians received his message "not as the word of men but as what it really is, the word of God, which is at work in you believers." The NET note reads Paul's focus as their attitude toward the message. They took it as God's and not as a human message.
+- *Variants and debates:* The two verbs, *paralambanō* ("received") and *dechomai* ("accepted"), read as a natural pair. They do not mark two stages. *Dechomai* is also the verb in 1 Corinthians 2:14, where the natural person "does not accept the things of the Spirit of God."
+- *Verdict:* The clause "at work in you believers" is [S] and Developed. Using the two verbs as a registration and reception mechanism is an overreach. It is [D], and a Gap.
+- *Safe wording:* "The word of God, which is at work in you believers."
+
+**A2. Hebrews 4:2**
+- *Establishes:* The good news came to the wilderness generation, "but the message they heard did not benefit them, because they were not united by faith with those who listened."
+- *Variants and debates:* The Greek has two readings. The accusative plural *synkekerasmenous* (P13, P46, A, B, C, D*, and others) is the NET's choice and the ESV's: the hearers were not united by faith with those who listened. The nominative singular (Sinaiticus and some versions) says the message was not mixed with faith by the hearers. The King James follows that line: "not being mixed with faith in them that heard it." Other variants exist (minuscules 104 and 1881, and the Majority text). The verse sits inside the warning passage in 3:7–4:13, which belongs with 6:4–6 and 10:26–31. The 2026-10-18 stance leaves the question of final renunciation open on purpose. For a sincere Wilderness reader the verse also risks feeding scrupulosity.
+- *Verdict:* [S~], weak. Contested. Drop from public copy. Practitioner use only, with caution.
+- *Safe wording:* None. Use James 1:22–25 and Matthew 13:19–23 instead.
+
+**A3. Romans 4:19–21**
+- *Establishes:* Abraham "considered his own body, which was as good as dead" and the barrenness of Sarah's womb, and "no unbelief made him waver concerning the promise of God."
+- *Variants and debates:* The manuscripts divide. The majority reading (D, F, G, Ψ, 33, 1881, and the Majority text) has the word "not": he did not consider his body. Sinaiticus, A, B, C, minuscules 6, 81, 365, 1506, and 1739, and the Coptic lack it. The NET note calls the negative reading "probably a scribal attempt to exalt the faith of Abraham." The King James follows the negative: "he considered not his own body now dead." NA28 brackets "already" (*ēdē*). The NET cites a commentator for the point that faith does not mean closing one's eyes to reality. Genesis 17:17 shows Abraham laughing.
+- *Verdict:* [S~] as a pattern, and fair under the critical text. That the meeting of the fact and the promise is how change happens is [D]. Developed as a pattern, with the variant noted.
+- *Safe wording:* "Abraham looked at the facts and did not let them have the last word."
+
+**A4. Psalm 73:16–17**
+- *Establishes:* The psalmist tried to understand why the wicked prosper. It seemed to him "a wearisome task, until I went into the sanctuary of God; then I discerned their end." Verse 26 is where the psalm lands: "God is the strength of my heart and my portion forever."
+- *Variants and debates:* The Hebrew *miqdash* ("sanctuary") is plural here, probably the temple precincts (compare Psalm 68:35 and Jeremiah 51:51). "Discerned their end" may refer to a temple oracle, or to the songs of confidence and wisdom psalms sung there (for example Psalms 11, 12, 1, 37, and 112).
+- *Verdict:* [S~] as a pattern of a bitter heart reoriented in God's presence, worship, and instruction. It is not a mechanism. Compare Lamentations 3:24. Assumed.
+- *Safe wording:* "A bitter heart was reoriented in the presence of God."
+
+**A5. Luke 24:13–32**
+- *Establishes:* The narrative is [S]. Jesus asks questions and withholds recognition. He rebukes them: "O foolish ones, and slow of heart to believe." Then, "beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself" (24:27). Their eyes are opened (24:31). Their hearts burn as He opens the Scriptures (24:32). Later He opens their minds to understand the Scriptures (24:45).
+- *Variants and debates:* One Greek verb, *dianoigō* ("open thoroughly"), runs through the passage: eyes (24:31), the Scriptures (24:32), minds (24:45). It also appears for the opening of Lydia's heart (Acts 16:14) and for Paul explaining and proving from the Scriptures (Acts 17:3). The Spirit is not named in 24:13–32.
+- *Verdict:* Using it as a coaching posture is [S~] and partly an overreach. Jesus also withholds recognition, rebukes, and teaches with authority. Its strongest use is that it holds both sources in Andrew's account: exposition across the whole of Scripture (24:27, 44–45) and the burning heart and opened mind (24:31–32, 45). Developed as a pattern. Not a technique.
+- *Safe wording:* "Jesus asked first and then opened the Scriptures. Their hearts burned as He did."
+
+**A6. The *energeō* word family**
+- *Establishes:* The claim is accurate for the passages chosen. God works (Philippians 2:13; Colossians 1:29). The word works (1 Thessalonians 2:13; Hebrews 4:12, *energēs*). Faith works through love (Galatians 5:6).
+- *Variants and debates:* The family also describes sin, death, and Satan at work (Romans 7:5; Ephesians 2:2; 2 Corinthians 4:12; 2 Thessalonians 2:7, 9) and miraculous powers (Matthew 14:2). The voice of the verb in Galatians 5:6 and James 5:16, middle or passive, is debated, along Protestant and Catholic lines over faith formed by love. Philemon 6 is the most uncertain text. *Koinōnia* has at least four readings: the NET lists financial giving, evangelistic sharing, fellowship with believers, and participation in the faith. *Epignōsis* spans understanding and experience. "In us" or "in you" is a manuscript variant. The NET favors fellowship with believers and reads Paul as praying that Philemon be equipped to encourage and love the saints. The King James reads "by the acknowledging of every good thing which is in you in Christ Jesus," which lends itself to confession teaching. The King James uses "effectual" at Philemon 6, 1 Thessalonians 2:13 ("effectually worketh"), Ephesians 3:7 ("the effectual working of his power"), and James 5:16 ("effectual fervent prayer").
+- *Verdict:* [S~]. Keep 1 Thessalonians 2:13, Philippians 2:13, Galatians 5:6, Colossians 1:29, and Hebrews 4:12. Drop Philemon 6 from public copy and from the "effective" paragraph. Keep the caution that the family also describes sin and evil at work.
+- *Safe wording:* "In the passages cited, the one at work is God, His Word, or faith acting through love."
+
+*B. The texts behind Andrew's account of how faith is built*
+
+**B1. Matthew 7:24–27 and Luke 6:47–49**
+- *Establishes [S]:* The one who hears and does builds on the rock. The one who hears and does not do builds on the sand. Luke 6:48 adds that the wise builder "dug deep and laid the foundation on the rock."
+- *Variants and debates:* The parable does not say the two builders differ in understanding. "Sand is taking Scripture in as a data point only" is close to the parable's point and not exact.
+- *Better texts for understanding:* Matthew 13:19, 23; Colossians 1:9–10; Colossians 2:2–3 ("full assurance of understanding"). The hearer who only hears is self-deceived (James 1:22–25). Building language for the faith of believers: Colossians 2:6–7; Acts 20:32; Jude 20; Ephesians 2:20; 4:11–14; 2 Peter 3:18.
+- *Verdict:* Use it for hearing and doing. Do not use it to teach that understanding is the rock.
+
+**B2. Grounded understanding**
+- *Establishes [S]:* Psalm 119:130: the unfolding of God's words gives light and understanding to the simple. Psalm 119:18: the psalmist asks God to open his eyes. Nehemiah 8:8: the readers "gave the sense." Luke 24:27, 44–45: a Christ-centered reading of all the Scriptures, then the opening of minds. Acts 8:30–31: a guide helps the Ethiopian understand. Acts 17:3: Paul explains and proves from the Scriptures. Acts 17:11: the Bereans test teaching by Scripture. 2 Timothy 2:15: "rightly handling the word of truth" (the range of *orthotomeō* is debated).
+- *Does not establish:* 2 Peter 1:20–21 is about the origin of prophecy (verse 21). It is not a rule for reading. Nothing in these texts commands a method of interpretation.
+- *Verdict:* "The original author's intended meaning" is an evangelical theological method, a grammatical-historical reading joined to a canonical one. No text commands it. The New Testament's own use of the Old Testament includes a fuller sense (Luke 24; 1 Peter 1:10–12; Galatians 4:21–31). The safe wording, which Andrew chose, is "what the text means in its own setting and in the whole of Scripture, read in the light of Christ." The practice of teaching understanding is Developed. The hermeneutic is Contested at the edges.
+
+**B3. Quickening and illumination**
+- *Establishes [S]:* Psalm 119:25, 37, 40: the psalmist asks God to give him life ("according to your word," "in your ways," "in your righteousness"). The Hebrew in verse 25 is *ḥayyēnî*, a Piel imperative of *ḥāyâ*, "make alive" or "revive." The King James renders it "quicken." Psalm 119:50: the promise gives life in affliction. John 6:63: the Spirit gives life, and Jesus' words are spirit and life. 1 Corinthians 2:12–14: the Spirit enables understanding and welcome. Ephesians 1:17–18: the eyes of believers' hearts are enlightened (the "Spirit of wisdom and of revelation" is the Holy Spirit on most readings). Acts 16:14: the Lord opened Lydia's heart. 1 Thessalonians 1:5: the gospel came in word, power, the Holy Spirit, and full conviction. Jeremiah 15:16: God's words became joy and the delight of the heart.
+- *Establishes [S~]:* John 14:26 and 16:13–15 are promises made to the apostles, and their extension to believers is by analogy. 1 John 2:20, 27 (the anointing) was written about false teachers who left the community. It does not say that believers need no teachers.
+- *Does not establish:* 2 Corinthians 3:6, "the letter kills, but the Spirit gives life," is about the old and new covenants. It is not a rule for reading.
+- *The doctrine of illumination:* The Spirit enables a person to understand and welcome what Scripture already says. It adds no new revelation.
+- *The rhēma and logos claim:* The popular claim is that *rhēma* means a specific word quickened to you and *logos* means the written word. New Testament usage overlaps. *Rhēma* is the gospel preached in Romans 10:8, 17, 18 and 1 Peter 1:25. It is also used at Ephesians 6:17, Hebrews 6:5, Hebrews 11:3, Matthew 4:4, Luke 1:37, and John 6:63 (*rhēmata*). *Logos* also names the spoken message (1 Thessalonians 2:13; Acts 4:31; 2 Timothy 4:2). The Septuagint renders the Hebrew *dābār* with both. The distinction is not supported, and it is a Word-of-Faith risk.
+- *Testing an impression:* 1 Thessalonians 5:19–21 (the direct context is prophecies) and 1 John 4:1. See also [[Covenant Identity — Discerning God's Voice — Biblical Research]].
+- *Verdict:* The safe wording for "the Spirit quickened a Scripture to me" does not rest on the *rhēma* and *logos* distinction. It is "the Spirit brought that Scripture home to me," anchored on Psalm 119:25, John 6:63, 1 Corinthians 2:12–14, Ephesians 1:17–18, and Luke 24:32, 45.
+
+**B4. Romans 10:17**
+- *Establishes [S]:* In 10:5–21 the subject is the proclaimed gospel and saving faith. *Rhēma* is the preached message (10:8, 17, 18).
+- *Variants and debates:* "Of Christ" has strong external support. The majority text reads "of God," and one papyrus fragment may read "of the Lord." The NET reads the genitive as more likely objective, "the word about Christ," though that is debated. The King James reads "hearing by the word of God."
+- *Verdict:* Safe for saving faith in its own context. For a believer's ongoing growth the support comes from other texts: 1 Thessalonians 2:13; Acts 20:32; Colossians 2:6–7; Colossians 3:16; Galatians 3:2, 5 (the phrase *akoē pisteōs* is debated); Jude 20. The client-workbook use ("hearing yourself say it") was an overreach and has been corrected.
+
+*C. The warrant texts in Part I §4*
+
+- **C1. Titus 1:12–13.** [S~]. Paul affirms an outsider's accurate observation about behavior. The tradition that names the Cretan as Epimenides is not in the text.
+- **C2. 1 Thessalonians 5:20–21.** [S~] for evaluating psychology. Direct for testing what is offered as the Spirit's word, because the context is prophecies.
+- **C3. Colossians 2:8.** [S~]. It was written about a specific syncretism at Colossae. The meaning of *stoicheia* is debated. The ESV text moved from "elementary principles" (2001) to "elemental spirits" (2016 and 2025).
+- **C4. Proverbs 25:2.** [S~].
+- **C5. Acts 17:11.** [S] for testing teaching by Scripture.
+- **C6. Psalm 19:1–4 and Romans 1:19–20.** [S] for general revelation about God. They are not about people. The warrant for psychology is the image of God (Genesis 1:26–27; 9:6) and God's kindness to all (Matthew 5:45; Acts 14:17) [S~]. "Common grace" is a Reformed-flavored label. Say "general revelation and the image of God," or "prevenient grace" in Wesleyan idiom. The Integration Rationale uses "common grace" (§I.3, item 5).
+
+**J.3 Overreach risks, ranked**
+1. Philemon 6.
+2. *Rhēma* and *logos* as "the quickened word."
+3. Hebrews 4:2.
+4. Matthew 7:24–27 used for "understanding."
+5. The two-verb mapping in 1 Thessalonians 2:13.
+6. Romans 10:17 used generally, or for self-declaration.
+7. "The original author's intended meaning" stated as if Scripture commands it.
+8. 2 Peter 1:20–21 and 2 Corinthians 3:6 used as rules for interpretation.
+9. 1 Thessalonians 5:21, Colossians 2:8, and Proverbs 25:2 used as direct warrants for evaluating psychology.
+10. Luke 24 presented as a coaching technique.
+11. "Common grace" as the label for the warrant.
+
+Bonus: Deuteronomy 30:14 is shortened and labeled ESV in four places (§I.3, item 6).
+
+**J.4 What the vetting did not check**
+- No commentary. In particular, no Romans commentary (Moo, Schreiner, or Cranfield, as named in the 2026-09-07 scrutiny of the faith-by-hearing model), and none on Luke, Hebrews, 1 Corinthians, or Ephesians.
+- No BDAG or other full lexicon entry for *energeō*, *dianoigō*, *dechomai*, *paralambanō*, *koinōnia*, *epignōsis*, or *orthotomeō*.
+- Whether Carson, Silva, or Cotterell and Turner address *rhēma* and *logos*. The search found only popular critiques and a note on the Septuagint equivalence. Do not cite them on this point.
+- Whether any prominent Word-of-Faith teacher has used Philemon 6. One popular devotional applies it to self-talk. Nothing stronger was found.
+- The positions of Lightfoot, Betz, and Moo on the voice of the verb in Galatians 5:6. The debate exists. Its details were not read.
+- The King James text of 1 Corinthians 16:9 and Galatians 5:6.
+
+**J.5 Notes for a later standalone reference (option A)**
+- *Decision.* Deferred on 2026-10-20. Build it when the parked Romans 10:17 faith-by-hearing model is picked up (the 2026-09-07 scrutiny found that model needs sourced research before it is built), or when a theologically trained challenger needs the reasoning on the record.
+- *Place.* `06 — Practitioner Reference/`, as the fifth exegetical reference beside [[Covenant Identity — Isaiah 66 2b — Practitioner Exegetical Reference]], [[Covenant Identity — Syneidēsis (Conscience) — Practitioner Exegetical Reference]], [[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]], and [[Covenant Identity — Faith as a Mustard Seed (Matthew 17 20) — Practitioner Exegetical Reference]]. Not in the Biblical Readiness Hub: the content is tied to CIC's mechanism (D6, D7, D15), and the Hub is kept track-agnostic.
+- *Working title.* Covenant Identity — How Faith Is Built — Word, Spirit, and Whole-Canon Context — Practitioner Exegetical Reference.
+- *Contents, about 200 lines.* The claim it serves. The text-by-text blocks in §J.2, extended with the sourcing below. The *rhēma* and *logos* usage evidence. Why "the original author's intended meaning" is a method and not a command. The 13 cautions from §D. Four ready sentences. A list of open research.
+- *Source first.* A Romans commentary on 10:17 and the *akoē* question. BDAG for the words in §J.4. A source for the *rhēma* and *logos* point. Dallas Willard's *Renovation of the Heart* and a Polanyi primary text, which the faith-by-hearing scrutiny also required. Re-verify every ESV quotation word for word.
+- *Index when built,* from the CIC catalog registry: the memory file index for the CIC track; [[Covenant Identity — System Document Master List]] (default yes); [[Covenant Identity — Document Reading Order]] (a lettered insert beside the nearest sibling); [[Covenant Identity — Practitioner Reference Index]]; [[Covenant Identity — Biblical Foundations Index]] (new rows, which also close the "no dedicated exegetical document" gap in D6); [[Covenant Identity — Practitioner Navigation Guide]] (a judgment call, since the Mustard Seed reference is listed there). The live File Index updates itself. MEMORY.md changes only if a new subfolder is created, and none is.
+- *Links.* Add "See also" links from the Self-Declaration and Mustard Seed references, and from [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]].
+- *Update this document when it is built:* §I.1 item 9, the D6 Standing line, the Provenance, and the §D cautions header. Decide then whether this appendix stays in full or shrinks to a pointer.
+
+**J.6 Smaller caveats to close later**
+1. *Barna and Cultural Research Center figures.* Retrieve the Center's own American Worldview Inventory reports for 2021, 2023, and 2026. Confirm the figures and the definition in §B row 2, in [[CIC — Evidence Case for the Model (Internal)]], and in [[Coaching Demand Research — Why People Hire Coaches]] before any public use. The Center's site refused automated access on 2026-10-20 (HTTP 403). The 2021 and 2023 figures were checked against news coverage, and the 2026 figure against George Barna's own post. One 2021 source gave a sample of 1,000 and another gave 2,000. That was not reconciled.
+2. *ESV tails.* Re-verify word for word the ends of Colossians 2:7, Ephesians 1:17–18, and Matthew 13:23 as quoted in Part I §5 and §7. The fetch tool cut each off at 125 characters in the last pass. They were checked in the first pass and rest on that.
+3. *Also noted.* A corrigendum to the Chalkia verification report appeared in *Cortex* 139 (2021). Its content was not read. Read it before quoting that report in detail.
 
 ---
 
@@ -876,6 +1011,7 @@ It can be, and Scripture says so. A person can hear and not do (Matthew 7:26; Ja
 - *Honesty before persuasion.* The claims ladder, the evidence register, and the "who stands behind it" placeholder exist because [[CIC — Evidence Case for the Model (Internal)]] sets the boundary: the problem is evidenced, and the mechanism is a working thesis.
 - *Anchors labeled, then vetted.* New Scripture anchors were labeled when proposed, the same discipline the Biblical Foundations Index uses. The /bible vetting of 2026-10-20 was then applied. Some anchors were kept as patterns, some were limited, and three were set aside: Philemon 6, Hebrews 4:2, and the two-verb mapping in 1 Thessalonians 2:13.
 - *Corrections applied at Andrew's direction.* The six corrections found in the verification pass were applied to the files they name on 2026-10-20 (§B). The consistency flags in §I.3 are listed and not edited.
+- *Vetting reasoning kept as an appendix.* The reasoning behind the /bible verdicts is kept in §J, not in a separate file, so no new index entry is needed. A standalone reference is deferred, and the notes for building it are in §J.5.
 - *Dated terms.* Pricing and status lines carry their source dates.
 
 **Contested ground:** (1) Human memory-reconsolidation evidence is mixed (§B rows 8 to 12). (2) The attachment-to-God research is correlational. (3) "Scripture first" is true of the architecture and of authority, and partly retrospective for some tools. (4) The "conditions, not causes" frame sits on a live monergist and means-of-grace fault line. (5) The way of reading ("in its own setting and in the whole of Scripture, read in the light of Christ") is widely shared and not commanded by a text, and the Spirit's quickening is held without any technique for it.
