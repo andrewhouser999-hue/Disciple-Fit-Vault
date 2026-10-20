@@ -10,7 +10,7 @@ tags: [identity-installer, audit, declaration, exegesis, covenant]
 
 **What this is:** The audit that [[Developing a Biblical Understanding of Covenantal Relationship with God]] asked for (Advisor Verdict, item 2; Approach 6 verdict). It tests every declaration in [[Identity Installer - Personal]] against one question: *can this declaration be traced to a specific text and a specific covenantal claim, and does that text actually carry the claim?*
 
-**Status:** Findings only. Nothing in the Identity Installer has been edited. Repairs are proposed below and wait for Andrew's go-ahead, entry by entry or in batches.
+**Status:** Findings first, repairs in batches with Andrew's go-ahead. Batch 1 (entries 17, 12, 14, 4) was applied 2026-10-19. See the Repair Log near the end. The per-entry findings below are the original findings, written before any repair.
 
 **Date:** 2026-10-19
 
@@ -447,6 +447,28 @@ The *Limit* line is the one that does the most work. It is where overreaches lik
 5. **Entries 1, 7, 13, 21** — smaller repairs.
 6. **Cross-cutting:** translation to ESV (C2), the *Covenant Ground* field (C1), the perseverance scoping (C5), and housekeeping (C8).
 7. **Carry every repair across to the [[Identity Installer - Client Workbook]]** for entries 1–22.
+
+## Repair Log
+
+**Batch 1 — applied 2026-10-19** to [[Identity Installer - Personal]] and, for the Identity Statement and Anchor Verse fields, to [[Identity Installer - Client Workbook]]. The Workbook's Putting Off and Putting On fields are blank for the client, so they had nothing to change.
+
+| Entry | What changed | Why |
+|---|---|---|
+| **17 Overcomer** | Anchor moved from Rev 12:11 to 1 John 5:4-5 (ESV). Identity Statement now rests on faith in Jesus and His blood, not on "the word of my testimony." Putting On: "weapon / ammunition / enforce" replaced with "stand" (Col 2:15; Eph 6:11-14), and the enemy is described as defeated but still active. *Today I Will* now names the lie, answers with 1 John 5:4-5, and takes the next faithful step. | Approach 6 removed Rev 12:11 as a ground for declaration. |
+| **12 Filled with Purpose** | Anchor moved from Jer 29:11 to Phil 1:6 and Rom 8:28 (ESV). The guarantee "I will not die without having fulfilled…" replaced with God completing the work He began. Putting On now cites Phil 1:6, Ps 139:13-16, and Rom 8:28. "The pain … threads in a purpose that preceded my birth" replaced with God being *able to work* pain and detours together for good. | Jer 29:11 fails the mediation rule. The old wording could be heard as God purposing the pain. |
+| **14 Empowered** | Anchor moved from Rom 8:11 to Eph 1:19-20 and 2 Cor 12:9 (ESV). Identity Statement adds "His power is made perfect in my weakness." Putting On drops "no off days, no resource constraints" and says the Spirit has no limits but His power does not make the believer limitless. | Rom 8:11 is about life for mortal bodies. The old wording promised experience, not standing (C4). |
+| **4 Chosen and Called** | Identity Statement now "chosen **in Christ**" with Eph 1:4 added as the anchor beside Eph 2:10 (ESV). "My calling … divine appointment" changed to "my life is not an accident." Putting On: "a script … every detour part of the design" replaced with "where harm was done to me, God is able to turn it toward good" (Gen 50:20; Rom 8:28). | Eph 2:10 does not say "chosen before the foundation." The old line made every detour, including abuse, designed. |
+
+**Not changed in batch 1:**
+- Putting Off for 17, 12, 14, 4, which the audit did not fault.
+- *My Evidence*, *Human Witness*, and *The Felt Sense*.
+- Entry 12's *Today I Will* ("what I believe God has called me to"), which the audit did not fault.
+- The ESV verse wording is from my reading of the ESV, not a source open at the time. Confirm it before the Workbook goes to a client.
+- Entry 12 no longer cites Jer 29:11 anywhere. Say so if you want it kept with its context named.
+
+**Still open:** the rest of the repair queue (items 3–7 under "Repair Queue" above, minus the entries now done).
+
+---
 
 ## Decisions That Are Andrew's
 

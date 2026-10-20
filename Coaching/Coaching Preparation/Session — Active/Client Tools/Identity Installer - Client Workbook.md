@@ -306,10 +306,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 4. Chosen and Called
 
 **Identity Statement:**
-> I was chosen before the foundation of the world. My calling is not an accident — it is a divine appointment.
+> I was chosen in Christ before the foundation of the world. My life is not an accident — God has prepared good works for me to walk in.
 
 **Anchor Verse:**
-> "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do." — Ephesians 2:10
+> "Even as he chose us in him before the foundation of the world, that we should be holy and blameless before him." — Ephesians 1:4
+>
+> "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them." — Ephesians 2:10
 
 **My Evidence:**
 *Write about a moment when a door opened, a burden landed on your heart, or someone's words confirmed something God was already stirring.*
@@ -594,10 +596,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 12. Filled with Purpose
 
 **Identity Statement:**
-> I was not born by accident and I will not die without having fulfilled what God placed me here to do.
+> I was not born by accident. The God who began a good work in me will bring it to completion, and He is working all things together for my good.
 
 **Anchor Verse:**
-> "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope." — Jeremiah 29:11
+> "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ." — Philippians 1:6
+>
+> "And we know that for those who love God all things work together for good, for those who are called according to his purpose." — Romans 8:28
 
 **My Evidence:**
 *Write about a moment when your unique wiring — your gifts, experiences, or burdens — aligned with an opportunity in a way that felt designed, not coincidental.*
@@ -666,10 +670,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 14. Empowered
 
 **Identity Statement:**
-> I am not operating on natural capacity alone. The Spirit of the resurrected Christ lives and works in me.
+> I am not operating on natural capacity alone. The Spirit of the resurrected Christ lives and works in me, and His power is made perfect in my weakness.
 
 **Anchor Verse:**
-> "The Spirit of him who raised Jesus from the dead is living in you." — Romans 8:11
+> "...what is the immeasurable greatness of his power toward us who believe, according to the working of his great might that he worked in Christ when he raised him from the dead." — Ephesians 1:19-20
+>
+> "My grace is sufficient for you, for my power is made perfect in weakness." — 2 Corinthians 12:9
 
 **My Evidence:**
 *Write about a moment when you did something you could not have done in your own strength — and you knew it.*
@@ -775,10 +781,10 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 17. Overcomer
 
 **Identity Statement:**
-> I overcome not by my own strength or strategy, but by the blood of the Lamb and the word of my testimony.
+> I am an overcomer, not by my own strength or strategy, but by faith in Jesus, the Son of God, whose blood has already won the victory.
 
 **Anchor Verse:**
-> "They triumphed over him by the blood of the Lamb and by the word of their testimony." — Revelation 12:11
+> "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith. Who is it that overcomes the world except the one who believes that Jesus is the Son of God?" — 1 John 5:4-5
 
 **My Evidence:**
 *Write about a battle — internal or external — that you came through, and the specific truth that held you.*

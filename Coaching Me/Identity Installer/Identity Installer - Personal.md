@@ -269,10 +269,12 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the accidental — the one who stumbled into life without purpose or direction.
 
 **Identity Statement:**
-> I was chosen before the foundation of the world. My calling is not an accident — it is a divine appointment.
+> I was chosen in Christ before the foundation of the world. My life is not an accident — God has prepared good works for me to walk in.
 
 **Anchor Verse:**
-> "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do." — Ephesians 2:10
+> "Even as he chose us in him before the foundation of the world, that we should be holy and blameless before him." — Ephesians 1:4
+>
+> "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them." — Ephesians 2:10
 
 **My Evidence:**
 >- Born Again-I was on my way to work, thinking only of work, when my thoughts were interrupted and directed towards a prayer I prayed 3.5 years prior.  God reached into my world and saved me. My life took on new affections, environments, behaviors, personality and more. 
@@ -294,7 +296,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I was not born by mistake and I was not called by coincidence. God prepared works specifically for me before I was born. My life has a script written by a sovereign God — and every detour has been part of the design.
+> I was not born by mistake and I was not called by coincidence. God chose me in Christ and prepared good works beforehand for me to walk in. Where harm was done to me, God is able to turn it toward good (Gen 50:20; Rom 8:28).
 
 **The Felt Sense:**
 > What does it feel like to operate with the quiet confidence that you are exactly where God intended you to be?
@@ -583,10 +585,12 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the purposeless — the one drifting through life waiting for meaning to find me.
 
 **Identity Statement:**
-> I was not born by accident and I will not die without having fulfilled what God placed me here to do.
+> I was not born by accident. The God who began a good work in me will bring it to completion, and He is working all things together for my good.
 
 **Anchor Verse:**
-> "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope." — Jeremiah 29:11
+> "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ." — Philippians 1:6
+>
+> "And we know that for those who love God all things work together for good, for those who are called according to his purpose." — Romans 8:28
 
 **My Evidence:**
 > For God's good pleasure
@@ -601,7 +605,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> My life is not a series of random events. God is weaving a specific story through my specific life. The pain, the detours, the gifts, and the callings are all threads in a purpose that preceded my birth.
+> My life is not a series of random events. God began a good work in me and He will finish it (Phil 1:6). He knew me before I was born (Ps 139:13-16). He is able to work even pain and detours together for good (Rom 8:28), and He gives me gifts and callings to use along the way.
 
 **The Felt Sense:**
 > What does it feel like to operate from a sense of divine assignment — knowing that what you are doing matters beyond what you can currently see?
@@ -659,10 +663,12 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the depleted — the one who measures capacity by what I can produce on my own.
 
 **Identity Statement:**
-> I am not operating on natural capacity alone. The Spirit of the resurrected Christ lives and works in me.
+> I am not operating on natural capacity alone. The Spirit of the resurrected Christ lives and works in me, and His power is made perfect in my weakness.
 
 **Anchor Verse:**
-> "The Spirit of him who raised Jesus from the dead is living in you." — Romans 8:11
+> "...what is the immeasurable greatness of his power toward us who believe, according to the working of his great might that he worked in Christ when he raised him from the dead." — Ephesians 1:19-20
+>
+> "My grace is sufficient for you, for my power is made perfect in weakness." — 2 Corinthians 12:9
 
 **My Evidence:**
 > *(Write one sentence — a moment when you did something you could not have done in your own strength — and you knew it.)*
@@ -673,7 +679,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> The same power that conquered death operates in me. My ceiling is not my talent, my energy, or my experience. I am empowered by a Spirit who has no limits, no off days, and no resource constraints.
+> The same power that raised Christ from the dead is at work in me (Eph 1:19-20). My ceiling is not my talent, my energy, or my experience, because the Spirit who works in me has no limits. His power does not make me limitless. It is made perfect in my weakness (2 Cor 12:9), so I do not have to hide my limits to be used.
 
 **The Felt Sense:**
 > What does it feel like to attempt something beyond your natural ability, trusting that a greater power is at work in you?
@@ -764,10 +770,10 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the defeated — the one who has accepted loss as permanent and resistance as futile.
 
 **Identity Statement:**
-> I overcome not by my own strength or strategy, but by the blood of the Lamb and the word of my testimony.
+> I am an overcomer, not by my own strength or strategy, but by faith in Jesus, the Son of God, whose blood has already won the victory.
 
 **Anchor Verse:**
-> "They triumphed over him by the blood of the Lamb and by the word of their testimony." — Revelation 12:11
+> "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith. Who is it that overcomes the world except the one who believes that Jesus is the Son of God?" — 1 John 5:4-5
 
 **My Evidence:**
 > *(Write one sentence — a battle — internal or external — that you came through, and the specific truth that held you.)*
@@ -778,13 +784,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> The enemy is a defeated enemy. I do not fight for a victory still in question — I enforce a victory already secured at the cross. My testimony is not just a story; it is a weapon. What I have come through is ammunition for someone else's freedom.
+> Christ has already won. At the cross the rulers and authorities were disarmed (Col 2:15). I do not fight for a victory still in question — I stand in one already won. The enemy is defeated but still active, so I stand firm and rely on Christ (Eph 6:11-14). What I have come through is not ammunition. It is something I can tell, as a witness to what He has done.
 
 **The Felt Sense:**
 > What does it feel like to face an enemy knowing the verdict was declared before the fight began?
 
 **Today I Will:**
-> Speak my testimony — even just to myself — over one area where the enemy is lying about the outcome.
+> Name one area where the enemy is lying about the outcome. Respond: Christ has overcome, and I stand in His victory (1 John 5:4-5). Then take the next faithful step.
 
 ---
 
