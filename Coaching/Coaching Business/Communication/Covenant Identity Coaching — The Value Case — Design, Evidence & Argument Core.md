@@ -1,6 +1,6 @@
 ---
 created: 2026-10-20
-basis: "[[Covenant Identity Coaching — Practice Definition]] (governing definition, positional identity vs. formation, five-layer mechanism); [[Covenant Identity Coaching — Theory of Change]] (eight-node chain); [[Covenant Identity — Integration Rationale]] (the two admission tests and the exclusions for psychology); [[Covenant Identity — Biblical Foundations Index]] (design-to-Scripture map and status flags); [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (four conditions); [[Covenant Identity — The Interior Life as Telos]] (nine qualities); [[Covenant Identity Coaching — Peer Practitioner Briefing]] (Scripture-outward order of construction); [[Covenant Identity — Identity-Before-Behavior Research Foundation]]; [[The Inner Man — Evidence & Argument Core]] (the three-layer pattern this document follows); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Disciple Fit — Marketing Charter]], [[Sunday-Monday Christian]], [[Wilderness Christian]], [[Client Problem & Cost Language]], [[Branding & Core Competency]] (reader, voice, guardrails); [[Covenant Identity Coaching — Coaching Agreement]] and [[Covenant Identity Coaching — Quick Launch Plan]] (terms). New external verification pass 2026-10-20: most citations, and all quoted ESV texts not already transcribed in the vault, checked against indexed or primary sources; results and the unverified remainder logged in Part II §B and §I.4. Built 2026-10-20 at Andrew's request for a comprehensive description of CIC's Scripture-first, evidence-informed design that smaller pieces can draw from."
+basis: "[[Covenant Identity Coaching — Practice Definition]] (governing definition, positional identity vs. formation, five-layer mechanism); [[Covenant Identity Coaching — Theory of Change]] (eight-node chain); [[Covenant Identity — Integration Rationale]] (the two admission tests and the exclusions for psychology); [[Covenant Identity — Biblical Foundations Index]] (design-to-Scripture map and status flags); [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (four conditions); [[Covenant Identity — The Interior Life as Telos]] (nine qualities); [[Covenant Identity Coaching — Peer Practitioner Briefing]] (Scripture-outward order of construction); [[Covenant Identity — Identity-Before-Behavior Research Foundation]]; [[The Inner Man — Evidence & Argument Core]] (the three-layer pattern this document follows); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Disciple Fit — Marketing Charter]], [[Sunday-Monday Christian]], [[Wilderness Christian]], [[Client Problem & Cost Language]], [[Branding & Core Competency]] (reader, voice, guardrails); [[Covenant Identity Coaching — Coaching Agreement]] and [[Covenant Identity Coaching — Quick Launch Plan]] (terms). New external verification pass 2026-10-20: most citations, and all quoted ESV texts not already transcribed in the vault, checked against indexed or primary sources; results and the unverified remainder logged in Part II §B and §I.4. Built 2026-10-20 at Andrew's request for a comprehensive description of CIC's Scripture-first, evidence-informed design that smaller pieces can draw from. Updated 2026-10-20 (same day): reader set to Wilderness-first per Andrew's decision; his account of how faith is built recorded verbatim in Part I §11; decisions 1 to 6 recorded in Part II §I.1."
 tags:
   - coaching-business
   - value-case
@@ -30,7 +30,9 @@ tags:
 
 Covenant Identity Coaching is built on a Scripture-governed account of why a sincere believer can know the truth about who they are in Christ and still not live from it. Its sequence of work is designed to meet the conditions that account says must be met. Scripture decides what is true about identity, what has gone wrong, and what renewal is. Research is admitted only to describe how the inner life holds and changes beliefs, and only where it passes two tests. The practice does not produce the change. It arranges the conditions in which the Word, by the Spirit, does what it does. The problem the design targets is well evidenced. Each mechanism is grounded in Scripture and, at the component level, in research of varying strength. The practice as a whole has not yet been outcome-tested.
 
-**Who this is written to:** A born-again follower of Jesus who is already committed to growing in Christ. They are theologically literate and often high-functioning. They may have no presenting crisis. They may not know that anything is missing. They are deciding whether to invest time and money, and they will test the answer against Scripture and against their own judgment. In the practice's own terms this is the Vision-Led door ([[Covenant Identity Coaching — Peer Practitioner Briefing]] §5 and §11). In market terms it is closest to [[Sunday-Monday Christian]] and overlaps [[Wilderness Christian]]. Part II §F shows how to adapt for each.
+**Who this is written to** *(decided 2026-10-20: Wilderness Christian first, Sunday-Monday Christian second, following the Marketing Charter's Segment Registry)*: A born-again follower of Jesus who is already committed to growing in Christ. The first reader is the [[Wilderness Christian]], the Charter's Target Market. This is a sincere, spiritually serious believer, usually 45 to 65, who is still pursuing God, often privately, and often at a guarded distance from institutional church. They have probably studied hard, because they were doing it alone. They know what they believe, and they cannot move something in themselves by effort. They distrust authority for reasons they earned, so they will test every claim against Scripture and against their own judgment. They are deciding whether to invest time and money, and they may not know exactly what is missing. The second reader is the [[Sunday-Monday Christian]]: church-embedded, high-functioning, theologically literate, and often Vision-Led in the practice's terms ([[Covenant Identity Coaching — Peer Practitioner Briefing]] §5 and §11). Part II §F shows how to adapt for each. Where this document must choose, it chooses the Wilderness reader.
+
+> **The Wilderness reader's institutional wound is Stage 4 material.** Do not name it in the opening of any piece. Never criticize a church, a leader, or an institution. Do not assume the reader attends church. The Marketing Charter's guardrails govern.
 
 > **A caution on the reader's own words.** "Becoming all you can become in Christ" describes this reader's motive accurately. It is not usable copy. The Marketing Charter names generic Christian growth language as a trust-killer for this audience. The practice's own telos is receiving an identity already given, not maximizing a self. Describe the reader that way internally. Do not say it to them.
 
@@ -78,13 +80,13 @@ One fact belongs near the start. The problem this addresses is well documented. 
 
 ### 2. What is missing
 
-You may not be looking for anything.
+You never stopped believing.
 
-You love Christ. You have studied Scripture, served, prayed, and kept going. By any honest measure you are a committed believer who wants to grow.
+You kept showing up. You studied, prayed, served, and kept going, often with little company. You may have studied harder than most, because you were doing it on your own. By any honest measure you are a serious believer who wants to grow.
 
 And there is a place in you that does not move.
 
-It shows in the reaction that comes out the same way under pressure. It shows in the conversation that goes the way it always goes. It shows in a truth you can teach and cannot quite rest in. You can say who God says you are. You cannot always feel it when it matters. Some part of you suspects that if this is still true after everything you have been given, the problem must be you.
+It shows in the reaction that comes out the same way under pressure. It shows in a flatness you cannot explain. It shows in a truth you can teach and cannot quite rest in. You can say who God says you are. You cannot always feel it when it matters. Some part of you suspects that if this is still true after everything you have tried, the problem must be you.
 
 That suspicion is wrong about the cause. It is not evidence that your faith is thin. It is evidence that the truth you hold and the place you live from have not yet met.
 
@@ -112,15 +114,18 @@ What may be missing is the felt, lived alignment of your inner life with a statu
 
 Almost everything you have tried did what it was built to do.
 
-- A sermon delivers truth to many people at once.
+- Teaching delivers truth to many people at once.
 - A book or a conference delivers information and a shared experience.
 - A small group gives community and structure.
+- Study and private discipline deepen what you know and practice.
 - Accountability supplies consistency.
 - Clinical counseling treats what needs treatment and builds the skills to manage it.
 - Coaching clarifies goals and strategy.
 - Pastoral care shepherds a whole life over time.
 
 Each is good at its own job. None is built to find one person's specific governing belief and carry the truth to the exact place where it operates. That is a difference of scope. It is not a failure of competence. Most of them also work at the level of information, effort, or structure. For a person who already has plenty of each, more of the same does not touch what is wrong.
+
+If you have studied hard on your own, a fact is not what is missing. A person is: someone who knows both the Word and the inner life, and who does not ask you to perform in exchange for the relationship.
 
 Two further reasons make this hard to do alone. The first is that the heart is not easily read by its owner:
 
@@ -347,7 +352,7 @@ It does not promise that you will feel a particular way. Scripture makes room fo
 
 It does not produce the change. Conditions are not causes. If a session ever feels like pressure toward a feeling, that is a signal that something is off, and you should say so.
 
-It does not replace your church, your pastor, Scripture, prayer, or community. It is one concentrated season of a lifelong work.
+It does not replace the church, Scripture, prayer, or community. It works alongside whatever of these you have. It is one concentrated season of a lifelong work.
 
 It is not clinical care. If what is underneath needs a therapist or a physician, you will be told and helped to find one.
 
@@ -355,7 +360,11 @@ It carries no outcome data. The practice is new. Nothing in this document is off
 
 **Who stands behind it.** *[Confirm current status before any use: supervision, liability insurance, crisis-response training, and a referral network. As of the 2026-07-27 review, supervision and a referral network were not established, insurance was in progress, and crisis-response training was unconfirmed. The 2026-09-15 launch plan left these unresolved. This paragraph must say something true and specific before the value case is used with a prospect.]* The model also states a requirement of the coach. The coach works in the same disciplines used with clients, because a coach who is not being formed cannot hold a formation posture toward anyone else ([[Covenant Identity Coaching — Manifesto]]).
 
-*[Testimony slot, three to five sentences from Andrew: how Word-grounded truth reached the deep place for him, in his own words. Starting points: the story in [[Covenant Identity Coaching — Quick Launch Plan]] and his own account of faith coming from the Word. This is the "integrated testimony" trust-builder in the Marketing Charter. An author must not write it for him.]*
+**His own account of how faith is built.** *(Andrew's words, given 2026-10-20, with spelling and grammar corrected only. An author may quote it or use it as given. An author may not paraphrase it into new claims.)*
+
+> Learning theology builds faith. Learning scriptural truth in a way that is grounded in the fabric of Scripture, resulting in knowing the why and what behind the specific truth, resulted in a building up of my faith, metaphorically on a rock rather than on sand. Learning on sand may be akin to cognitively taking in Scripture as a data point only. Also, at times the Spirit of God has quickened a specific Scripture or section of Scripture to my spirit, felt in my soul. This too is a building up of faith. In conclusion, faith is built by the Spirit of God and/or on a network of biblical truth that gives light to a specific truth as intended by the original author with an original intended meaning, clearly understood as a part of that foundational network of biblical truth.
+
+*(The /bible vetting of the anchors behind this account was run on 2026-10-20. Its findings and recommended wording changes are with Andrew and are not yet applied here. See §I.2.)* The personal story that completes the "integrated testimony" trust-builder in the Marketing Charter is in [[Covenant Identity Coaching — Quick Launch Plan]] and remains his to tell.
 
 ### 12. A way to decide
 
@@ -363,7 +372,7 @@ Five questions.
 
 1. **Is what I am missing information, or is the truth I already hold not reaching where I live?** If you can name verses you cannot rest in, it is probably the second.
 2. **What have I already tried, and what level did each reach?** If each added knowledge, effort, or structure, none reached the place this work targets.
-3. **Am I willing to be honestly known, including by myself?** The work goes only as deep as you allow.
+3. **Am I willing to be honestly known, at a pace I can bear?** If exposure feels unsafe, that is information, and the work slows down. Nothing asks you to perform.
 4. **Am I willing to do small, specific practices between sessions?** Much of the formation happens there.
 5. **Is my growth itself something I am striving to prove?** If "becoming more" has turned into the way you try to earn standing, the work starts there. That is not a disqualifier. It is the first thing to look at.
 
@@ -672,30 +681,31 @@ Existing claims in the vault that outrun this ladder are flagged in §I.3.
 
 ### F. Adaptation guide
 
-**By format.** Each entry gives stage, length, citation density, lead voice, what to include, and what to exclude.
+**By format.** Each entry gives stage, length, citation density, lead voice, what to include, and what to exclude. With the Wilderness reader first, the channels in order are YouTube long-form and Shorts, Facebook, the website as the credibility destination, and word of mouth. Church networks and pastor referral are Sunday-Monday channels, not Wilderness ones.
 
-1. **Discovery call (spoken, Andrew's voice).** Stage 4–5. Two to four minutes of value conversation, after the prospect has been heard. Light citation: one Scripture and no statistics. Lead voice: Willard with Nouwen. Include recognition first, the honest-status line, and the decision questions. Exclude outcomes, urgency, and a close.
+1. **Discovery call (spoken, Andrew's voice).** Stage 4–5. Two to four minutes of value conversation, after the prospect has been heard. Begin with the prospect's own story and present no framework until they have been heard. Light citation: one Scripture and no statistics. Lead voice: Willard with Nouwen. Include recognition first, the honest-status line, and the decision questions. Exclude outcomes, urgency, and a close.
 2. **"Why it is built this way" web page.** Stage 3–4. 700 to 1,000 words. Moderate citation: Scripture-forward, with two or three research mentions by name. Lead voice: Willard with Keller. Include the two-sources rule, "check it in your Bible," and what it does not promise. Exclude clinical terms and price.
-3. **Pastor one-pager.** Stage 4. One page. Moderate citation. Lead voice: Keller with Willard. Include companion framing (the one-to-one diagnostic layer a sermon cannot deliver), scope, referral, and the perseverance and Israel and Church stance (hold it, do not volunteer it). Exclude any institutional critique.
+3. **Pastor one-pager (Sunday-Monday channel; secondary).** Stage 4. One page. Moderate citation. Lead voice: Keller with Willard. Include companion framing (the one-to-one diagnostic layer a sermon cannot deliver), scope, referral, and the perseverance and Israel and Church stance (hold it, do not volunteer it). Exclude any institutional critique.
 4. **Psychologist or clinician.** Use [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]], not this document. Lead with current-state honesty. Voice: McGrath with Thompson. Do not persuade.
 5. **Fellow coach.** Use [[Covenant Identity Coaching — Peer Practitioner Briefing]].
 6. **Podcast interview.** Stage 3–5. Eight to ten talking points. Light to moderate citation. Lead voice: Willard with Thompson. One story, one finding, one stated limit.
 7. **Church adult-education talk.** 30 to 45 minutes. Scripture-heavy. Define terms the first time. Corroboration builds credibility and does not overwhelm. Lead voice: Willard with Nouwen. Include "check it in your own Bible." Exclude any selling.
 8. **Article.** Stage 3–4. 1,200 to 1,800 words. Moderate citation, and footnotes are allowed. Lead voice: Willard with Keller. Include one objection answered fairly.
 9. **Email to a warm lead.** Stage 4–5. 200 to 300 words. Light citation. Lead voice: Nouwen with Willard. One idea and one invitation. Exclude urgency and scarcity.
-10. **Short video (60 to 90 seconds).** Mostly Stage 2–3. Very light citation. The value case is too heavy for Stage 2. Use one idea only, with the felt cost first.
-11. **Testimony.** Andrew's voice. Three to five sentences. Resolved, not performed.
+10. **YouTube pillar video (10 to 20 minutes).** Stage 3–4. Open with a felt-cost doorway line. Use Andrew's own story as trust proof. Name the root only after recognition has landed. Give one finding with its strength and one stated limit. Light to moderate citation. Lead voice: Willard with Nouwen and Thompson. Exclude any claim on screen that the ladder forbids, and any call to act now.
+11. **Short video (60 to 90 seconds).** Mostly Stage 2–3. Very light citation. The value case is too heavy for Stage 2. Use one idea only, with the felt cost first.
+12. **Testimony.** Andrew's voice. His account of how faith is built (Part I §11) is the standing source. Resolved, not performed.
 
 **By reader.**
 
-| | Wilderness Christian (Target Market) | Sunday-Monday and Vision-Led (your brief) |
+| | Wilderness Christian (first reader; Target Market) | Sunday-Monday and Vision-Led (second reader) |
 |---|---|---|
 | Who | 45–65, sincere, wounded or disillusioned by the institutional church, pursuing God privately | 35–55, church-embedded, high-functioning, theologically literate, often no presenting crisis |
 | Self-identifies as | stuck, plateaued, not enough, flat | growing, formation-minded, leadership-minded. Does not call themselves broken. |
-| Lead with | The felt cost, in their own doorway language | Precision about the Sunday-Monday gap, then the design |
-| Handle with care | Institutional critique is forbidden. Church is a companion. | Performance fatigue, and growth itself as the thing being performed |
-| Trust comes from | Integrated testimony, precision, and no pressure | Theological depth, psychological competence, and honesty about limits |
-| Channel | YouTube and Facebook. Not pastor referral. | Pastor and peer referral, podcasts, and church talks |
+| Lead with | The felt cost in their own doorway language: stuck, flat, not enough, isolated, knowing without living. The arc is to heal and realign first, so you can build what you were made for. | Precision about the Sunday-Monday gap, then the design |
+| Handle with care | The institutional wound is Stage 4. Never name it in an opening. Never criticize a church, a leader, or an institution. Do not assume they attend church. | Performance fatigue, and growth itself as the thing being performed |
+| Trust comes from | Andrew's own integrated story, precision, no performance requirement, and patience over urgency | Theological depth, psychological competence, and honesty about limits |
+| Channel | YouTube long-form and Shorts first, Facebook second, the website as the credibility destination, and word of mouth. Not pastor referral. | Pastor and peer referral, podcasts, and church talks |
 
 ### G. Objections and answers
 
@@ -753,21 +763,25 @@ It would be if the record were hidden. The Biblical Foundations Index shows, for
 
 ### I. Open items, flags, and questions for Andrew
 
-**I.1 Decisions only you can make** (each with the default this document assumes)
+**I.1 Decisions**
 
-1. **Current status.** Have any live sessions run? Is a scope-boundary supervisor, liability insurance, crisis-response (QPR) training, or a referral network now in place? *Default: unchanged since 2026-09-15. No outcome language, and Part I §11's "who stands behind it" stays a placeholder.*
-2. **First reader.** The Charter makes Wilderness Christian the Target Market. Your brief describes the Sunday-Monday or Vision-Led believer. *Default: written for your brief's reader and adapted to Wilderness Christian through §F.*
-3. **The wording of "Scripture first."** Which do you stand behind? (a) "Scripture governs every design decision about identity, diagnosis, and renewal, and the architecture was built outward from it." (b) "We began entirely with Scripture on every design." The vault's own record supports (a) and not (b). *Default: (a).*
-4. **Disclosure posture.** (a) State plainly that the practice is new and show why each step is there. (b) Say nothing about outcomes and let the process speak. (c) Hold the value case until first-cohort data exists. *Default: (a), as in §E item 8.*
-5. **Testimony slot.** Three to five sentences from you on how Word-grounded truth built faith for you.
-6. **Price in derivatives.** *Default: terms appear on the discovery call and in the agreement, not in public essays.*
-7. **Top three venues.** *Default: discovery call, a "why it is built this way" page, and a pastor one-pager.*
-8. **Public vocabulary.** *Default: "old story" in public, "false identity" for practitioners.*
-9. **Voice panel.** Confirm or swap the voices in [[CIC Value Case — Authorship Prompt (Standing)]].
-10. **Vetting.** Run /bible on the new candidate anchors in I.2.
-11. **Corrections.** Apply the six corrections in §B? *Default: none applied until you say so.*
+*Resolved by Andrew on 2026-10-20:*
+1. **Current status.** Nothing has changed. No live sessions have run, and supervision, insurance, crisis-response training, and a referral network remain unresolved. There is no outcome language, and Part I §11's "who stands behind it" stays a placeholder.
+2. **First reader.** Wilderness Christian first, Sunday-Monday Christian second, following the Marketing Charter's Segment Registry.
+3. **The wording of "Scripture first."** Confirmed: "Scripture governs every design decision about identity, diagnosis, and renewal, and the architecture was built outward from it."
+4. **Disclosure posture.** Option (a): state plainly that the practice is new and show why each step is there.
+5. **Testimony.** His account of how faith is built is recorded in Part I §11.
+6. **/bible vetting.** Run on 2026-10-20 on the anchors in I.2 and on the texts behind his account. Findings were delivered to Andrew and are not yet applied to Part I.
 
-**I.2 New candidate anchors proposed here (not yet vetted)**
+*Still open (each with the default this document assumes):*
+7. **Price in derivatives.** *Default: terms appear on the discovery call and in the agreement, not in public essays.*
+8. **Top three venues.** *Default for the Wilderness reader: a YouTube pillar video, a "why it is built this way" web page, and a discovery-call conversation guide.*
+9. **Public vocabulary.** *Default: "old story" in public, "false identity" for practitioners.*
+10. **Voice panel.** Confirm or swap the voices in [[CIC Value Case — Authorship Prompt (Standing)]].
+11. **Applying the /bible verdicts to Part I.** *Default: not applied until Andrew decides.*
+12. **Corrections.** Apply the six corrections in §B? *Default: none applied until you say so.*
+
+**I.2 New candidate anchors proposed here (/bible vetting run 2026-10-20; verdicts delivered to Andrew; not yet applied to this document)**
 - 1 Thessalonians 2:13: "received" and "accepted" as two verbs, the registration and reception distinction. [S~]
 - Hebrews 4:2: hearing without being united by faith. [S~]
 - Romans 4:19–21: the hard fact and the promise held together, the felt juxtaposition step. [S~]

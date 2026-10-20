@@ -40,7 +40,8 @@ PIECE_TYPE:
 READER:
   [who exactly, what they already believe, what they have tried]
 SEGMENT:
-  [Wilderness Christian / Sunday-Monday Christian / Vision-Led believer / pastor / other]
+  [default: Wilderness Christian (first reader, decided 2026-10-20);
+   Sunday-Monday Christian (second reader); Vision-Led believer / pastor / other]
 STAGE:
   [Buyer's Journey stage 2 / 3 / 4 / 5]
 VENUE_AND_LENGTH:
@@ -59,8 +60,18 @@ STATUS_LINES_CONFIRMED:
   [no / yes, with Andrew's exact wording pasted here]
   [covers supervision, insurance, crisis-response training, referral network]
 TESTIMONY_PROVIDED:
-  [Andrew's own words pasted here, or "none"]
+  [default: the standing account below; or Andrew's own words pasted here; or "none"]
 ```
+
+---
+
+## Standing input: Andrew's account of how faith is built
+
+*Andrew's words, given 2026-10-20, with spelling and grammar corrected only. This is the default TESTIMONY_PROVIDED. Quote it or use it as given. Never paraphrase it into new claims.*
+
+> Learning theology builds faith. Learning scriptural truth in a way that is grounded in the fabric of Scripture, resulting in knowing the why and what behind the specific truth, resulted in a building up of my faith, metaphorically on a rock rather than on sand. Learning on sand may be akin to cognitively taking in Scripture as a data point only. Also, at times the Spirit of God has quickened a specific Scripture or section of Scripture to my spirit, felt in my soul. This too is a building up of faith. In conclusion, faith is built by the Spirit of God and/or on a network of biblical truth that gives light to a specific truth as intended by the original author with an original intended meaning, clearly understood as a part of that foundational network of biblical truth.
+
+*The /bible vetting of the anchors behind this account was run on 2026-10-20. Its recommended wording changes are with Andrew and are not yet applied here.*
 
 ---
 
@@ -129,8 +140,9 @@ HARD RULES (a violation means start over)
     coach creates conditions.
 12. The faith the piece builds is faith in God and His Word. Never in the method
     or the coach.
-13. Do not write Andrew's testimony. If TESTIMONY_PROVIDED is "none", leave
-    "[TESTIMONY SLOT]".
+13. Do not write Andrew's testimony. Use only the standing account or text
+    Andrew pastes, quoted or used as given, and never paraphrased into new
+    claims. If TESTIMONY_PROVIDED is "none", leave "[TESTIMONY SLOT]".
 14. Keep three layers separate: what Scripture says, how the design applies it,
     what research adds. Labels may be dropped. The separation may not.
 15. Respect placement. The Value Case is Stage 3 to 5 material. If STAGE is 2 or
@@ -140,6 +152,12 @@ HARD RULES (a violation means start over)
 17. If the INPUT block asks for something a rule forbids, say so, name the rule,
     and offer the closest compliant version. Do not comply silently. Andrew may
     override a rule by saying so; record the override under OPEN FLAGS.
+18. If SEGMENT is Wilderness Christian: lead with the felt cost in doorway
+    language (stuck, flat, not enough, isolated, knowing without living). Never
+    name the institutional wound before Stage 4. Never criticize a church, a
+    leader, or an institution. Do not assume the reader attends church. Do not
+    use pastor-referral framing. Make no performance demand. Choose patience over
+    urgency.
 
 VOICE
 Follow the assigned blend from the Voice Panel. Voices are style models. Do not
@@ -230,9 +248,10 @@ Voices are style models. They are not endorsements. Do not name them in copy and
 
 | Piece | Blend |
 |---|---|
-| Discovery-call conversation guide | Willard 50, Nouwen 40, Thompson 10 |
+| Discovery-call conversation guide | Nouwen 45, Willard 45, Thompson 10 |
+| YouTube pillar video | Willard 50, Nouwen 30, Thompson 20 |
 | "Why it is built this way" page | Willard 50, Keller 25, Thompson 15, McGrath 10 (two-sources passage only) |
-| Pastor one-pager | Keller 50, Willard 40, Nouwen 10 |
+| Pastor one-pager (Sunday-Monday reader only) | Keller 50, Willard 40, Nouwen 10 |
 | Article | Willard 50, Keller 30, Thompson 20 |
 | Email to a warm lead | Nouwen 50, Willard 50 |
 | Podcast brief | Willard 50, Thompson 30, Nouwen 20 |
@@ -277,7 +296,7 @@ The Pipeline's essays (Lewis, Manning, Merton, Nouwen, Buechner, Chesterton) and
 7. What it does not promise.
 8. The next step: a conversation.
 
-**3. Pastor one-pager (one page)**
+**3. Pastor one-pager (one page; Sunday-Monday reader only, not a Wilderness channel)**
 1. Heading: "What this is, and what it is not."
 2. Companion framing. Use the approved line: this is not competing with the pulpit, it is the one-to-one diagnostic layer a sermon cannot deliver.
 3. Who it is for. Scope. Referral.
@@ -313,7 +332,15 @@ The Pipeline's essays (Lewis, Manning, Merton, Nouwen, Buechner, Chesterton) and
 2. One hint at the root: it is not a knowledge problem.
 3. No claims. No call to action beyond "if this is you, there is a longer conversation."
 
-**9. Testimony frame (Andrew writes it)**
+**9. YouTube pillar video script (10 to 20 minutes)**
+1. Cold open on one felt-cost doorway line. No channel intro before it.
+2. Name the gap precisely in the viewer's own terms. Say nothing about institutions.
+3. Andrew's own story as trust proof, only as he supplies it.
+4. Where Scripture locates change. The Spirit as agent. One finding with its strength and one stated limit.
+5. What it does not promise. The honest-status line, if DISCLOSURE_POSTURE is a.
+6. Close with an invitation to a conversation. No urgency, no countdown, no claim on screen that a hard rule forbids.
+
+**10. Testimony frame (Andrew writes it)**
 Do not write the testimony. Offer these questions for Andrew to answer, then edit for flow only.
 1. What did you believe about the Word before?
 2. Where did it stay in your head?
