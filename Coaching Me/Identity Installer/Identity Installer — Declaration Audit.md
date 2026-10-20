@@ -10,7 +10,7 @@ tags: [identity-installer, audit, declaration, exegesis, covenant]
 
 **What this is:** The audit that [[Developing a Biblical Understanding of Covenantal Relationship with God]] asked for (Advisor Verdict, item 2; Approach 6 verdict). It tests every declaration in [[Identity Installer - Personal]] against one question: *can this declaration be traced to a specific text and a specific covenantal claim, and does that text actually carry the claim?*
 
-**Status:** Findings first, repairs in batches with Andrew's go-ahead. Batch 1 (entries 17, 12, 14, 4) was applied 2026-10-19. See the Repair Log near the end. The per-entry findings below are the original findings, written before any repair.
+**Status:** All proposed repairs applied 2026-10-19 in three batches (see the Repair Log near the end). The per-entry findings below are the original findings, written before any repair.
 
 **Date:** 2026-10-19
 
@@ -172,7 +172,7 @@ Approach 8 says the covenant identity markers in 1 Pet 2:9-10 are plural and "ca
 ### C8. Housekeeping found along the way
 
 - A stray John 15:16 quotation block sits between entries 23 and 24 with no heading (just after the end of entry 23).
-- Entry 3's *What I'm Putting On* has no blockquote marker and no "speak aloud" line, unlike the other entries.
+- Entry 3's *What I'm Putting On* has no blockquote marker, unlike the other entries. (It does carry the "speak aloud" line; an earlier draft of this audit said it did not.)
 - Entry 3's old pattern is labeled "the impure," but its renunciation is of "the condemned." The label and the renunciation do not match.
 - Entry 22's anchor verse carries an editing leftover: "you (I) received."
 - The Installer's Contents table lists 24 entries. The memory index says "23-part," and [[Covenant Identity — Category Architecture Cross-Reference]] says "22 categories." Both are stale.
@@ -477,21 +477,49 @@ The *Limit* line is the one that does the most work. It is where overreaches lik
 | **7 Light of the World** | Statement: "in Christ … the darkness has not overcome the light." "I define the darkness" removed. Anchor is ESV with Eph 5:8 added. Putting On ends with Matt 5:16's purpose. | "I define the darkness" has no text. Eph 5:8 is the "in the Lord" statement made to believers. |
 | **13 Known and Seen** | Anchor is ESV with Rom 5:8 added for the "loved" half. Putting On: "before I think them" changed to "from afar" (Ps 139:2); Matt 10:30 and Rom 5:8 cited. | Ps 139:1-2 says "known," not "loved." |
 
-**Not changed in batch 2:**
-- Entry 21's *What I'm Putting Off* ("renounce the identity of the anxious"). That waits on Andrew's decision. No referral note has been added.
-- Entry 22's Workbook appendix copy of Col 2:6-7 (still NIV, around line 1399 of the Workbook).
-- The Isaiah 54:17 verse in the Workbook (around line 1356). Not yet assessed.
+**Not changed in batch 2:** entry 21's *What I'm Putting Off*. Decided 2026-10-19: "anxious" stays as written, because it is common language. No referral note is added.
 
-**Still open:** repair-queue item 4 (entries 2, 5, 9, 10, 11, 16, 18) and the cross-cutting items.
+**Batch 3 — applied 2026-10-19** (repair-queue item 4 and every remaining cross-cutting item) to [[Identity Installer - Personal]]. The Workbook received the Identity Statement and Anchor Verse changes only.
+
+| Entry | What changed | Why |
+|---|---|---|
+| **2 New Creation** | Anchor adds Jer 31:29-30. "Every curse" became "the curse of the law" (Gal 3:13). "Has not faded or improved" replaced with the Rom 6:6, 6:11 reckoning language. Family-guilt line grounded in the New Covenant (Jer 31:29-34). "New nature" and "new name" replaced with "new heart" (Ezek 36:26) and Abraham's line (Gal 3:29). | Gal 3:13 names the Mosaic curse only. Jer 31:29-30 is the New Covenant text for "my bloodline does not own me." |
+| **3 Righteousness of God** | Old-pattern label changed from "the impure" to "the disqualified," with the first renunciation matched to it (it was "the condemned," which is entry 20's pattern). Second renunciation changed to "I renounce living as if the old self still rules me (Rom 6:6)." Anchor is ESV. Putting On gets its blockquote marker and "counted righteous in Christ." | Label and renunciation did not match. "The old nature done away with" is a debated two-natures frame. |
+| **5 Redeemed** | Statement now names the domain of darkness (Col 1:13). Putting On: "my mind" removed, redemption of the body shown as still ahead (Rom 8:23), "no legal claim" kept, and standing against the enemy added (Eph 6:11-14). "Fully and finally bought back" became "the purchase is complete, and no failure of mine undoes it." Anchor is ESV with Col 1:13-14 added. | A legal claim is not the same as no influence. Redemption has a future side. |
+| **8 Temple** | Anchor is ESV. | Translation only. |
+| **9 Co-heir** | Anchor now Rom 8:17-18 in full. Statement: "I hold that place now, and the full inheritance is still ahead." Putting On names suffering with Christ and 1 Pet 1:4. *Today I Will*: "full inheritance rights" replaced with Heb 4:16. | The old anchor cut the verse before "provided we suffer with him." Boldness rests on grace, not rights. |
+| **10 Ambassador** | Statement and Putting On: "his authority" replaced with His message and appeal; "the authority belongs to the message and to Him, not to me." Anchor is ESV with the appeal ("be reconciled to God"). | The verse gives a message, not authority of the believer's own. |
+| **11 Forgiven and Free** | Statement adds "in Christ." Anchor adds Heb 10:17-18 (Jer 31:34). *Today I Will* gets a conviction-versus-accusation test (John 16:8; 2 Cor 7:10). | The New Covenant text is stronger. The old line could silence legitimate conviction. |
+| **15 Secure** | Anchor is ESV with Heb 12:27-28 added. Putting On: "unassailable" replaced with "my standing is not at stake: no failure, doubt, or opinion of mine undoes it." | Scoped to the practice's perseverance position (C5). |
+| **16 Fruit-Bearer** | Statement: "not earned by striving" became "not produced by my own effort." Anchor adds John 15:5 (ESV). Putting On: "inevitable" replaced; abiding now includes keeping His commands (John 15:10). | John 15:2, 6 and 15:10. Scoped to the perseverance position (C5). |
+| **18 Holy and Set Apart** | Statement and Putting On start from "a holy people." Putting Off no longer defines holiness as distinctiveness ("hides that I belong to God"). Anchor adds 1 Pet 1:15-16 (ESV). 2 Tim 2:21 cited with its condition. | Corporate frame (C7). Peter ties holiness to conduct and belonging. |
+| **19 Loved** | Anchor is ESV with Rom 8:38-39 added. "No ending point I could trigger" became "no failure of mine that could end it." | Scoped to the perseverance position (C5). |
+| **20 Free from Condemnation** | Statement now "In Christ Jesus there is no condemnation for me," and "cannot be appealed" became "no failure of mine overturns it." Putting On: the verdict is "righteous, given as a gift of grace." *Today I Will* gets the conviction-versus-condemnation test. | The old statement dropped "in Christ" (Approach 5) and ran past the perseverance position. |
+| **23 Called as Coach** | Anchor adds 2 Cor 4:7. Putting On adds the supervision boundary. | The unfinished-places claim needs a boundary. |
+| **24 Welcomed and Wanted** | "I bring belonging with me" became "I carry the welcome of the household I belong to (Eph 2:19)." | Corporate frame (C7). |
+
+**Cross-cutting items completed in batch 3:**
+- **C1, Covenant Ground:** a six-line *Covenant Ground* field now sits under *Anchor Verse* in all 24 personal entries. It was not added to the Workbook, because the field is a practitioner trace and a client would not fill it in. Say so if you want it there.
+- **C2, ESV:** every remaining NIV anchor in the Installer, and the Col 2:6-7 closing quote in the Workbook, is now ESV. Verse wording is from my reading of the ESV, not a source open at the time.
+- **C5, perseverance:** entries 5, 15, 16, 19, and 20 now use the practice's own scoping.
+- **C8, housekeeping:** the stray John 15:16 block between entries 23 and 24 moved to the end of entry 24, in ESV, as the closing epigraph. *Holding Both* was added to the 19 entries that lacked it (5–23), following the prompt shape of entries 1–4 and 24. The Workbook has no *Holding Both* field and was left as it is. The Category Architecture Cross-Reference now carries a count note.
+
+**Not changed:**
+- *My Evidence*, *Human Witness*, and *The Felt Sense* in every entry.
+- The Workbook's Beatitude section, including Isaiah 54:17 (B9). That is a separate tool and was not audited.
+- Entry 21's *What I'm Putting Off*, by decision.
+
+**Still open:** the decisions listed below. Entry 23's "called by God" ground belongs in *Human Witness*, which is Andrew's own field and was not edited.
 
 ---
 
 ## Decisions That Are Andrew's
 
-1. **Which repairs to apply, and in what batches.** Nothing has been changed.
-2. **Entry 17's testimony.** Does Andrew want a place in the Installer for testimony as witness (Ps 66:16; Mark 5:19), separate from the Overcomer claim?
-3. **Entry 21's anxiety wording.** Keep "renounce the identity of the anxious," or reword it to avoid reading anxiety as a sin to renounce?
-4. **Whether to add the *Covenant Ground* field.** It adds one field per entry. If it adds too much weight, the alternative is a single audit table kept here and refreshed when an entry changes.
+1. **Which repairs to apply.** Decided: all of them, applied 2026-10-19.
+2. **Entry 17's testimony.** Still open. Does Andrew want a place in the Installer for testimony as witness (Ps 66:16; Mark 5:19), separate from the Overcomer claim?
+3. **Entry 21's anxiety wording.** Decided: keep "the anxious," because it is common language.
+4. **The *Covenant Ground* field.** Decided: added to all 24 personal entries. Still open: whether the Workbook should carry it too.
+5. **Entry 23's "called by God" ground.** Still open. The audit says it belongs in *Human Witness* (others' confirmation of the call), which is Andrew's own field.
 
 ---
 

@@ -235,10 +235,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 2. New Creation
 
 **Identity Statement:**
-> I am a new creation in Christ. My history does not define me. My bloodline does not own me. The old is gone.
+> I am a new creation in Christ. My history does not define me. My bloodline does not own me. The old has passed away, and the new has come.
 
 **Anchor Verse:**
 > "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come." — 2 Corinthians 5:17
+>
+> "In those days they shall no longer say: 'The fathers have eaten sour grapes, and the children's teeth are set on edge.' But everyone shall die for his own iniquity." — Jeremiah 31:29-30
 
 **My Evidence:**
 *Write about a moment where you witnessed the new creation reality overtaking an old pattern — even briefly.*
@@ -276,7 +278,7 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 > I am the righteousness of God in Christ Jesus. I do not stand before God in my own record — I stand in Christ's.
 
 **Anchor Verse:**
-> "God made him who had no sin to be sin for us, so that in him we might become the righteousness of God." — 2 Corinthians 5:21
+> "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." — 2 Corinthians 5:21
 
 **My Evidence:**
 *Write about a moment when you felt unworthy to approach God, came anyway, and found him welcoming.*
@@ -348,10 +350,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 5. Redeemed
 
 **Identity Statement:**
-> I am redeemed — bought back, restored, and transferred out of every domain that once owned me.
+> I am redeemed — bought back with the blood of Christ, forgiven, and transferred out of the domain of darkness into the kingdom of His beloved Son.
 
 **Anchor Verse:**
-> "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace." — Ephesians 1:7
+> "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace." — Ephesians 1:7
+>
+> "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, in whom we have redemption, the forgiveness of sins." — Colossians 1:13-14
 
 **My Evidence:**
 *Write about a moment when you recognized that something that once had power over you no longer did.*
@@ -463,7 +467,7 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 > My body is not my own — it is the dwelling place of the Holy Spirit of God.
 
 **Anchor Verse:**
-> "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price." — 1 Corinthians 6:19-20
+> "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body." — 1 Corinthians 6:19-20
 
 **My Evidence:**
 *Write about a moment when you felt the Holy Spirit's presence or guidance — a tangible sense that something greater than yourself was at work in you.*
@@ -496,10 +500,10 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 9. Co-heir with Christ
 
 **Identity Statement:**
-> I am a co-heir with Christ — inheriting everything the Son inherits from the Father.
+> I am a co-heir with Christ — I share in all that the Son inherits from the Father. I hold that place now, and the full inheritance is still ahead.
 
 **Anchor Verse:**
-> "Now if we are children, then we are heirs — heirs of God and co-heirs with Christ." — Romans 8:17
+> "And if children, then heirs — heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him. For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us." — Romans 8:17-18
 
 **My Evidence:**
 *Write about a moment when you received something undeserved — favor, provision, an open door — that felt like inheritance rather than luck.*
@@ -532,10 +536,10 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 10. Ambassador of Christ
 
 **Identity Statement:**
-> I am Christ's ambassador — his official representative on earth, carrying his message with his authority.
+> I am an ambassador for Christ, carrying His message of reconciliation, as though God were making His appeal through me.
 
 **Anchor Verse:**
-> "We are therefore Christ's ambassadors, as though God were making his appeal through us." — 2 Corinthians 5:20
+> "Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God." — 2 Corinthians 5:20
 
 **My Evidence:**
 *Write about a moment when you represented Christ to someone — and it mattered.*
@@ -568,10 +572,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 11. Forgiven and Free
 
 **Identity Statement:**
-> I am fully and finally forgiven. My past has no prosecution rights over my present.
+> I am fully and finally forgiven in Christ. My past has no prosecution rights over my present.
 
 **Anchor Verse:**
-> "As far as the east is from the west, so far has he removed our transgressions from us." — Psalm 103:12
+> "As far as the east is from the west, so far does he remove our transgressions from us." — Psalm 103:12
+>
+> "I will remember their sins and their lawless deeds no more. Where there is forgiveness of these, there is no longer any offering for sin." — Hebrews 10:17-18 (quoting Jeremiah 31:34)
 
 **My Evidence:**
 *Write about a specific failure you have carried guilt over — and the moment, if any, when you began to actually believe it was gone.*
@@ -721,7 +727,9 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 > My identity is hidden with Christ in God. What the world says about me cannot touch what God has declared over me.
 
 **Anchor Verse:**
-> "For you died, and your life is now hidden with Christ in God." — Colossians 3:3
+> "For you have died, and your life is hidden with Christ in God." — Colossians 3:3
+>
+> "...in order that the things that cannot be shaken may remain. Therefore let us be grateful for receiving a kingdom that cannot be shaken." — Hebrews 12:27-28
 
 **My Evidence:**
 *Write about a moment when criticism, rejection, or failure did not destroy you — and you recognized something deeper was holding you.*
@@ -755,10 +763,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 16. Fruit-Bearer
 
 **Identity Statement:**
-> I was appointed to bear lasting fruit. Fruitfulness in God's kingdom is not earned by striving — it flows from abiding.
+> I was appointed to bear lasting fruit. Fruitfulness in God's kingdom is not produced by my own effort — it flows from abiding in Christ.
 
 **Anchor Verse:**
-> "You did not choose me, but I chose you and appointed you so that you might go and bear fruit — fruit that will last." — John 15:16
+> "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide." — John 15:16
+>
+> "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing." — John 15:5
 
 **My Evidence:**
 *Write about a moment when something you said, did, or invested in produced visible, lasting change in someone's life.*
@@ -827,10 +837,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 18. Holy and Set Apart
 
 **Identity Statement:**
-> I am holy — not because I am perfect, but because I have been set apart by God for his purposes.
+> I am holy — not because I am perfect, but because I have been set apart by God for His purposes, as part of a holy people.
 
 **Anchor Verse:**
-> "But you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light." — 1 Peter 2:9
+> "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light." — 1 Peter 2:9
+>
+> "But as he who called you is holy, you also be holy in all your conduct, since it is written, 'You shall be holy, for I am holy.'" — 1 Peter 1:15-16
 
 **My Evidence:**
 *Write about a moment when you felt the pull toward something that was not yours — and chose differently.*
@@ -866,7 +878,9 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 > I am the object of an everlasting, unconditional love that preceded my birth and will outlast my death.
 
 **Anchor Verse:**
-> "I have loved you with an everlasting love; I have drawn you with unfailing kindness." — Jeremiah 31:3
+> "I have loved you with an everlasting love; therefore I have continued my faithfulness to you." — Jeremiah 31:3
+>
+> "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord." — Romans 8:38-39
 
 **My Evidence:**
 *Write about a moment when you experienced love from God that made no logical sense — when you deserved distance and received nearness instead.*
@@ -899,7 +913,7 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 20. Free from Condemnation
 
 **Identity Statement:**
-> There is no condemnation for me. The verdict has been declared — and it cannot be appealed.
+> In Christ Jesus there is no condemnation for me. The verdict has been declared, and no failure of mine overturns it.
 
 **Anchor Verse:**
 > "There is therefore now no condemnation for those who are in Christ Jesus." — Romans 8:1
@@ -1410,4 +1424,4 @@ Do not wait until you believe every statement before you speak it. Speak it beca
 
 The goal is not to feel different by the end of this workbook. The goal is to be different — slowly, consistently, and from the inside out — as truth takes root and bears fruit in a life that keeps showing up.
 
-> *"So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness."* — Colossians 2:6-7
+> *"Therefore, as you received Christ Jesus the Lord, so walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving."* — Colossians 2:6-7

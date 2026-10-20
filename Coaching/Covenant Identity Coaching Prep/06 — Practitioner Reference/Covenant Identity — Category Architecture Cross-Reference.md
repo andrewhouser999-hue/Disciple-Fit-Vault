@@ -86,6 +86,8 @@ Listed here for quick reference. Not all 22 categories map to a single covenant 
 
 **Note on comprehensiveness:** The Identity Installer has 22 categories because it is designed for comprehensive coverage — every major category of covenant identity truth. The 10 covenant identity layers are the highest-leverage targets for the coaching engagement — the specific declarations most directly opposed to the early maladaptive schemas that maintain the Gap. Not every Identity Installer category has a direct layer equivalent, and that is by design: the Installer is broader, and the coaching engagement is precise.
 
+**Count note (2026-10-19):** The 22 categories above are the client-facing set, which matches the [[Identity Installer - Client Workbook]]. Andrew's personal [[Identity Installer - Personal]] now holds 24: it adds #23 Called as Coach (a vocational declaration, not a covenant-identity claim) and #24 Welcomed and Wanted (adoption and household belonging, Layer 1 territory). Neither is mapped to a layer here. Each personal entry also carries a *Covenant Ground* field; see [[Identity Installer — Declaration Audit]].
+
 ---
 
 ## Lie Eliminator — Full 12 Lies

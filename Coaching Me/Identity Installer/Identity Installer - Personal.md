@@ -109,6 +109,14 @@ Read every Identity Statement that follows as a statement about what is already 
 >
 > "You have received the Spirit of adoption as sons, by whom we cry, 'Abba! Father!' The Spirit himself bears witness with our spirit that we are children of God." — Romans 8:15-16
 
+**Covenant Ground:**
+> - **Text:** 1 John 3:1; Rom 8:15-16 (ESV).
+> - **Covenant:** New Covenant: adoption into God's household. The Old Testament pattern is Israel as God's firstborn son (Exod 4:22).
+> - **Mechanism:** Union with Christ; the Spirit of adoption.
+> - **In Christ:** "Blessed us … in the Beloved" (Eph 1:6); children and heirs (Gal 4:4-7).
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Says God loves and adopts. Does not say God is never grieved; the Father disciplines His children (Heb 12:5-11).
+
 **My Evidence:**
 >- Having PTSD, almost lost my house, God provided last minute, .... showed me my what striving gets
 >- 
@@ -163,10 +171,20 @@ Read every Identity Statement that follows as a statement about what is already 
 > I renounce the identity inherited from my family's patterns, my past failures, and the labels placed on me before I knew Christ and after. They have no legal claim on who I am now.
 
 **Identity Statement:**
-> I am a new creation in Christ. My history does not define me. My bloodline does not own me. The old is gone.
+> I am a new creation in Christ. My history does not define me. My bloodline does not own me. The old has passed away, and the new has come.
 
 **Anchor Verse:**
 > "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come." — 2 Corinthians 5:17
+>
+> "In those days they shall no longer say: 'The fathers have eaten sour grapes, and the children's teeth are set on edge.' But everyone shall die for his own iniquity." — Jeremiah 31:29-30
+
+**Covenant Ground:**
+> - **Text:** 2 Cor 5:17; Jer 31:29-30 (ESV).
+> - **Covenant:** New Covenant (2 Cor 3:6; Ezek 36:26-27).
+> - **Mechanism:** Union with Christ; a new heart.
+> - **In Christ:** "If anyone is in Christ, he is a new creation."
+> - **Mediation:** Jer 31:29-30 sits in Jeremiah's New Covenant section; Hebrews 8 applies that covenant to believers.
+> - **Limit:** The old self was crucified (Rom 6:6), yet indwelling sin remains (Rom 7:14-25; 1 John 1:8). "Curse" means the curse of the law (Gal 3:13), not every family pattern.
 
 **My Evidence:**
 > I lost desire for alcohol and women upon salvation. 
@@ -193,7 +211,7 @@ Read every Identity Statement that follows as a statement about what is already 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> Christ redeemed me from every curse, pattern, and chain. The old has not faded or improved — it has passed away. I carry a new name, a new nature, and a new lineage. I am a citizen of a different kingdom than the one I was born into.
+> Christ redeemed me from the curse of the law (Gal 3:13). Under the New Covenant no one carries a family's guilt by descent: each answers for their own, and my sins are forgiven in Christ (Jer 31:29-34). I consider myself dead to sin and alive to God in Christ Jesus (Rom 6:11), and the old self was crucified with Him (Rom 6:6). I carry a new heart (Ezek 36:26) and belong to Abraham's line through Christ (Gal 3:29). I am a citizen of a different kingdom than the one I was born into (Col 1:13).
 
 **The Felt Sense:**
 > What does it feel like to live as someone whose past has no legal claim on the present? *Confidence, grounded, connected, identity freedom, immovable, backed by the Kingdom, planted...*
@@ -213,21 +231,29 @@ Read every Identity Statement that follows as a statement about what is already 
 ---
 
 ## 3. The Righteousness of God
-*Old pattern: the impure*
+*Old pattern: the disqualified*
 *Other words that resonate:* disqualified, rejected, unacceptable
 
 **This activates when:**
 > *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the condemned — the one who keeps a tally of failures and believes they disqualify me from God's presence. 
-> I renounce the identity with the sinful state -- the old nature that was done away with. 
+> I renounce the identity of the disqualified — the one who keeps a tally of failures and believes they bar me from God's presence. 
+> I renounce living as if the old self still rules me. It was crucified with Christ (Rom 6:6). 
 
 **Identity Statement:**
 > I am the righteousness of God in Christ Jesus. I do not stand before God in my own record — I stand in Christ's.
 
 **Anchor Verse:**
-> "God made him who had no sin to be sin for us, so that in him we might become the righteousness of God." — 2 Corinthians 5:21
+> "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." — 2 Corinthians 5:21
+
+**Covenant Ground:**
+> - **Text:** 2 Cor 5:21; Rom 5:19 (ESV).
+> - **Covenant:** New Covenant: Christ as the faithful covenant partner.
+> - **Mechanism:** Imputed righteousness through union.
+> - **In Christ:** "In him we might become the righteousness of God."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Describes standing, not sinlessness. Justification also includes forgiveness (Rom 4:5-8).
 
 **My Evidence:**
 > - I am committed to Jesus Christ and my submission to various churches has resulted in excommunication which felt like failure, fear and anxiety. The outcome is my salvation. 
@@ -243,7 +269,7 @@ Read every Identity Statement that follows as a statement about what is already 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-My standing before God is not based on my behavior — it is based on Christ's. I am not tolerated; I am declared righteous. The courtroom verdict has already been read: not guilty.
+> My standing before God is not based on my behavior — it is based on Christ's. I am not tolerated; I am declared righteous. The courtroom verdict has already been read: not guilty, and counted righteous in Christ (Rom 5:19).
 
 **The Felt Sense:**
 > What does it feel like to approach God with nothing to prove and nothing to hide — fully clean, fully accepted?   Feels like we are the same family, same bloodline, for each other.
@@ -277,6 +303,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > "Even as he chose us in him before the foundation of the world, that we should be holy and blameless before him." — Ephesians 1:4
 >
 > "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them." — Ephesians 2:10
+
+**Covenant Ground:**
+> - **Text:** Eph 1:4; Eph 2:10 (ESV).
+> - **Covenant:** Election in Christ; "chosen" echoes Israel's chosenness (Deut 7:6-8).
+> - **Mechanism:** Union with Christ.
+> - **In Christ:** "He chose us in him."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Eph 2:10 speaks of good works prepared for "us." It does not say every event, including harm done to me, was designed (Gen 50:20; Rom 8:28; Jas 1:13). The basis of election is debated; the statement takes no side.
 
 **My Evidence:**
 >- Born Again-I was on my way to work, thinking only of work, when my thoughts were interrupted and directed towards a prayer I prayed 3.5 years prior.  God reached into my world and saved me. My life took on new affections, environments, behaviors, personality and more. 
@@ -326,10 +360,20 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the captive — the one still living as if the chains are intact.
 
 **Identity Statement:**
-> I am redeemed — bought back, restored, and transferred out of every domain that once owned me.
+> I am redeemed — bought back with the blood of Christ, forgiven, and transferred out of the domain of darkness into the kingdom of His beloved Son.
 
 **Anchor Verse:**
-> "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace." — Ephesians 1:7
+> "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace." — Ephesians 1:7
+>
+> "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, in whom we have redemption, the forgiveness of sins." — Colossians 1:13-14
+
+**Covenant Ground:**
+> - **Text:** Eph 1:7; Col 1:13-14 (ESV).
+> - **Covenant:** New Covenant: redemption by the blood of the covenant (Luke 22:20; Heb 9:12), following the Exodus pattern (Deut 7:8).
+> - **Mechanism:** Union with Christ; His atoning death.
+> - **In Christ:** "In him we have redemption."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** The purchase is complete. The redemption of the body is still ahead (Rom 8:23; Eph 1:14). The enemy's legal claim is broken; he still opposes (1 Pet 5:8).
 
 **My Evidence:**
 -Cured - Alcohol addiction eliminated at point of salvation, used to fill a profound void and deep pain. 
@@ -347,11 +391,18 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> The price has been paid in full. I am not partially redeemed or provisionally free — I am fully and finally bought back. The enemy has no legal claim on my life, my mind, or my future. I live on the other side of the transaction.
+> The price has been paid in full (Heb 9:12). I am not partially redeemed or provisionally free — the purchase is complete, and no failure of mine undoes it. The redemption of my body is still ahead (Rom 8:23). The enemy has no legal claim on my life or my standing (Col 2:14-15). I still stand against him (Eph 6:11-14), but I do it from the other side of the transaction.
 
 **The Felt Sense:**
 > What does it feel like to live as someone whose debt has been completely cancelled — nothing owed, nothing held over you?
 > A: "Inside it feels smooth, stable, valued, enough, confident, assured, present, relational, uplifted, released, respected, empowered..."
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the captive" — living as if the chains are intact — still live in my body, even on an ordinary day? (Often a heaviness in the arms or chest, a sense of being held in place.)
+>
+> Where does the felt sense above — released, nothing owed — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been bound, now that freedom is present with it — not after it?
 
 **Today I Will:**
 > Identify one area where I am still living like a captive and speak the truth over it: I am redeemed. That domain no longer owns me.
@@ -381,6 +432,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >
 > "No, in all these things we are more than conquerors through him who loved us." — Romans 8:37
 
+**Covenant Ground:**
+> - **Text:** Rom 8:35-37 (ESV).
+> - **Covenant:** Christ's covenant love, which holds through suffering (Rom 8:39).
+> - **Mechanism:** Union with Christ; His love.
+> - **In Christ:** Nothing separates us from "the love of God in Christ Jesus our Lord."
+> - **Mediation:** New Testament text, addressed to believers.
+> - **Limit:** Conquering is "in" suffering, not exemption from it, and Paul quotes a lament (Ps 44:22). Identity is held there, not proven there.
+
 **My Evidence:**
 > *(Write one sentence — a hard season you came through, not just intact, but stronger or clearer about who God is.)*
 > Example: "The hardest year of my life produced more clarity about God's faithfulness than any comfortable season ever had."
@@ -395,6 +454,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to face resistance knowing the outcome has already been decided in your favor? 
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the victim" — defined by what has been done to me — still live in my body, even on an ordinary day? (Often a sinking in the chest, a collapse of posture, a pull toward the ground.)
+>
+> Where does the felt sense above — steady, resourced, held — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been sinking, now that steadiness is present with it — not after it?
 
 **Today I Will:**
 > Name one current challenge out loud and declare over it: this is not defeating me — I am more than a conqueror in this.
@@ -421,6 +487,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >
 > "For at one time you were darkness, but now you are light in the Lord. Walk as children of light." — Ephesians 5:8
 
+**Covenant Ground:**
+> - **Text:** Matt 5:14; Eph 5:8 (ESV).
+> - **Covenant:** The Servant-light mission (Isa 42:6; 49:6; Acts 13:47), shared in Christ.
+> - **Mechanism:** Union with Christ.
+> - **In Christ:** "Now you are light in the Lord."
+> - **Mediation:** Matt 5:14 is pre-cross teaching to disciples ("you," plural). Eph 5:8 states it to believers.
+> - **Limit:** The light's purpose is the Father's glory (Matt 5:16). It gives no power of its own over darkness.
+
 **My Evidence:**
 > *(Write one sentence — a moment when your presence, words, or actions visibly shifted something in a room, a conversation, or a person.)*
 > Example: "When someone told me that a single conversation with me changed the direction of their thinking — I understood that light travels farther than you know."
@@ -434,6 +508,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to walk into a space knowing you carry something that people in that room need?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the hidden" — shrinking, dimming, apologizing for taking up space — still live in my body, even on an ordinary day? (Often a shallow breath, a pulled-in chest, a lowered voice.)
+>
+> Where does the felt sense above — visible, unashamed, at ease — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been shrinking, now that being seen is present with it — not after it?
 
 **Today I Will:**
 > Show up fully — in one conversation, meeting, or interaction — without dimming, shrinking, or qualifying my presence.
@@ -454,7 +535,15 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > My body is not my own — it is the dwelling place of the Holy Spirit of God.
 
 **Anchor Verse:**
-> "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price." — 1 Corinthians 6:19-20
+> "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body." — 1 Corinthians 6:19-20
+
+**Covenant Ground:**
+> - **Text:** 1 Cor 6:19-20 (ESV).
+> - **Covenant:** New Covenant indwelling (Ezek 36:27; John 14:17).
+> - **Mechanism:** The Spirit; redemption ("bought with a price").
+> - **In Christ:** Redeemed by Christ's blood, so the body belongs to Him.
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Says the Spirit dwells in the believer. Does not say the believer will always feel His presence; lament stays open (Ps 22). The context is sexual ethics; the corporate side is 1 Cor 3:16.
 
 **My Evidence:**
 > *(Write one sentence — a moment when you felt the Holy Spirit's presence or conviction — a tangible sense that something greater than yourself was at work in you.)*
@@ -469,6 +558,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to move through an ordinary day with the awareness that God himself lives in you?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the empty" — God distant, theoretical, absent — still live in my body, even on an ordinary day? (Often a hollow or flat place in the chest or belly, a sense of being alone in the room.)
+>
+> Where does the felt sense above — accompanied, the Spirit near — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's felt empty, now that the Spirit's presence is present with it — not after it?
 
 **Today I Will:**
 > Pause before one interaction today and consciously acknowledge: the Holy Spirit is in me and goes with me into this.
@@ -486,10 +582,18 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the beggar — the one who approaches God's throne as if barely welcome, asking for scraps.
 
 **Identity Statement:**
-> I am a co-heir with Christ — inheriting everything the Son inherits from the Father.
+> I am a co-heir with Christ — I share in all that the Son inherits from the Father. I hold that place now, and the full inheritance is still ahead.
 
 **Anchor Verse:**
-> "Now if we are children, then we are heirs — heirs of God and co-heirs with Christ." — Romans 8:17
+> "And if children, then heirs — heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him. For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us." — Romans 8:17-18
+
+**Covenant Ground:**
+> - **Text:** Rom 8:17-18 (ESV).
+> - **Covenant:** The Abrahamic inheritance, fulfilled in Christ (Gal 3:29; 4:7; Rom 4:13).
+> - **Mechanism:** Union with Christ; adoption.
+> - **In Christ:** "Fellow heirs with Christ."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** The place is held now; the inheritance is received fully later (1 Pet 1:4). The verse includes suffering with Christ. Land and descendants promises are fulfilled in Christ, not repeated to the individual. Bold asking rests on Heb 4:16, not on rights.
 
 **My Evidence:**
 > *(Write one sentence — a moment when you received something undeserved — favor, provision, an open door — and recognized it as inheritance, not luck.)*
@@ -500,13 +604,20 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I do not approach God as an outsider hoping for a handout. I approach as a son/daughter who shares in the inheritance of the King. Every spiritual blessing in the heavenly realms is mine in Christ.
+> I do not approach God as an outsider hoping for a handout. I approach as a son/daughter who shares in the inheritance of the King. Every spiritual blessing in the heavenly places is mine in Christ (Eph 1:3). The inheritance is kept for me (1 Pet 1:4), and I share Christ's sufferings as well as His glory (Rom 8:17).
 
 **The Felt Sense:**
 > What does it feel like to approach God not as a beggar but as an heir — with full legal standing and access?
 
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the beggar" — approaching God as barely welcome, asking for scraps — still live in my body, even on an ordinary day? (Often a lowered head, hunched shoulders, a hand held out.)
+>
+> Where does the felt sense above — welcome, an heir at the table — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been begging, now that being an heir is present with it — not after it?
+
 **Today I Will:**
-> Bring a bold request to God — not timidly, but with the confidence of someone who has full inheritance rights.
+> Bring a bold request to God — not timidly, but with the confidence of a child approaching the throne of grace to receive mercy and find grace to help in time of need (Heb 4:16).
 
 ---
 
@@ -521,10 +632,18 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the bystander — the one who watches the world without engaging it, waiting for someone more qualified to speak.
 
 **Identity Statement:**
-> I am Christ's ambassador — his official representative on earth, carrying his message with his authority.
+> I am an ambassador for Christ, carrying His message of reconciliation, as though God were making His appeal through me.
 
 **Anchor Verse:**
-> "We are therefore Christ's ambassadors, as though God were making his appeal through us." — 2 Corinthians 5:20
+> "Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God." — 2 Corinthians 5:20
+
+**Covenant Ground:**
+> - **Text:** 2 Cor 5:20 (ESV).
+> - **Covenant:** New Covenant ministry of reconciliation (2 Cor 3:6; 5:18).
+> - **Mechanism:** Union with Christ; reconciliation.
+> - **In Christ:** "In Christ God was reconciling the world to himself" (2 Cor 5:19).
+> - **Mediation:** New Testament text. Paul speaks as an apostle; the witness extends to all believers.
+> - **Limit:** The ambassador carries a message and an appeal. The ambassador has no authority of their own.
 
 **My Evidence:**
 > *(Write one sentence — a moment when you represented Christ to someone and it visibly mattered.)*
@@ -535,10 +654,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I carry official representation from the King of kings. When I speak reconciliation, grace, or truth into a situation — I am not doing it in my own name. I carry the weight and authority of the one who sent me.
+> I speak for the King of kings. When I speak reconciliation, grace, or truth into a situation, I am not doing it in my own name. I carry the message of the One who sent me, and I speak it as an appeal (2 Cor 5:20). The authority belongs to the message and to Him, not to me.
 
 **The Felt Sense:**
 > What does it feel like to enter a difficult conversation knowing you carry the weight of heaven's embassy behind you?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the bystander" — watching from the side, waiting for someone more qualified — still live in my body, even on an ordinary day? (Often a held-back voice, a throat that tightens before speaking.)
+>
+> Where does the felt sense above — sent, carrying His message — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been holding back, now that being sent is present with it — not after it?
 
 **Today I Will:**
 > Represent Christ — in tone, in truth, in grace — in one specific conversation I would normally avoid or soften.
@@ -556,10 +682,20 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the guilty — the one who keeps reopening cases God has already closed and sealed with the blood of Christ.
 
 **Identity Statement:**
-> I am fully and finally forgiven. My past has no prosecution rights over my present.
+> I am fully and finally forgiven in Christ. My past has no prosecution rights over my present.
 
 **Anchor Verse:**
-> "As far as the east is from the west, so far has he removed our transgressions from us." — Psalm 103:12
+> "As far as the east is from the west, so far does he remove our transgressions from us." — Psalm 103:12
+>
+> "I will remember their sins and their lawless deeds no more. Where there is forgiveness of these, there is no longer any offering for sin." — Hebrews 10:17-18 (quoting Jeremiah 31:34)
+
+**Covenant Ground:**
+> - **Text:** Ps 103:12; Heb 10:17-18 (ESV).
+> - **Covenant:** Covenant forgiveness (Ps 103:7-8 echoes Exod 34:6); the New Covenant promise (Jer 31:34).
+> - **Mechanism:** Christ's one offering for sins.
+> - **In Christ:** "By a single offering he has perfected for all time those who are being sanctified" (Heb 10:14).
+> - **Mediation:** Ps 103 is Old Testament; Heb 10:17 carries Jer 31:34 to believers.
+> - **Limit:** God's forgiveness does not cancel restitution and does not silence the Spirit's conviction (John 16:8).
 
 **My Evidence:**
 > *(Write one sentence — a specific failure you have carried guilt over, and the moment — if any — when you began to actually believe it was gone.)*
@@ -575,8 +711,15 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **The Felt Sense:**
 > What does it feel like to move through life carrying no debt, no outstanding charges, no sentence yet to serve?
 
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the guilty" — reopening cases God has closed — still live in my body, even on an ordinary day? (Often a weight in the stomach, a flinch, a readiness to be accused.)
+>
+> Where does the felt sense above — clean, pardoned, light — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been carrying guilt, now that forgiveness is present with it — not after it?
+
 **Today I Will:**
-> Refuse to rehearse one thing God has already forgiven — and when the thought comes, respond: that case is closed.
+> Refuse to rehearse one thing God has already forgiven — and when the thought comes, respond: that case is closed. If the thought is specific and calls me to act — to confess to someone, or to make something right — it is conviction, not accusation, and I take that step (John 16:8; 2 Cor 7:10).
 
 ---
 
@@ -598,6 +741,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >
 > "And we know that for those who love God all things work together for good, for those who are called according to his purpose." — Romans 8:28
 
+**Covenant Ground:**
+> - **Text:** Phil 1:6; Rom 8:28 (ESV).
+> - **Covenant:** New Covenant: God completing His work in His people.
+> - **Mechanism:** The Spirit's work; providence.
+> - **In Christ:** "The day of Jesus Christ" (Phil 1:6); "those who love God … called according to his purpose."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** God finishes His work in the believer. It does not promise every vocation is completed, or that pain was purposed. Jer 29:11 is deliberately not used: it was written to exiles in Babylon and the New Testament does not apply it to believers.
+
 **My Evidence:**
 > For God's good pleasure
 > To show others a special light of goodness.  
@@ -615,6 +766,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to operate from a sense of divine assignment — knowing that what you are doing matters beyond what you can currently see?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the purposeless" — drifting, waiting for meaning to find me — still live in my body, even on an ordinary day? (Often a flatness, heavy limbs, a sense of going through the motions.)
+>
+> Where does the felt sense above — purposeful, led, going somewhere — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's felt flat, now that purpose is present with it — not after it?
 
 **Today I Will:**
 > Do one thing today that connects directly to what I believe God has called me to — and do it with full intentionality, not just routine.
@@ -639,6 +797,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >
 > "But God shows his love for us in that while we were still sinners, Christ died for us." — Romans 5:8
 
+**Covenant Ground:**
+> - **Text:** Ps 139:1-2; Rom 5:8 (ESV).
+> - **Covenant:** Being known by God within covenant (Exod 33:12-17; Gal 4:9).
+> - **Mechanism:** God's knowledge and love in Christ.
+> - **In Christ:** "While we were still sinners, Christ died for us."
+> - **Mediation:** Ps 139 is an Old Testament personal psalm; Rom 5:8 carries the "loved" half.
+> - **Limit:** "Known" and "loved" come from two texts. Matt 10:30 was said to persecuted disciples to counter fear; it does not promise safety.
+
 **My Evidence:**
 > - When I would go outside at the quary I would notice the lack of breeze then a breeze would hit my face out of nowhere. The first time I wondered if the love of God was in the breeze. It kept happening and I took it as God breathing on me with nature letting me know he loves me and sees me and desires I enjoy the breeze. 
 > - 
@@ -654,6 +820,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to be fully known — not the curated version, but all of it — and still completely loved?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the invisible" — unseen, unnamed, uncounted — still live in my body, even on an ordinary day? (Often a pull to look away, a dropped gaze, a bracing against being overlooked.)
+>
+> Where does the felt sense above — seen, known, named — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's felt unseen, now that being known is present with it — not after it?
 
 **Today I Will:**
 > Bring one thing to God that I have been hiding or minimizing — and let him see it fully.
@@ -678,6 +851,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >
 > "My grace is sufficient for you, for my power is made perfect in weakness." — 2 Corinthians 12:9
 
+**Covenant Ground:**
+> - **Text:** Eph 1:19-20; 2 Cor 12:9 (ESV).
+> - **Covenant:** New Covenant gift of the Spirit (Ezek 36:27; Acts 1:8).
+> - **Mechanism:** The Spirit; resurrection power.
+> - **In Christ:** Power "toward us who believe."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** The Spirit has no limits; the believer does. His power is "made perfect in weakness." Rom 8:11 is about life for mortal bodies and is deliberately not used here.
+
 **My Evidence:**
 > *(Write one sentence — a moment when you did something you could not have done in your own strength — and you knew it.)*
 > Example: "I walked into that room with nothing prepared and what came out of me changed everything — I left knowing that wasn't me alone."
@@ -691,6 +872,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to attempt something beyond your natural ability, trusting that a greater power is at work in you?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the depleted" — measuring capacity by what I can produce on my own — still live in my body, even on an ordinary day? (Often tired muscles, a clenched effort, tight shoulders and jaw.)
+>
+> Where does the felt sense above — carried by a greater power — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been straining, now that the Spirit's power is present with it — not after it?
 
 **Today I Will:**
 > Attempt one thing today that I know is beyond me — and do it as an act of dependence on the Spirit inside me, not a test of my own ability.
@@ -711,7 +899,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > My identity is hidden with Christ in God. What the world says about me cannot touch what God has declared over me.
 
 **Anchor Verse:**
-> "For you died, and your life is now hidden with Christ in God." — Colossians 3:3
+> "For you have died, and your life is hidden with Christ in God." — Colossians 3:3
+>
+> "...in order that the things that cannot be shaken may remain. Therefore let us be grateful for receiving a kingdom that cannot be shaken." — Hebrews 12:27-28
+
+**Covenant Ground:**
+> - **Text:** Col 3:3; Heb 12:27-28 (ESV).
+> - **Covenant:** New Covenant (Heb 12:24); union with Christ.
+> - **Mechanism:** Death and life with Christ.
+> - **In Christ:** "Hidden with Christ in God."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** "Hidden" means the standing is secure, not that the believer is not assailed (1 Pet 5:8). Scoped to failure, sin, doubt, and feeling; the apostasy question stays open on purpose.
 
 **My Evidence:**
 > *(Write one sentence — a moment when criticism, rejection, or failure did not destroy you — and you recognized something deeper was holding you.)*
@@ -722,10 +920,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> My identity is not stored in my performance, my reputation, or other people's opinions. It is hidden in Christ — protected, sealed, and unassailable. What can be shaken will be shaken. What is in Christ cannot be moved.
+> My identity is not stored in my performance, my reputation, or other people's opinions. It is hidden in Christ — protected and sealed by the Spirit (Eph 1:13-14). I am still assailed (1 Pet 5:8), but my standing is not at stake: no failure, doubt, or opinion of mine undoes it. What can be shaken will be shaken. I have received a kingdom that cannot be shaken (Heb 12:27-28).
 
 **The Felt Sense:**
 > What does it feel like to stand in a moment of criticism or failure knowing that nothing essential about you has changed?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the fragile" — my sense of self rising and falling with approval — still live in my body, even on an ordinary day? (Often a flutter in the chest or stomach, a scanning for others' reactions.)
+>
+> Where does the felt sense above — held, anchored, hidden with Christ — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been scanning, now that being anchored in Christ is present with it — not after it?
 
 **Today I Will:**
 > Notice one moment where I am tempted to let external circumstances define my worth — and consciously choose the hidden identity instead.
@@ -743,10 +948,20 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the barren — the one who believes my life produces nothing of lasting value.
 
 **Identity Statement:**
-> I was appointed to bear lasting fruit. Fruitfulness in God's kingdom is not earned by striving — it flows from abiding.
+> I was appointed to bear lasting fruit. Fruitfulness in God's kingdom is not produced by my own effort — it flows from abiding in Christ.
 
 **Anchor Verse:**
-> "You did not choose me, but I chose you and appointed you so that you might go and bear fruit — fruit that will last." — John 15:16
+> "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide." — John 15:16
+>
+> "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing." — John 15:5
+
+**Covenant Ground:**
+> - **Text:** John 15:16, 15:5 (ESV).
+> - **Covenant:** Christ as the true vine, the true Israel (Ps 80:8-16; Isa 5:1-7), said the night of the covenant meal (Luke 22:20).
+> - **Mechanism:** Union with Christ; abiding.
+> - **In Christ:** "Abide in me."
+> - **Mediation:** Upper Room teaching that points to the Spirit's coming; applied to believers.
+> - **Limit:** The same chapter says unfruitful branches are taken away (15:2, 6), a text in the perseverance debate the practice leaves open. Abiding includes keeping Christ's commands (15:10).
 
 **My Evidence:**
 > *(Write one sentence — a moment when something you said, did, or invested in produced visible, lasting change in someone's life.)*
@@ -757,10 +972,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I was chosen and appointed for fruit. The condition for bearing it is not striving — it is abiding. As long as I remain connected to the vine, fruit is not just possible, it is inevitable. I trust the harvest to God.
+> I was chosen and appointed for fruit. Fruit is not something I produce by myself. It comes as I abide in Christ, the true vine, and His words abide in me (John 15:4-5, 7). Abiding includes keeping His commands in love (John 15:10). As I abide, He bears fruit through me. I trust the harvest to God.
 
 **The Felt Sense:**
 > What does it feel like to live with the quiet confidence that your life is producing something real and lasting — even when you cannot see it yet?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the barren" — believing my life produces nothing of lasting value — still live in my body, even on an ordinary day? (Often a driven tightness, or a flat heaviness.)
+>
+> Where does the felt sense above — resting, connected to the vine — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been driving, now that abiding is present with it — not after it?
 
 **Today I Will:**
 > Do one thing from a place of rest and abiding — not striving — and trust the fruit to God.
@@ -783,6 +1005,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **Anchor Verse:**
 > "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith. Who is it that overcomes the world except the one who believes that Jesus is the Son of God?" — 1 John 5:4-5
 
+**Covenant Ground:**
+> - **Text:** 1 John 5:4-5 (ESV).
+> - **Covenant:** Christ's victory, shared by faith.
+> - **Mechanism:** Faith; new birth.
+> - **In Christ:** "Born of God"; believes Jesus is the Son of God.
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Overcoming is by faith, not by testimony used as a weapon. Rev 12:11 is deliberately not used (Approach 6). The enemy is defeated but still active (Rev 12:12; 1 Pet 5:8).
+
 **My Evidence:**
 > *(Write one sentence — a battle — internal or external — that you came through, and the specific truth that held you.)*
 > Example: "The thing that tried to end me became the story that set others free — that's when I understood what testimony actually does."
@@ -796,6 +1026,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to face an enemy knowing the verdict was declared before the fight began?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the defeated" — accepting loss as permanent and resistance as futile — still live in my body, even on an ordinary day? (Often a slumped posture, a heaviness, a sense of giving up.)
+>
+> Where does the felt sense above — standing in a victory already won — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been slumped, now that standing in His victory is present with it — not after it?
 
 **Today I Will:**
 > Name one area where the enemy is lying about the outcome. Respond: Christ has overcome, and I stand in His victory (1 John 5:4-5). Then take the next faithful step.
@@ -814,13 +1051,23 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 *(The situation or moment where I most need this identity — name it specifically, so I know when to return here.)*
 
 **What I'm Putting Off:**
-> I renounce the identity of the common — the one who blends in, conforms, and shrinks my distinctiveness to avoid standing out.
+> I renounce the identity of the common — the one who blends in, conforms to the pattern of the world, and hides that I belong to God.
 
 **Identity Statement:**
-> I am holy — not because I am perfect, but because I have been set apart by God for his purposes.
+> I am holy — not because I am perfect, but because I have been set apart by God for His purposes, as part of a holy people.
 
 **Anchor Verse:**
-> "But you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light." — 1 Peter 2:9
+> "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light." — 1 Peter 2:9
+>
+> "But as he who called you is holy, you also be holy in all your conduct, since it is written, 'You shall be holy, for I am holy.'" — 1 Peter 1:15-16
+
+**Covenant Ground:**
+> - **Text:** 1 Pet 2:9; 1 Pet 1:15-16 (ESV).
+> - **Covenant:** Israel's priestly identity (Exod 19:5-6), extended to the church in Christ.
+> - **Mechanism:** Union with Christ; sanctification.
+> - **In Christ:** Sanctified through Christ's offering (Heb 10:10).
+> - **Mediation:** Peter himself applies Exod 19:5-6 and Lev 11:44 to believers.
+> - **Limit:** The identity is plural: "a people." Holiness includes conduct (1 Pet 1:15-16), not only distinctiveness. The "if" in Exod 19:5 is answered in the covenant document (Part 1 §3).
 
 **My Evidence:**
 > I said: 
@@ -838,10 +1085,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I have been called out of darkness and into light. My holiness is not a burden — it is a marker of belonging. I am set apart not to be isolated but to be useful. A vessel set apart is a vessel ready to be filled and poured out.
+> We are a holy people, and I have been called out of darkness into His marvelous light (1 Pet 2:9). My holiness is not a burden — it is a marker of belonging, and it shows in how I live (1 Pet 1:15-16). I am set apart not to be isolated but to be useful. A vessel set apart is a vessel ready for every good work, as I keep turning from what dishonors Him (2 Tim 2:21).
 
 **The Felt Sense:**
 > What does it feel like to live with a conscious sense of being set apart — marked, distinct, and consecrated to a purpose bigger than yourself?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the common" — blending in, conforming, hiding that I belong to God — still live in my body, even on an ordinary day? (Often a tucked-in posture, a muted self.)
+>
+> Where does the felt sense above — belonging to a holy people — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been blending in, now that belonging is present with it — not after it?
 
 **Today I Will:**
 > Make one choice that reflects my set-apart nature — one decision to live differently because I belong to God.
@@ -863,7 +1117,17 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I am the object of an everlasting, unconditional love that preceded my birth and will outlast my death.
 
 **Anchor Verse:**
-> "I have loved you with an everlasting love; I have drawn you with unfailing kindness." — Jeremiah 31:3
+> "I have loved you with an everlasting love; therefore I have continued my faithfulness to you." — Jeremiah 31:3
+>
+> "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord." — Romans 8:38-39
+
+**Covenant Ground:**
+> - **Text:** Jer 31:3; Rom 8:38-39 (ESV).
+> - **Covenant:** Covenant *hesed*, in Jeremiah's New Covenant section.
+> - **Mechanism:** God's love in Christ.
+> - **In Christ:** "The love of God in Christ Jesus our Lord."
+> - **Mediation:** Jer 31:3 was addressed to Israel. Gentile believers enter the New Covenant through union (Eph 2:11-19); Rom 8:38-39 carries it to believers.
+> - **Limit:** "Unconditional" means not earned and not withdrawn when I fail (Rom 5:8). It does not mean God has no expectations (John 14:21). Scoped to my failure; the apostasy question stays open.
 
 **My Evidence:**
 > - Provided a way to be physically healthy knowing my distain for pharmakia 
@@ -878,13 +1142,20 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> God's love for me is not reactive. It does not rise when I perform and fall when I fail. It is everlasting — which means it has no starting point I could earn and no ending point I could trigger. I am loved at my worst with the same love I receive at my best.
+> God's love for me is not reactive. It does not rise when I perform and fall when I fail. It is everlasting — which means it has no starting point I could earn and no failure of mine that could end it. I am loved at my worst with the same love I receive at my best.
 
 **The Felt Sense:**
 > What does it feel like to be loved with no strings, no conditions, and no expiration date — fully, permanently, without performance?
 > - I can remember feeling this love shooting through me with forgiveness on my behalf
 > - Feeling the love flow through me the day before I donated my kidney to my brother
 > - Bathing in the love of God the first year of my walk with him, sensing his loving presence which was better than life itself. Ps 63:3
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the unlovable" — believing love would be withdrawn if people truly knew me — still live in my body, even on an ordinary day? (Often a guarded chest, a held breath, a readiness to be rejected.)
+>
+> Where does the felt sense above — loved at my worst — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been guarded, now that being loved is present with it — not after it?
 
 **Today I Will:**
 > Receive one moment of grace, kindness, or provision today as pure love from the Father — without deflecting it or feeling I need to earn it first.
@@ -902,10 +1173,18 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the condemned — the one living under a perpetual sense of not being enough, always one failure away from losing everything.
 
 **Identity Statement:**
-> There is no condemnation for me. The verdict has been declared — and it cannot be appealed.
+> In Christ Jesus there is no condemnation for me. The verdict has been declared, and no failure of mine overturns it.
 
 **Anchor Verse:**
 > "There is therefore now no condemnation for those who are in Christ Jesus." — Romans 8:1
+
+**Covenant Ground:**
+> - **Text:** Rom 8:1; Rom 8:33-34 (ESV).
+> - **Covenant:** Justification; Christ as the faithful covenant partner (Rom 5:19).
+> - **Mechanism:** Union with Christ.
+> - **In Christ:** "For those who are in Christ Jesus."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Removes condemnation, not conviction (John 16:8; 2 Cor 7:10). Scoped to failure, sin, and doubt; the apostasy question stays open.
 
 **My Evidence:**
 > *(Write one sentence — a moment when shame tried to keep you from God, you came anyway, and found mercy instead of judgment.)*
@@ -916,13 +1195,20 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> "Now" means today. "No condemnation" means none — not reduced, not suspended, not pending review. The judge has spoken and the verdict is grace. The case is not still open. I live on the other side of that verdict.
+> "Now" means today. "No condemnation" means none — not reduced, not suspended, not pending review. The judge has spoken and the verdict is righteous, given as a gift of grace (Rom 3:24). The case is not still open. I live on the other side of that verdict.
 
 **The Felt Sense:**
 > What does it feel like to move through the day without the weight of self-condemnation or the fear of God's disapproval?
 
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the condemned" — always one failure away from losing everything — still live in my body, even on an ordinary day? (Often a tightness in the throat or chest, a readiness to flinch.)
+>
+> Where does the felt sense above — the verdict spoken, no condemnation — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been waiting for the verdict, now that no condemnation is present with it — not after it?
+
 **Today I Will:**
-> When the inner critic speaks condemnation today, respond with Romans 8:1 — out loud if needed — and refuse to agree with any verdict Christ has already overturned.
+> When the inner critic speaks condemnation today, respond with Romans 8:1 — out loud if needed — and refuse to agree with any verdict Christ has already overturned. If the thought is specific and calls me to confess or make something right, it is conviction, not condemnation, and I take that step (John 16:8; 2 Cor 7:10).
 
 ---
 
@@ -945,6 +1231,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >
 > "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ." — Romans 5:1
 
+**Covenant Ground:**
+> - **Text:** John 14:27; Rom 5:1 (ESV).
+> - **Covenant:** The covenant of peace (Ezek 34:25; 37:26; Isa 54:10), in the New Covenant.
+> - **Mechanism:** The Spirit; justification.
+> - **In Christ:** "Peace with God through our Lord Jesus Christ."
+> - **Mediation:** John 14:27 is Upper Room teaching pointing to the Spirit; Rom 5:1 is New Testament.
+> - **Limit:** Peace with God is a standing. The felt state can fluctuate (John 12:27; Mark 14:33-34). Luke 10:5-6 gives partial ground for "releasing" peace; it was instruction to sent disciples.
+
 **My Evidence:**
 > *(Write one sentence — a moment of genuine crisis when you experienced an unexplainable calm — a peace that made no situational sense.)*
 > Example: "In the middle of the worst news I had ever received, there was a stillness underneath the grief that I could not have manufactured — and I knew it had been given to me."
@@ -958,6 +1252,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to be the calmest person in the room — not from denial or distance, but from a deep rootedness in who God is?
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the anxious" — defaulting to worry as a first response — still live in my body, even on an ordinary day? (Often a fast heartbeat, shallow breath, a tight stomach.)
+>
+> Where does the felt sense above — settled, at peace with God — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been on alert, now that peace is present with it — not after it?
 
 **Today I Will:**
 > In one moment of tension or uncertainty today, exhale and choose peace — speaking it to myself and releasing it into the situation.
@@ -983,6 +1284,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 >
 > "Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock." — Matthew 7:24-25
 
+**Covenant Ground:**
+> - **Text:** Col 2:6-7; Matt 7:24-25 (ESV).
+> - **Covenant:** Union with Christ.
+> - **Mechanism:** Continuing faith.
+> - **In Christ:** "Rooted and built up in him."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Col 2:6-7 is an exhortation. Storms hit both houses; the difference is hearing and doing (Matt 7:24-27). It does not promise that storms deepen roots (Matt 13:20-21).
+
 **My Evidence:**
 > Under long term narc abuse, tempted to dissolve the marriage, I stood strong in my faithful commitment to Christ. Calling upon Him in anticipation of His handywork as resolve, not taking the situation in my own hands. 
 > *(Write one sentence — a season of pressure, loss, or uncertainty that you did not collapse under — and what held you.)*
@@ -997,6 +1306,13 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **The Felt Sense:**
 > What does it feel like to face disruption knowing that nothing can uproot what God has planted?  I feel STRONG, WISE, TENATIOUS, CONNECTED TO CHRIST, LIKE CHRIST, IMMOVABLE, MANLY, 
+
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the unstable" — blown about by circumstances, relationships, or emotions — still live in my body, even on an ordinary day? (Often restless legs, an uneasy balance, a sense of ground not holding.)
+>
+> Where does the felt sense above — planted, established — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been unsteady, now that being rooted in Christ is present with it — not after it?
 
 **Today I Will:**
 > In one area of uncertainty today, plant my feet in what I know is true about God — and refuse to be moved by what I cannot yet see.
@@ -1019,6 +1335,16 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Anchor Verse:**
 > "...who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God." — 2 Corinthians 1:4
+>
+> "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." — 2 Corinthians 4:7
+
+**Covenant Ground:**
+> - **Text:** 2 Cor 1:4; 2 Cor 4:7 (ESV).
+> - **Covenant:** None. This is a vocational declaration, not a covenant-identity claim.
+> - **Mechanism:** Comfort passed on; treasure in jars of clay.
+> - **In Christ:** Comforted by God.
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** The verse supports "comforted so that we may comfort." The call to coach rests on gifting, discernment, and others' confirmation (Human Witness), not on this verse. Unfinished places are access points only when named and brought to supervision.
 
 **My Evidence:**
 > *(Write one sentence — a moment in a coaching conversation or exercise when something moved in the other person that you know you didn't manufacture on your own.)*
@@ -1031,19 +1357,22 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> My unfinished places are not liabilities — they are access points. The deeper my own journey into healing, the deeper I can go with a client. My personal formation work is not separate from my coaching work — it *is* my coaching work. God uses broken vessels precisely because they don't take credit for the wine.
+> My unfinished places are not liabilities — they are access points. The deeper my own journey into healing, the deeper I can go with a client. My personal formation work is not separate from my coaching work — it *is* my coaching work. God uses broken vessels precisely because they don't take credit for the wine (2 Cor 4:7). My unfinished places are access points when I have named them and brought them to supervision or a trusted person. Left unattended, they can cost a client.
 
 **The Felt Sense:**
 > What does it feel like to stop performing competence and instead offer presence — to coach from honest, grounded dependency on the Holy Spirit rather than from "I have this handled"?
 >
 > A:
 
+**Holding Both — Where the Old Self Still Lives**
+> Where does "the performance-coach" — needing to appear polished and resolved before I am credible — still live in my body, even on an ordinary day? (Often a straightened posture, a rehearsed face, a held breath before a session.)
+>
+> Where does the felt sense above — present, honest, unfinished and held — land?
+>
+> One hand on each place. Hold both for a moment before *Today I Will*. What happens at the place that's been performing, now that honest presence is present with it — not after it?
+
 **Today I Will:**
 > Do one coaching exercise fully — without mental commentary about whether I'm qualified or a fraud. Show up for it the way I'd invite a client to show up: present, curious, and trusting the process to a God who is in it with me.
-
----
-
-> *"You did not choose me, but I chose you and appointed you so that you might go and bear fruit — fruit that will last."* — John 15:16
 
 ---
 
@@ -1066,6 +1395,14 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 **Anchor Verse:**
 > "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God." — Ephesians 2:19
 
+**Covenant Ground:**
+> - **Text:** Eph 2:19 (with 2:12-13) (ESV).
+> - **Covenant:** Gentiles, once "strangers to the covenants of promise," brought near by Christ's blood into God's household.
+> - **Mechanism:** Union with Christ; adoption.
+> - **In Christ:** "Brought near by the blood of Christ."
+> - **Mediation:** New Testament text; none needed.
+> - **Limit:** Belonging is received through the household, not carried as a private possession. It does not promise every human welcome will feel the same.
+
 **My Evidence:**
 > *(Write one sentence — a moment when you were sought out, welcomed, or missed — someone acting as though your presence mattered, not as though it were tolerated.)*
 
@@ -1074,7 +1411,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I do not enter rooms as a cost to be absorbed. I was known and formed on purpose, before I could earn a place anywhere. I am a member of the household of God — a fellow citizen, not a guest tolerated at the margins. Where I show up, I bring belonging with me, not because I have proven myself, but because I was named and wanted before I ever arrived.
+> I do not enter rooms as a cost to be absorbed. I was known and formed on purpose, before I could earn a place anywhere. I am a member of the household of God — a fellow citizen, not a guest tolerated at the margins. Where I show up, I carry the welcome of the household I belong to (Eph 2:19), not because I have proven myself, but because I was named and wanted before I ever arrived.
 
 **The Felt Sense:**
 > What does it feel like to enter a room, a conversation, or a request without pre-apologizing for existing — trusting that you are wanted, not merely permitted?
@@ -1088,6 +1425,8 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **Today I Will:**
 > Enter one room, conversation, or request today without pre-apologizing for existing — and notice what it's like to let myself be wanted rather than merely tolerated.
+
+> *"You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide."* — John 15:16
 
 ---
 
