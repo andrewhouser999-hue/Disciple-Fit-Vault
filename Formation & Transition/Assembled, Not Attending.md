@@ -102,7 +102,7 @@ The full *allēlōn* corpus (the 40+ "one another" commands catalogued in this r
 
 ### *Sympatheia* must be active — the body's felt-with design
 
-> *"...if one member suffers, all suffer together; if one member is honored, all are honored together."* (1 Corinthians 12:26, ESV)
+> *"...if one member suffers, all suffer together; if one member is honored, all rejoice together."* (1 Corinthians 12:26, ESV)
 
 > [!note] Language Note — *sympathei* (συμπάσχει) and its register
 > *Sympathei* — from *syn* (with) + *paschō* (to be affected, to undergo). In classical Greek and Hellenistic medicine, *sympatheia* described the structural interrelatedness of parts in an organism — the way a disease in one organ is registered throughout the body, the way pain in one limb produces a systemic response. Galen used it for how organs respond to each other's states. The Stoics used it for cosmic interconnection. It is **not primarily an emotional word** — it is a structural word about how a living system is constituted.

@@ -1,6 +1,6 @@
 ---
 created: 2026-10-20
-basis: "[[Covenant Identity Coaching — Practice Definition]] (governing definition, positional identity vs. formation, five-layer mechanism); [[Covenant Identity Coaching — Theory of Change]] (eight-node chain); [[Covenant Identity — Integration Rationale]] (the two admission tests and the exclusions for psychology); [[Covenant Identity — Biblical Foundations Index]] (design-to-Scripture map and status flags); [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (four conditions); [[Covenant Identity — The Interior Life as Telos]] (nine qualities); [[Covenant Identity Coaching — Peer Practitioner Briefing]] (Scripture-outward order of construction); [[Covenant Identity — Identity-Before-Behavior Research Foundation]]; [[The Inner Man — Evidence & Argument Core]] (the three-layer pattern this document follows); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Disciple Fit — Marketing Charter]], [[Sunday-Monday Christian]], [[Wilderness Christian]], [[Client Problem & Cost Language]], [[Branding & Core Competency]] (reader, voice, guardrails); [[Covenant Identity Coaching — Coaching Agreement]] and [[Covenant Identity Coaching — Quick Launch Plan]] (terms). New external verification pass 2026-10-20: most citations, and all quoted ESV texts not already transcribed in the vault, checked against indexed or primary sources; results and the unverified remainder logged in Part II §B and §I.4. Built 2026-10-20 at Andrew's request for a comprehensive description of CIC's Scripture-first, evidence-informed design that smaller pieces can draw from. Updated 2026-10-20 (same day): reader set to Wilderness-first per Andrew's decision; his account of how faith is built recorded verbatim in Part I §11; decisions 1 to 6 recorded in Part II §I.1."
+basis: "[[Covenant Identity Coaching — Practice Definition]] (governing definition, positional identity vs. formation, five-layer mechanism); [[Covenant Identity Coaching — Theory of Change]] (eight-node chain); [[Covenant Identity — Integration Rationale]] (the two admission tests and the exclusions for psychology); [[Covenant Identity — Biblical Foundations Index]] (design-to-Scripture map and status flags); [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (four conditions); [[Covenant Identity — The Interior Life as Telos]] (nine qualities); [[Covenant Identity Coaching — Peer Practitioner Briefing]] (Scripture-outward order of construction); [[Covenant Identity — Identity-Before-Behavior Research Foundation]]; [[The Inner Man — Evidence & Argument Core]] (the three-layer pattern this document follows); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Disciple Fit — Marketing Charter]], [[Sunday-Monday Christian]], [[Wilderness Christian]], [[Client Problem & Cost Language]], [[Branding & Core Competency]] (reader, voice, guardrails); [[Covenant Identity Coaching — Coaching Agreement]] and [[Covenant Identity Coaching — Quick Launch Plan]] (terms). New external verification pass 2026-10-20: most citations, and all quoted ESV texts not already transcribed in the vault, checked against indexed or primary sources; results and the unverified remainder logged in Part II §B and §I.4. Built 2026-10-20 at Andrew's request for a comprehensive description of CIC's Scripture-first, evidence-informed design that smaller pieces can draw from. Updated 2026-10-20 (same day): reader set to Wilderness-first per Andrew's decision; his account of how faith is built recorded verbatim in Part I §11; decisions 1 to 6 recorded in Part II §I.1. Updated 2026-10-20 (later that day): the /bible vetting applied to Part I and Part II, with the way of reading worded as 'its own setting and the whole of Scripture, read in the light of Christ'; the six vault corrections in Part II §B applied to the files they name."
 tags:
   - coaching-business
   - value-case
@@ -53,8 +53,8 @@ Covenant Identity Coaching is built on a Scripture-governed account of why a sin
 - [[#PART I — THE VALUE CASE|Part I — The Value Case (read straight through)]]
 - [[#PART II — THE APPARATUS|Part II — The Apparatus]]
   - A. Evidence tags and how to speak each
-  - B. Evidence register (verified 2026-10-20) and corrections to carry back
-  - C. Design cards D1–D14: Scripture first, evidence second
+  - B. Evidence register (verified 2026-10-20) and the corrections applied
+  - C. Design cards D1–D15: Scripture first, evidence second
   - D. The claims ladder
   - E. Language bank, including fresh formulations
   - F. Adaptation guide
@@ -102,7 +102,7 @@ Scripture names this gap. James describes a person who hears the Word and does n
 
 Jesus quotes Isaiah about a people who honor God with their lips while their heart is far away (Matthew 15:8): *"This people honors me with their lips, but their heart is far from me"*. Paul writes the divided experience in the first person: *"For I do not understand my own actions. For I do not do what I want, but I do the very thing I hate"* (Romans 7:15).
 
-Researchers have measured the same gap from outside the church. The REVEAL study of thirty congregations, beginning with Willow Creek, found that increased involvement in church activities did not predict long-term growth in love for God and others. George Barna's worldview research, now published through Arizona Christian University's Cultural Research Center, finds that a single-digit share of American adults hold what it calls a biblical worldview. It defines that as belief and consistent practice together (6% in 2021). These are population snapshots. They show that the gap exists. They do not show what closes it.
+Researchers have measured the same gap from outside the church. The REVEAL study of thirty congregations, beginning with Willow Creek, found that increased involvement in church activities did not predict long-term growth in love for God and others. George Barna's worldview research, now published through Arizona Christian University's Cultural Research Center, finds that a single-digit share of American adults hold what it calls a biblical worldview. It defines that as belief and consistent practice together (6% in 2021 and 4% in 2023). These are population snapshots. They show that the gap exists. They do not show what closes it.
 
 Nothing is missing from who you are in Christ. That is complete. Scripture states it in the past tense:
 
@@ -148,11 +148,15 @@ Needing help here is not weakness. It is one of the ways God has ordinarily work
 
 A contribution that passes neither test is set aside, however useful it is clinically. The design names what it set aside. It does not adopt neural integration as the definition of flourishing. It does not treat shame as the root of identity. It does not accept a self that is whole by nature. It re-grounds that idea in the new self in Christ. It does not take over a directive counseling posture. The position behind this is what Eric Johnson calls Christian psychology: psychology developed from within Christian commitments, not secular psychology blended with Christian content. [[Covenant Identity — Integration Rationale]] holds the full record.
 
-**Why this is not a compromise.** Scripture models the procedure. Paul cites a Cretan's own observation about Cretans and says of it, *"This testimony is true"* (Titus 1:13). He commands, *"but test everything; hold fast what is good"* (1 Thessalonians 5:21). He also warns:
+**Why this is not a compromise.** Scripture does not hand down a procedure for judging psychology. It does show a pattern, and the design follows the pattern. Paul cites a Cretan's own observation about Cretans and says of it, *"This testimony is true"* (Titus 1:13). An accurate observation does not have to come from a believer to be true. Paul also warns about capture:
 
 > "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ." (Colossians 2:8)
 
-Proverbs adds that *"It is the glory of God to conceal things, but the glory of kings is to search things out"* (Proverbs 25:2). The two tests try to do all four things at once. They test. They hold fast what is good. They refuse capture. They keep searching.
+That warning was written about a specific teaching at Colossae, not about research in general. It shows what the danger looks like: a system that takes the place of Christ. Paul's command to *"test everything; hold fast what is good"* (1 Thessalonians 5:21) comes in a passage about prophecies, so applying it to research is an analogy. Proverbs gives the searching its own warrant: *"It is the glory of God to conceal things, but the glory of kings is to search things out"* (Proverbs 25:2).
+
+One ground for looking closely at people is that people are made in God's image: *"So God created man in his own image, in the image of God he created him; male and female he created them"* (Genesis 1:27). Careful observation of persons is observation of what God made. It is still observation, and Scripture, not the observation, decides what it means.
+
+The two tests are built to do four things at once. They test. They hold fast what is good. They refuse capture. They keep searching. That is a pattern from Scripture, not a command in it.
 
 **What "never contradicting" means in practice.** When research and Scripture appear to disagree, Scripture governs. The research claim is dropped or held loosely. When Scripture is silent, as it is about how memory is stored, research may describe and may not prescribe. This is a procedure. It is not a hope that the two will always agree.
 
@@ -184,15 +188,15 @@ And: *"I will put my law within them, and I will write it on their hearts"* (Jer
 
 **Claim 3. Hearing is not the same as living from.**
 
-Scripture treats the gap between knowing and living as a category of its own. James calls it self-deception (1:22–25). Hebrews explains why a message can fail to benefit the people who hear it:
+Scripture treats the gap between knowing and living as a category of its own. James calls it self-deception (1:22–25). Jesus tells of a sower whose seed lands in different soils. Of the good soil He says:
 
-> "For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened." (Hebrews 4:2)
+> "As for what was sown on good soil, this is the one who hears the word and understands it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty." (Matthew 13:23)
 
-Paul commends the Thessalonians because they did more than hear:
+Hearing is where it starts. Understanding and fruit are where it is meant to arrive. Paul commends the Thessalonians because the word they heard did its work in them:
 
 > "And we also thank God constantly for this, that when you received the word of God, which you heard from us, you accepted it not as the word of men but as what it really is, the word of God, which is at work in you believers." (1 Thessalonians 2:13)
 
-"Received" and "accepted" translate two different Greek verbs. The first is about taking in what was heard. The second is about welcoming it. *(Mapping this to the practice's registration-and-reception distinction is a design judgment, and both Hebrews 4:2 and this verse are new candidate anchors still to be vetted. See Part II §I.)* What Scripture supplies is the phenomenon. It does not supply the mechanism. The mechanism is where research enters (§8).
+Paul's contrast in that verse is between a human message and God's. His point is that the word of God is at work in those who believe. What Scripture supplies is the phenomenon: a word can be heard and still bear no fruit, and a word received as God's does work. It does not supply the mechanism for the difference. The mechanism is where research enters (§8). *(The practice's own distinction between registration and reception is a design judgment. It is not drawn from the two Greek verbs behind "received" and "accepted" in this verse.)*
 
 **Claim 4. Change is the Spirit's work, received in a posture Scripture names.**
 
@@ -247,19 +251,31 @@ Underneath the value question there may be another one: can I trust this? For a 
 
 **Every step can be checked against your own Bible.** The Bereans *"received the word with all eagerness, examining the Scriptures daily to see if these things were so"* (Acts 17:11). The practice invites that. Part II §C lists the Scripture behind each step and marks where the biblical case is still thin. The standard is that a step with no biblical case should go.
 
-**Faith grows by the Word, and Scripture says how.**
+**How faith is built: the Word grounded in its whole witness, and the Spirit's quickening.**
+
+Scripture speaks of faith being built up, and it names the Word as one of the means. Paul commends the Ephesian elders *"to God and to the word of his grace, which is able to build you up"* (Acts 20:32). He tells the Colossians to walk in Christ, *"rooted and built up in him and established in the faith, just as you were taught"* (Colossians 2:6–7). Jude tells believers to be *"building yourselves up in your most holy faith and praying in the Holy Spirit"* (Jude 20).
+
+**A truth understood in its own setting and in the whole of Scripture.** The Bible does not treat understanding as optional. *"The unfolding of your words gives light; it imparts understanding to the simple"* (Psalm 119:130). When the Law was read to the people in Jerusalem, *"they gave the sense, so that the people understood the reading"* (Nehemiah 8:8). On the Emmaus road the risen Jesus did this with all the Scriptures: *"beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself"* (Luke 24:27). That is the frame the practice uses. It asks what a text means in its own setting and in the whole of Scripture, read in the light of Christ, and it teaches the truth from there. Evangelical interpretation widely shares this way of reading, and Scripture's own practice points toward it. Scripture does not state it as a rule in so many words.
+
+**Hearing is where faith starts. Understanding and doing are where it is meant to go.** Jesus closes the Sermon on the Mount with two builders. The one who *"hears these words of mine and does them"* is *"like a wise man who built his house on the rock"* (Matthew 7:24). The parable contrasts doing with not doing. Elsewhere He describes the good soil as the one who *"hears the word and understands it"* and bears fruit (Matthew 13:23). Paul prays that believers would be *"filled with the knowledge of his will in all spiritual wisdom and understanding, so as to walk in a manner worthy of the Lord"* (Colossians 1:9–10). Understanding is meant to carry into a life.
+
+**The Spirit's quickening.** The Spirit has a part in how the Word is received. Paul says believers have received *"the Spirit who is from God, that we might understand the things freely given us by God"* (1 Corinthians 2:12). He prays that believers would have *"the Spirit of wisdom and of revelation in the knowledge of him, having the eyes of your hearts enlightened"* (Ephesians 1:17–18). The psalmist prays, *"give me life according to your word"* (Psalm 119:25). After the Emmaus road the two said, *"Did not our hearts burn within us while he talked to us on the road, while he opened to us the Scriptures?"* (Luke 24:32). Later that day Jesus *"opened their minds to understand the Scriptures"* (24:45). Luke uses one verb, *dianoigō*, for both of those and for the opening of their eyes (24:31). This is illumination: the Spirit enables a person to understand and welcome what Scripture already says. It adds no new revelation. Scripture also gives the test for anything claimed to be from the Spirit. *"Test everything; hold fast what is good"* (1 Thessalonians 5:21) is written in a passage about prophecies, and it speaks directly to testing what is offered as the Spirit's word. A felt impression is weighed against what Scripture has already said.
+
+**Together or apart.** Faith can be built by understanding a truth in the whole witness of Scripture. It can be built by the Spirit's quickening of a Scripture to a person's spirit, felt in the soul. It can be built by either one alone or by both together. The practice serves both. It produces neither. A coach can help a person see what a text means in its own setting and in the whole of Scripture. A coach cannot quicken it and does not try. *(Andrew's own account, from which this is drawn, is in §11.)*
+
+**Where Romans 10:17 fits.**
 
 > "So faith comes from hearing, and hearing through the word of Christ." (Romans 10:17)
 
-In its own context that sentence is about the gospel and saving faith. The practice therefore does not rest a believer's growth on that verse alone. It rests it on the texts that speak to believers directly. Paul asks Christians whether the Spirit's continuing supply comes *"by works of the law, or by hearing with faith"* (Galatians 3:5). He tells the Thessalonians that the word of God *"is at work in you believers"* (1 Thessalonians 2:13). Peter says God's promises are the means by which *"you may become partakers of the divine nature"* (2 Peter 1:4).
+In its own context that sentence is about the gospel proclaimed and the faith that saves (Romans 10:8–17). The practice therefore does not rest a believer's ongoing growth on that verse. It rests it on texts that speak to believers directly. The word of God *"is at work in you believers"* (1 Thessalonians 2:13). It *"is able to build you up"* (Acts 20:32). God's promises are the means by which *"you may become partakers of the divine nature"* (2 Peter 1:4).
 
 **Faith holds the hard fact and the promise together.**
 
 > "He did not weaken in faith when he considered his own body, which was as good as dead (since he was about a hundred years old), or when he considered the barrenness of Sarah's womb. No unbelief made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God, fully convinced that God was able to do what he had promised." (Romans 4:19–21)
 
-Abraham did not deny the reality of his body. He refused to let it have the last word. The work follows the same pattern. It does not ask you to deny what the old story says. It brings what God has said to that exact place and lets the two meet. *(This is a candidate anchor for the practice's "felt juxtaposition" step. It is a pattern, not a proof text. See Part II §I.)*
+Abraham looked at the facts. He did not deny the reality of his body. He refused to let it have the last word. Genesis shows that the path was not tidy. When God told him that Sarah would bear a son, *"Abraham fell on his face and laughed and said to himself, 'Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?'"* (Genesis 17:17). Faith in this account is not closing one's eyes to what is real. The work follows the same pattern. It does not ask you to deny what the old story says. It brings what God has said to that exact place and lets the two meet. *(This is a pattern, not a proof text. Many manuscripts, and the King James Version, read "he considered not his own body now dead." The ESV follows other early manuscripts that lack the "not," and this document follows the ESV. That the meeting of the two is how change happens is the design's judgment, not the text's.)*
 
-**"Effective" is a New Testament word for God's work.** The Greek word family behind "effective" and "at work" (*energeō*) describes real operation: something doing actual work. In the passages that matter here, the one at work is God, His Word, or faith acting through love. The word of God *"is at work in you believers"* (1 Thessalonians 2:13). In Philippians, *"it is God who works in you"* (2:13). Faith itself is *"working through love"* (Galatians 5:6). Paul prays *"that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of Christ"* (Philemon 6). Covenant Identity Coaching takes that vocabulary at face value and borrows its humility. The effectiveness belongs to the Word and the Spirit. The practice exists to remove what has stood in the Word's way. That may be a belief that was never named, a grief that was never felt, or a truth that was heard many times and never received. *(The King James Version renders several of these passages with "effectual": Philemon 6, 1 Thessalonians 2:13, Ephesians 3:7, and James 5:16. Vet the vocabulary observation before public use.)*
+**"Effective" is a New Testament word for God's work.** The Greek word family behind "effective" and "at work" (*energeō*) describes real operation: something doing actual work. In the passages that matter here, the one at work is God, His Word, or faith acting through love. The word of God *"is at work in you believers"* (1 Thessalonians 2:13). In Philippians, *"it is God who works in you"* (2:13). Paul says of his own toil that he struggles *"with all his energy that he powerfully works within me"* (Colossians 1:29). The word of God is *"living and active"* (Hebrews 4:12). Faith itself is *"working through love"* (Galatians 5:6). Covenant Identity Coaching takes that vocabulary at face value and borrows its humility. The effectiveness belongs to the Word and the Spirit. The practice exists to remove what has stood in the Word's way. That may be a belief that was never named, a grief that was never felt, or a truth that was heard many times and never received. *(The same Greek family also describes sin, death, and evil powers at work (Romans 7:5; 2 Corinthians 4:12; Ephesians 2:2; 2 Thessalonians 2:7). The claim here is about the passages cited, not about the word itself. The King James Version renders 1 Thessalonians 2:13, Ephesians 3:7, and James 5:16 with "effectual." It does so at Philemon 6 as well. This document leaves Philemon 6 out because its meaning is disputed.)*
 
 Research does not prove any of this. It explains why the order of the work is wise. A truth spoken before the belief it addresses is felt tends to run alongside that belief instead of reaching it. §8 states how strong that account is.
 
@@ -364,7 +380,7 @@ It carries no outcome data. The practice is new. Nothing in this document is off
 
 > Learning theology builds faith. Learning scriptural truth in a way that is grounded in the fabric of Scripture, resulting in knowing the why and what behind the specific truth, resulted in a building up of my faith, metaphorically on a rock rather than on sand. Learning on sand may be akin to cognitively taking in Scripture as a data point only. Also, at times the Spirit of God has quickened a specific Scripture or section of Scripture to my spirit, felt in my soul. This too is a building up of faith. In conclusion, faith is built by the Spirit of God and/or on a network of biblical truth that gives light to a specific truth as intended by the original author with an original intended meaning, clearly understood as a part of that foundational network of biblical truth.
 
-*(The /bible vetting of the anchors behind this account was run on 2026-10-20. Its findings and recommended wording changes are with Andrew and are not yet applied here. See §I.2.)* The personal story that completes the "integrated testimony" trust-builder in the Marketing Charter is in [[Covenant Identity Coaching — Quick Launch Plan]] and remains his to tell.
+*(The /bible vetting of the anchors behind this account was run on 2026-10-20 and applied to Part I §4, §5, and §7. Two notes for authors. His image of rock and sand is his own application: the parable of the two builders contrasts hearing and doing, and the texts that carry understanding are Matthew 13:23 and Colossians 1:9–10 and 2:2–3. His phrase "as intended by the original author" appears in §7 as "in its own setting and in the whole of Scripture, read in the light of Christ," the wording he chose. See Part II §D for the cautions that go with "quickened.")* The personal story that completes the "integrated testimony" trust-builder in the Marketing Charter is in [[Covenant Identity Coaching — Quick Launch Plan]] and remains his to tell.
 
 ### 12. A way to decide
 
@@ -413,7 +429,7 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 | # | Source | What it shows | Tag | Say it this way, and where it stops |
 |---|---|---|---|---|
 | 1 | Willow Creek Association, *REVEAL* (2007); reported in *Christian Century* (Jan 2008) | In 30 congregations, involvement in church activities did not predict or drive long-term growth in love for God and others. | [E] | "A large study of 30 congregations found..." It measures church programs, not coaching or any one-to-one help. Willow Creek said it was not abandoning programs. |
-| 2 | George Barna and the Arizona Christian University Cultural Research Center, American Worldview Inventory | A single-digit share of U.S. adults hold a "biblical worldview" as the researchers define it, belief plus consistent practice: 6% in 2021, lower in later waves. | [M] | "By Barna's own definition, about one in sixteen (2021)." The definition is the researchers' own, the figures shift by wave, and the source is advocacy-adjacent. Cite year and definition. Never cite it as evidence that CIC works. |
+| 2 | George Barna and the Arizona Christian University Cultural Research Center, American Worldview Inventory | A single-digit share of U.S. adults hold a "biblical worldview" as the researchers define it: overall alignment with a set of biblical beliefs and behaviors. 6% in the 2020–2021 surveys, 4% in 2023 and 2026. Among self-identified Christians, 9% (2021) and 6% (2023). | [M] | "By the researchers' own definition, about 6 in 100 adults in 2021 and 4 in 100 in 2023." The definition is the researchers' own, the figures shift by wave, and the source is advocacy-adjacent. It measures distance from their standard, not each person's own gap between belief and conduct. Cite year and definition. Never cite it as evidence that CIC works. The 2004 Barna article "Faith Has a Limited Effect On Most People's Behavior" is a separate report with no worldview percentage. |
 | 3 | Kahneman (2011); Squire (1987); Schacter (1987); LeDoux (1996) | Fast, automatic processing and implicit memory are distinct from deliberate reasoning and explicit memory. | [E] | "Two systems learn and update differently." General cognitive science. The bridge to a believer's felt sense of God is this model's synthesis [D]. |
 | 4 | Swann (self-verification theory; 1980s to 2010s) | People seek confirmation of existing self-views, including negative ones. | [E] | "People tend to prefer feedback that fits how they already see themselves." The motive is debated. A 2021 study argues that feedback credibility explains much of the effect. |
 | 5 | Kegan and Lahey, *Immunity to Change* (2009) | Behind many failed changes is a competing commitment that protects a "big assumption." | [T] | "One well-regarded account." Case-validated, with few controlled trials. |
@@ -424,7 +440,7 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 | 10 | Schiller et al. (2010), *Nature*; Chalkia et al. (2020), *Cortex* 129:496-509 and 510-525 | The 2010 study reported that behavioral reactivation-extinction prevents the return of fear. A verification report did not confirm it, and a registered replication found no benefit. | [M] | **Do not cite Schiller 2010 as settled support.** See correction 1 below. |
 | 11 | Elsey, Van Ast and Kindt (2018), *Psychological Bulletin* 144(8):797-848 | Many results are consistent with human reconsolidation. There are also inconsistent findings and alternative explanations. Reconsolidation cannot be conclusively inferred. | [M] | "A leading hypothesis, actively debated." |
 | 12 | Lane, Ryan, Nadel and Greenberg (2015), *Behavioral and Brain Sciences* 38:1-19 | Proposes that psychotherapies change people by updating emotional memories: reactivation, new emotional experience, reinforcement by practice. | [T] | A theory with peer commentary, not a test. CIC's Nodes 5 to 7 parallel it. |
-| 13 | Bowlby (1969); Ainsworth et al. (1978); van IJzendoorn (1995), *Psychological Bulletin* 117(3):387-403 | Adult attachment representations predict infant attachment: r = .47 (18 studies, N = 854). Later estimates are smaller, about r = .31. | [E] | "Early relationships shape what people expect." Do not use the vault's "75%" figure. It could not be verified. |
+| 13 | Bowlby (1969); Ainsworth et al. (1978); van IJzendoorn (1995), *Psychological Bulletin* 117(3):387-403; Verhage et al. (2016), *Psychological Bulletin* 142(4):337-366 | Adult attachment representations are associated with infant attachment: r = .47 (18 studies, N = 854). A later and larger synthesis (95 samples, N = 4,819) found smaller associations: r = .31 between secure-autonomous parents and secure infants, r = .21 between unresolved parents and disorganized infants. | [E] | "Early relationships shape what people expect." The vault's "75%" figure could not be verified and has been replaced (correction 3). |
 | 14 | Kirkpatrick (2005); Granqvist, Mikulincer, Gewirtz and Shaver (2012), *Journal of Personality and Social Psychology* 103(5):804-818 | God-related concepts act as safe-haven and secure-base concepts in priming tasks. Attachment avoidance moderates the effect. | [M] | One Israeli Jewish sample. Priming and correlational evidence. It does not show that attachment history causes a given God-image. |
 | 15 | Flückiger, Del Re, Wampold and Horvath (2018), *Psychotherapy* 55(4) | Alliance and outcome in psychotherapy: r = .278 across 295 studies and more than 30,000 patients. | [E] | Correlation, not cause. Therapy, not coaching. |
 | 16 | Graßmann, Schölmerich and Schermuly (2020), *Human Relations* 73(1):35-58 | Coaching working alliance and client outcomes: r = .41 (27 samples, N = 3,563 coaching processes). Alliance related negatively to unintended negative effects (r = -.29). | [E] | Moderate. Says nothing about faith-based coaching. |
@@ -433,21 +449,21 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 | 19 | Gollwitzer and Sheeran (2006), *Advances in Experimental Social Psychology* 38:69-119 | If-then planning improves goal attainment: d = 0.65 across 94 independent tests. | [E] | About goal behavior, not felt beliefs. |
 | 20 | Cepeda et al. (2006), *Psychological Bulletin* 132:354-380; Roediger and Karpicke (2006), *Psychological Science* 17:249-255 | Spaced and retrieval-based practice improves retention of information. | [E] | About information learning. The extension to felt beliefs is untested [D]. Cited from standard references and not re-fetched this session. |
 | 21 | Klein, Mathieu, Gendlin and Kiesler (1969); Hendricks (2002) | Depth of experiencing in session correlates with therapy outcome. | [M] | Correlational. No randomized trials show that depth causes outcome. |
-| 22 | Prochaska and DiClemente (1983); West (2005); Riemsma et al. (2003); Bridle et al. (2005) | Stages of Change is widely used. Stage-based interventions have not been shown superior to well-designed generic ones, and the stage construct is criticized. | [M] | The vault calls it "one of the most replicated models." That overclaims. Use only the idea of self-reevaluation, if at all. |
+| 22 | Prochaska and DiClemente (1983); West (2005); Riemsma et al. (2003); Bridle et al. (2005) | Stages of Change is widely used. Stage-based interventions have not been shown superior to well-designed generic ones, and the stage construct is criticized. | [M] | The vault called it "one of the most replicated models." That overclaimed and has been corrected (correction 3). Use only the idea of self-reevaluation, if at all. |
 | 23 | Fogg (Tiny Habits) | A popular account of behavior seeding identity. | [P] | Not peer-reviewed. Use only as the honest counter-direction. |
 
-**Corrections to carry back into the vault.** These were found in this pass. No existing file was edited.
+**Corrections carried back into the vault.** These were found in this pass and applied on 2026-10-20 at Andrew's direction. Each item names the files changed.
 
-1. **Human reconsolidation evidence.** Replace "Supported (human RCT: Schiller et al., 2010)" with the mixed picture in rows 8 to 12. The phrase or its equivalent appears in [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (contributor table and Contested Ground), [[Covenant Identity — Integration Rationale]] (source log), [[Covenant Identity Coaching — Peer Practitioner Briefing]] §4, [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]] §3, and [[The Inner Man — Evidence & Argument Core]] (Layer 3 table). A psychologist will find the non-replication quickly. The Methodology review is the highest-stakes copy because its reader is a clinician.
-2. **Granqvist citation.** [[The Inner Man — Evidence & Argument Core]] Layer 3 lists a 2012 Granqvist paper in *Personality and Social Psychology Review*. The paper is in *Journal of Personality and Social Psychology* 103(5):804-818. It reports priming experiments. It does not report the finding the row attributes to it, that securely attached children of religious parents tend to replicate parental God-images. Re-source that row.
-3. **Attachment and identity figures.** [[Covenant Identity — Identity-Before-Behavior Research Foundation]] says the Adult Attachment Interview predicts infant classification "with 75% accuracy." That could not be verified. The 1995 meta-analysis reports r = .47, and later estimates are smaller. The same document calls Stages of Change "one of the most replicated models in behavioral medicine" (contested; see row 22). It also cites unspecified "Miller's lab" studies on identity language and recovery, and no source was found.
-4. **Barna figures.** Cite year and definition, as in row 2.
-5. **Two quotations that are not ESV.** [[Covenant Identity — The Interior Life as Telos]] quotes 1 Corinthians 12:26 as "all are honored together." The ESV reads "all rejoice together." It also quotes John 4:29 as "He told me everything I ever did." The ESV reads "Come, see a man who told me all that I ever did. Can this be the Christ?"
-6. **Romans 10:17 in the client workbook.** The Identity Installer client workbook says, "Faith comes by hearing — including hearing yourself say it. *Romans 10:17.*" That extends a verse about hearing the word of Christ to self-declaration. It is the move the 2026-09-07 scrutiny flagged, and it sits near Word-of-Faith territory. Better anchors for spoken self-address are Psalm 42/43, Psalm 103, and Lamentations 3:21-24 (see [[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]).
+1. **Human reconsolidation evidence.** Replace "Supported (human RCT: Schiller et al., 2010)" with the mixed picture in rows 8 to 12. The phrase or its equivalent appears in [[Covenant Identity — What Moves Covenant Truth from Registration to Reception]] (contributor table and Contested Ground), [[Covenant Identity — Integration Rationale]] (source log), [[Covenant Identity Coaching — Peer Practitioner Briefing]] §4, [[Covenant Identity — Methodology & Readiness Review for Clinical Consultation]] §3, and [[The Inner Man — Evidence & Argument Core]] (Layer 3 table). A psychologist will find the non-replication quickly. The Methodology review is the highest-stakes copy because its reader is a clinician. *Applied 2026-10-20* in all five, and also in [[Covenant Identity — Diagnostic Lens Transition Logic]], [[Covenant Identity — Mechanisms of Transformation — Biblical & Psychological Master Reference]], [[Covenant Identity — Terminology & Language Reference]], [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]], [[Memory Reconsolidation — Ecker & Neuroscience Basis]], and [[CIC — Evidence Case for the Model (Internal)]].
+2. **Granqvist citation.** [[The Inner Man — Evidence & Argument Core]] Layer 3 lists a 2012 Granqvist paper in *Personality and Social Psychology Review*. The paper is in *Journal of Personality and Social Psychology* 103(5):804-818. It reports priming experiments. It does not report the finding the row attributes to it, that securely attached children of religious parents tend to replicate parental God-images. Re-source that row. *Applied 2026-10-20.* The row now describes the correspondence and compensation hypotheses and the priming studies, and cites the correct journal.
+3. **Attachment and identity figures.** [[Covenant Identity — Identity-Before-Behavior Research Foundation]] says the Adult Attachment Interview predicts infant classification "with 75% accuracy." That could not be verified. The 1995 meta-analysis reports r = .47, and later estimates are smaller. The same document calls Stages of Change "one of the most replicated models in behavioral medicine" (contested; see row 22). It also cites unspecified "Miller's lab" studies on identity language and recovery, and no source was found. *Applied 2026-10-20.* The Identity-Before-Behavior document now carries the r = .47, .31, and .21 figures, a contested-stage-theory note on Prochaska, a popular-synthesis note on Fogg, and a withdrawal note on the "Miller's lab" paragraph. The same "75%" claim was also corrected in [[Covenant Identity — Author-Framework Mapping]], [[Source Library — Trusted Contributors & Frameworks]], and [[Covenant Identity — Terminology & Language Reference]].
+4. **Barna figures.** Cite year and definition, as in row 2. *Applied 2026-10-20* in [[CIC — Evidence Case for the Model (Internal)]] and [[Coaching Demand Research — Why People Hire Coaches]]. The Evidence Case had also attached the 6% figure to a 2004 Barna article that contains no worldview percentage. That article is now cited separately.
+5. **Two quotations that are not ESV.** [[Covenant Identity — The Interior Life as Telos]] quotes 1 Corinthians 12:26 as "all are honored together." The ESV reads "all rejoice together." It also quotes John 4:29 as "He told me everything I ever did." The ESV reads "Come, see a man who told me all that I ever did. Can this be the Christ?" *Applied 2026-10-20* in [[Covenant Identity — The Interior Life as Telos]] (the John 4:29 quotation in two places and the 1 Corinthians 12:26 quotation in one) and in [[Assembled, Not Attending]] (the same 1 Corinthians 12:26 quotation).
+6. **Romans 10:17 in the client workbook.** The Identity Installer client workbook says, "Faith comes by hearing — including hearing yourself say it. *Romans 10:17.*" That extends a verse about hearing the word of Christ to self-declaration. It is the move the 2026-09-07 scrutiny flagged, and it sits near Word-of-Faith territory. Better anchors for spoken self-address are Psalm 42/43, Psalm 103, and Lamentations 3:21-24 (see [[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]). *Applied 2026-10-20.* The workbook now says, "You are not speaking a truth into existence. You are bringing what God has already said before Him and before your own soul," citing Psalm 42:5 and Lamentations 3:24. The same step in [[C-Beatitudes — Framework Integration (Soils, Lie Eliminator, Identity Installer)]] was corrected. Andrew's raw Notes file was left as it is.
 
-### C. Design cards D1–D14: Scripture first, evidence second
+### C. Design cards D1–D15: Scripture first, evidence second
 
-*Each card gives the design element, what the client experiences, the Scripture behind it, the evidence behind it, where the evidence stops, its standing in [[Covenant Identity — Biblical Foundations Index]], and one plain sentence authors can use. Anchors marked "new candidate" are proposed by this document and not yet vetted.*
+*Each card gives the design element, what the client experiences, the Scripture behind it, the evidence behind it, where the evidence stops, its standing in [[Covenant Identity — Biblical Foundations Index]], and one plain sentence authors can use. Anchors proposed by this document were vetted on 2026-10-20 and carry the tag that review supports.*
 
 **D1. Identity before behavior (the covenant grammar)**
 - *Client experiences:* The work begins with who God has declared them to be, not with what they should do.
@@ -467,18 +483,18 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 
 **D3. Hearing is not the same as living from**
 - *Client experiences:* "I know it but I can't live it" is named as a real and ordinary condition, not a defect.
-- *Scripture first:* [S] James 1:22–25; Matthew 15:8; Romans 7:15–23. [S~] Hebrews 4:2 and 1 Thessalonians 2:13 (new candidates).
+- *Scripture first:* [S] James 1:22–25; Matthew 15:8; Matthew 13:19, 23; Romans 7:15–23. [S] 1 Thessalonians 2:13, for the clause that the word of God "is at work in you believers" only. Not used: Hebrews 4:2 (disputed Greek text; inside a warning passage the design leaves open; scrupulosity risk) and the "received" and "accepted" verb distinction in 1 Thessalonians 2:13 (Paul's contrast there is between a human message and God's).
 - *Evidence second:* [M] REVEAL and Barna show the gap at population scale. [E] Implicit versus explicit memory describes why it can occur.
 - *Where evidence stops:* Scripture supplies the phenomenon, not the cause. Population studies show the gap, not its cure.
-- *Standing:* Developed (Foundations Index §2; James 1:22–24 closed 2026-08-23).
+- *Standing:* Developed (Foundations Index §2; James 1:22–24 closed 2026-08-23). The verb distinction in 1 Thessalonians 2:13 is a Gap and is not used.
 - *Say it like this:* "The Bible names the gap between hearing the Word and living from it. It does not blame a lack of information."
 
 **D4. Diagnosis before declaration**
 - *Client experiences:* Precise questions, and the governing belief named in their own words before any truth is spoken to it.
-- *Scripture first:* [S] Proverbs 20:5; Psalm 139:23–24; Jeremiah 17:10; Hebrews 4:12–13. [S~] The Emmaus road: Jesus asks before He opens Scripture, and the travelers say, *"Did not our hearts burn within us while he talked to us on the road, while he opened to us the Scriptures?"* (Luke 24:32; new candidate). The woman at the well is named with precision and experiences it as being known (John 4:29).
+- *Scripture first:* [S] Proverbs 20:5; Psalm 139:23–24; Jeremiah 17:10; Hebrews 4:12–13. [S~] The Emmaus road (Luke 24:13–32): Jesus asks before He opens Scripture, and the travelers say, *"Did not our hearts burn within us while he talked to us on the road, while he opened to us the Scriptures?"* (Luke 24:32). The narrative is [S]. Using it as a coaching posture is [S~] and only partly fair. Jesus also withholds recognition, rebukes them (*"O foolish ones"*, 24:25), and teaches with authority, and the Spirit is not named in verses 13–32. It is used here for posture, not as a technique. The woman at the well is named with precision and experiences it as being known (John 4:29).
 - *Evidence second:* [T] Competing commitments (Kegan and Lahey). [E] Self-verification: vague truth gets filtered. [D] Precision creates the "hook" that truth connects to.
 - *Where evidence stops:* Precision does not change a person. The Spirit's witness does (D7).
-- *Standing:* Developed ([[Covenant Identity — What Moves Covenant Truth from Registration to Reception]]; [[Covenant Identity — Why the Heart Does Not Heal — Biblical Research]], which is Contested on hardening).
+- *Standing:* Developed ([[Covenant Identity — What Moves Covenant Truth from Registration to Reception]]; [[Covenant Identity — Why the Heart Does Not Heal — Biblical Research]], which is Contested on hardening). The Emmaus use is Developed as a pattern, not as a technique.
 - *Say it like this:* "Truth spoken to a category has nothing to land on. Truth spoken to a named belief does."
 
 **D5. The felt cost before the truth (lament)**
@@ -491,15 +507,15 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 
 **D6. Truth met at the live place**
 - *Client experiences:* What God has said is brought to the specific belief at a moment the belief is felt, so that the two meet.
-- *Scripture first:* [S] Jeremiah 31:33 and 2 Corinthians 3:3 (law written on the heart; the correspondence stated in the Integration Rationale). [S~] Romans 4:19–21 (the hard fact and the promise held together; new candidate). [S~] Psalm 73:16–17, *"until I went into the sanctuary of God; then I discerned their end"* (new candidate).
+- *Scripture first:* [S] Jeremiah 31:33 and 2 Corinthians 3:3 (law written on the heart; the correspondence stated in the Integration Rationale). [S~] Romans 4:19–21 (the hard fact and the promise held together). Use the ESV reading "considered," not the King James "considered not." Genesis 17:17 shows that Abraham's path included laughter. That the meeting of the two is how change happens is [D]. [S~] Psalm 73:16–17, *"until I went into the sanctuary of God; then I discerned their end"*: a pattern of a bitter heart reoriented in God's presence, with verse 26 as its landing (*"God is the strength of my heart and my portion forever"*). It is not a mechanism.
 - *Evidence second:* [M] Reconsolidation (Nader 2000 in animals; Kindt 2009; Elsey 2018; Chalkia 2020 non-confirmation). [T] Lane 2015. [P] Assent without reception is common clinical experience.
 - *Where evidence stops:* This is the largest evidential caution in the design. Do not present reconsolidation as a promise or as established in coaching.
-- *Standing:* Correspondence stated (Integration Rationale). No dedicated exegetical document. The vault's evidence language for this step needs correction (§B, correction 1).
+- *Standing:* Correspondence stated (Integration Rationale). No dedicated exegetical document. The vault's evidence language for this step was corrected on 2026-10-20 (§B, correction 1). Romans 4:19–21 is Developed as a pattern, with the variant noted. Psalm 73:16–17 is Assumed.
 - *Say it like this:* "Truth lands best where something is at stake. The work speaks it to the belief while the belief is felt, not while it is calm."
 
 **D7. Receptive posture and the Spirit's witness**
 - *Client experiences:* Stillness, openness, and sometimes a quiet recognition that the coach did not produce.
-- *Scripture first:* [S] Isaiah 66:2; Galatians 3:2, 5; Luke 11:9–13; 2 Corinthians 3:16–18; Romans 8:15–17.
+- *Scripture first:* [S] Isaiah 66:2; Galatians 3:2, 5; Luke 11:9–13; 2 Corinthians 3:16–18; Romans 8:15–17. The Spirit's quickening and illumination: [S] Psalm 119:18, 25; John 6:63; 1 Corinthians 2:12–14; Ephesians 1:17–18; Acts 16:14; 1 Thessalonians 1:5. [S~] John 14:26 and 16:13–15 (promises made to the apostles, extended to believers by analogy). [S~] 1 John 2:20, 27 (the anointing, written against false teachers and not against teaching). Illumination, as the design uses the word, means the Spirit enables a person to understand and welcome what Scripture already says. It adds no new revelation.
 - *Evidence second:* None by design. [M] Depth of experiencing in session correlates with outcome (Klein et al.; Hendricks).
 - *Where evidence stops:* This step cannot be produced or tested. The design names it as the step no technique produces. That is its protection against technique-ism.
 - *Standing:* Developed. Contested (whether the contrite posture is a condition God creates or a disposition to cultivate).
@@ -510,7 +526,7 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 - *Scripture first:* [S] Psalm 42:5; Psalm 103:1–2; Lamentations 3:21–24 (spoken self-address). [S] Psalm 1:2; Joshua 1:8 (meditation). [S] Galatians 5:25; Colossians 3:16. Deuteronomy 6:4–9 and 8:11–18 are partial or analogical only.
 - *Evidence second:* [E] Implementation intentions (d = 0.65). [E] Spaced retrieval for information. [D] and [T] for return over affirmation repetition.
 - *Where evidence stops:* The return-versus-rehearsal distinction is untested. Do not say "science shows repeating affirmations does not work." Guard against Word-of-Faith adjacency.
-- *Standing:* Developed ([[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]). The Romans 10:17 line in the client workbook is flagged (§B, correction 6).
+- *Standing:* Developed ([[Covenant Identity — The Biblical Pattern of Self-Declaration — Practitioner Exegetical Reference]]). The Romans 10:17 line in the client workbook was corrected on 2026-10-20 (§B, correction 6).
 - *Say it like this:* "Between sessions you return to what you received, in prayer and stillness. You do not repeat it until you believe it."
 
 **D9. The relationship as formation context**
@@ -561,6 +577,14 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 - *Standing:* The safeguards are written. The readiness gaps named on 2026-07-27 stay open until closed.
 - *Say it like this:* "If what you carry needs clinical care, that comes first, and you will be helped to find it."
 
+**D15. Truth taught in its own setting and in the whole of Scripture, and the Spirit's quickening awaited**
+- *Client experiences:* A coach who helps them see what a Scripture means where it stands, in the whole of the Bible and in the light of Christ, and who then waits. Sometimes a Scripture comes alive in a way no one arranged.
+- *Scripture first:* [S] Acts 20:32; Colossians 2:6–7; Jude 20 (the Word and faith as things that build up). [S] Psalm 119:130; Nehemiah 8:8; Luke 24:27, 44–45 (understanding given through the sense of the text, read as pointing to Christ). [S] Matthew 13:19, 23; Colossians 1:9–10; 2:2–3 (understanding that bears fruit). [S] Psalm 119:18, 25; 1 Corinthians 2:12–14; Ephesians 1:17–18; Luke 24:32, 45; Acts 16:14 (the Spirit's enabling). [S~] Matthew 7:24–27 (hearing and doing: used for the rock, not for "understanding"). [S] Acts 17:11 (testing teaching against Scripture). 1 Thessalonians 5:21 is [S] for testing what is offered as the Spirit's word and [S~] for evaluating research.
+- *Evidence second:* None cited. This is a theological account of how faith is built. The practice's own method, teaching the truth in its setting and then waiting for the Spirit, is [D].
+- *Where evidence stops:* "In its own setting and in the whole of Scripture, read in the light of Christ" is a widely shared evangelical way of reading. Scripture's own practice points toward it. Scripture does not state it as a rule. 2 Peter 1:20–21 is about the origin of prophecy, and 2 Corinthians 3:6 is about covenants. Neither is a rule for interpretation. The quickening cannot be produced, predicted, or tested, and the design offers no technique for it.
+- *Standing:* The practice is Developed. The way of reading is Contested at the edges: how far the New Testament's use of the Old reads beyond the original setting.
+- *Say it like this:* "Faith is built when a truth is understood where it stands in the whole of Scripture, and when the Spirit brings it home. The practice serves both and produces neither."
+
 ### D. The claims ladder
 
 **Say plainly.** Supported by Scripture, or by research outside CIC at [S] or [E] strength.
@@ -601,11 +625,26 @@ The value of Covenant Identity Coaching is the truth you already hold reaching t
 - "Idol," "idolatry," and "affections" vocabulary in public copy. It is internal practice language.
 - The name "Word Within."
 
+**Scripture-use cautions.** From the 2026-10-20 /bible vetting. Each is a text or a claim that overreaches if used the usual way.
+1. **Philemon 6.** The meaning of *koinōnia* ("sharing") and *epignōsis* ("full knowledge") is disputed, and so is "in us" or "in you." The King James reading, "acknowledging every good thing," lends itself to confession teaching. Do not use it.
+2. **Hebrews 4:2.** The Greek text is disputed. The ESV follows manuscripts with *synkekerasmenous* ("united by faith with those who listened"). The King James reads "not being mixed with faith in them that heard it." The verse sits inside a warning passage (3:7–4:13) and can feed scrupulosity. Do not use it in public copy.
+3. **1 Thessalonians 2:13.** Use the clause "at work in you believers." Do not build the registration and reception distinction on "received" and "accepted." Paul's contrast is between a human message and God's. The verb behind "accepted" (*dechomai*) is also the verb in 1 Corinthians 2:14 for the person who "does not accept the things of the Spirit of God."
+4. **Romans 10:17.** In context it is about the gospel proclaimed and saving faith. Do not apply it alone to a believer's growth. Never apply it to speaking something over yourself.
+5. **Matthew 7:24–27.** It contrasts hearing and doing. Do not say it teaches that understanding is the rock. Use Matthew 13:19, 23 and Colossians 1:9–10 for understanding.
+6. ***Rhēma* and *logos*.** Do not say that *rhēma* means a specific word quickened to you and *logos* means the written word. New Testament usage overlaps: *rhēma* is the gospel preached in Romans 10:8, 17 and 1 Peter 1:25. The distinction is a Word-of-Faith risk. Do not say "a word from God for you," "download," or "decree."
+7. **2 Peter 1:20–21 and 2 Corinthians 3:6.** The first is about the origin of prophecy. The second is about the old and new covenants. Neither is a rule for how to interpret.
+8. **"The original author's intended meaning."** Say "in its own setting and in the whole of Scripture, read in the light of Christ." The New Testament's own use of the Old Testament goes beyond the original setting in places (Luke 24; 1 Peter 1:10–12; Galatians 4:21–31).
+9. **1 Thessalonians 5:21, Colossians 2:8, Proverbs 25:2.** 1 Thessalonians 5:21 speaks directly to testing what is offered as the Spirit's word, and Acts 17:11 to testing teaching. For evaluating research all three are analogies at most. Colossians 2:8 was written about a specific teaching at Colossae. Its ESV wording changed from "elementary principles" (2001) to "elemental spirits" (2016).
+10. **Psalm 19 and Romans 1:19–20.** These are general revelation about God, not about people. The ground for looking at people carefully is the image of God (Genesis 1:26–27) and God's kindness to all (Matthew 5:45; Acts 14:17). Say "general revelation and the image of God," not "common grace," which is a Reformed-flavored label.
+11. **Luke 24 as a technique.** It is a pattern of posture. Jesus also rebukes and teaches with authority. Do not present it as a coaching procedure.
+12. **Galatians 3:2, 5; Galatians 5:6; James 5:16.** The Greek phrase in Galatians 3:2, 5 (*akoē pisteōs*) can mean "hearing with faith" or "the message of faith," and the ESV footnote gives "believing what you heard." The point used here, that the Spirit comes through faith and not works, holds on either reading. The voice of the verb in Galatians 5:6 and James 5:16 is debated. The *energeō* family also describes sin, death, and evil at work (Romans 7:5; 2 Corinthians 4:12; Ephesians 2:2; 2 Thessalonians 2:7).
+13. **Deuteronomy 30:14 in brand copy.** Several documents quote a shortened form as ESV (§I.3, item 6). Quote the full ESV sentence or retire the line.
+
 Existing claims in the vault that outrun this ladder are flagged in §I.3.
 
 ### E. Language bank
 
-**E1. Fresh formulations.** Each gives the stage and the best register. Adapt freely within the ladder. Items 3, 4, and 8 are built most directly on your brief.
+**E1. Fresh formulations.** Each gives the stage and the best register. Adapt freely within the ladder. Items 3, 4, and 8 are built most directly on your brief. Item 11 is built on your account of how faith is built (§11).
 
 **1. The design in two sentences** *(Stage 4; any register)*
 
@@ -619,9 +658,9 @@ Existing claims in the vault that outrun this ladder are flagged in §I.3.
 
 > Two things make this worth your trust. It is built on what God has said, so every step can be checked against your own Bible. And it is ordered by what has been observed about how people hold and change deep beliefs, so the steps meet the conditions that real change requires. The first is why it deserves your trust. The second is why it is built the way it is. Neither replaces the Holy Spirit, who does the changing.
 
-**4. The "effective" paragraph** *(Stage 4–5; theologically literate readers; vet first)*
+**4. The "effective" paragraph** *(Stage 4–5; theologically literate readers; vetted 2026-10-20)*
 
-> The New Testament's word for "effective" is the word for work that actually gets done. The word of God "is at work in you believers" (1 Thessalonians 2:13). God is the one who "works in you" (Philippians 2:13). Faith is "working through love" (Galatians 5:6). Covenant Identity Coaching takes that vocabulary at face value. The effectiveness belongs to the Word and the Spirit. The practice exists to remove what has stood in the Word's way: a belief that was never named, a grief that was never felt, a truth heard many times and never received.
+> The New Testament's word for "effective" is the word for work that actually gets done. The word of God "is at work in you believers" (1 Thessalonians 2:13) and is "living and active" (Hebrews 4:12). God is the one who "works in you" (Philippians 2:13). Faith is "working through love" (Galatians 5:6). Covenant Identity Coaching takes that vocabulary at face value. The effectiveness belongs to the Word and the Spirit. The practice exists to remove what has stood in the Word's way: a belief that was never named, a grief that was never felt, a truth heard many times and never received.
 
 **5. What you are paying for** *(Stage 5)*
 
@@ -649,6 +688,10 @@ Existing claims in the vault that outrun this ladder are flagged in §I.3.
 
 *The last two sentences are the disclosure option. Cut them only by decision, not by default.*
 
+**11. How faith is built** *(Stage 4–5; believers; any register; built on your account in §11 and the vetted texts in §7)*
+
+> Two things build faith, and Scripture names both. One is the Word itself, understood in its own setting and in the whole of Scripture, read in the light of Christ, so that a person knows why a truth is true and not only that it is written. The other is the Spirit, who opens the mind and the heart to what the Word says, and who at times brings one Scripture home so that it is felt in the soul. The first can be taught. The second can only be received. The practice serves both and produces neither.
+
 **E2. Recognition lines (Stage 2).** Use only lines already cleared in [[Covenant Identity Coaching — Quick Launch Plan]]. They remain hypothesis-level until tested against real prospect language.
 - "You know what you believe. You just can't seem to live from it."
 - "You've prayed this away more times than you can count. It keeps coming back."
@@ -664,6 +707,7 @@ Existing claims in the vault that outrun this ladder are flagged in §I.3.
 | the truth you already hold; where you actually live from | "become all you were created to be." Generic growth language, a Charter trust-killer. |
 | old story; a belief that governs you | "false self," "narcissist," "trauma" in public copy. Clinical register. |
 | received; reckon; return | "declare," "decree," "claim it," "speak it into existence." Word-of-Faith adjacency. |
+| the Spirit brought that Scripture home; made it live | "rhema," "a word from God for you," "download." Word-of-Faith adjacency, and New Testament usage does not support a *rhēma* and *logos* distinction. "Quickened" is Andrew's own word and the King James word for Psalm 119:25. Use it with a plain gloss. |
 | conditions; room for the Spirit to work | "the method heals, rewires, or reprograms." Technique-ism. |
 | companion to your church | Any wording that makes church, sermons, or pastors insufficient. |
 | evidence-informed; carefully grounded; not yet outcome-tested | "proven," "evidence-based," "research shows," applied to the whole practice. |
@@ -751,6 +795,12 @@ Some people can, for a time. The reason another person helps is the one in Jerem
 **14. "Isn't 'Scripture first' just a slogan?"**
 It would be if the record were hidden. The Biblical Foundations Index shows, for every design decision, whether the biblical case is Developed, Assumed, Contested, or a Gap. Where the case is weaker, the Index says so. That record is the answer.
 
+**15. "Isn't 'the Spirit quickened a Scripture to me' subjective? How do you test it?"**
+Scripture speaks of this work in its own language. The psalmist prays, *"give me life according to your word"* (Psalm 119:25). Paul prays that the eyes of believers' hearts would be enlightened (Ephesians 1:18). The experience is not the test of the truth. Scripture is. *"Test everything; hold fast what is good"* (1 Thessalonians 5:21) speaks directly to testing what is offered as the Spirit's word. The practice never treats a felt impression as new revelation, and it never presents one as proof that a step worked. It holds that the Spirit does not contradict what He has already said in Scripture. It does not claim to produce a quickening or to predict one.
+
+**16. "Isn't learning theology just head knowledge?"**
+It can be, and Scripture says so. A person can hear and not do (Matthew 7:26; James 1:22–25), and a person can hear without understanding (Matthew 13:19). Scripture also treats understanding as a means of growth. It asks that believers be *"filled with the knowledge of his will in all spiritual wisdom and understanding, so as to walk in a manner worthy of the Lord"* (Colossians 1:9–10). The difference is not knowledge against experience. It is a truth understood where it stands in the whole of Scripture and received, against a truth held as a data point. The practice is built on that difference. It teaches the truth in its own setting and waits for the Spirit to bring it home.
+
 ### H. What this document does not claim
 
 - It does not claim that neuroscience proves Scripture, or that Scripture predicted neuroscience.
@@ -758,7 +808,9 @@ It would be if the record were hidden. The Biblical Foundations Index shows, for
 - It does not claim that every tool was built from Scripture first. It claims that Scripture governs every design decision about identity, diagnosis, and renewal, and that the governing architecture was built outward from it.
 - It does not claim that the ten identities exhaust Scripture's language about who believers are.
 - It does not claim that any cited study measures Christian transformation as Scripture defines it.
-- It does not claim that the new candidate anchors are vetted.
+- It does not claim that the anchors in §I.2 carry more than the status the /bible vetting gave them. Some were set aside.
+- It does not claim that its way of reading Scripture, "in its own setting and in the whole of Scripture, read in the light of Christ," is commanded by a text. It claims that this is a widely shared evangelical way of reading and that Scripture's own practice points toward it.
+- It does not claim that the Spirit's quickening can be produced, scheduled, or detected by any method.
 - It does not claim that terms, pricing, or status lines are current beyond their dates.
 
 ### I. Open items, flags, and questions for Andrew
@@ -771,35 +823,43 @@ It would be if the record were hidden. The Biblical Foundations Index shows, for
 3. **The wording of "Scripture first."** Confirmed: "Scripture governs every design decision about identity, diagnosis, and renewal, and the architecture was built outward from it."
 4. **Disclosure posture.** Option (a): state plainly that the practice is new and show why each step is there.
 5. **Testimony.** His account of how faith is built is recorded in Part I §11.
-6. **/bible vetting.** Run on 2026-10-20 on the anchors in I.2 and on the texts behind his account. Findings were delivered to Andrew and are not yet applied to Part I.
+6. **/bible vetting.** Run on 2026-10-20 on the anchors in I.2 and on the texts behind his account. Findings were delivered to Andrew.
+7. **Applying the /bible verdicts.** Yes. Applied on 2026-10-20 to Part I §4, §5, §7, and §11 and to Part II. The way of reading is worded "in its own setting and in the whole of Scripture, read in the light of Christ."
+8. **Corrections.** Yes. The six corrections in §B were applied on 2026-10-20.
 
 *Still open (each with the default this document assumes):*
-7. **Price in derivatives.** *Default: terms appear on the discovery call and in the agreement, not in public essays.*
-8. **Top three venues.** *Default for the Wilderness reader: a YouTube pillar video, a "why it is built this way" web page, and a discovery-call conversation guide.*
-9. **Public vocabulary.** *Default: "old story" in public, "false identity" for practitioners.*
-10. **Voice panel.** Confirm or swap the voices in [[CIC Value Case — Authorship Prompt (Standing)]].
-11. **Applying the /bible verdicts to Part I.** *Default: not applied until Andrew decides.*
-12. **Corrections.** Apply the six corrections in §B? *Default: none applied until you say so.*
+9. **Price in derivatives.** *Default: terms appear on the discovery call and in the agreement, not in public essays.*
+10. **Top three venues.** *Default for the Wilderness reader: a YouTube pillar video, a "why it is built this way" web page, and a discovery-call conversation guide.*
+11. **Public vocabulary.** *Default: "old story" in public, "false identity" for practitioners.*
+12. **Voice panel.** Confirm or swap the voices in [[CIC Value Case — Authorship Prompt (Standing)]].
+13. **A standalone exegetical reference.** Whether to save the /bible record as a document in `06 — Practitioner Reference`. It would need Biblical Foundations Index rows and the full indexing pass. *Default: not built until Andrew decides.*
 
-**I.2 New candidate anchors proposed here (/bible vetting run 2026-10-20; verdicts delivered to Andrew; not yet applied to this document)**
-- 1 Thessalonians 2:13: "received" and "accepted" as two verbs, the registration and reception distinction. [S~]
-- Hebrews 4:2: hearing without being united by faith. [S~]
-- Romans 4:19–21: the hard fact and the promise held together, the felt juxtaposition step. [S~]
-- Psalm 73:16–17: the embittered heart meets God's presence in the sanctuary. [S~]
-- Luke 24:13–32: questions first, then Scripture opened. [S~]
-- The *energeō* word family: 1 Thessalonians 2:13; Philippians 2:13; Galatians 5:6; Colossians 1:29; Philemon 6; Hebrews 4:12. [S~]
+**I.2 Candidate anchors and the /bible verdicts (run and applied 2026-10-20)**
+- 1 Thessalonians 2:13: the clause "at work in you believers" is [S] and Developed. The "received" and "accepted" verb mapping is not used (Gap; a design judgment).
+- Hebrews 4:2: not used in public copy. [S~], weak and Contested: the Greek text is disputed and the verse sits inside a warning passage. Practitioner-only, with caution.
+- Romans 4:19–21: [S~] as a pattern. Developed, with the variant noted (ESV "considered"; King James "considered not").
+- Psalm 73:16–17: [S~] as a pattern. Assumed. Not a mechanism.
+- Luke 24:13–32: the narrative is [S]. Its use for coaching posture is [S~] and Developed as a pattern, not a technique. It holds both sources in Andrew's account: whole-Scripture exposition (24:27, 44–45) and the burning heart and opened mind (24:31–32, 45).
+- The *energeō* word family: used for 1 Thessalonians 2:13, Philippians 2:13, Galatians 5:6, Colossians 1:29, and Hebrews 4:12 [S~]. Philemon 6 is dropped: its meaning is disputed, and the King James reading lends itself to confession teaching.
+- Matthew 7:24–27 and Luke 6:47–49: [S] for hearing and doing. Not used for "understanding."
+- Psalm 119:130; Nehemiah 8:8; Luke 24:27, 44–45; Acts 8:30–31; Acts 17:11; 2 Timothy 2:15: [S] for understanding given through the sense of the text. They do not command a method of interpretation.
+- The Spirit's quickening and illumination: Psalm 119:18, 25; John 6:63; 1 Corinthians 2:12–14; Ephesians 1:17–18; Acts 16:14; 1 Thessalonians 1:5 [S]. John 14:26, 16:13–15, and 1 John 2:20, 27 [S~].
+- Romans 10:17: [S] in its own context only (the gospel proclaimed and saving faith). Not used alone for a believer's growth.
+- The warrants in §4: Titus 1:12–13 [S~]; 1 Thessalonians 5:21 [S] for testing what is offered as the Spirit's word and [S~] for research; Colossians 2:8 and Proverbs 25:2 [S~]; Acts 17:11 [S] for testing teaching; Genesis 1:26–27 [S~] as the ground for observing people. Psalm 19 and Romans 1:19–20 are about God, not people, and are not used for psychology.
 
 **I.3 Consistency flags in the vault** (flagged, not edited)
 1. **Session count.** The Engagement Onboarding Document maps four phases across sessions 1–10. The Coaching Agreement says 12 sessions. Sessions 11–12 are unmapped.
 2. **Client agenda.** The [[Scope of Practice]] and the [[Covenant Identity Coaching — Full Model Reference]] call the work client-directed. The client-facing description says the agenda "isn't yours to set from scratch." The Practice Definition governs. An ICF-trained reader or a pastor may notice the difference.
 3. **Outcome claims.** The client-facing description says the work "tends to produce change that holds." The Brand Statement says Disciple Fit "uses proven psychological methodology." With no outcome data, "built to go to the root" and "research-informed" are the defensible wordings. The [[Disciple Fit — Differentiation Document]] itself says its credibility claims "must be earned, not just asserted."
 4. **Means of grace.** The [[Covenant Identity Coaching — Full Model Reference]] calls the coach "a means of grace." Traditional lists name Scripture, prayer, the Lord's Supper, fasting, and Christian fellowship. For a skeptical Wesleyan reader the safer claim is that the practice serves those means. Part I §5 is worded that way.
+5. **"Common grace" and Romans 1:18–20 as the warrant for psychology.** [[Covenant Identity — Integration Rationale]] (the common-grace basis, and Critique 2 on it) and [[Biblical Theology & Discipleship Coaching]] (which rates "common grace" as theologically well-grounded on Romans 1:18–20 and Acts 17:28) use that label. "Common grace" is Reformed-flavored, and Romans 1:18–20 is about what can be known of God, not about people. The Integration Rationale already grounds the point in the image of God, which is the stronger warrant, and it notes that the formulation "could be refined." "General revelation and the image of God" says the same thing without the tradition marker. Flagged, not edited.
+6. **Deuteronomy 30:14 labeled ESV and shortened.** [[CIC Website — Homepage Copy]] (line 140), [[Covenant Identity Coaching — Quick Launch Plan]] (line 143), and [[Branding & Core Competency]] (lines 648 and 841) carry *"The word is very near you, in your mouth and in your heart,"* labeled ESV. The ESV reads, "But the word is very near you. It is in your mouth and in your heart, so that you can do it." The shortened form is not the ESV. "In your mouth and in your heart" is also a phrase confession teaching leans on, and the practice has already retired the name "Word Within" for that kind of adjacency. Quote the full ESV sentence or retire the line. Flagged, not edited.
 
 **I.4 What could not be verified**
-- The "75%" attachment figure.
+- The "75%" attachment figure. It could not be verified and has been replaced in the vault (§B, correction 3).
 - Captari effect sizes beyond the indexed abstract.
 - Register rows 3, 5, 6, 7, 8, 20, and 23, and the Bowlby, Ainsworth, and Kirkpatrick citations. They are cited from standard references or the vault and were not re-fetched this session. This includes the Cepeda and Roediger citations.
-- Barna figures after 2023.
+- The Barna and Cultural Research Center figures. Their own reports were not retrieved. The 2021 and 2023 figures were checked against news coverage (Christian Post, Crosswalk) and the 2026 figure against George Barna's own post.
 - The REVEAL congregation count, which comes from the *Christian Century* summary.
 
 ---
@@ -814,11 +874,11 @@ It would be if the record were hidden. The Biblical Foundations Index shows, for
 - *Three layers kept separate.* The pattern comes from [[The Inner Man — Evidence & Argument Core]]: what Scripture says, how the design applies it, and what research adds.
 - *Two readers.* Part I is written to the decision-maker. Part II is written to authors.
 - *Honesty before persuasion.* The claims ladder, the evidence register, and the "who stands behind it" placeholder exist because [[CIC — Evidence Case for the Model (Internal)]] sets the boundary: the problem is evidenced, and the mechanism is a working thesis.
-- *Candidates flagged, not folded in.* New Scripture anchors are labeled rather than silently added, the same discipline the Biblical Foundations Index uses.
-- *No edits to existing documents.* Corrections found in the verification pass are listed in §B and §I.3 for Andrew's decision.
+- *Anchors labeled, then vetted.* New Scripture anchors were labeled when proposed, the same discipline the Biblical Foundations Index uses. The /bible vetting of 2026-10-20 was then applied. Some anchors were kept as patterns, some were limited, and three were set aside: Philemon 6, Hebrews 4:2, and the two-verb mapping in 1 Thessalonians 2:13.
+- *Corrections applied at Andrew's direction.* The six corrections found in the verification pass were applied to the files they name on 2026-10-20 (§B). The consistency flags in §I.3 are listed and not edited.
 - *Dated terms.* Pricing and status lines carry their source dates.
 
-**Contested ground:** (1) Human memory-reconsolidation evidence is mixed (§B rows 8 to 12). (2) The attachment-to-God research is correlational. (3) "Scripture first" is true of the architecture and of authority, and partly retrospective for some tools. (4) The "conditions, not causes" frame sits on a live monergist and means-of-grace fault line.
+**Contested ground:** (1) Human memory-reconsolidation evidence is mixed (§B rows 8 to 12). (2) The attachment-to-God research is correlational. (3) "Scripture first" is true of the architecture and of authority, and partly retrospective for some tools. (4) The "conditions, not causes" frame sits on a live monergist and means-of-grace fault line. (5) The way of reading ("in its own setting and in the whole of Scripture, read in the light of Christ") is widely shared and not commanded by a text, and the Spirit's quickening is held without any technique for it.
 
 **Client summary:** Not client-facing. Source document for Andrew's preparation and for derivative pieces. The derivatives, not this document, are what audiences see.
 

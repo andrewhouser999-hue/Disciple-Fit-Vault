@@ -96,7 +96,7 @@ Work through these one at a time. Stop when one produces something to write:
 **What it is:** A personal declaration of your new identity — written in your own voice, in first person, present tense.
 **What to do:** Write 2–4 sentences that state what is now true about you. Use words that feel real to you. Avoid language that sounds borrowed or overly formal. This section should sound like *you* speaking about *yourself* — from truth, not from wishful thinking.
 
-**Important:** Speak this declaration out loud when you write it, and again during your daily practice. Faith comes by hearing — including hearing yourself say it. *Romans 10:17.*
+**Important:** Speak this declaration out loud when you write it, and again during your daily practice. You are not speaking a truth into existence. You are bringing what God has already said before Him and before your own soul. *Psalm 42:5; Lamentations 3:24.*
 
 ---
 

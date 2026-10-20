@@ -58,11 +58,13 @@ Already fully documented in the CIC system. See [[Covenant Identity — Sanctifi
 
 ### Transtheoretical Model — James Prochaska
 
-Prochaska's Stages of Change model (developed at the University of Rhode Island, one of the most replicated models in behavioral medicine) shows that people don't move directly from awareness to sustained action. The pre-action stages — contemplation and preparation — are primarily cognitive and identity-level: *Am I someone who could change this? Do I see myself differently in relation to this behavior?*
+Prochaska's Stages of Change model (developed at the University of Rhode Island; widely used in behavioral medicine, and contested as a stage theory — see the evidence note below) proposes that people don't move directly from awareness to sustained action. The model places contemplation and preparation before action, and its early-stage work is largely cognitive and self-evaluative: *Am I someone who could change this? Do I see myself differently in relation to this behavior?*
 
-The research finding relevant to CIC: **movement into sustained action correlates with a shift in self-perception**, not primarily with motivation, skills, or information. Clients stuck in contemplation (they know what to change, they want to change it, they still can't) are typically not lacking motivation — they are stuck at the identity level. They don't yet see themselves as someone for whom change is coherent.
+What the model supplies for CIC is narrower: **self-reevaluation** (a person's appraisal of how they think and feel about themselves in relation to the behavior) is one of the processes of change it assigns mainly to the early stages. The model does not show that a shift in self-perception outranks motivation, skills, or information. CIC's reading is a design judgment layered on top of it: a client stuck in contemplation (they know what to change, they want to change it, they still can't) may be stuck at the identity level, because they don't yet see themselves as someone for whom change is coherent.
 
-This is not a directly theological model, but the pre-action dynamics map cleanly onto the CIC diagnostic question: before any behavioral change can take root, the client must be able to hold a true identity claim about themselves. Prochaska documents the same sticking point from a behavioral science direction.
+This is not a directly theological model. Its early-stage dynamics can be read alongside the CIC diagnostic question: before any behavioral change can take root, the client must be able to hold a true identity claim about themselves. The model names a comparable early-stage task (self-reevaluation) from a behavioral science direction. It does not test the CIC claim.
+
+> *Evidence status (2026-10-20): the Transtheoretical Model is widely used but contested as a stage theory. Critics argue that the stages are arbitrary, that people do not move through them in sequence, and that stage-matched interventions have not reliably outperformed other interventions (West, 2005, *Addiction*; Riemsma et al., 2003, *BMJ*; Bridle et al., 2005, *Psychology & Health*). Cite it as a descriptive framework, not as a demonstrated causal account.*
 
 > *Not currently in the CIC system. Recommended for Reference tier.*
 
@@ -80,9 +82,11 @@ Young's schema maintenance modes (Surrender, Avoidance, Overcompensation) also e
 
 ### Identity Language as Behavioral Predictor — BJ Fogg / Addiction Recovery Research
 
-**BJ Fogg (Stanford Behavior Design Lab):** Fogg's research on habit formation identifies a specific consolidation mechanism: a small behavioral win triggers a self-perception shift ("I am the kind of person who does X"), and *that self-perception shift* is what makes the behavior durable. The behavior seeds the identity; the identity consolidates the behavior. This is the inverse entry point from CIC (Fogg starts with behavior, CIC starts with identity), but the mechanism confirms the same structural finding: identity and behavior are bound, and durable habits require an identity that supports them.
+**BJ Fogg (Stanford Behavior Design Lab):** Fogg's research on habit formation identifies a specific consolidation mechanism: a small behavioral win triggers a self-perception shift ("I am the kind of person who does X"), and *that self-perception shift* is what makes the behavior durable. The behavior seeds the identity; the identity consolidates the behavior. This is the inverse entry point from CIC (Fogg starts with behavior, CIC starts with identity), but the account points the same direction: identity and behavior are bound, and durable habits may require an identity that supports them.
 
-**Addiction recovery research:** Multiple studies from Miller's lab and others show that people who shift their identity language ("I am a non-drinker" rather than "I am an addict trying not to drink") have measurably better long-term sobriety outcomes. Identity language predicts behavioral durability beyond motivation, skills, or social support. The shift from role-identity ("I am trying not to drink") to self-concept identity ("I am not a drinker") is the operative variable.
+> *Evidence status (2026-10-20): this is a popular behavior-design account (Fogg, *Tiny Habits*, 2019), not a peer-reviewed finding. Fogg's own stated mechanism for wiring a habit is emotion at the moment of success; the identity-consolidation step described above is a popular-level synthesis, not a tested result.*
+
+**Addiction recovery research (withdrawn 2026-10-20):** This paragraph said that studies from "Miller's lab and others" showed identity language predicting long-term sobriety beyond motivation, skills, or social support. No source for that claim could be verified, and the attribution to Miller's lab could not be traced. The claim is withdrawn and should not be cited. If the point is wanted, the place to look is the literature on social identity and addiction recovery. Any finding there would need to be checked before use, and none of it tests CIC.
 
 ---
 
@@ -90,7 +94,7 @@ Young's schema maintenance modes (Surrender, Avoidance, Overcompensation) also e
 
 Bowlby's attachment theory establishes that relational behavior is governed by internal working models — identity-level schemas formed in early attachment relationships that operate automatically and below conscious awareness. A person with an avoidant internal working model does not consciously decide to keep relational distance; the model runs that behavior.
 
-Mary Main's Adult Attachment Interview research (the most replicated finding in attachment science) shows that a parent's *narrative coherence* about their own childhood — which is an identity measure, not a behavioral skill — predicts their child's attachment classification with 75% accuracy. "Earned secure attachment" (Main's term for adults who shift from insecure to secure) requires narrative identity revision. Behavioral relationship skills alone do not produce it.
+Mary Main's Adult Attachment Interview research (a long-replicated line of attachment research) shows that a parent's *narrative coherence* about their own childhood — which is an identity measure, not a behavioral skill — is associated with their child's attachment classification. The association was r = .47 across 18 studies (van IJzendoorn, 1995). A later and larger meta-analysis found smaller associations: r = .31 between secure-autonomous parents and secure infants, and r = .21 between unresolved parents and disorganized infants (Verhage et al., 2016, *Psychological Bulletin*, 142(4), 337–366). "Earned secure attachment" (Main's term for adults who shift from insecure to secure) requires narrative identity revision. Behavioral relationship skills alone do not produce it.
 
 > *Main is already cited in the CIC system in [[Covenant Identity — Author-Framework Mapping]] (Intergenerational Transmission, Mechanism 4). This document places her in the primary identity-before-behavior research thread, not only the transmission mechanism thread.*
 
@@ -110,7 +114,7 @@ The difference matters practically: CIC goes further than defusion by specifying
 
 ## Honest Nuance to Hold
 
-The evidence strongly supports the claim that **durable change requires identity alignment**. It does not unambiguously support a strictly unidirectional model (identity → behavior only). Fogg's research, for instance, shows behavior can seed identity — small wins generate identity shifts. The stronger clinical evidence (Swann, Kegan & Lahey, Young) supports the CIC sequence: for clients with deep competing commitments, shame-based self-perception, or intergenerational lie structures, behavioral-level intervention that bypasses identity fails reliably and for documented reasons.
+The evidence strongly supports the claim that **durable change requires identity alignment**. It does not unambiguously support a strictly unidirectional model (identity → behavior only). Fogg's popular behavior-design account, for instance, proposes that behavior can seed identity — small wins generating identity shifts. That proposal is not established by peer-reviewed research, but it is a reason not to treat the sequence as strictly one-directional. The stronger clinical evidence (Swann, Kegan & Lahey, Young) supports the CIC sequence: for clients with deep competing commitments, shame-based self-perception, or intergenerational lie structures, behavioral-level intervention that bypasses identity fails reliably and for documented reasons.
 
 The precision claim is this: **the deeper and more affect-laden the identity commitment, the more essential identity-level work is as the precondition**, not the supplement. The model is appropriately calibrated for the population it serves — clients who are not simply uninformed but are organized around a false identity that has been functioning as psychological structure.
 
@@ -123,9 +127,9 @@ The precision claim is this: **the deeper and more affect-laden the identity com
 | **William Swann** | Self-Verification Theory | Not in system | People actively maintain behavioral coherence with their self-concept — identity must shift or change reverts |
 | **Dan McAdams** | Narrative Identity Theory | Supporting citation (transmission + IBB Foundation) | Behavior conforms to governing life narrative — durable change requires narrative revision; Allender holds the practitioner narrative seat |
 | **Kegan & Lahey** | Immunity to Change | Fully documented | Competing commitments protect "big assumptions" (identity claims) — bypass fails reliably |
-| **James Prochaska** | Transtheoretical Model | Not in system | Pre-action stalls are identity-level; movement to sustained action requires self-perception shift |
+| **James Prochaska** | Transtheoretical Model (widely used; contested as a stage theory) | Not in system | Self-reevaluation is a named early-stage process of change; reading pre-action stalls as identity-level is a CIC design judgment, not a Prochaska finding |
 | **Jeffrey Young** | Schema Therapy | Reference Only, actively deployed | Core schemas (identity beliefs) drive behavior; surface interventions don't hold under stress |
-| **BJ Fogg** | Stanford Behavior Design Lab | Not in system | Habits consolidate when behavioral wins generate identity labels — identity is the durable mechanism |
+| **BJ Fogg** | Stanford Behavior Design Lab (popular synthesis, not peer-reviewed) | Not in system | Popular account: habits wire through emotion at the moment of success; the identity-label step is a popular-level synthesis, not a tested mechanism |
 | **Mary Main** | Adult Attachment Interview | Supporting citation (transmission) | Earned secure attachment requires narrative identity revision, not relational skill acquisition |
 | **Steven Hayes** | ACT research | Mapped as construct | Identity fusion drives behavioral rigidity; defusion (identity-level work) is prerequisite for flexibility |
 

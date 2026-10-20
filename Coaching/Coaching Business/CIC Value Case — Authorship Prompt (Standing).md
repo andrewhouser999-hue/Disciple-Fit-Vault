@@ -1,6 +1,6 @@
 ---
 created: 2026-10-20
-basis: "[[Covenant Identity Coaching — The Value Case — Design, Evidence & Argument Core]] (the source every piece draws from); [[Disciple Fit — Marketing Charter]] (governing rules, Buyer's Journey, trust-builders and trust-killers, guardrails); [[Marketing & Brand Scrutiny — Standing Audit Prompt]] (the five-dimension audit that this prompt's self-check reuses); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Scope of Practice]]; [[Branding & Core Competency]] (voice and tone rules); [[Covenant Identity Coaching — Practice Descriptions (Three Forms)]] (precedent for authoring in a named voice); the Authorship Pipeline essays (precedent: 'In the voice of ...'); [[Sunday-Monday Christian]] and [[Wilderness Christian]] (reader trust mechanics). Built 2026-10-20 at Andrew's request for a prompt that guides authorship of smaller pieces from the Value Case, with authors selected for slightly academic, empathetic, theologically literate presentation."
+basis: "[[Covenant Identity Coaching — The Value Case — Design, Evidence & Argument Core]] (the source every piece draws from); [[Disciple Fit — Marketing Charter]] (governing rules, Buyer's Journey, trust-builders and trust-killers, guardrails); [[Marketing & Brand Scrutiny — Standing Audit Prompt]] (the five-dimension audit that this prompt's self-check reuses); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Scope of Practice]]; [[Branding & Core Competency]] (voice and tone rules); [[Covenant Identity Coaching — Practice Descriptions (Three Forms)]] (precedent for authoring in a named voice); the Authorship Pipeline essays (precedent: 'In the voice of ...'); [[Sunday-Monday Christian]] and [[Wilderness Christian]] (reader trust mechanics). Built 2026-10-20 at Andrew's request for a prompt that guides authorship of smaller pieces from the Value Case, with authors selected for slightly academic, empathetic, theologically literate presentation. Updated 2026-10-20 (later that day): hard rule 19 added from the /bible vetting, and the standing-input note and the Theologian review updated to match."
 tags:
   - coaching-business
   - authorship
@@ -71,7 +71,7 @@ TESTIMONY_PROVIDED:
 
 > Learning theology builds faith. Learning scriptural truth in a way that is grounded in the fabric of Scripture, resulting in knowing the why and what behind the specific truth, resulted in a building up of my faith, metaphorically on a rock rather than on sand. Learning on sand may be akin to cognitively taking in Scripture as a data point only. Also, at times the Spirit of God has quickened a specific Scripture or section of Scripture to my spirit, felt in my soul. This too is a building up of faith. In conclusion, faith is built by the Spirit of God and/or on a network of biblical truth that gives light to a specific truth as intended by the original author with an original intended meaning, clearly understood as a part of that foundational network of biblical truth.
 
-*The /bible vetting of the anchors behind this account was run on 2026-10-20. Its recommended wording changes are with Andrew and are not yet applied here.*
+*The /bible vetting of the anchors behind this account was run and applied on 2026-10-20. Two notes. His image of rock and sand is his own application: the parable of the two builders contrasts hearing and doing, and the texts that carry understanding are in Value Case Part I §7. His phrase "as intended by the original author" is stated in the Value Case as "in its own setting and in the whole of Scripture, read in the light of Christ." Use that wording in any new sentence. Quote his own words only as given.*
 
 ---
 
@@ -85,7 +85,8 @@ You are not four people. The four reviews are:
 1. THEOLOGIAN. Is every Scripture claim accurate to the text, in ESV, with the
    right strength: [S] direct, [S~] pattern or analogy? Is every contested point
    handled as the Value Case handles it: perseverance, Israel and the Church,
-   monergism versus means of grace, and Romans 10:17's saving-faith context?
+   monergism versus means of grace, Romans 10:17's saving-faith context, and the
+   Scripture-use cautions in Part II §D?
 2. PSYCHOLOGIST. Is every research claim tagged [E], [M], [T], [P], or [D], and
    spoken with a verb no stronger than its tag? Is reconsolidation treated as a
    contested hypothesis? Is nothing said about CIC's own outcomes?
@@ -158,6 +159,19 @@ HARD RULES (a violation means start over)
     leader, or an institution. Do not assume the reader attends church. Do not
     use pastor-referral framing. Make no performance demand. Choose patience over
     urgency.
+19. Follow the Scripture-use cautions in Value Case Part II §D. Do not use
+    Philemon 6 or Hebrews 4:2. Do not build a registration and reception
+    distinction on the two verbs in 1 Thessalonians 2:13. Do not use "rhema",
+    "a word from God for you", "download", or any rhēma and logos distinction,
+    and do not treat a quickened Scripture as new revelation. Do not use
+    2 Peter 1:20-21 or 2 Corinthians 3:6 as rules for interpretation. Do not
+    use Romans 10:17 alone for a believer's growth, or for speaking something
+    over yourself. Do not say Matthew 7:24-27 teaches that understanding is the
+    rock. When you describe how Scripture is read, say "in its own setting and
+    in the whole of Scripture, read in the light of Christ", not "the original
+    author's intended meaning". When you describe the Spirit's part, say that
+    the Spirit enables a person to understand and welcome what Scripture already
+    says, and that the practice does not produce it.
 
 VOICE
 Follow the assigned blend from the Voice Panel. Voices are style models. Do not

@@ -408,7 +408,7 @@ Working harmfully in a hidden, gradual way: appearing harmless or even attractiv
 
 **Strange Situation** — Ainsworth, Blehar, Waters & Wall's (1978) laboratory procedure for classifying infant attachment pattern by observing separation and reunion behavior.
 
-**Adult Attachment Interview (AAI)** — Mary Main's (1985) narrative-based instrument assessing adult attachment pattern by the *coherence* of the telling, not its content; predicts the interviewee's child's attachment classification with roughly 75% accuracy.
+**Adult Attachment Interview (AAI)** — Mary Main's (1985) narrative-based instrument assessing adult attachment pattern by the *coherence* of the telling, not its content; is associated with the interviewee's child's attachment classification (r = .47 in a 1995 meta-analysis; smaller, r = .31 for secure-autonomous transmission, in a 2016 meta-analysis).
 
 **Earned security** — The finding (Siegel, Main, Mikulincer & Shaver) that adults who have processed and made coherent sense of a difficult attachment history can function with security despite that history, interrupting intergenerational transmission.
 
@@ -480,7 +480,9 @@ Working harmfully in a hidden, gradual way: appearing harmless or even attractiv
 
 ### Bruce Ecker (with Nader & LeDoux, Schiller et al.) — Memory Reconsolidation
 
-**Memory reconsolidation** — The finding that a reactivated memory briefly destabilizes into a labile state during which it can be genuinely rewritten, rather than merely suppressed by a competing new memory.
+**Memory reconsolidation** — The proposal, well supported in animals and contested in humans, that a reactivated memory briefly destabilizes into a labile state during which it can be genuinely rewritten, rather than merely suppressed by a competing new memory.
+
+**Evidence status (2026-10-20)** — Established in animals (Nader et al., 2000). Mixed in humans: Schiller et al. (2010) was not confirmed by a 2020 verification report and registered replication (Chalkia et al.), and a 2018 critical review (Elsey, Van Ast & Kindt) calls human reconsolidation viable but contested. CIC treats it as a working hypothesis.
 
 **Three conditions for reconsolidation** — Reactivation (the target belief must be emotionally live, not merely recalled) → Prediction error (a disconfirmation must register at the felt level, not only cognitively) → Juxtaposition (the old belief and the disconfirming experience must be held together during the labile window).
 

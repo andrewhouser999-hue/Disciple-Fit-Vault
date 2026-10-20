@@ -1,6 +1,6 @@
 ---
 created: 2026-05-22
-basis: "Research synthesis — Nader & LeDoux (2000), Schiller et al. (2010), Kindt et al. (2009), Ecker/Hulley/Hulley (2012), LeDoux (2002), Nader & Hardt (2009)"
+basis: "Research synthesis — Nader & LeDoux (2000), Schiller et al. (2010), Kindt et al. (2009), Ecker/Hulley/Hulley (2012), LeDoux (2002), Nader & Hardt (2009); evidence status revised 2026-10-20 from Chalkia et al. (2020) and Elsey, Van Ast & Kindt (2018)"
 tags:
   - practitioner-theory
   - implicit-memory
@@ -10,9 +10,14 @@ tags:
 
 # Memory Reconsolidation — Ecker & Neuroscience Basis
 
-**Purpose:** Practitioner theory reference for the neuroscience of memory reconsolidation — the mechanism by which implicit beliefs are actually changed at the synaptic level. This is the theoretical basis for why identity tools (Declaration, Lie Eliminator, Covenant Truth installation) work when they work, and why they fail when they don't.
+**Purpose:** Practitioner theory reference for the neuroscience of memory reconsolidation — the proposed mechanism by which implicit beliefs are changed at the synaptic level (established in animals, contested in humans; see the evidence status below). This is the theoretical basis offered for why identity tools (Declaration, Lie Eliminator, Covenant Truth installation) work when they work, and why they fail when they don't.
 
 **See also:** [[Insecure Attachment — Nervous System Dysregulation]], [[Attachment-Informed Coaching]], [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]], [[Covenant Identity — Integration Rationale]]
+
+---
+
+> [!warning] Evidence status (added 2026-10-20)
+> Memory reconsolidation is well established in animals and contested in humans. The animal findings (Nader, Schafe & LeDoux, 2000) hold. The human findings are mixed. Schiller et al. (2010) has not been confirmed: a verification report that re-analyzed the original data failed to confirm the reported differences in fear recovery and found that the exclusion criteria had been misreported, and a registered replication found no benefit of reactivation-extinction over regular extinction (Chalkia et al., 2020, *Cortex*, 129, 510–525 and 496–509). A critical review calls human reconsolidation viable but contested (Elsey, Van Ast & Kindt, 2018, *Psychological Bulletin*, 144(8), 797–848). Ecker's clinical translation (juxtaposition without a drug) rests mainly on clinical case material and theory. Read the claims below that a memory is "replaced," that "the original trace is gone," or that a tool "produces reconsolidation" as the model's proposed account, not as established fact about human memory.
 
 ---
 
@@ -20,7 +25,7 @@ tags:
 
 Most therapeutic and formation approaches target the **explicit** level — declarative memory, narrative, propositional belief. The problem is that the beliefs most resistant to change are encoded **implicitly** — in the amygdala and body, formed pre-verbally, organized outside conscious access. Explicit approaches produce, at best, extinction: a new competing association that suppresses the old one. Under stress, the original returns.
 
-Reconsolidation is different in kind, not degree. It is the only known mechanism by which the original implicit encoding is **replaced** rather than suppressed. Understanding it explains both why identity formation tools succeed and exactly how they fail.
+Reconsolidation is proposed to be different in kind, not degree. It is the proposed mechanism by which the original implicit encoding is **replaced** rather than suppressed (see the evidence status above). If the account holds, it explains both why identity formation tools succeed and how they fail.
 
 ---
 
@@ -85,6 +90,8 @@ Key proteins involved: AMPA receptor subunits (GluA1, GluA2) trafficking in/out 
 | **Context renewal** | Yes (change context → original returns) | No |
 | **Reinstatement** | Yes (re-expose to US → original returns) | No |
 
+> *The table states the reconsolidation model's claims. In humans, whether the original trace is "replaced" or "gone" is not established; see the evidence status above.*
+
 **Extinction** is what most therapy and formation work produces. CBT, exposure therapy, repeated declaration, and cognitive reframing create a competing association that suppresses the original. Under sufficient stress, context shift, or time — the suppression fails and the original pattern resurfaces. This is the mechanism behind "I know it in my head but not in my heart" — and behind therapy gains that erode under pressure.
 
 **Reconsolidation** rewrites the original. The metaphor is exact: extinction writes a *correction note in the margin*. Reconsolidation *edits the original text*. There is no original to unmask because it no longer exists.
@@ -105,16 +112,18 @@ If the reactivation includes something the memory did not predict — the expect
 
 ## Human Evidence
 
-**Schiller et al. (2010, Nature):** Fear memory reactivated, then extinction training performed either 10 minutes post-reactivation (within window) or 6 hours post-reactivation (outside window).
+**Schiller et al. (2010, Nature), as reported:** Fear memory reactivated, then extinction training performed either 10 minutes post-reactivation (within window) or 6 hours post-reactivation (outside window).
 
 - Within-window group: no return of fear at 24 hours or at 1-year follow-up
 - Outside-window group: fear returned at 24 hours (standard extinction pattern)
 
-Timing relative to the reactivation window determined the structural outcome. Direct demonstration that the window and the distinction are real in human memory.
+The authors read the timing result as evidence that the window and the distinction are real in human memory. **This has not held up.** A verification report that re-analyzed the original data (Chalkia, Van Oudenhove & Beckers, 2020, *Cortex*, 129, 510–525) failed to confirm the reported differences in fear recovery and found that the exclusion criteria had been misreported. A registered replication (Chalkia et al., 2020, *Cortex*, 129, 496–509) found no benefit of reactivation-extinction over regular extinction. Treat the 2010 result as unconfirmed.
 
-**Kindt, Soeter & Vervliet (2009, Nature Neuroscience):** Propranolol (beta-blocker disrupting norepinephrine-dependent reconsolidation) given post-reactivation significantly reduced fear memory expression — without affecting declarative memory of the event. The emotional encoding was disrupted; the factual narrative was preserved.
+**Kindt, Soeter & Vervliet (2009, Nature Neuroscience):** Propranolol (beta-blocker disrupting norepinephrine-dependent reconsolidation) given orally before memory reactivation significantly reduced fear memory expression 24 hours later — without affecting declarative memory of the event. The emotional encoding was disrupted; the factual narrative was preserved.
 
-Significance: reconsolidation targets the **emotional/implicit encoding** specifically. A person can retain the story while the emotional charge that made it controlling is gone.
+Significance, if the finding holds: reconsolidation targets the **emotional/implicit encoding** specifically. A person can retain the story while the emotional charge that made it controlling is gone.
+
+Kindt et al. (2009) is one experimental paradigm (a drug given before reactivation), and the follow-up findings are mixed. The critical review (Elsey, Van Ast & Kindt, 2018) lists consistent results alongside inconsistent findings and alternative explanations. It is also a pharmacological finding. It does not show that a conversation or a declaration produces the same effect.
 
 ---
 
@@ -159,7 +168,7 @@ When Declaration, Lie Eliminator, and Covenant Truth installation fail, the reco
 
 ## Implications for This Model
 
-**What this confirms:** The existing sequence (Affections Discovery → False Identity Named → Covenant Truth → Declaration) is structurally capable of producing reconsolidation. The sequence, properly executed, satisfies the conditions: reactivation (the lie is felt), juxtaposition (Covenant Truth arrives into the activated belief), verification (does the old emotional charge remain?).
+**What this suggests, if the account holds:** The existing sequence (Affections Discovery → False Identity Named → Covenant Truth → Declaration) is structurally capable of producing reconsolidation. The sequence, properly executed, satisfies the conditions: reactivation (the lie is felt), juxtaposition (Covenant Truth arrives into the activated belief), verification (does the old emotional charge remain?).
 
 **What this demands:** The practitioner must ensure the implicit belief is emotionally live before introducing Covenant Truth. Rushing to the declaration before the lie is activated produces extinction at best. The lie must be present and felt. Then the truth must arrive as *surprising* — not as a proposition the client already knows but as a disconfirmation the nervous system did not predict.
 
@@ -170,7 +179,10 @@ When Declaration, Lie Eliminator, and Covenant Truth installation fail, the reco
 ## Key Sources
 
 - Nader, K., Schafe, G.E. & LeDoux, J.E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406, 722–726.
-- Schiller, D. et al. (2010). Preventing the return of fear in humans using reconsolidation update mechanisms. *Nature*, 463, 49–53.
+- Schiller, D. et al. (2010). Preventing the return of fear in humans using reconsolidation update mechanisms. *Nature*, 463, 49–53. *(Not confirmed in humans; see the next two entries.)*
+- Chalkia, A., Van Oudenhove, L. & Beckers, T. (2020). Preventing the return of fear in humans using reconsolidation update mechanisms: A verification report of Schiller et al. (2010). *Cortex*, 129, 510–525. (A corrigendum appeared in *Cortex*, 139, 2021; its content was not checked.)
+- Chalkia, A., Schroyens, N., Leng, L., Vanhasbroeck, N., Zenses, A.-K., Van Oudenhove, L. & Beckers, T. (2020). No persistent attenuation of fear memories in humans: A registered replication of the reactivation-extinction effect. *Cortex*, 129, 496–509.
+- Elsey, J.W.B., Van Ast, V.A. & Kindt, M. (2018). Human memory reconsolidation: A guiding framework and critical review of the evidence. *Psychological Bulletin*, 144(8), 797–848.
 - Kindt, M., Soeter, M. & Vervliet, B. (2009). Beyond extinction: erasing human fear responses and preventing the return of fear. *Nature Neuroscience*, 12, 256–258.
 - Ecker, B., Hulley, R. & Hulley, L. (2012). *Unlocking the Emotional Brain: Eliminating Symptoms at Their Roots Using Memory Reconsolidation*. Routledge.
 - LeDoux, J.E. (2002). *Synaptic Self: How Our Brains Become Who We Are*. Viking.

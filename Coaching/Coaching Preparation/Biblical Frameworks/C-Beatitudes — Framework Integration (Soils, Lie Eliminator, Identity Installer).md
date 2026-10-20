@@ -667,7 +667,7 @@ Full range accessible. Use the presenting wound or Beatitude sequence pathway. T
 1. **One entry at a time.** Work it for 1–4 weeks before moving. Depth over breadth.
 2. **Evidence first.** If "My Evidence" cannot be completed even partially, the entry is not ready. Do not force it.
 3. **Lie work before installation.** When a lie is active, clear it first with the Lie Eliminator. Do not install identity on top of an unrenounced lie — the lie will undermine the declaration.
-4. **Speak it aloud.** The entry does not work silently. Faith comes by hearing — including the client hearing themselves say it.
+4. **Speak it aloud.** The entry is meant to be spoken, not only read. The client is bringing what God has already said before Him and before their own soul (Ps 42:5; Lam 3:24), not speaking a truth into existence. Rom 10:17 is not the warrant for this step: its context is hearing the gospel proclaimed.
 5. **Return and update.** "My Evidence" is meant to grow. A return visit to a completed entry to add new evidence is often more powerful than beginning a new one.
 
 ---
