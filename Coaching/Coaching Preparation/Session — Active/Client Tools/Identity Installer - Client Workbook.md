@@ -140,7 +140,9 @@ Below is an example of a fully completed category so you can see what your finis
 > I am a beloved child of God — chosen, accepted, and delighted in — not because of what I do, but because of who he is.
 
 **Anchor Verse:**
-> "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!" — 1 John 3:1
+> "See what kind of love the Father has given to us, that we should be called children of God; and so we are." — 1 John 3:1
+>
+> "You have received the Spirit of adoption as sons, by whom we cry, 'Abba! Father!' The Spirit himself bears witness with our spirit that we are children of God." — Romans 8:15-16
 
 **My Evidence:**
 > Two years ago I was in the worst season of my life — I had failed publicly and I was sure God was done with me. I opened my Bible expecting nothing and the first verse I read was Isaiah 43:1: *"Fear not, for I have redeemed you; I have called you by name, you are mine."* I sat on the floor and wept. That was the moment I knew his love was not based on my performance.
@@ -153,7 +155,7 @@ Below is an example of a fully completed category so you can see what your finis
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I am not a servant earning access to the Father's house — I live in it. God is not disappointed in me; he is delighted in me. I did not graduate into his love. I was born into it. When I came to him broken, he did not step back — he ran toward me.
+> I am not a servant earning access to the Father's house — I live in it. His love does not wait on my performance. In Christ I am blessed in the Beloved. I did not graduate into His love. I was born into it. When I came to Him broken, He did not step back — He ran toward me.
 
 **The Felt Sense:**
 > When I imagine being fully at rest — no striving, no proving, nothing to earn — I feel a kind of exhale I rarely allow myself. The last time I felt that was during worship last spring when I stopped singing and just stood there and let God look at me. It lasted maybe thirty seconds, but something settled.
@@ -195,7 +197,9 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 > I am a beloved child of God — chosen, accepted, and delighted in — not because of what I do, but because of who He is.
 
 **Anchor Verse:**
-> "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!" — 1 John 3:1
+> "See what kind of love the Father has given to us, that we should be called children of God; and so we are." — 1 John 3:1
+>
+> "You have received the Spirit of adoption as sons, by whom we cry, 'Abba! Father!' The Spirit himself bears witness with our spirit that we are children of God." — Romans 8:15-16
 
 **My Evidence:**
 *Think of a moment, season, or turning point where this truth became undeniably real in your life. Write one or two sentences in your own words.*
@@ -380,10 +384,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 6. More Than a Conqueror
 
 **Identity Statement:**
-> I do not merely survive trials — I am more than a conqueror through Christ who loves me.
+> In suffering, loss, and trial I am more than a conqueror through Christ, who loved me.
 
 **Anchor Verse:**
-> "In all these things we are more than conquerors through him who loved us." — Romans 8:37
+> "Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword?" — Romans 8:35
+>
+> "No, in all these things we are more than conquerors through him who loved us." — Romans 8:37
 
 **My Evidence:**
 *Write about a hard season you came through — not just intact, but stronger or clearer about who God is.*
@@ -416,10 +422,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 7. Light of the World
 
 **Identity Statement:**
-> I am the light of the world. Darkness does not define me — I define the darkness.
+> I am the light of the world in Christ. The darkness has not overcome the light, and it does not define me.
 
 **Anchor Verse:**
-> "You are the light of the world. A town built on a hill cannot be hidden." — Matthew 5:14
+> "You are the light of the world. A city set on a hill cannot be hidden." — Matthew 5:14
+>
+> "For at one time you were darkness, but now you are light in the Lord. Walk as children of light." — Ephesians 5:8
 
 **My Evidence:**
 *Write about a moment when your presence, words, or actions visibly shifted something in a room, a conversation, or a person.*
@@ -637,7 +645,9 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 > I am fully known by God — every detail, every wound, every hidden thing — and fully loved without condition.
 
 **Anchor Verse:**
-> "You have searched me, Lord, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar." — Psalm 139:1-2
+> "O LORD, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar." — Psalm 139:1-2
+>
+> "But God shows his love for us in that while we were still sinners, Christ died for us." — Romans 5:8
 
 **My Evidence:**
 *Write about a moment when God addressed something specific and private in your life — and you knew he saw you.*
@@ -925,10 +935,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 21. Carrier of Peace
 
 **Identity Statement:**
-> I carry a peace that the world cannot manufacture and circumstances cannot remove.
+> I carry the peace Christ gave me. The world cannot manufacture it, and it does not depend on my circumstances.
 
 **Anchor Verse:**
-> "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid." — John 14:27
+> "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid." — John 14:27
+>
+> "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ." — Romans 5:1
 
 **My Evidence:**
 *Write about a moment of genuine crisis when you experienced an unexplainable calm — a peace that made no situational sense.*
@@ -961,10 +973,12 @@ When returning to an entry — daily, weekly, or in a moment of need — the dis
 ## 22. Rooted and Established
 
 **Identity Statement:**
-> I am rooted in Christ — stable, grounded, and able to withstand what would uproot a person without a foundation.
+> I am rooted in Christ and being built up in Him, and I stand on a foundation that does not give way.
 
 **Anchor Verse:**
-> "So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught." — Colossians 2:6-7
+> "Therefore, as you received Christ Jesus the Lord, so walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving." — Colossians 2:6-7
+>
+> "Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock." — Matthew 7:24-25
 
 **My Evidence:**
 *Write about a season of pressure, loss, or uncertainty that you did not collapse under — and what held you.*

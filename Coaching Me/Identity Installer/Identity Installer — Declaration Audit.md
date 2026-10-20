@@ -466,7 +466,23 @@ The *Limit* line is the one that does the most work. It is where overreaches lik
 - The ESV verse wording is from my reading of the ESV, not a source open at the time. Confirm it before the Workbook goes to a client.
 - Entry 12 no longer cites Jer 29:11 anywhere. Say so if you want it kept with its context named.
 
-**Still open:** the rest of the repair queue (items 3–7 under "Repair Queue" above, minus the entries now done).
+**Batch 2 — applied 2026-10-19** (repair-queue items 3 and 5: entries 6, 21, 22, then 1, 7, 13) to [[Identity Installer - Personal]] and to the Workbook's Identity Statement and Anchor Verse fields. The Workbook's "Completed Example" for entry 1 was updated to match.
+
+| Entry | What changed | Why |
+|---|---|---|
+| **6 More Than a Conqueror** | Statement now "In suffering, loss, and trial…". Anchor adds Rom 8:35 and restores "No," in Rom 8:37 (ESV). Putting On: "the arena where identity is proven" replaced with "held by His love there," and the lament Paul quotes (Rom 8:36; Ps 44:22) is named. | Identity is received, not proven. The verse's own context is suffering and lament. |
+| **21 Carrier of Peace** | Statement now matches the Putting On: the peace Christ gave, not dependent on circumstances. Anchor adds Rom 5:1 (ESV). Putting On adds John 16:33 and "when I feel troubled, that peace is still true." | The old statement promised a felt state (C4). |
+| **22 Rooted and Established** | Statement drops "able to withstand…" for "being built up in Him … a foundation that does not give way." Anchor is ESV with Matt 7:24-25 added; the "(I)" leftover is gone. Putting On drops "every storm drives my roots deeper." | The old line conflicts with the Parable of the Soils (Matt 13:20-21) and promises experience. |
+| **1 Beloved Child** | Anchor is ESV with Rom 8:15-16 added. "God is not disappointed in me; he is delighted in me" replaced with "His love does not wait on my performance … blessed in the Beloved (Eph 1:6)." Luke 15:20 and John 1:12-13 cited. | No text says God is never disappointed (Heb 12:5-11). |
+| **7 Light of the World** | Statement: "in Christ … the darkness has not overcome the light." "I define the darkness" removed. Anchor is ESV with Eph 5:8 added. Putting On ends with Matt 5:16's purpose. | "I define the darkness" has no text. Eph 5:8 is the "in the Lord" statement made to believers. |
+| **13 Known and Seen** | Anchor is ESV with Rom 5:8 added for the "loved" half. Putting On: "before I think them" changed to "from afar" (Ps 139:2); Matt 10:30 and Rom 5:8 cited. | Ps 139:1-2 says "known," not "loved." |
+
+**Not changed in batch 2:**
+- Entry 21's *What I'm Putting Off* ("renounce the identity of the anxious"). That waits on Andrew's decision. No referral note has been added.
+- Entry 22's Workbook appendix copy of Col 2:6-7 (still NIV, around line 1399 of the Workbook).
+- The Isaiah 54:17 verse in the Workbook (around line 1356). Not yet assessed.
+
+**Still open:** repair-queue item 4 (entries 2, 5, 9, 10, 11, 16, 18) and the cross-cutting items.
 
 ---
 

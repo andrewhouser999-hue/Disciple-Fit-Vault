@@ -105,7 +105,9 @@ Read every Identity Statement that follows as a statement about what is already 
 > I am a beloved child of God — chosen, accepted, and delighted in — not because of what I do, but because of who He is.
 
 **Anchor Verse:**
-> "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!" — 1 John 3:1
+> "See what kind of love the Father has given to us, that we should be called children of God; and so we are." — 1 John 3:1
+>
+> "You have received the Spirit of adoption as sons, by whom we cry, 'Abba! Father!' The Spirit himself bears witness with our spirit that we are children of God." — Romans 8:15-16
 
 **My Evidence:**
 >- Having PTSD, almost lost my house, God provided last minute, .... showed me my what striving gets
@@ -128,7 +130,7 @@ Read every Identity Statement that follows as a statement about what is already 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I am not a servant earning access to the Father's house — I live in it. God is not disappointed in me; he is delighted in me. I did not graduate into his love. I was born into it. When I came to him broken, he ran toward me.
+> I am not a servant earning access to the Father's house — I live in it. His love does not wait on my performance. In Christ I am blessed in the Beloved (Eph 1:6). I did not graduate into His love. I was born into it (John 1:12-13). When I came to Him broken, He ran toward me (Luke 15:20).
 
 **The Felt Sense:**
 > What does it feel like when I am living as a beloved child — unhurried, unashamed, fully secure? When did I last feel that?  It feels deeply peaceful, assured, I have YHWH's support. 
@@ -372,10 +374,12 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the victim — the one defined by what has been done to me rather than by who God has made me.
 
 **Identity Statement:**
-> I do not merely survive trials — I am more than a conqueror through Christ who loves me.
+> In suffering, loss, and trial I am more than a conqueror through Christ, who loved me.
 
 **Anchor Verse:**
-> "In all these things we are more than conquerors through him who loved us." — Romans 8:37
+> "Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword?" — Romans 8:35
+>
+> "No, in all these things we are more than conquerors through him who loved us." — Romans 8:37
 
 **My Evidence:**
 > *(Write one sentence — a hard season you came through, not just intact, but stronger or clearer about who God is.)*
@@ -387,7 +391,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> Suffering does not disqualify me — it is the arena where identity is proven. I do not fight for victory; I fight from victory already secured by Christ. I am not on the losing side of history.
+> Suffering does not disqualify me, and it does not separate me from Christ's love (Rom 8:35-39). My identity is not proven in suffering. It is held by His love there. I may grieve and lament inside it, as Scripture itself does (Rom 8:36; Ps 44:22). I do not fight for victory; I fight from victory already secured by Christ. I am not on the losing side of history.
 
 **The Felt Sense:**
 > What does it feel like to face resistance knowing the outcome has already been decided in your favor? 
@@ -410,10 +414,12 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the hidden — the one who shrinks, dims, or apologizes for taking up space.
 
 **Identity Statement:**
-> I am the light of the world. Darkness does not define me — I define the darkness.
+> I am the light of the world in Christ. The darkness has not overcome the light, and it does not define me.
 
 **Anchor Verse:**
-> "You are the light of the world. A town built on a hill cannot be hidden." — Matthew 5:14
+> "You are the light of the world. A city set on a hill cannot be hidden." — Matthew 5:14
+>
+> "For at one time you were darkness, but now you are light in the Lord. Walk as children of light." — Ephesians 5:8
 
 **My Evidence:**
 > *(Write one sentence — a moment when your presence, words, or actions visibly shifted something in a room, a conversation, or a person.)*
@@ -424,7 +430,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I carry the light of Christ wherever I go. I am not a small, inconsequential person trying not to disturb anything. I am a light set on a hill — my visibility is not arrogance, it is obedience.
+> I carry the light of Christ wherever I go. I am not a small, inconsequential person trying not to disturb anything. I am a light set on a hill — my visibility is not arrogance, it is obedience, so that others may see good works and give glory to my Father in heaven (Matt 5:16).
 
 **The Felt Sense:**
 > What does it feel like to walk into a space knowing you carry something that people in that room need?
@@ -629,7 +635,9 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I am fully known by God — every detail, every wound, every hidden thing — and fully loved without condition.
 
 **Anchor Verse:**
-> "You have searched me, Lord, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar." — Psalm 139:1-2
+> "O LORD, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar." — Psalm 139:1-2
+>
+> "But God shows his love for us in that while we were still sinners, Christ died for us." — Romans 5:8
 
 **My Evidence:**
 > - When I would go outside at the quary I would notice the lack of breeze then a breeze would hit my face out of nowhere. The first time I wondered if the love of God was in the breeze. It kept happening and I took it as God breathing on me with nature letting me know he loves me and sees me and desires I enjoy the breeze. 
@@ -642,7 +650,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> God knows the number of hairs on my head. He perceives my thoughts before I think them. I am not anonymous to heaven. I am known by name, by nature, and by need — and loved completely despite full knowledge of all of it.
+> God knows the number of hairs on my head (Matt 10:30). He discerns my thoughts from afar (Ps 139:2). I am not anonymous to heaven. I am known by name, by nature, and by need — and loved completely despite full knowledge of all of it (Rom 5:8).
 
 **The Felt Sense:**
 > What does it feel like to be fully known — not the curated version, but all of it — and still completely loved?
@@ -930,10 +938,12 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the anxious — the one who defaults to worry as a first response and treats peace as a rare luxury rather than a birthright.
 
 **Identity Statement:**
-> I carry a peace that the world cannot manufacture and circumstances cannot remove.
+> I carry the peace Christ gave me. The world cannot manufacture it, and it does not depend on my circumstances.
 
 **Anchor Verse:**
-> "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid." — John 14:27
+> "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid." — John 14:27
+>
+> "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ." — Romans 5:1
 
 **My Evidence:**
 > *(Write one sentence — a moment of genuine crisis when you experienced an unexplainable calm — a peace that made no situational sense.)*
@@ -944,7 +954,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> Christ's peace is not the absence of trouble — it is a settled confidence in God's sovereignty that coexists with trouble. I was given this peace. It is mine to carry and mine to release into every room, relationship, and circumstance I enter.
+> Christ's peace is not the absence of trouble — it is a settled confidence in God's sovereignty that coexists with trouble (John 16:33). My peace with God (Rom 5:1) does not depend on how settled I feel. When I feel troubled, that peace is still true. I was given this peace. It is mine to carry and mine to release into every room, relationship, and circumstance I enter.
 
 **The Felt Sense:**
 > What does it feel like to be the calmest person in the room — not from denial or distance, but from a deep rootedness in who God is?
@@ -966,10 +976,12 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 > I renounce the identity of the unstable — the one blown about by every shift in circumstances, relationships, or emotions.
 
 **Identity Statement:**
-> I am rooted in Christ — stable, grounded, and able to withstand what would uproot a person without a foundation.
+> I am rooted in Christ and being built up in Him, and I stand on a foundation that does not give way.
 
 **Anchor Verse:**
-> "So then, just as you (I) received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught." — Colossians 2:6-7
+> "Therefore, as you received Christ Jesus the Lord, so walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving." — Colossians 2:6-7
+>
+> "Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock." — Matthew 7:24-25
 
 **My Evidence:**
 > Under long term narc abuse, tempted to dissolve the marriage, I stood strong in my faithful commitment to Christ. Calling upon Him in anticipation of His handywork as resolve, not taking the situation in my own hands. 
@@ -981,7 +993,7 @@ My standing before God is not based on my behavior — it is based on Christ's. 
 
 **What I'm Putting On:**
 *(Speak aloud — in Jesus' name.)*
-> I am rooted. What is rooted is not destroyed by wind — it is strengthened by it. Every storm that comes against me drives my roots deeper into Christ. My stability is not a personality trait; it is a spiritual reality available to me at all times.
+> I am rooted in Christ. Storms come on everyone, but the house built on the rock did not fall (Matt 7:24-27). I stay with what I received, and I keep walking in Him. My stability is not a personality trait; it is Christ under me. When I feel shaken, I do not have to produce stability. I return to Him.
 
 **The Felt Sense:**
 > What does it feel like to face disruption knowing that nothing can uproot what God has planted?  I feel STRONG, WISE, TENATIOUS, CONNECTED TO CHRIST, LIKE CHRIST, IMMOVABLE, MANLY, 
