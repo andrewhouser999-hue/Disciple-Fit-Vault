@@ -254,7 +254,7 @@ Eight approaches, rated by purpose:
 
 **Coaching application:** The Identity Installer and Lie Eliminator are already in this space. The coaching refinement: declarations must be exegetically traceable, not constructed. The coach's job is helping the client locate the specific covenantal truth that counters the specific lie — not generating feel-good statements. Between-session design follows the Theory of Change (Node 7): assign receptive return (speak the declaration before the Father, then be still and ask the Spirit to make it real), not affirmation repetition. See [[Covenant Identity — Matched Declaration Architecture]].
 
-**Verdict: Already in the system. Needs rigorous exegetical backing to remain defensible. High priority to audit existing declarations for textual grounding (no completed audit was found in a vault search on 2026-10-18).**
+**Verdict: Already in the system. Needs rigorous exegetical backing to remain defensible. High priority to audit existing declarations for textual grounding (audit run 2026-10-19: [[Identity Installer — Declaration Audit]]; repairs to the Installer are proposed and pending).**
 
 ---
 
@@ -354,7 +354,7 @@ The risk: building an identity formation system that uses covenant vocabulary wi
 **Priority sequence for Andrew:**
 1. Read Schreiner's *Covenant and God's Purpose for the World* (short — 128 pages) — immediate foundational gain
 2. Study Campbell's *Paul and Union with Christ* — backbone of the "in Christ" identity mechanism
-3. Run the declaration audit — check every Identity Installer declaration for textual ground (still open; see Approach 6)
+3. Run the declaration audit — check every Identity Installer declaration for textual ground (run 2026-10-19: [[Identity Installer — Declaration Audit]]. Next: decide and apply the repairs it proposes, starting with entry 17)
 4. ~~Build the Covenant Promise Map (#7)~~ — built (see Approach 7). Next: check each promise against the mediation rule in Part 1, §6.
 
 ---
@@ -412,3 +412,5 @@ Not changed in this pass:
 - Lowercase divine pronouns elsewhere in this document. They predate the capitalization convention.
 - The White Paper and Full Model Reference wording on "obligation follows gift; identity before behavior." The truth it states stands. It is grounded in Exod 6:7; 19:4; 20:2; Deut 7:6-8; 9:4-6; Rom 5:8; Eph 2:8-10, as recorded in Part 1, §3. The White Paper's historical generalization that treaties "always" followed one sequence is a separate, optional tightening.
 - "Unconditional" language about access and preservation in the New Covenant Promise Map (P2i), which was outside the approved scope.
+
+**2026-10-19 — Declaration audit run.** The audit that Advisor Verdict item 2 and Approach 6 called for was run on all 24 entries of the Identity Installer. Result: 6 grounded, 13 need wording repair, 3 need a new anchor verse, 1 contradicts this document (entry 17 anchors on Rev 12:11, which Approach 6 removed as a ground for declaration), 1 is a vocational claim and not a covenant-identity claim. Full findings and the proposed repair queue: [[Identity Installer — Declaration Audit]]. This document's text was changed only at the two places that said the audit was still open. The Installer itself has not been edited.
