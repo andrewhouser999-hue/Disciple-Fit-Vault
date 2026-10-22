@@ -175,7 +175,7 @@ The Ten Commandments open the same way: *"I am the LORD your God, who brought yo
 
 > "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them." (Ephesians 2:10)
 
-Grammarians call this indicative before imperative. For this practice it means the work begins with who God has declared you to be, not with what you should do. Be ready for one counter-text. Exodus 19:5 begins, *"Now therefore, if you will indeed obey my voice and keep my covenant"*. The covenant research document answers it in Part 1 §3. Keep that answer at hand.
+Grammarians call this indicative before imperative. For this practice it means the work begins with who God has declared you to be, not with what you should do. Be ready for one counter-text. Exodus 19:5 begins, *"Now therefore, if you will indeed obey my voice and keep my covenant"*. The covenant research document ([[Developing a Biblical Understanding of Covenantal Relationship with God]]) answers it in Part 1 §3. Keep that answer at hand.
 
 **Claim 2. The inner life is where God does His defining work.**
 
