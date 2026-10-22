@@ -15,6 +15,18 @@ tags:
 
 ---
 
+## Pain Points — Table of Contents
+
+1. [[#Pain Cluster 1 — Going Through the Motions / Hollow Faith|Going Through the Motions / Hollow Faith]]
+2. [[#Pain Cluster 2 — Knowledge That Won't Translate|Knowledge That Won't Translate]]
+3. [[#Pain Cluster 3 — Identity Buried Under Performance|Identity Buried Under Performance]]
+4. [[#Pain Cluster 4 — Anxiety and Shame That Faith Isn't Fixing|Anxiety and Shame That Faith Isn't Fixing]]
+5. [[#Pain Cluster 5 — Community Without Intimacy|Community Without Intimacy]]
+6. [[#Pain Cluster 6 — Traditional Interventions Exhausted and Failed|Traditional Interventions Exhausted and Failed]]
+7. [[#Pain Cluster 7 — Market Validating Identity-Level Coaching Demand|Market Validating Identity-Level Coaching Demand]]
+
+---
+
 ## Pain Cluster 1 — Going Through the Motions / Hollow Faith
 
 **What they're saying:**
