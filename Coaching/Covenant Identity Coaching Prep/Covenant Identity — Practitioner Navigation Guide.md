@@ -216,6 +216,7 @@ Reach for:
 
 **Watch for:**
 > Declaration being received cognitively but not felt → Stage 4b entry? Slow the declaration; body-level check; see [[Covenant Identity — Stage 4b Implicit Level Practitioner Reference]]
+> Belief named but not emotionally live when the declaration is about to be spoken → hold the declaration, sort the cause after the session, and see [[Covenant Identity — When the Belief Will Not Activate — Practitioner Reference]]
 > Schema co-opting the practice (Warrior armoring through declaration, False Noble performing it) → note the pattern; bring it into session directly
 
 **Phase 3 → Phase 4 transition signal:**
@@ -293,6 +294,7 @@ Reach for:
 *When the client is not progressing and the stage-specific tools are not producing movement:*
 
 - [[Covenant Identity — Why the Heart Does Not Heal — Practitioner Diagnostic]] — eight barriers to heart healing with session signals, practitioner questions, and the participation move per barrier; diagnostic routing table maps presenting patterns to the most likely barrier; use at session prep before reaching for a new technique
+- [[Covenant Identity — When the Belief Will Not Activate — Practitioner Reference]] — open when the Stage 3 activation check fails and the named belief is not live, or when "Not activated" repeats across sessions; sort the cause after the session (eight causes, two can end the sequence), then choose the rung; includes the cueing-versus-manufacturing line, why Vision-Led is not a fallback, and a decision point whose numbers await supervisor review
 
 > **How to use it:** Identify the presenting pattern (insight without change, "I've tried everything," ambivalence, progress then regression, etc.) → routing table → named barrier → read the participation move for that barrier. The question is not "what technique should I try?" but "where is the person blocked in participating with what God is doing?"
 
@@ -346,6 +348,8 @@ Reach for:
 
 ---
 
-*Last updated: 2026-09-15 — added [[P1c — Covenant Identity — Declared vs. Felt Qualities of God — Session Worksheet]] to the Phase 1, Session 2 reach-for list.*
+*Last updated: 2026-10-22 — added [[Covenant Identity — When the Belief Will Not Activate — Practitioner Reference]] to "Cross-Cutting — When Movement Has Stalled" and to the Phase 3 "Watch for" list.*
+
+*Previously updated: 2026-09-15 — added [[P1c — Covenant Identity — Declared vs. Felt Qualities of God — Session Worksheet]] to the Phase 1, Session 2 reach-for list.*
 
 *Previously updated: 2026-07-08 — added reach-for entries for 27 documents built between 2026-05-21 and 2026-07-08 that this guide had never referenced, including a new Sanctification Module deployment gate in Phase 2 and a new Phase 1 between-session assignments block. Add to this document as the engagement process reveals gaps, shortcuts, or recalibrations worth preserving.*

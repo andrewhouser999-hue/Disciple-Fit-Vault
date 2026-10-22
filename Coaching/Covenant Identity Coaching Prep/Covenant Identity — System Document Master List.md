@@ -7,7 +7,9 @@ tags: [system-reference, master-list, practitioner-reference]
 # Covenant Identity Coaching — System Document Master List
 *A complete inventory of all documents in the Covenant Identity Coaching system, organized by category and roughly chronological order of use within an engagement. Status: Done or Suggested.*
 
-*Last updated: 2026-10-13 (backfill) — 37 documents built between 2026-07-10 and 2026-10-07 that had never been logged here were backfilled, found by an audit that compared every file in the folder tree against this list and the Document Reading Order: 2 in Model Foundation, 1 in Intake System, 1 in Phase 2, 30 in Practitioner Reference & Tools (including the 7-part Co-Regulation set), 2 in Between-Session Library, and 1 in Practitioner Development. The Summary Status table was recounted from the entries themselves (196 done + 3 suggested across 14 sections); it had last been reconciled 2026-07-08. Not logged, by design: the root navigation hubs (How to Communicate CIC — Index, Practitioner Navigation Guide, File Index) and the two Lesson Drafts files.*
+*Last updated: 2026-10-22 — [[Covenant Identity — When the Belief Will Not Activate — Practitioner Reference]] added to the Practitioner Reference section (built 2026-10-22). The Summary Status table was raised by one entry (Practitioner Reference & Tools 96 to 97; total 196 to 197).*
+
+*Previously updated: 2026-10-13 (backfill) — 37 documents built between 2026-07-10 and 2026-10-07 that had never been logged here were backfilled, found by an audit that compared every file in the folder tree against this list and the Document Reading Order: 2 in Model Foundation, 1 in Intake System, 1 in Phase 2, 30 in Practitioner Reference & Tools (including the 7-part Co-Regulation set), 2 in Between-Session Library, and 1 in Practitioner Development. The Summary Status table was recounted from the entries themselves (196 done + 3 suggested across 14 sections); it had last been reconciled 2026-07-08. Not logged, by design: the root navigation hubs (How to Communicate CIC — Index, Practitioner Navigation Guide, File Index) and the two Lesson Drafts files.*
 
 *Previously updated: 2026-10-13 — [[Covenant Identity — Image-Protective Patterns (Narcissistic Patterns) — Practitioner Reference]] added to the Practitioner Reference section.*
 
@@ -470,6 +472,9 @@ Post-session, coach-only five-level adaptation of the Experiencing (EXP) Scale (
 **✅ Covenant Identity — Verifying Felt Juxtaposition — Mechanism & Practitioner Reference.md**
 Operationalizes how to tell whether covenant truth meeting the false structure is landing felt and somatic or only cognitive and verbal. States the shame/fear ↔ peace/belovedness affect pairing, then gives a three-layer method: real-time trained noticing, structured post-session verification (generalizing the Route B rating scale to Stage 3 broadly, logged via the Diagnostic Calibration Log), and wound-type calibration as a false-positive screen. Companion practice skill: /cic-juxtaposition-drill. Built 2026-08-20. Backfilled into this list 2026-10-13.
 
+**✅ Covenant Identity — When the Belief Will Not Activate — Practitioner Reference.md**
+Practitioner reference for the case where the Stage 3 activation check fails and the named false belief is not emotionally live. Sorts eight causes (wrong target, wrong setting, container not yet safe, a defense is the live material, low emotional access as a trait, protective numbness, belief already loosened, a spiritual-baseline question), draws the line between cueing a belief and manufacturing a response, sets out a ladder of moves from least to most demanding, explains why the Vision-Led door is not a fallback, and states stop signals and placeholder review points. States plainly that no source tests a method for reactivating a not-live belief in coaching. Items tagged [D] await scope-boundary supervisor review. Built 2026-10-22.
+
 **✅ Covenant Identity — Resourcing & Anchor Establishment — Practitioner Reference.md**
 Coach-facilitated protocol for proactively establishing and rehearsing a client's covenant-identity anchor before Phase 2 wound mapping or Stage 4b difficulty opens, plus a "touch and return" session-structuring rule for deploying it during excavation. Sourced to Levine, Ogden, Shapiro, and Siegel, adapted non-clinically. Includes a worked session vignette and a failure-modes table. Built 2026-08-27. Backfilled into this list 2026-10-13.
 
@@ -771,12 +776,12 @@ Nine sections, one per fruit of the Spirit (love, joy, peace, patience, kindness
 | Phase 3 — Identity Installation | 1 | 0 | 0 |
 | Phase 4 — Integration & Close | 1 | 0 | 0 |
 | Growth Tracking | 3 | 0 | 0 |
-| Practitioner Reference & Tools | 96 | 0 | 0 |
+| Practitioner Reference & Tools | 97 | 0 | 0 |
 | Between-Session Library | 26 | 0 | 0 |
 | Resource Library | 4 | 0 | 0 |
 | Practitioner Development | 6 | 0 | 0 |
 | AI Generation Prompts | 22 | 0 | 0 |
-| **Total** | **196** | **3** | **0** |
+| **Total** | **197** | **3** | **0** |
 
 *Count note, 2026-10-13: recounted by tallying the ✅ / 🔲 entries under each heading. "Practitioner Reference & Tools" includes the six Formation Framework Modules files and the three paired Practitioner Reference documents that sit physically inside the AI Generation Prompts section. The previous table (125 done, last reconciled 2026-07-08) predates the documents built since then and the 37 backfilled entries.*
 
