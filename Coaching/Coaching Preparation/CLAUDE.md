@@ -37,7 +37,7 @@ Match this structure:
 7. **Sources** — citations
 8. **Related** — [[wikilinks]] to connected notes
 
-Keep notes under 100 lines. Dense reference material goes in a separate deep-dive note if needed.
+Keep notes under 200 lines. Dense reference material goes in a separate deep-dive note if needed.
 
 ## Workflow
 
