@@ -810,7 +810,7 @@ Some people can, for a time. The reason another person helps is the one in Jerem
 It would be if the record were hidden. The Biblical Foundations Index shows, for every design decision, whether the biblical case is Developed, Assumed, Contested, or a Gap. Where the case is weaker, the Index says so. That record is the answer.
 
 **15. "Isn't 'the Spirit quickened a Scripture to me' subjective? How do you test it?"**
-Scripture speaks of this work in its own language. The psalmist prays, *"give me life according to your word"* (Psalm 119:25). Paul prays that the eyes of believers' hearts would be enlightened (Ephesians 1:18). The experience is not the test of the truth. Scripture is. *"Test everything; hold fast what is good"* (1 Thessalonians 5:21) speaks directly to testing what is offered as the Spirit's word. The practice never treats a felt impression as new revelation, and it never presents one as proof that a step worked. It holds that the Spirit does not contradict what He has already said in Scripture. It does not claim to produce a quickening or to predict one.
+Scripture speaks of this work in its own language. The psalmist prays, *"give me life according to your word"* (Psalm 119:25). Paul prays that the eyes of believers' hearts would be enlightened (Ephesians 1:18). The experience is not the test of the truth. Scripture is. *"Test everything; hold fast what is good"* (1 Thessalonians 5:21) speaks directly to testing what is offered as the Spirit's word. The practice never treats a felt impression as new revelation, and it never presents one as proof that a step worked. It holds that the Spirit does not contradict what He has already said in Scripture. It does not claim to produce a quickening or to predict one. In Andrew's own testimony the Spirit "whisper[s] its truth", meaning the truth of the passage being read. Nothing is added to the passage.
 
 **16. "Isn't learning theology just head knowledge?"**
 It can be, and Scripture says so. A person can hear and not do (Matthew 7:26; James 1:22–25), and a person can hear without understanding (Matthew 13:19). Scripture also treats understanding as a means of growth. It asks that believers be *"filled with the knowledge of his will in all spiritual wisdom and understanding, so as to walk in a manner worthy of the Lord"* (Colossians 1:9–10). The difference is not knowledge against experience. It is a truth understood where it stands in the whole of Scripture and received, against a truth held as a data point. The practice is built on that difference. It teaches the truth in its own setting and waits for the Spirit to bring it home.
@@ -888,7 +888,7 @@ It can be, and Scripture says so. A person can hear and not do (Matthew 7:26; Ja
 
 *This section keeps the reasoning behind the verdicts in §C, §D, and §I.2. Authors use the verdicts. The reasoning is kept here so that it is not lost and so that a challenger can be answered. On 2026-10-20 Andrew chose to keep it as this appendix and to defer a standalone reference (§J.5). The vetting rests on the ESV text, the NET Bible's textual and translation notes, and lexical aids. It was not checked against commentaries or BDAG (§J.4).*
 
-*Labels used below. A1 to A6 are the six candidate anchors proposed in the first draft. B1 to B4 are the texts behind Andrew's account of how faith is built. C1 to C6 are the warrant texts used in Part I §4.*
+*Labels used below. A1 to A6 are the six candidate anchors proposed in the first draft. B1 to B4 are the texts behind Andrew's 2026-10-20 account of how faith is built. That paragraph was replaced on 2026-10-23 (Part I §11), so the B block is kept as vetting history and as a caution for any author. C1 to C6 are the warrant texts used in Part I §4.*
 
 **J.1 What was checked**
 - *ESV text,* on BibleGateway: Genesis 1:27; 17:17; Nehemiah 8:8 (ESV footnote: "Or *with interpretation*, or *paragraph by paragraph*"); Psalm 73:16–17, 26; Psalm 119:18, 25, 37, 40, 50, 130; Jeremiah 15:16; Matthew 5:45; 7:24–27; 13:19, 23; Luke 6:47–49; 24:13–32, 44–45; John 6:63; 14:26; 16:13–15; Acts 8:30–31; 14:17; 16:14; 20:32; Romans 4:19–21; 10:17; 1 Corinthians 2:12–14; 2 Corinthians 3:6; Ephesians 1:17–18; 2:20; 4:11–14; Colossians 1:9–10, 29; 2:2–3, 6–7; 1 Thessalonians 1:5; 2 Timothy 2:15; Titus 1:12–13; Hebrews 4:12; 1 Peter 1:25; 2 Peter 1:4, 20–21; 3:18; 1 John 2:20, 27; Jude 20–21; Deuteronomy 30:14.
@@ -936,13 +936,13 @@ It can be, and Scripture says so. A person can hear and not do (Matthew 7:26; Ja
 - *Verdict:* [S~]. Keep 1 Thessalonians 2:13, Philippians 2:13, Galatians 5:6, Colossians 1:29, and Hebrews 4:12. Drop Philemon 6 from public copy and from the "effective" paragraph. Keep the caution that the family also describes sin and evil at work.
 - *Safe wording:* "In the passages cited, the one at work is God, His Word, or faith acting through love."
 
-*B. The texts behind Andrew's account of how faith is built*
+*B. The texts behind Andrew's 2026-10-20 account of how faith is built (vetting history; the approved testimony in Part I §11 no longer uses the rock-and-sand image)*
 
 **B1. Matthew 7:24–27 and Luke 6:47–49**
 - *Establishes [S]:* The one who hears and does builds on the rock. The one who hears and does not do builds on the sand. Luke 6:48 adds that the wise builder "dug deep and laid the foundation on the rock."
 - *Variants and debates:* The parable does not say the two builders differ in understanding. "Sand is taking Scripture in as a data point only" is close to the parable's point and not exact.
 - *Better texts for understanding:* Matthew 13:19, 23; Colossians 1:9–10; Colossians 2:2–3 ("full assurance of understanding"). The hearer who only hears is self-deceived (James 1:22–25). Building language for the faith of believers: Colossians 2:6–7; Acts 20:32; Jude 20; Ephesians 2:20; 4:11–14; 2 Peter 3:18.
-- *Verdict:* Use it for hearing and doing. Do not use it to teach that understanding is the rock.
+- *Verdict:* Use it for hearing and doing. Do not use it to teach that understanding is the rock. The caution still applies to any author who reaches for the image, although the approved testimony does not use it.
 
 **B2. Grounded understanding**
 - *Establishes [S]:* Psalm 119:130: the unfolding of God's words gives light and understanding to the simple. Psalm 119:18: the psalmist asks God to open his eyes. Nehemiah 8:8: the readers "gave the sense." Luke 24:27, 44–45: a Christ-centered reading of all the Scriptures, then the opening of minds. Acts 8:30–31: a guide helps the Ethiopian understand. Acts 17:3: Paul explains and proves from the Scriptures. Acts 17:11: the Bereans test teaching by Scripture. 2 Timothy 2:15: "rightly handling the word of truth" (the range of *orthotomeō* is debated).
