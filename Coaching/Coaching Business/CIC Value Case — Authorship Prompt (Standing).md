@@ -1,6 +1,6 @@
 ---
 created: 2026-10-20
-basis: "[[Covenant Identity Coaching — The Value Case — Design, Evidence & Argument Core]] (the source every piece draws from); [[Disciple Fit — Marketing Charter]] (governing rules, Buyer's Journey, trust-builders and trust-killers, guardrails); [[Marketing & Brand Scrutiny — Standing Audit Prompt]] (the five-dimension audit that this prompt's self-check reuses); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Scope of Practice]]; [[Branding & Core Competency]] (voice and tone rules); [[Covenant Identity Coaching — Practice Descriptions (Three Forms)]] (precedent for authoring in a named voice); the Authorship Pipeline essays (precedent: 'In the voice of ...'); [[Sunday-Monday Christian]] and [[Wilderness Christian]] (reader trust mechanics). Built 2026-10-20 at Andrew's request for a prompt that guides authorship of smaller pieces from the Value Case, with authors selected for slightly academic, empathetic, theologically literate presentation. Updated 2026-10-20 (later that day): hard rule 19 added from the /bible vetting, and the standing-input note and the Theologian review updated to match."
+basis: "[[Covenant Identity Coaching — The Value Case — Design, Evidence & Argument Core]] (the source every piece draws from); [[Disciple Fit — Marketing Charter]] (governing rules, Buyer's Journey, trust-builders and trust-killers, guardrails); [[Marketing & Brand Scrutiny — Standing Audit Prompt]] (the five-dimension audit that this prompt's self-check reuses); [[CIC — Evidence Case for the Model (Internal)]] (claims boundary); [[Scope of Practice]]; [[Branding & Core Competency]] (voice and tone rules); [[Covenant Identity Coaching — Practice Descriptions (Three Forms)]] (precedent for authoring in a named voice); the Authorship Pipeline essays (precedent: 'In the voice of ...'); [[Sunday-Monday Christian]] and [[Wilderness Christian]] (reader trust mechanics). Built 2026-10-20 at Andrew's request for a prompt that guides authorship of smaller pieces from the Value Case, with authors selected for slightly academic, empathetic, theologically literate presentation. Updated 2026-10-20 (later that day): hard rule 19 added from the /bible vetting, and the standing-input note and the Theologian review updated to match. Updated 2026-10-23: the standing testimony replaced with Andrew's approved version (2026-10-20 paragraph no longer kept); standing-input note and hard rule 19 updated to match."
 tags:
   - coaching-business
   - authorship
@@ -67,11 +67,11 @@ TESTIMONY_PROVIDED:
 
 ## Standing input: Andrew's account of how faith is built
 
-*Andrew's words, given 2026-10-20, with spelling and grammar corrected only. This is the default TESTIMONY_PROVIDED. Quote it or use it as given. Never paraphrase it into new claims.*
+*Andrew's testimony, approved 2026-10-23 in the spoken form below. It replaces his 2026-10-20 paragraph, which is no longer kept. This is the default TESTIMONY_PROVIDED. Quote it or use it as given. Never paraphrase it into new claims.*
 
-> Learning theology builds faith. Learning scriptural truth in a way that is grounded in the fabric of Scripture, resulting in knowing the why and what behind the specific truth, resulted in a building up of my faith, metaphorically on a rock rather than on sand. Learning on sand may be akin to cognitively taking in Scripture as a data point only. Also, at times the Spirit of God has quickened a specific Scripture or section of Scripture to my spirit, felt in my soul. This too is a building up of faith. In conclusion, faith is built by the Spirit of God and/or on a network of biblical truth that gives light to a specific truth as intended by the original author with an original intended meaning, clearly understood as a part of that foundational network of biblical truth.
+> Two things have especially built my faith. One is studying a verse carefully in its context and in the whole of Scripture, to see what is actually being communicated. When I can also explain why I read it that way, my understanding has something solid under it, and that builds my faith. The other is when I'm in a passage and I feel the Spirit of God whisper its truth deeply into me. I believe He's at work in both.
 
-*The /bible vetting of the anchors behind this account was run and applied on 2026-10-20. Two notes. His image of rock and sand is his own application: the parable of the two builders contrasts hearing and doing, and the texts that carry understanding are in Value Case Part I §7. His phrase "as intended by the original author" is stated in the Value Case as "in its own setting and in the whole of Scripture, read in the light of Christ." Use that wording in any new sentence. Quote his own words only as given.*
+*The /bible vetting of the anchors behind this account was run and applied on 2026-10-20. Two notes. The testimony carries no rock-and-sand image. In any new sentence of your own, state the way of reading as the Value Case does: "in its own setting and in the whole of Scripture, read in the light of Christ." "Whisper its truth" is Andrew's own wording for the Spirit's part. Use it only inside the testimony. In your own sentences say "the Spirit brought that Scripture home." Quote his own words only as given.*
 
 ---
 
@@ -171,7 +171,10 @@ HARD RULES (a violation means start over)
     in the whole of Scripture, read in the light of Christ", not "the original
     author's intended meaning". When you describe the Spirit's part, say that
     the Spirit enables a person to understand and welcome what Scripture already
-    says, and that the practice does not produce it.
+    says, and that the practice does not produce it. Andrew's phrase "whisper its
+    truth" belongs to the standing testimony only. In your own sentences write
+    "the Spirit brought that Scripture home", and never present a felt impression
+    as proof that a step worked or as a word beyond Scripture.
 
 VOICE
 Follow the assigned blend from the Voice Panel. Voices are style models. Do not
