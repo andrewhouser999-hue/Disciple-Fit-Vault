@@ -566,3 +566,8 @@ From the Character Wound Diagnostic Tool's attachment mapping:
 "Coaching toward who you're becoming, not just what you're doing."
 
 "Renew the Mind Never Touched by the Word"
+
+---
+
+Two things build faith, and Scripture names both. One is the Word itself, understood in its own setting and in the whole of Scripture, read in the light of Christ, so that a person knows why a truth is true and not only that it is written. The other is the Spirit, who opens the mind and the heart to what the Word says, and who at times brings one Scripture home so that it is felt in the soul. The first can be taught. The second can only be received. The practice serves both and produces neither.
+
