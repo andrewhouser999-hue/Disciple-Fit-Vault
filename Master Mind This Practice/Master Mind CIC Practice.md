@@ -204,6 +204,10 @@ The Belief Statement (the thing a cause brand states flatly, like Patagonia's "i
 
 *(implicit/explicit diagnostic sequencing, reconsolidation-based Covenant Truth work.)*
 
+
+Restructuring what blocks us from being Doer's of the Word. 
+
+
 ## Model
 Educate & Train the Client on: 
 1. parts work- so they know the human design of the mind in two systems and to listen to the one system and how to recognize, engage and train the implicit system
