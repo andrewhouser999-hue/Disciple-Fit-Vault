@@ -569,5 +569,61 @@ From the Character Wound Diagnostic Tool's attachment mapping:
 
 ---
 
-Two things build faith, and Scripture names both. One is the Word itself, understood in its own setting and in the whole of Scripture, read in the light of Christ, so that a person knows why a truth is true and not only that it is written. The other is the Spirit, who opens the mind and the heart to what the Word says, and who at times brings one Scripture home so that it is felt in the soul. The first can be taught. The second can only be received. The practice serves both and produces neither.
+Two things build faith, and Scripture names both. One is the Word itself, understood in its own setting and in the whole of Scripture, read in the light of Christ, so that a person knows why a truth is true and not only that it is written. The other is the Spirit, who opens the mind and the heart to what the Word says, and who at times brings one Scripture home so that it is felt in the soul. The first can be taught. The second can only be received. The practice serves both and produces neither.---
+
+---
+I prayed these first three prayers early in my walk with the Lord and believe the answers to these prayers came through much suffering and trails.  These prayers, I believe are life directed with outcomes that are Holy Spirit governed. They determined the numerous hardships that shaped me today. 
+1. Make me a disciple maker
+	1. CIC - Renewing the Mind the Word Never Reached
+	2. Formation not attending
+2. Remove from me anything that will keep me from obeying you
+	1. Answer in CIC Ministry - Implicit beliefs juxtaposed, displaced, erased by the Spirit, Word creating the conditions the Spirit and the Word is commonly bound to work with for formation of the saint
+	2. Marriage to Sk removed from me 
+		1. hooks of control from my mother 
+		2. surrendered personal power
+		3. blindness to manipulation
+		4. boundarylessness
+3. Give me zeal for your house.
+	1. Answer in CIC and Beholding Together Ministry - Creation of these from zeal for Your house. I dedicate my life to this. 
+	2. Infuriated with elders who put salvation of others to question in order to reduce attendance. 
+	3. Removed from 3 churches, rejection trauma
+4. Your presence is better than life
+	1. I choose the presence of the Lord over all. 
+5. I receive Your Love & put my Trust in Him
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
